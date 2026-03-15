@@ -88,6 +88,7 @@ void AchievementPopup::render()
         glDepthMask(true);
         glEnable(GL_DEPTH_TEST);
     }
+#endif
     if (ach == nullptr || startTime == 0) return;
 
     double time = (System::currentTimeMillis() - startTime) / 3000.0;
@@ -115,7 +116,8 @@ void AchievementPopup::render()
 
     int xx = width - 160;
     int yy = 0 - (int) (yo * 36);
-    int tex = mc->textures->loadTexture(L"/achievement/bg.png");
+    //int tex = mc->textures->loadTexture(L"/achievement/bg.png");
+    int tex = mc->textures->loadTexture(TN_ACHIEVEMENT_BG);
     glColor4f(1, 1, 1, 1);
     glEnable(GL_TEXTURE_2D);
     glBindTexture(GL_TEXTURE_2D, tex);
@@ -125,7 +127,8 @@ void AchievementPopup::render()
 
     if (isHelper)
 	{
-        mc->font->drawWordWrap(desc, xx + 30, yy + 7, 120, 0xffffffff);
+        //mc->font->drawWordWrap(desc, xx + 30, yy + 7, 120, 0xffffffff);
+        mc->font->drawWordWrap(desc, xx + 20, yy + 7, 120, 0xffffffff, 80);
     }
 	else
 	{
@@ -147,5 +150,5 @@ void AchievementPopup::render()
 
     glDepthMask(true);
     glEnable(GL_DEPTH_TEST);
-#endif
+//#endif
 }
