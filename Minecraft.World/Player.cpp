@@ -1004,7 +1004,7 @@ void Player::aiStep()
 	if (level->difficulty == Difficulty::PEACEFUL && getHealth() < getMaxHealth() && level->getGameRules()->getBoolean(GameRules::RULE_NATURAL_REGENERATION))
 	{
 		//if (tickCount % 20 * 12 == 0) heal(1);
-		heal(1)
+		heal(1);
 	}
 	inventory->tick();
 	oBob = bob;
