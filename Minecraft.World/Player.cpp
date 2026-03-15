@@ -1003,7 +1003,8 @@ void Player::aiStep()
 
 	if (level->difficulty == Difficulty::PEACEFUL && getHealth() < getMaxHealth() && level->getGameRules()->getBoolean(GameRules::RULE_NATURAL_REGENERATION))
 	{
-		if (tickCount % 20 * 12 == 0) heal(1);
+		//if (tickCount % 20 * 12 == 0) heal(1);
+		heal(1)
 	}
 	inventory->tick();
 	oBob = bob;
@@ -1631,6 +1632,10 @@ void Player::attack(shared_ptr<Entity> entity)
 		}
 
 		DamageSource *damageSource = DamageSource::playerAttack(dynamic_pointer_cast<Player>(shared_from_this()));
+
+		if (bCrit) {
+			damageSource->setIsCritical();
+		}
 		bool wasHurt = entity->hurt(damageSource, dmg);
 		delete damageSource;
 		if (wasHurt)

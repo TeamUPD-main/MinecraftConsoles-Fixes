@@ -82,6 +82,7 @@ void CGameNetworkManager::Initialise()
 #else
 	s_pPlatformNetworkManager = new CPlatformNetworkManagerStub();
 #endif
+	m_bCancelRequested = false;
 	s_pPlatformNetworkManager->Initialise( this, flagIndexSize );
 	m_bNetworkThreadRunning = false;
 	m_bInitialised = true;
