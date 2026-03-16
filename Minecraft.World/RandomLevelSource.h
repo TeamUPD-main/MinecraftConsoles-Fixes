@@ -16,7 +16,7 @@ class RandomLevelSource : public ChunkSource
 public:
 	static const double SNOW_CUTOFF;
 	static const double SNOW_SCALE;
-	static const bool FLOATING_ISLANDS = false;
+	static const bool FLOATING_ISLANDS = true;
 	static const int CHUNK_HEIGHT = 8;
 	static const int CHUNK_WIDTH = 4;
 
