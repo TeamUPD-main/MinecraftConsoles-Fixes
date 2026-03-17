@@ -2,14 +2,6 @@ name: Nightly Releases
 
 on:
   workflow_dispatch: 
-  push:
-    branches:
-    - 'main'
-    - 'feature/dedicated-server'
-    paths-ignore:
-      - '.gitignore'
-      - '*.md'
-      - '.github/*.md'
 
 permissions:
   contents: write
