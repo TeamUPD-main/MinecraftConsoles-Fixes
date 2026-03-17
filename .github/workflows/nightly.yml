@@ -38,9 +38,9 @@ jobs:
           Requires at least Windows 7 and DirectX 11 compatible GPU to run. Compiled with MSVC v14.44.35207 in Release mode with Whole Program Optimization, as well as `/O2 /Ot /Oi /Ob3 /GF /fp:precise`.
           
           # 🚨 First time here? 🚨
-          If you've never downloaded the game before, you need to download `LCEWindows64.zip` and extract it to the folder where you'd like to keep the game. The other files are included in this `.zip` file!
+          If you've never downloaded the game before, you need to download `LCEWindows64.7z` and extract it to the folder where you'd like to keep the game. The other files are included in this `.zip` file!
         files: |
-            LCEWindows64.zip
+            LCEWindows64.7z
             ./x64/Release/Minecraft.Client.exe
             ./x64/Release/Minecraft.Client.pdb
 
@@ -54,8 +54,9 @@ jobs:
         body: |
           Dedicated Server runtime for Windows64.
 
-          Download `LCEServerWindows64.zip` and extract it to a folder where you'd like to keep the server runtime.
+          Download `LCEServerWindows64.7z` and extract it to a folder where you'd like to keep the server runtime.
+          Note: If you just want to run the game, download the nightly build
         files: |
-            LCEServerWindows64.zip
+            LCEServerWindows64.7z
             ./x64/Minecraft.Server/Release/Minecraft.Server.exe
             ./x64/Minecraft.Server/Release/Minecraft.Server.pdb
