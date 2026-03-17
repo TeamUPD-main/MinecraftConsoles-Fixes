@@ -579,16 +579,29 @@ void GameRenderer::moveCameraToPlayer(float a)
 }
 
 
-void GameRenderer::zoomRegion(double zoom, double xa, double ya)
+/*void GameRenderer::zoomRegion(double zoom, double xa, double ya)
 {
 	zoom = zoom;
 	zoom_x = xa;
-	zoom_y = ya;
+	zoom_y = ya;*/
+// fixed - retucio
+void GameRenderer::zoomRegion(double zoom, double xa, double ya) {
+	// clamp zoom to reasonable range to avoid degenerate matrices
+	if (zoom < 0.1) zoom = 0.1;
+	if (zoom > 10.0) zoom = 10.0;
+
+	this->zoom = zoom;
+	this->zoom_x = xa;
+	this->zoom_y = ya;
 }
 
-void GameRenderer::unZoomRegion()
+/*void GameRenderer::unZoomRegion()
 {
-	zoom = 1;
+	zoom = 1;*/
+void GameRenderer::unZoomRegion() {
+	this->zoom = 1.0;
+	this->zoom_x = 0.0;
+	this->zoom_y = 0.0;
 }
 
 // 4J added as we have more complex adjustments to make for fov & aspect on account of viewports
@@ -2249,4 +2262,5 @@ int GameRenderer::getFpsCap(int option)
 void GameRenderer::updateAllChunks()
 {
 	//	mc->levelRenderer->updateDirtyChunks(mc->cameraTargetPlayer, true);
+
 }
