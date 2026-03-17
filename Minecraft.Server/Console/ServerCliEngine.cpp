@@ -23,6 +23,7 @@
 #include "commands\tp\CliCommandTp.h"
 #include "commands\weather\CliCommandWeather.h"
 #include "commands\whitelist\CliCommandWhitelist.h"
+#include "commands\summon\CliCommandSummon.h"
 #include "..\Common\StringUtils.h"
 #include "..\ServerShutdown.h"
 #include "..\ServerLogger.h"
@@ -109,6 +110,7 @@ namespace ServerRuntime
 		m_registry->Register(std::unique_ptr<IServerCliCommand>(new CliCommandGamemode()));
 		m_registry->Register(std::unique_ptr<IServerCliCommand>(new CliCommandDefaultGamemode()));
 		m_registry->Register(std::unique_ptr<IServerCliCommand>(new CliCommandExperience()));
+		m_registry->RegisterCommand(std::shared_ptr<IServerCliCommand>(new CliCommandSummon()));
 	}
 
 	void ServerCliEngine::EnqueueCommandLine(const std::string &line)

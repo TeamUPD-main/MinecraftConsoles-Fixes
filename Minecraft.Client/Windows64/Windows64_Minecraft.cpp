@@ -121,7 +121,7 @@ static WINDOWPLACEMENT g_wpPrev = { sizeof(g_wpPrev) };
 struct Win64LaunchOptions
 {
 	int screenMode;
-	bool serverMode;
+	//bool serverMode;
 	bool fullscreen;
 };
 
@@ -207,13 +207,13 @@ static Win64LaunchOptions ParseLaunchOptions()
 {
 	Win64LaunchOptions options = {};
 	options.screenMode = 0;
-	options.serverMode = false;
+	//options.serverMode = false;
 
 	g_Win64MultiplayerJoin = false;
 	g_Win64MultiplayerPort = WIN64_NET_DEFAULT_PORT;
-	g_Win64DedicatedServer = false;
+	/*g_Win64DedicatedServer = false;
 	g_Win64DedicatedServerPort = WIN64_NET_DEFAULT_PORT;
-	g_Win64DedicatedServerBindIP[0] = 0;
+	g_Win64DedicatedServerBindIP[0] = 0;*/
 
 	int argc = 0;
 	LPWSTR* argv = CommandLineToArgvW(GetCommandLineW(), &argc);
@@ -226,7 +226,7 @@ static Win64LaunchOptions ParseLaunchOptions()
 			options.screenMode = argv[1][0] - L'0';
 	}
 
-	for (int i = 1; i < argc; ++i)
+	/*for (int i = 1; i < argc; ++i)
 	{
 		if (_wcsicmp(argv[i], L"-server") == 0)
 		{
@@ -235,7 +235,7 @@ static Win64LaunchOptions ParseLaunchOptions()
 		}
 	}
 
-	g_Win64DedicatedServer = options.serverMode;
+	g_Win64DedicatedServer = options.serverMode;*/
 
 	for (int i = 1; i < argc; ++i)
 	{
@@ -247,7 +247,7 @@ static Win64LaunchOptions ParseLaunchOptions()
 		{
 			char ipBuf[256];
 			CopyWideArgToAnsi(argv[++i], ipBuf, sizeof(ipBuf));
-			if (options.serverMode)
+	/*		if (options.serverMode)
 			{
 				strncpy_s(g_Win64DedicatedServerBindIP, sizeof(g_Win64DedicatedServerBindIP), ipBuf, _TRUNCATE);
 			}
@@ -255,7 +255,9 @@ static Win64LaunchOptions ParseLaunchOptions()
 			{
 				strncpy_s(g_Win64MultiplayerIP, sizeof(g_Win64MultiplayerIP), ipBuf, _TRUNCATE);
 				g_Win64MultiplayerJoin = true;
-			}
+			}*/
+			strncpy_s(g_Win64MultiplayerIP, sizeof(g_Win64MultiplayerIP), ipBuf, _TRUNCATE);
+			g_Win64MultiplayerJoin = true;
 		}
 		else if (_wcsicmp(argv[i], L"-port") == 0 && (i + 1) < argc)
 		{
@@ -263,10 +265,11 @@ static Win64LaunchOptions ParseLaunchOptions()
 			const long port = wcstol(argv[++i], &endPtr, 10);
 			if (endPtr != argv[i] && *endPtr == 0 && port > 0 && port <= 65535)
 			{
-				if (options.serverMode)
+/*				if (options.serverMode)
 					g_Win64DedicatedServerPort = static_cast<int>(port);
 				else
-					g_Win64MultiplayerPort = static_cast<int>(port);
+					g_Win64MultiplayerPort = static_cast<int>(port);*/
+				g_Win64MultiplayerPort = static_cast<int>(port);
 			}
 		}
 		else if (_wcsicmp(argv[i], L"-fullscreen") == 0)
@@ -277,7 +280,7 @@ static Win64LaunchOptions ParseLaunchOptions()
 	return options;
 }
 
-static BOOL WINAPI HeadlessServerCtrlHandler(DWORD ctrlType)
+/*static BOOL WINAPI HeadlessServerCtrlHandler(DWORD ctrlType)
 {
 	switch (ctrlType)
 	{
@@ -306,7 +309,7 @@ static void SetupHeadlessServerConsole()
 
 	SetConsoleCtrlHandler(HeadlessServerCtrlHandler, TRUE);
 }
-
+*/
 void DefineActions(void)
 {
 	// The app needs to define the actions required, and the possible mappings for these
@@ -1351,7 +1354,7 @@ static Minecraft* InitialiseMinecraftRuntime()
 	return pMinecraft;
 }
 
-static int HeadlessServerConsoleThreadProc(void* lpParameter)
+/*static int HeadlessServerConsoleThreadProc(void* lpParameter)
 {
 	UNREFERENCED_PARAMETER(lpParameter);
 
@@ -1505,6 +1508,7 @@ static int RunHeadlessServer()
 	g_NetworkManager.LeaveGame(false);
 	return 0;
 }
+*/
 
 int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 					   _In_opt_ HINSTANCE hPrevInstance,
@@ -1568,10 +1572,11 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 	ApplyScreenMode(launchOptions.screenMode);
 
 	// Ensure uid.dat exists from startup in client mode (before any multiplayer/login path).
-	if (!launchOptions.serverMode)
+/*	if (!launchOptions.serverMode)
 	{
 		Win64Xuid::ResolvePersistentXuid();
-	}
+	}*/
+	Win64Xuid::ResolvePersistentXuid()
 
 	// If no username, let's fall back
 	if (g_Win64Username[0] == 0)
@@ -1652,7 +1657,8 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 	MyRegisterClass(hInstance);
 
 	// Perform application initialization:
-	if (!InitInstance (hInstance, launchOptions.serverMode ? SW_HIDE : nCmdShow))
+	//if (!InitInstance (hInstance, launchOptions.serverMode ? SW_HIDE : nCmdShow))
+	if (!InitInstance (hInstance, nCmdShow))
 	{
 		return FALSE;
 	}
@@ -1671,12 +1677,13 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 		ToggleFullscreen();
 	}
 
-	if (launchOptions.serverMode)
+/*	if (launchOptions.serverMode)
 	{
 		const int serverResult = RunHeadlessServer();
 		CleanupDevice();
 		return serverResult;
 	}
+*/
 
 #if 0
 	// Main message loop

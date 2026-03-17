@@ -36,7 +36,7 @@ public:
 	static const int KEY_DEBUG_INFO = VK_F3;
 	static const int KEY_DEBUG_MENU = VK_F4;
 	static const int KEY_THIRD_PERSON = VK_F5;
-	static const int KEY_HOST_SETTINGS = VK_F8;
+	static const int KEY_HOST_SETTINGS = VK_TAB;
 	static const int KEY_DEBUG_CONSOLE = VK_F9;
 	static const int KEY_FULLSCREEN = VK_F11;
 
