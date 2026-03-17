@@ -746,12 +746,32 @@ void C_4JProfile::RegisterRichPresenceContext(int iGameConfigContextID)
 {
 }
 
-#ifdef _WINDOWS64
+/*#ifdef _WINDOWS64
 std::string WStringToUtf8(LPCWSTR wstr)
 {
     int size = WideCharToMultiByte(CP_UTF8, 0, wstr, -1, NULL, 0, NULL, NULL);
     std::string result(size - 1, 0);
     WideCharToMultiByte(CP_UTF8, 0, wstr, -1, result.data(), size, NULL, NULL);
+    return result;
+}
+#endif*/
+
+#ifdef _WINDOWS64
+std::string WStringToUtf8(LPCWSTR wstr)
+{
+    if (!wstr)
+        return std::string();
+
+    int size = WideCharToMultiByte(CP_UTF8, 0, wstr, -1, NULL, 0, NULL, NULL);
+    if (size <= 0)
+        return std::string();
+
+    std::string result(size, '\0');
+    WideCharToMultiByte(CP_UTF8, 0, wstr, -1, &result[0], size, NULL, NULL);
+
+    if (!result.empty() && result.back() == '\0')
+        result.pop_back();
+
     return result;
 }
 #endif
