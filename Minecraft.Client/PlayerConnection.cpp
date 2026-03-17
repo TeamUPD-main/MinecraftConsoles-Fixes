@@ -1710,17 +1710,6 @@ void PlayerConnection::handleCraftItem(shared_ptr<CraftItemPacket> packet)
 	// ELSE The server thinks the client was wrong...
 }
 
-void PlayerConnection::handleCraftItemGrid(shared_ptr<CraftItemGridPacket> packet)
-{
-	short uid = packet->uid;
-	int recipe = packet->recipe;
-	bool is2x2 = packet->is2x2;
-	for(int i = 0; i < 9; i++)
-	{
-		int itemId = packet->gridData[i];
-	}
-}
-
 
 void PlayerConnection::handleTradeItem(shared_ptr<TradeItemPacket> packet)
 {

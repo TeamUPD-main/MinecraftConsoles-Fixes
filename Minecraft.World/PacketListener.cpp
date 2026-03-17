@@ -437,11 +437,6 @@ void PacketListener::handleCraftItem(shared_ptr<CraftItemPacket> packet)
 	onUnhandledPacket( (shared_ptr<Packet> ) packet);
 }
 
-void PacketListener::handleCraftItemGrid(shared_ptr<CraftItemGridPacket> packet)
-{
-	onUnhandledPacket( (shared_ptr<Packet> ) packet);
-}
-
 void PacketListener::handleTradeItem(shared_ptr<TradeItemPacket> packet) 
 {
 	onUnhandledPacket( (shared_ptr<Packet> ) packet);
