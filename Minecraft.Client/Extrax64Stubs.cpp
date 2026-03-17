@@ -732,9 +732,6 @@ eAwardType			C_4JProfile::GetAwardType(int iAwardNumber) { return eAwardType_Ach
 bool				C_4JProfile::CanBeAwarded(int iQuadrant, int iAwardNumber) { return false; }
 void				C_4JProfile::Award(int iQuadrant, int iAwardNumber, bool bForce) {}
 bool				C_4JProfile::IsAwardsFlagSet(int iQuadrant, int iAward) { return false; }
-//void				C_4JProfile::RichPresenceInit(int iPresenceCount, int iContextCount) {}
-//void				C_4JProfile::RegisterRichPresenceContext(int iGameConfigContextID) {}
-//void				C_4JProfile::SetRichPresenceContextValue(int iPad, int iContextID, int iVal) {}
 void C_4JProfile::RichPresenceInit(int iPresenceCount, int iContextCount)
 {
 #ifdef _WINDOWS64
