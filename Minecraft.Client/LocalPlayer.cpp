@@ -33,6 +33,12 @@
 #include "..\Minecraft.World\Random.h"
 #include "..\Minecraft.World\TileEntity.h"
 #include "..\Minecraft.World\Mth.h"
+
+#include "..\AnvilMenu.h"
+#include "..\CraftingMenu.h"
+#include "..\BrewingStandMenu.h"
+#include "..\EnchantmentMenu.h"
+
 #include "AchievementPopup.h"
 #include "CritParticle.h"
 
@@ -471,7 +477,7 @@ void LocalPlayer::aiStep()
 		onGround = true;
 	}
 
-	// Check if the player is idle and the rich presence needs updated
+/*	// Check if the player is idle and the rich presence needs updated
 	if( !m_bIsIdle && InputManager.GetIdleSeconds( m_iPad ) > PLAYER_IDLE_TIME )
 	{
 		ProfileManager.SetCurrentGameActivity(m_iPad,CONTEXT_PRESENCE_IDLE,false);
@@ -505,7 +511,7 @@ void LocalPlayer::aiStep()
 		}
 		updateRichPresence();
 		m_bIsIdle = false;
-	}
+	}*/
 }
 
 void LocalPlayer::changeDimension(int i)
@@ -1602,6 +1608,67 @@ bool LocalPlayer::handleMouseClick(int button)
 
 void LocalPlayer::updateRichPresence()
 {
+    if (m_iPad == -1)
+    {
+        return;
+    }
+
+	if (containerMenu != nullptr && containerMenu != inventoryMenu)
+    {
+        if (dynamic_cast<AnvilMenu *>(containerMenu) != nullptr)
+        {
+            app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_FORGING);
+        }
+        else if (dynamic_cast<CraftingMenu *>(containerMenu) != nullptr)
+        {
+            app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_CRAFTING);
+        }
+		else if (dynamic_cast<BrewingStandMenu*>(containerMenu) != nullptr)
+		{
+            app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_BREWING);
+		}
+        else if (dynamic_cast<EnchantmentMenu *>(containerMenu) != nullptr)
+        {
+            app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_ENCHANTING);
+        }
+        return;
+    }
+
+	// INGAME ACTIVITY
+    shared_ptr<ItemInstance> selectedItem = inventory->getSelected();
+    if (selectedItem != NULL && selectedItem->id == Item::fishingRod_Id)
+    {
+		// TODO
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_FISHING);
+    }
+    else if (selectedItem != NULL && selectedItem->id == Item::map_Id)
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_MAP);
+    }
+    else if ((riding != NULL) && riding->instanceof(eTYPE_MINECART))
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_RIDING_MINECART);
+    }
+    else if ((riding != NULL) && riding->instanceof(eTYPE_BOAT))
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_BOATING);
+    }
+    else if ((riding != NULL) && riding->instanceof(eTYPE_PIG))
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_RIDING_PIG);
+    }
+    else if (this->dimension == -1)
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_NETHER);
+    }
+    else if (minecraft->soundEngine->GetIsPlayingStreamingCDMusic())
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_CD);
+    }
+    else
+    {
+        app.SetRichPresenceContext(m_iPad, CONTEXT_GAME_STATE_BLANK);
+    }
 	if((m_iPad!=-1)/* && !ui.GetMenuDisplayed(m_iPad)*/ )
 	{
 		shared_ptr<ItemInstance> selectedItem = inventory->getSelected();

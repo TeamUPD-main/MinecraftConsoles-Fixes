@@ -366,7 +366,7 @@ void MultiplayerLocalPlayer::ride(shared_ptr<Entity> e)
 		TelemetryManager->RecordEnemyKilledOrOvercome(GetXboxPad(), 0, y, 0, 0, 0, 0, eventType);
 	}
 
-	updateRichPresence();
+	//updateRichPresence();
 
 	Minecraft *pMinecraft = Minecraft::GetInstance();
 	

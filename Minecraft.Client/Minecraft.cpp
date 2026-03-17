@@ -435,6 +435,11 @@ void Minecraft::init()
 	progressRenderer = new ProgressRenderer(this);
 
 	RenderManager.CBuffLockStaticCreations();
+
+	// Setup discord rich presence
+	#ifdef _WINDOWS64
+    ProfileManager.RichPresenceInit(4, 1);
+	#endif
 }
 
 void Minecraft::renderLoadingScreen()
@@ -2306,6 +2311,15 @@ void Minecraft::tick(bool bFirst, bool bUpdateTextures)
 	// Tick the opacity timer (to display the interface at default opacity for a certain time if the user has been navigating it)
 	app.TickOpacityTimer(iPad);
 
+	#ifdef _WINDOWS64
+    static int tickRP = 0;
+    if (++tickRP >= 10)
+    {
+        player->updateRichPresence();
+        tickRP = 0;
+    }
+	#endif
+
 	// 4J added
 	if( bFirst ) levelRenderer->destroyedTileManager->tick();
 
@@ -3570,7 +3584,7 @@ void Minecraft::tick(bool bFirst, bool bUpdateTextures)
 			}
 
 			// Update presence
-			player->updateRichPresence();
+			//player->updateRichPresence();
 
 			if (options->isFlying)
 			{
