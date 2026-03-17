@@ -1576,7 +1576,7 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 	{
 		Win64Xuid::ResolvePersistentXuid();
 	}*/
-	Win64Xuid::ResolvePersistentXuid()
+	Win64Xuid::ResolvePersistentXuid();
 
 	// If no username, let's fall back
 	if (g_Win64Username[0] == 0)

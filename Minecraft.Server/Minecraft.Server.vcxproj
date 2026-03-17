@@ -671,7 +671,7 @@
     <ClCompile Include="Console\commands\tp\CliCommandTp.cpp" />
     <ClCompile Include="Console\commands\weather\CliCommandWeather.cpp" />
     <ClCompile Include="Console\commands\whitelist\CliCommandWhitelist.cpp" />
-    <ClCompile Include="Console\commands\weather\CliCommandSummon.cpp" />
+    <ClCompile Include="Console\commands\summon\CliCommandSummon.cpp" />
     <ClCompile Include="Console\ServerCliEngine.cpp" />
     <ClCompile Include="Console\ServerCliParser.cpp" />
     <ClCompile Include="Console\ServerCliRegistry.cpp" />
