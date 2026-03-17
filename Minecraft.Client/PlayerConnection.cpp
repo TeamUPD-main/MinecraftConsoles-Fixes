@@ -329,7 +329,7 @@ void PlayerConnection::handleMovePlayer(shared_ptr<MovePlayerPacket> packet)
 		double velocitySq = player->xd * player->xd + player->yd * player->yd + player->zd * player->zd;
 		double maxAllowedSq = kMoveBaseAllowanceSq + (velocitySq * kMoveVelocityAllowanceScale);
 		if (player->isAllowedToFly() || player->gameMode->isCreative())
-
+		{
 			// Creative / flight-allowed players can move farther legitimately per tick.
 			maxAllowedSq *= 1.5;
 		}
