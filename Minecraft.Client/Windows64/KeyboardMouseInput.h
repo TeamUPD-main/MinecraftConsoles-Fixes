@@ -32,6 +32,7 @@ public:
 	static const int KEY_DEBUG_INFO = VK_F3;
 	static const int KEY_DEBUG_MENU = VK_F4;
 	static const int KEY_SCREENSHOT = VK_F2;
+	static const int KEY_ZOOM = 'F';
 
 	void Init();
 	void Tick();
