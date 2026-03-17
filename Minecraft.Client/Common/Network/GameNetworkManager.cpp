@@ -200,10 +200,12 @@ bool	CGameNetworkManager::StartNetworkGame(Minecraft *minecraft, LPVOID lpParame
 #endif
 
     int64_t seed = 0;
+	bool dedicatedNoLocalHostPlayer = false;
     if (lpParameter != nullptr)
 	{
 		NetworkGameInitData *param = static_cast<NetworkGameInitData *>(lpParameter);
 		seed = param->seed;
+		dedicatedNoLocalHostPlayer = param->dedicatedNoLocalHostPlayer;
 
 		app.setLevelGenerationOptions(param->levelGen);
 		if(param->levelGen != nullptr)
@@ -359,9 +361,21 @@ bool	CGameNetworkManager::StartNetworkGame(Minecraft *minecraft, LPVOID lpParame
 	// PRIMARY PLAYER
 
 	vector<ClientConnection *> createdConnections;
-	ClientConnection *connection;
+	//ClientConnection *connection;
+	ClientConnection *connection = nullptr;
 
-	if( g_NetworkManager.IsHost() )
+	//if( g_NetworkManager.IsHost() 
+	if( g_NetworkManager.IsHost() && dedicatedNoLocalHostPlayer )
+	{
+		app.DebugPrintf("Dedicated server mode: skipping local host client connection\n");
+
+		// Keep telemetry behavior consistent with the host path.
+		INT multiplayerInstanceId = TelemetryManager->GenerateMultiplayerInstanceId();
+		TelemetryManager->SetMultiplayerInstanceId(multiplayerInstanceId);
+
+		app.SetGameMode( eMode_Multiplayer );
+	}
+	else if( g_NetworkManager.IsHost() )
 	{
 		connection = new ClientConnection(minecraft, nullptr);
 	}
@@ -390,17 +404,27 @@ bool	CGameNetworkManager::StartNetworkGame(Minecraft *minecraft, LPVOID lpParame
 		connection = new ClientConnection(minecraft, socket);
 	}
 
-	if( !connection->createdOk )
+	//if( !connection->createdOk )
+	if (connection != nullptr)
 	{
-		assert(false);
+	/*	assert(false);
 		delete connection;
 		connection = nullptr;
 		MinecraftServer::HaltServer();
 		return false;
-	}
+	}*/
+		if( !connection->createdOk )
+		{
+			assert(false);
+			delete connection;
+			connection = nullptr;
+			MinecraftServer::HaltServer();
+			return false;
+		}
 
-	connection->send(std::make_shared<PreLoginPacket>(minecraft->user->name));
-
+	//connection->send(std::make_shared<PreLoginPacket>(minecraft->user->name));
+		connection->send(std::make_shared<PreLoginPacket>(minecraft->user->name));
+		
 	// Tick connection until we're ready to go. The stages involved in this are:
 	// (1) Creating the ClientConnection sends a prelogin packet to the server
 	// (2) the server sends a prelogin back, which is handled by the clientConnection, and returns a login packet
@@ -435,9 +459,9 @@ bool	CGameNetworkManager::StartNetworkGame(Minecraft *minecraft, LPVOID lpParame
 		connection->close();
 	}
 
-	if( connection->isStarted() && !connection->isClosed() )
-	{
-		createdConnections.push_back( connection );
+		if( connection->isStarted() && !connection->isClosed() )
+		{
+			createdConnections.push_back( connection );
 
 		int primaryPad = ProfileManager.GetPrimaryPad();
 		app.SetRichPresenceContext(primaryPad,CONTEXT_GAME_STATE_BLANK);
@@ -534,13 +558,14 @@ bool	CGameNetworkManager::StartNetworkGame(Minecraft *minecraft, LPVOID lpParame
 			}
 		}
 
-		app.SetGameMode( eMode_Multiplayer );
-	}
-	else if ( connection->isClosed() || !IsInSession())
-	{
+			app.SetGameMode( eMode_Multiplayer );
+		}
+		else if ( connection->isClosed() || !IsInSession())
+		{
 //		assert(false);
-		MinecraftServer::HaltServer();
-		return false;
+			MinecraftServer::HaltServer();
+			return false;
+		}
 	}
 
 	if(g_NetworkManager.IsLeavingGame() || !IsInSession() )
