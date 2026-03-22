@@ -40,7 +40,7 @@ jobs:
           # 🚨 First time here? 🚨
           If you've never downloaded the game before, you need to download `LCEWindows64AchivementsDebug.7z` and extract it to the folder where you'd like to keep the game. The other files are included in this `.7z` file!
 
-          # This build contains an achivement API. this is experimental. Debug is enabled
+          # This build contains an achivement API. this is experimental. Debug is enabbled
         
         files: |
             LCEWindows64AchivementsDebug.7z
