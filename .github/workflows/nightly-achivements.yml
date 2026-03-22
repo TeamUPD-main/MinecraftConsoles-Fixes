@@ -1,0 +1,64 @@
+name: Nightly Releases (Achivement Backend)
+
+on:
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build Windows64 (Achivement Backend)
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v6
+
+    - name: Setup msbuild
+      uses: microsoft/setup-msbuild@v2
+
+    - name: Build
+      run: MSBuild.exe MinecraftConsoles.sln /p:Configuration=Release /p:Platform="Windows64"
+
+    - name: Zip Build
+      run: 7z a -r -t7z -m0=lzma2 -mx=7 LCEWindows64Achivements.7z ./x64/Release/*
+
+    - name: Zip Dedicated Server Build
+      run: 7z a -r -t7z -m0=lzma2 -mx=7 LCEServerWindows64Achivements.7z ./x64/Minecraft.Server/Release/*
+
+    - name: Update Client release (Achivement Backend)
+      uses: andelf/nightly-release@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: nightly-achivements
+        name: Nightly Client Release (Achivement Backend)
+        body: |
+          Requires at least Windows 7 and DirectX 11 compatible GPU to run. Compiled with MSVC v14.44.35207 in Release mode with Whole Program Optimization, as well as `/O2 /Ot /Oi /Ob3 /GF /fp:precise`.
+          
+          # 🚨 First time here? 🚨
+          If you've never downloaded the game before, you need to download `LCEWindows64Achivements.7z` and extract it to the folder where you'd like to keep the game. The other files are included in this `.zip` file!
+
+          # This build contains an achivement API. this is experimental.
+        files: |
+            LCEWindows64Achivements.7z
+            ./x64/Release/Minecraft.Client.exe
+            ./x64/Release/Minecraft.Client.pdb
+
+    - name: Update Dedicated Server release (Achivement Backend)
+      uses: andelf/nightly-release@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: nightly-achivements-dedicated-server
+        name: Nightly Dedicated Server Release (Achivement Backend)
+        body: |
+          Dedicated Server runtime for Windows64.
+
+          Download `LCEServerWindows64Achivements.7z` and extract it to a folder where you'd like to keep the server runtime.
+          Note: If you just want to run the game, download the nightly build
+        files: |
+            LCEServerWindows64Achivements.7z
+            ./x64/Minecraft.Server/Release/Minecraft.Server.exe
+            ./x64/Minecraft.Server/Release/Minecraft.Server.pdb
