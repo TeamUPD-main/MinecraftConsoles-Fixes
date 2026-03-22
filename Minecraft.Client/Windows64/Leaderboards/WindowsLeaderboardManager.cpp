@@ -36,7 +36,7 @@ namespace
 	static std::wstring DefaultBaseUrl()
 	{
 		// Local-only default; can be overridden via env var.
-		return L"https://legacy-leaderboards.onrender.com";
+		return L"https://legacy-leaderboards.onrender.com/";
 	}
 
 	static std::string GetDefaultUserId()

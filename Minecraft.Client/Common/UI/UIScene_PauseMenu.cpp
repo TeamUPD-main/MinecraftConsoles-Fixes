@@ -695,7 +695,6 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 		}
 		break;
 #endif
-
 	case BUTTON_PAUSE_HELPANDOPTIONS:
 		ui.NavigateToScene(m_iPad,eUIScene_HelpAndOptionsMenu);	
 		break;
