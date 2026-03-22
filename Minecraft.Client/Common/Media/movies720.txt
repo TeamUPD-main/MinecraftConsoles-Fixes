@@ -50,6 +50,8 @@ LanguagesMenu720.swf
 LanguagesMenuSplit720.swf
 LoadOrJoinMenu720.swf
 LaunchMoreOptionsMenu720.swf
+AchievementsMenu720.swf
+AchievementsMenuSplit720.swf
 LeaderboardMenu720.swf
 LoadMenu720.swf
 MainMenu720.swf

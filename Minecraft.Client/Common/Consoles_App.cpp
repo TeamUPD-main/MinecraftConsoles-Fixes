@@ -4,6 +4,7 @@
 #include "..\..\Minecraft.World\net.minecraft.world.level.tile.entity.h"
 #include "..\..\Minecraft.World\net.minecraft.world.phys.h"
 #include "..\..\Minecraft.World\InputOutputStream.h"
+#include "..\..\Minecraft.World\FileInputStream.h"
 #include "..\..\Minecraft.World\compression.h"
 #include "..\Options.h"
 #include "..\MinecraftServer.h"
@@ -9580,7 +9581,19 @@ int CMinecraftApp::getArchiveFileSize(const wstring &filename)
 	{
 		return tPack->getArchiveFile()->getFileSize(filename);
 	}
-	else return m_mediaArchive->getFileSize(filename);
+//	else return m_mediaArchive->getFileSize(filename);
+	if(m_mediaArchive->hasFile(filename))
+	{
+		return m_mediaArchive->getFileSize(filename);
+	}
+
+	File looseMediaFile(wstring(L"Common\\Media\\") + filename);
+	if(looseMediaFile.exists() && looseMediaFile.isFile())
+	{
+		return static_cast<int>(looseMediaFile.length());
+	}
+
+	return -1;
 }
 
 bool CMinecraftApp::hasArchiveFile(const wstring &filename)
@@ -9589,7 +9602,11 @@ bool CMinecraftApp::hasArchiveFile(const wstring &filename)
 	Minecraft *pMinecraft = Minecraft::GetInstance();
 	if(pMinecraft && pMinecraft->skins) tPack = pMinecraft->skins->getSelected();
 	if(tPack && tPack->hasData() && tPack->getArchiveFile() && tPack->getArchiveFile()->hasFile(filename)) return true;
-	else return m_mediaArchive->hasFile(filename);
+//	else return m_mediaArchive->hasFile(filename);
+	if(m_mediaArchive->hasFile(filename)) return true;
+
+	File looseMediaFile(wstring(L"Common\\Media\\") + filename);
+	return looseMediaFile.exists() && looseMediaFile.isFile();
 }
 
 byteArray CMinecraftApp::getArchiveFile(const wstring &filename)
@@ -9601,7 +9618,27 @@ byteArray CMinecraftApp::getArchiveFile(const wstring &filename)
 	{
 		return tPack->getArchiveFile()->getFile(filename);
 	}
-	else return m_mediaArchive->getFile(filename);
+//	else return m_mediaArchive->getFile(filename);
+	if(m_mediaArchive->hasFile(filename))
+	{
+		return m_mediaArchive->getFile(filename);
+	}
+
+	File looseMediaFile(wstring(L"Common\\Media\\") + filename);
+	if(looseMediaFile.exists() && looseMediaFile.isFile())
+	{
+		const int64_t fileLength = looseMediaFile.length();
+		if(fileLength > 0)
+		{
+			byteArray data(static_cast<unsigned int>(fileLength), false);
+			FileInputStream fis(looseMediaFile);
+			fis.read(data, 0, static_cast<unsigned int>(fileLength));
+			fis.close();
+			return data;
+		}
+	}
+
+	return m_mediaArchive->getFile(filename);
 }
 
 // DLC

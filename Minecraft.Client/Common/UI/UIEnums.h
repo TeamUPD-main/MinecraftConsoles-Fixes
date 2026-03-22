@@ -64,6 +64,7 @@ enum EUIScene
 	eUIScene_SettingsUIMenu,
 	eUIScene_SettingsMenu,		
 	eUIScene_LeaderboardsMenu,
+	eUIScene_AchievementsMenu,
 	eUIScene_Credits,
 	eUIScene_DeathMenu,
 	eUIComponent_TutorialPopup,

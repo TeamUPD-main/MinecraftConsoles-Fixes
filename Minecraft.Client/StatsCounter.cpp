@@ -5,6 +5,7 @@
 #include "..\Minecraft.World\Achievement.h"
 #include "..\Minecraft.World\Achievements.h"
 #include "..\Minecraft.Client\LocalPlayer.h"
+#include "AchievementRestApi.h"
 
 #include "..\Minecraft.World\net.minecraft.world.level.tile.h"
 #include "..\Minecraft.World\net.minecraft.world.item.h"
@@ -24,12 +25,13 @@ Stat** StatsCounter::LARGE_STATS[] = {
 
 unordered_map<Stat*, int> StatsCounter::statBoards;
 
-StatsCounter::StatsCounter()
+StatsCounter::StatsCounter(int iPad)
 {
 	requiresSave = false;
 	saveCounter = 0;
 	modifiedBoards = 0;
 	flushCounter = 0;
+	m_iPad = iPad;
 }
 
 void StatsCounter::award(Stat* stat, unsigned int difficulty, unsigned int count)
@@ -39,11 +41,14 @@ void StatsCounter::award(Stat* stat, unsigned int difficulty, unsigned int count
 		difficulty = 0;
 
 	StatsMap::iterator val = stats.find(stat);
+	bool isNewlyAwarded = false;
+
 	if( val == stats.end() )
 	{
 		StatContainer newVal;
 		newVal.stats[difficulty] = count;
 		stats.insert( make_pair(stat, newVal) );
+		isNewlyAwarded = true;
 	}
 	else
 	{
@@ -59,6 +64,24 @@ void StatsCounter::award(Stat* stat, unsigned int difficulty, unsigned int count
 		//If value is larger than USHRT_MAX and is not designated as large, cap it to USHRT_MAX
 		if( val->second.stats[difficulty] > USHRT_MAX && !isLargeStat(stat) )
 			val->second.stats[difficulty] = USHRT_MAX;
+	}
+
+	// Send achievement unlock notification to REST API if achievement is newly awarded
+	if( isNewlyAwarded && stat->isAchievement() )
+	{
+		Achievement* ach = (Achievement*)stat;
+		int achievementId = ach->getAchievementID();
+		
+		// Get player UID for this stats counter's player (iPad)
+		PlayerUID xuid;
+		ProfileManager.GetXUID(m_iPad, &xuid, false);
+		
+		// Convert PlayerUID to wstring
+		wchar_t uidBuffer[32];
+		swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", xuid);
+		
+		// Notify backend of achievement unlock
+		AchievementRestApi::UnlockAchievement(std::wstring(uidBuffer), achievementId);
 	}
 
 	requiresSave = true;

@@ -388,6 +388,9 @@ bool UILayer::NavigateToScene(int iPad, EUIScene scene, void *initData)
 	case eUIScene_LeaderboardsMenu:
 		newScene = new UIScene_LeaderboardsMenu(iPad, initData, this);
 		break;
+	case eUIScene_AchievementsMenu:
+		newScene = new UIScene_AchievementsMenu(iPad, initData, this);
+		break;
 	case eUIScene_DLCMainMenu:
 		newScene = new UIScene_DLCMainMenu(iPad, initData, this);
 		break;
@@ -766,6 +769,9 @@ bool UILayer::updateFocusState(bool allowedFocus /* = false */)
 		case eUIScene_EndPoem:
 		case eUIScene_Credits:
 		case eUIScene_LeaderboardsMenu:
+#if !defined(_XBOX) && !defined(_DURANGO)
+		case eUIScene_AchievementsMenu:
+#endif
 			m_bIgnorePlayerJoinMenuDisplayed = true;
 			break;
 		}

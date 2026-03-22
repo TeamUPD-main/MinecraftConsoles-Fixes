@@ -49,6 +49,7 @@
 
 // 4J Stu - Added for tutorial callbacks
 #include "Minecraft.h"
+#include "Gui.h"
 
 #include "..\Minecraft.World\Minecart.h"
 #include "..\Minecraft.World\Boat.h"
@@ -63,6 +64,65 @@
 #include "..\Minecraft.World\CommonStats.h"
 #endif
 extern ConsoleUIController ui;
+
+static std::wstring FormatAchievementDisplayName(const std::wstring& rawName)
+{
+	std::wstring key = rawName;
+	const std::wstring prefix = L"achievement.";
+	if (key.find(prefix) == 0)
+	{
+		key = key.substr(prefix.length());
+	}
+
+	std::wstring out;
+	out.reserve(key.size() + 8);
+
+	for (size_t i = 0; i < key.size(); ++i)
+	{
+		wchar_t c = key[i];
+		bool hasPrev = (i > 0);
+		wchar_t prev = hasPrev ? key[i - 1] : 0;
+
+		if (c == L'_' || c == L'-' || c == L'.')
+		{
+			if (!out.empty() && out.back() != L' ')
+			{
+				out.push_back(L' ');
+			}
+			continue;
+		}
+
+		if (hasPrev && c >= L'A' && c <= L'Z' && prev >= L'a' && prev <= L'z')
+		{
+			out.push_back(L' ');
+		}
+
+		out.push_back(c);
+	}
+
+	bool capitalizeNext = true;
+	for (size_t i = 0; i < out.size(); ++i)
+	{
+		wchar_t& ch = out[i];
+		if (ch == L' ')
+		{
+			capitalizeNext = true;
+			continue;
+		}
+
+		if (capitalizeNext && ch >= L'a' && ch <= L'z')
+		{
+			ch = static_cast<wchar_t>(ch - (L'a' - L'A'));
+		}
+		else if (!capitalizeNext && ch >= L'A' && ch <= L'Z')
+		{
+			ch = static_cast<wchar_t>(ch + (L'a' - L'A'));
+		}
+		capitalizeNext = false;
+	}
+
+	return out.empty() ? rawName : out;
+}
 
 
 LocalPlayer::LocalPlayer(Minecraft *minecraft, Level *level, User *user, int dimension) : Player(level, user->name)
@@ -842,6 +902,11 @@ void LocalPlayer::awardStat(Stat *stat, byteArray param)
 			if ( !(achBit & m_awardedThisSession) )
 			{
 				ProfileManager.Award(m_iPad, ach->getAchievementID());
+				if (minecraft != nullptr && minecraft->gui != nullptr)
+				{
+					const std::wstring displayName = FormatAchievementDisplayName(ach->name);
+					minecraft->gui->addMessage(L"Achievement Unlocked: " + displayName, GetXboxPad());
+				}
 				if (ProfileManager.IsFullVersion())
 					m_awardedThisSession |= achBit;
 			}

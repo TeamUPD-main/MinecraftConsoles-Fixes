@@ -37,6 +37,7 @@
 #include "UIControl_EnchantmentBook.h"
 #include "UIControl_SpaceIndicatorBar.h"
 #include "UIControl_BeaconEffectButton.h"
+#include "UIControl_AchievementList.h"
 
 #ifdef __PSVITA__
 #include "UIControl_Touch.h"
@@ -74,6 +75,7 @@
 #include "UIScene_LaunchMoreOptionsMenu.h"
 #include "UIScene_FullscreenProgress.h"
 #include "UIScene_LeaderboardsMenu.h"
+#include "UIScene_AchievementsMenu.h"
 #include "UIScene_DLCMainMenu.h"
 #include "UIScene_DLCOffersMenu.h"
 #include "UIScene_ReinstallMenu.h"

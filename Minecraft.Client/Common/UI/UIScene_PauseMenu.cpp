@@ -1,6 +1,10 @@
 #include "stdafx.h"
 #include "UI.h"
 #include "UIScene_PauseMenu.h"
+#ifdef _WINDOWS64
+#include <shellapi.h>
+extern wchar_t g_Win64BaseUrlW[256];
+#endif
 #include "..\..\MinecraftServer.h"
 #include "..\..\MultiplayerLocalPlayer.h"
 #include "..\..\TexturePackRepository.h"
@@ -619,11 +623,12 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			Windows::Xbox::ApplicationModel::Help::Show(user);
 		}
 		break;
-#elif TO_BE_IMPLEMENTED
+//#elif TO_BE_IMPLEMENTED
+#else
 	case BUTTON_PAUSE_ACHIEVEMENTS:
-
 		// guests can't look at achievements
-		if(ProfileManager.IsGuest(pNotifyPressData->UserIndex))
+		//if(ProfileManager.IsGuest(pNotifyPressData->UserIndex))
+	/*	if(ProfileManager.IsGuest(m_iPad))
 		{
 			UINT uiIDA[1];
 			uiIDA[0]=IDS_OK;
@@ -631,7 +636,62 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 		}
 		else
 		{
-			XShowAchievementsUI( pNotifyPressData->UserIndex );
+		//	XShowAchievementsUI( pNotifyPressData->UserIndex );
+		#if !defined(_XBOX)
+			ui.NavigateToScene(m_iPad, eUIScene_AchievementsMenu);
+		#else
+			XShowAchievementsUI(m_iPad);
+		#endif*/
+#if defined(_WINDOWS64)
+			PlayerUID xuid = INVALID_XUID;
+			ProfileManager.GetXUID(m_iPad, &xuid, false);
+
+			wchar_t uidBuffer[32];
+			swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", static_cast<unsigned long long>(xuid));
+
+//			std::wstring achievementsUrl = L"http://127.0.0.1:8000/ui/achievements?uid=";
+			std::wstring achievementsUrl = (g_Win64BaseUrlW[0] != 0) ? g_Win64BaseUrlW : L"http://127.0.0.1:8000";
+			if (!achievementsUrl.empty() && achievementsUrl.back() == L'/')
+			{
+				achievementsUrl.pop_back();
+			}
+			achievementsUrl += L"/ui/achievements?uid=";
+			achievementsUrl += uidBuffer;
+
+			ShellExecuteW(nullptr, L"open", achievementsUrl.c_str(), nullptr, nullptr, SW_SHOWNORMAL);
+
+			// Existing action intentionally disabled.
+			// if(ProfileManager.IsGuest(m_iPad))
+			// {
+			// 	UINT uiIDA[1];
+			// 	uiIDA[0]=IDS_OK;
+			// 	ui.RequestAlertMessage(IDS_PRO_GUESTPROFILE_TITLE, IDS_PRO_GUESTPROFILE_TEXT, uiIDA, 1, ProfileManager.GetPrimaryPad());
+			// }
+			// else
+			// {
+			// #if !defined(_XBOX)
+			// 	ui.NavigateToScene(m_iPad, eUIScene_AchievementsMenu);
+			// #else
+			// 	XShowAchievementsUI(m_iPad);
+			// #endif
+			// }
+#else
+			// guests can't look at achievements
+			if(ProfileManager.IsGuest(m_iPad))
+			{
+				UINT uiIDA[1];
+				uiIDA[0]=IDS_OK;
+				ui.RequestAlertMessage(IDS_PRO_GUESTPROFILE_TITLE, IDS_PRO_GUESTPROFILE_TEXT, uiIDA, 1, ProfileManager.GetPrimaryPad());
+			}
+			else
+			{
+			#if !defined(_XBOX)
+				ui.NavigateToScene(m_iPad, eUIScene_AchievementsMenu);
+			#else
+				XShowAchievementsUI(m_iPad);
+			#endif
+			}
+#endif
 		}
 		break;
 #endif

@@ -52,6 +52,8 @@ LanguagesMenu1080.swf
 LanguagesMenuSplit1080.swf
 LoadOrJoinMenu1080.swf
 LaunchMoreOptionsMenu1080.swf
+AchievementsMenu1080.swf
+AchievementsMenuSplit1080.swf
 LeaderboardMenu1080.swf
 LoadMenu1080.swf
 MainMenu1080.swf

@@ -1,3 +1,8 @@
+## Credits
+Achivement backend code sourced from: 
+[CheeseLad's MinecraftConsoles fork](https://github.com/CheeseLad/MinecraftConsoles/tree/achievement-backend)
+[CheeseLad's legacy-leaderboards API](https://github.com/CheeseLad/legacy-leaderboards)
+
 # MinecraftConsoles
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/jrum7HhegA)

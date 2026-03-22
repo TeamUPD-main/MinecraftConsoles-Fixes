@@ -67,13 +67,14 @@ private:
 	StatsMap stats;
     bool requiresSave;
 	int saveCounter;
+	int m_iPad;
 
 	int modifiedBoards;
 	static unordered_map<Stat*, int> statBoards;
 	int flushCounter;
 
 public:
-	StatsCounter();
+	StatsCounter(int iPad = 0);
     void award(Stat *stat, unsigned int difficulty, unsigned int count);
     bool hasTaken(Achievement *ach);
     bool canTake(Achievement *ach);

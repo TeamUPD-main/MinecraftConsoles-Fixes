@@ -113,6 +113,8 @@ static bool g_bResizeReady = false;
 
 char g_Win64Username[17] = { 0 };
 wchar_t g_Win64UsernameW[17] = { 0 };
+char g_Win64BaseUrl[256] = { 0 };
+wchar_t g_Win64BaseUrlW[256] = { 0 };
 
 // Fullscreen toggle state
 static bool g_isFullscreen = false;
@@ -1567,6 +1569,44 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
         fclose(f);
     }
 
+	// Load base URL from base_url.txt (create with default on first launch)
+	const char *kDefaultBaseUrl = "https://legacy-leaderboards.onrender.com";
+	char baseUrlFilePath[MAX_PATH] = {};
+	_snprintf_s(baseUrlFilePath, sizeof(baseUrlFilePath), _TRUNCATE, "%sbase_url.txt", exePath);
+
+	bool loadedBaseUrl = false;
+	FILE *baseUrlFile = nullptr;
+	if (fopen_s(&baseUrlFile, baseUrlFilePath, "r") == 0 && baseUrlFile)
+	{
+		char buf[512] = {};
+		if (fgets(buf, sizeof(buf), baseUrlFile))
+		{
+			int len = static_cast<int>(strlen(buf));
+			while (len > 0 && (buf[len - 1] == '\n' || buf[len - 1] == '\r' || buf[len - 1] == ' ' || buf[len - 1] == '\t'))
+			{
+				buf[--len] = '\0';
+			}
+
+			if (len > 0)
+			{
+				strncpy_s(g_Win64BaseUrl, sizeof(g_Win64BaseUrl), buf, _TRUNCATE);
+				loadedBaseUrl = true;
+			}
+		}
+		fclose(baseUrlFile);
+	}
+
+	if (!loadedBaseUrl)
+	{
+		strncpy_s(g_Win64BaseUrl, sizeof(g_Win64BaseUrl), kDefaultBaseUrl, _TRUNCATE);
+
+		if (fopen_s(&baseUrlFile, baseUrlFilePath, "w") == 0 && baseUrlFile)
+		{
+			fprintf(baseUrlFile, "%s\n", g_Win64BaseUrl);
+			fclose(baseUrlFile);
+		}
+	}
+
 	// Load stuff from launch options, including username
 	const Win64LaunchOptions launchOptions = ParseLaunchOptions();
 	ApplyScreenMode(launchOptions.screenMode);
@@ -1586,6 +1626,7 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 	}
 
 	MultiByteToWideChar(CP_ACP, 0, g_Win64Username, -1, g_Win64UsernameW, 17);
+	MultiByteToWideChar(CP_ACP, 0, g_Win64BaseUrl, -1, g_Win64BaseUrlW, 256);
 
 	// convert servers.txt to servers.db
 	if (GetFileAttributesA("servers.txt") != INVALID_FILE_ATTRIBUTES &&

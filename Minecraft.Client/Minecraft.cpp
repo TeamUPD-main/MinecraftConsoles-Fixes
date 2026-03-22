@@ -10,6 +10,7 @@
 #include "User.h"
 #include "Textures.h"
 #include "GameRenderer.h"
+//#include "AchievementRestApi.h"
 #include "ItemInHandRenderer.h"
 #include "HumanoidModel.h"
 #include "Options.h"
@@ -360,7 +361,7 @@ void Minecraft::init()
 	EntityRenderDispatcher::instance->itemInHandRenderer = new ItemInHandRenderer(this,false);
 
 	for( int i=0 ; i<4 ; ++i )
-		stats[i] = new StatsCounter();
+		stats[i] = new StatsCounter(i);
 
 	/*		4J - TODO, 4J-JEV: Unnecessary.
 	Achievements::openInventory->setDescFormatter(nullptr);
@@ -1203,8 +1204,20 @@ void Minecraft::createPrimaryLocalPlayer(int iPad)
 	if(ProfileManager.IsSignedIn(ProfileManager.GetPrimaryPad()))
 	{
 		user->name = convStringToWstring( ProfileManager.GetGamertag(ProfileManager.GetPrimaryPad()) );
+/*		
+		// Register player with achievement REST API
+		if(user != nullptr && !user->name.empty())
+		{
+			PlayerUID xuid;
+			ProfileManager.GetXUID(iPad, &xuid, false);
+			// Convert uint64_t PlayerUID to wstring
+			wchar_t uidBuffer[32];
+			swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", xuid);
+			AchievementRestApi::RegisterPlayer(std::wstring(uidBuffer), user->name);
+		}*/
 	}
 }
+
 
 #ifdef _WINDOWS64
 void Minecraft::applyFrameMouseLook()

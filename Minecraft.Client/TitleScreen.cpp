@@ -5,6 +5,8 @@
 #include "JoinMultiplayerScreen.h"
 #include "Tesselator.h"
 #include "Textures.h"
+#include "AchievementRestApi.h"
+#include "User.h"
 #include "..\Minecraft.World\StringHelpers.h"
 #include "..\Minecraft.World\InputOutputStream.h"
 #include "..\Minecraft.World\net.minecraft.locale.h"
@@ -97,6 +99,27 @@ void TitleScreen::init()
 	{
         multiplayerButton->active = false;
     }
+
+    // Check if player exists on achievement backend, register if not
+	// This happens on main menu load, before entering a world
+	if (minecraft->user != nullptr && ProfileManager.IsSignedIn(ProfileManager.GetPrimaryPad()))
+	{
+		PlayerUID xuid;
+		ProfileManager.GetXUID(ProfileManager.GetPrimaryPad(), &xuid, false);
+		
+		// Convert PlayerUID to wstring
+		wchar_t uidBuffer[32];
+		swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", xuid);
+		std::wstring playerUid(uidBuffer);
+		
+		// Check if player already exists
+		if (!AchievementRestApi::PlayerExists(playerUid))
+		{
+			// Player doesn't exist, register them
+			std::wstring playerName = minecraft->user->name;
+			AchievementRestApi::RegisterPlayer(playerUid, playerName);
+		}
+	}
 
 }
 

@@ -6,6 +6,10 @@
 #include "..\..\MinecraftServer.h"
 #include "UI.h"
 #include "UIScene_MainMenu.h"
+#ifdef _WINDOWS64
+#include <shellapi.h>
+extern wchar_t g_Win64BaseUrlW[256];
+#endif
 #ifdef __ORBIS__
 #include <error_dialog.h>
 #endif
@@ -343,7 +347,12 @@ void UIScene_MainMenu::handlePress(F64 controlId, F64 childId)
 		ui.PlayUISFX(eSFX_Press);
 
 		m_eAction=eAction_RunAchievements;
+#if defined(_WINDOWS64)
+		// Windows build: achievements UI doesn't require Xbox Live sign-in.
+		RunAction(primaryPad);
+#else
 		signInReturnedFunc = &UIScene_MainMenu::Achievements_SignInReturned;
+#endif
 		break;
 	case eControl_HelpAndOptions:
 		//CD - Added for audio
@@ -993,8 +1002,23 @@ int UIScene_MainMenu::Achievements_SignInReturned(void *pParam,bool bContinue,in
 		pClass->m_bIgnorePress=false;
 		// 4J-JEV: We only need to update rich-presence if the sign-in status changes.
 		ProfileManager.SetCurrentGameActivity(iPad, CONTEXT_PRESENCE_MENUS, false);
+#if !defined(_XBOX) && !defined(_DURANGO)
+		UINT uiIDA[1] = { IDS_OK };
 
-		XShowAchievementsUI( ProfileManager.GetPrimaryPad() );
+		//XShowAchievementsUI( ProfileManager.GetPrimaryPad() );
+		// guests can't look at achievements
+		if(ProfileManager.IsGuest(ProfileManager.GetPrimaryPad()))
+		{
+			ui.RequestErrorMessage(IDS_PRO_GUESTPROFILE_TITLE, IDS_PRO_GUESTPROFILE_TEXT, uiIDA, 1);
+		}
+		else
+		{
+			ProfileManager.SetLockedProfile(ProfileManager.GetPrimaryPad());
+			proceedToScene(ProfileManager.GetPrimaryPad(), eUIScene_AchievementsMenu);
+		}
+#else
+		XShowAchievementsUI(ProfileManager.GetPrimaryPad());
+#endif
 	}
 	else
 	{
@@ -2007,7 +2031,7 @@ void UIScene_MainMenu::tick()
 
 void UIScene_MainMenu::RunAchievements(int iPad)
 {
-#if TO_BE_IMPLEMENTED
+//#if TO_BE_IMPLEMENTED
 	UINT uiIDA[1];
 	uiIDA[0]=IDS_OK;
 
@@ -2018,9 +2042,45 @@ void UIScene_MainMenu::RunAchievements(int iPad)
 	}
 	else
 	{
-		XShowAchievementsUI( iPad );
-	}
+	/*	XShowAchievementsUI( iPad );
+	}*/
+#if defined(_WINDOWS64)
+		// Windows build only: just navigate directly; no sign-in gating.
+		//ProfileManager.SetLockedProfile(iPad);
+		// Navigate away when main menu tick sees this locked-profile request.
+		//ProfileManager.QuerySigninStatus();
+		//proceedToScene(iPad, eUIScene_AchievementsMenu);
+		PlayerUID xuid = INVALID_XUID;
+		ProfileManager.GetXUID(iPad, &xuid, false);
+
+		wchar_t uidBuffer[32];
+		swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", static_cast<unsigned long long>(xuid));
+
+		//std::wstring achievementsUrl = L"http://127.0.0.1:8000/ui/achievements?uid=";
+		std::wstring achievementsUrl = (g_Win64BaseUrlW[0] != 0) ? g_Win64BaseUrlW : L"http://127.0.0.1:8000";
+		if (!achievementsUrl.empty() && achievementsUrl.back() == L'/')
+		{
+			achievementsUrl.pop_back();
+		}
+		achievementsUrl += L"/ui/achievements?uid=";
+		achievementsUrl += uidBuffer;
+
+		ShellExecuteW(nullptr, L"open", achievementsUrl.c_str(), nullptr, nullptr, SW_SHOWNORMAL);
+
+		// Existing action intentionally disabled.
+		// ProfileManager.SetLockedProfile(iPad);
+		// ProfileManager.QuerySigninStatus();
+		// proceedToScene(iPad, eUIScene_AchievementsMenu);
+#elif !defined(_XBOX) && !defined(_DURANGO)
+		ProfileManager.SetLockedProfile(iPad);
+		// Navigate away when main menu tick sees this locked-profile request.
+		ProfileManager.QuerySigninStatus();
+		proceedToScene(iPad, eUIScene_AchievementsMenu);
+#else
+		// Xbox/other platforms still use the platform achievements UI.
+		XShowAchievementsUI(iPad);
 #endif
+	}
 }
 
 void UIScene_MainMenu::RunHelpAndOptions(int iPad)
