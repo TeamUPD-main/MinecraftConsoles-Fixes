@@ -1,0 +1,65 @@
+name: Nightly Releases (Debug )
+
+on:
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build Windows64 (Debug)
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v6
+
+    - name: Setup msbuild
+      uses: microsoft/setup-msbuild@v2
+
+    - name: Build
+      run: MSBuild.exe MinecraftConsoles.sln /p:Configuration=Debug /p:Platform="Windows64"
+
+    - name: Zip Build
+      run: 7z a -r -t7z -m0=lzma2 -mx=7 LCEWindows64Debug.7z ./x64/Debug/*
+
+    - name: Zip Dedicated Server Build
+      run: 7z a -r -t7z -m0=lzma2 -mx=7 LCEServerWindows64Debug.7z ./x64/Minecraft.Server/Debug/*
+
+    - name: Update Client release (Achivement Backend)
+      uses: andelf/nightly-release@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: nightly-debug
+        name: Nightly Client Release (Debug)
+        body: |
+          Requires at least Windows 7 and DirectX 11 compatible GPU to run. Compiled with MSVC v14.44.35207 in Release mode with Whole Program Optimization, as well as `/O2 /Ot /Oi /Ob3 /GF /fp:precise`.
+          
+          # 🚨 First time here? 🚨
+          If you've never downloaded the game before, you need to download `LCEWindows64Debug.7z` and extract it to the folder where you'd like to keep the game. The other files are included in this `.7z` file!
+
+          # Debug is enabled
+        
+        files: |
+            LCEWindows64Debug.7z
+            ./x64/Debug/Minecraft.Client.exe
+            ./x64/Debug/Minecraft.Client.pdb
+
+    - name: Update Dedicated Server release (Debug)
+      uses: andelf/nightly-release@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: nightly-dedicated-server-debug
+        name: Nightly Dedicated Server Release (Achivement Backend)
+        body: |
+          Dedicated Server runtime for Windows64.
+
+          Download `LCEServerWindows64Debug.7z` and extract it to a folder where you'd like to keep the server runtime.
+          Note: If you just want to run the game, download the nightly build
+        files: |
+            LCEServerWindows64Debug.7z
+            ./x64/Minecraft.Server/Debug/Minecraft.Server.exe
+            ./x64/Minecraft.Server/Debug/Minecraft.Server.pdb
