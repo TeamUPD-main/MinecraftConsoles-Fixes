@@ -1664,7 +1664,11 @@ bool PlayerConnection::isDisconnected()
 void PlayerConnection::handleDebugOptions(shared_ptr<DebugOptionsPacket> packet)
 {
 	//Player player = dynamic_pointer_cast<Player>( player->shared_from_this() );
-	player->SetDebugOptions(packet->m_uiVal);
+//	player->SetDebugOptions(packet->m_uiVal);
+#ifdef _DEBUG
+    // Player player = dynamic_pointer_cast<Player>( player->shared_from_this() );
+    player->SetDebugOptions(packet->m_uiVal);
+#endif
 }
 
 void PlayerConnection::handleCraftItem(shared_ptr<CraftItemPacket> packet)
