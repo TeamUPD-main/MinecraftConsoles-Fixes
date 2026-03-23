@@ -131,6 +131,7 @@
     <ClCompile Include="..\Minecraft.Client\AbstractTexturePack.cpp" />
     <ClCompile Include="..\Minecraft.Client\AchievementPopup.cpp" />
     <ClCompile Include="..\Minecraft.Client\AchievementScreen.cpp" />
+    <ClCompile Include="..\Minecraft.Client\AchievementRestApi.cpp" />
     <ClCompile Include="..\Minecraft.Client\AllowAllCuller.cpp" />
     <ClCompile Include="..\Minecraft.Client\ArchiveFile.cpp" />
     <ClCompile Include="..\Minecraft.Client\ArrowRenderer.cpp" />
@@ -270,6 +271,8 @@
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIComponent_TutorialPopup.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIControl.cpp" />
+    <ClCompile Include="..\Minecraft.Client\Common\UI\UIControl_AchievementList.cpp" />
+    <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene_AchievementsMenu.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIControl_Base.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIControl_BeaconEffectButton.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIControl_BitmapIcon.cpp" />
@@ -301,6 +304,7 @@
     <ClCompile Include="..\Minecraft.Client\Common\UI\UILayer.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene_AbstractContainerMenu.cpp" />
+    <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene_AchievementsMenu.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene_AnvilMenu.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene_BeaconMenu.cpp" />
     <ClCompile Include="..\Minecraft.Client\Common\UI\UIScene_BrewingStandMenu.cpp" />
