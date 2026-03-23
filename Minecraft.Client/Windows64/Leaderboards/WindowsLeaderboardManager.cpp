@@ -3,6 +3,7 @@
 #include "WindowsLeaderboardManager.h"
 
 #define NOMINMAX
+
 #include <windows.h>
 #include <winhttp.h>
 

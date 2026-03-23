@@ -5,7 +5,6 @@
 #if !defined(_XBOX) && !defined(_DURANGO)
 
 class Achievement;
-//class ItemInstance;
 class StatsCounter;
 
 // Iggy-based achievements UI (SWF movie: AchievementsMenu*.swf).
@@ -18,38 +17,15 @@ private:
 	vector<Achievement *> m_achievements;
 	int m_selectedAchievementIndex;
 
-/*	shared_ptr<ItemInstance> m_selectedIconItem;
-	bool m_selectedIconIsGolden;
-
-	UIControl_LeaderboardList m_listAchievements;*/
 	UIControl m_controlAchievementsListContainer;
 	UIControl_AchievementList m_listAchievements;
 	UIControl_Label m_labelAchievementsTitle;
 	UIControl_Label m_labelSelectedName;
-/*	UIControl_Label m_labelSelectedDescription;
-	UIControl_Label m_labelSelectedState;*/
 	UIControl_HTMLLabel m_labelSelectedDescription;
 
 	bool m_bIgnoreInput;
 
 	UI_BEGIN_MAP_ELEMENTS_AND_NAMES(UIScene)
-/*	#if defined(_WINDOWS64)
-		// Windows build fallback: reuse existing LeaderboardMenu SWF.
-		UI_MAP_ELEMENT(m_listAchievements, "Gamers")
-
-		// LeaderboardMenu labels: Filter, Leaderboard, Entries, Info.
-		UI_MAP_ELEMENT(m_labelAchievementsTitle, "Leaderboard")
-		UI_MAP_ELEMENT(m_labelSelectedName, "Filter")
-		UI_MAP_ELEMENT(m_labelSelectedDescription, "Info")
-		UI_MAP_ELEMENT(m_labelSelectedState, "Entries")
-	#else
-		// AchievementMenu SWF fields (requires AchievementsMenu*.swf).
-		UI_MAP_ELEMENT(m_listAchievements, "Achievements")
-		UI_MAP_ELEMENT(m_labelAchievementsTitle, "Title")
-		UI_MAP_ELEMENT(m_labelSelectedName, "SelectedName")
-		UI_MAP_ELEMENT(m_labelSelectedDescription, "SelectedDescription")
-		UI_MAP_ELEMENT(m_labelSelectedState, "SelectedState")
-	#endif*/
 		UI_MAP_ELEMENT(m_controlAchievementsListContainer, "AchievementsListContainer")
 		UI_BEGIN_MAP_CHILD_ELEMENTS(m_controlAchievementsListContainer)
 			UI_MAP_ELEMENT(m_listAchievements, "AchievementsList")
@@ -62,7 +38,7 @@ private:
 
 	void populateAchievementsList();
 	void updateSelectedAchievement(int index);
-    void setAchievementDescription(const wstring &description);
+	void setAchievementDescription(const wstring &description);
 	wstring getAchievementTextureName(const Achievement *achievement) const;
 
 public:
@@ -86,9 +62,6 @@ public:
 	// Iggy callbacks
 	virtual void handleSelectionChanged(F64 selectedId);
 	virtual void handleRequestMoreData(F64 startIndex, bool up);
-
-	// RENDERING (slot draw region hook)
-//	virtual void customDraw(IggyCustomDrawCallbackRegion *region);
 };
 
 #endif // !defined(_XBOX) && !defined(_DURANGO)

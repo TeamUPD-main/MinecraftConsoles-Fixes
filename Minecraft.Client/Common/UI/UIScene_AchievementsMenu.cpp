@@ -9,14 +9,12 @@
 
 #include "..\..\..\Minecraft.World\Achievements.h"
 #include "..\..\..\Minecraft.World\Achievement.h"
-//#include "..\..\..\Minecraft.World\ItemInstance.h"
 #include "..\..\..\Minecraft.World\net.minecraft.locale.h"
 
 UIScene_AchievementsMenu::UIScene_AchievementsMenu(int iPad, void *initData, UILayer *parentLayer)
 	: UIScene(iPad, parentLayer),
 	  m_statsCounter(nullptr),
 	  m_selectedAchievementIndex(0),
-	//  m_selectedIconIsGolden(false),
 	  m_bIgnoreInput(true)
 {
 	// Setup the Iggy references we need for this scene
@@ -34,7 +32,6 @@ UIScene_AchievementsMenu::UIScene_AchievementsMenu(int iPad, void *initData, UIL
 	m_labelAchievementsTitle.init((UIString)IDS_ACHIEVEMENTS);
 	m_labelSelectedName.init(L"");
 	m_labelSelectedDescription.init(L"");
-//	m_labelSelectedState.init(L"");
 
 	populateAchievementsList();
 	updateSelectedAchievement(0);
@@ -57,13 +54,7 @@ void UIScene_AchievementsMenu::updateComponents()
 
 wstring UIScene_AchievementsMenu::getMoviePath()
 {
-/*#if defined(_WINDOWS64)
-	// Windows build fallback: reuse existing LeaderboardMenu SWF to avoid requiring new assets.
-	return L"LeaderboardMenu";
-#else
-	// Loads AchievementsMenu1080.swf / AchievementsMenu720.swf / AchievementsMenu480.swf / AchievementsMenuVita.swf*/
 	return L"AchievementsMenu";
-//#endif
 }
 
 void UIScene_AchievementsMenu::handleReload()
@@ -87,24 +78,13 @@ void UIScene_AchievementsMenu::populateAchievementsList()
 		}
 	}
 
-	// List SWF is expected to expose LeaderboardList-style methods:
-	// InitLeaderboard / AddDataSet / ResetLeaderboard / SetupTitles / SetColumnIcon (compatible).
 	const int totalEntries = static_cast<int>(m_achievements.size());
 
 	m_listAchievements.clearList();
-/*	m_listAchievements.setupTitles(L"", app.GetString(IDS_ACHIEVEMENTS));
-	m_listAchievements.initLeaderboard(0, totalEntries, 1);
-
-#if defined(_WINDOWS64)
-	// Ensure the reused LeaderboardMenu SWF has a visible icon column and triggers custom draw.
-	// We draw the selected achievement icon in customDraw() anyway.
-	m_listAchievements.setColumnIcon(0, UIControl_LeaderboardList::e_ICON_TYPE_CLIMBED);
-#endif*/
 
 	for (int i = 0; i < totalEntries; i++)
 	{
 		Achievement *ach = m_achievements[i];
-	//	const bool isLast = i == (totalEntries - 1);
 
 		bool hasTaken = false;
 		bool canTake = true;
@@ -114,39 +94,10 @@ void UIScene_AchievementsMenu::populateAchievementsList()
 			canTake = m_statsCounter->canTake(ach);
 		}
 
-/*		wstring stateText;
-		if (hasTaken)
-		{
-			stateText = I18n::get(L"achievement.taken");
-		}
-		else if (canTake)
-		{
-			stateText = I18n::get(L"achievement.get");
-		}
-		else
-		{
-			if (ach->reqs != nullptr)
-			{
-				stateText = I18n::get(L"achievement.requires", ach->reqs->name);
-			}
-			else
-			{
-				stateText = I18n::get(L"achievement.requires", L"");
-			}
-		}*/
 		m_listAchievements.addNewItem(i, getAchievementTextureName(ach));
 		m_listAchievements.enableItem(i, hasTaken || canTake);
 	}
 
-		// iId: use list index so the Iggy selection callback can directly map back to m_achievements[index].
-	/*	m_listAchievements.addDataSet(
-			isLast,
-			i,              // iId
-			i + 1,          // iRank
-			ach->name,      // gamertag column
-			false,          // bDisplayMessage
-			stateText,      // col0
-			L"", L"", L"", L"", L"", L"");*/
 	if (totalEntries > 0)
 	{
 		m_listAchievements.highlightItem(0);
@@ -164,9 +115,6 @@ void UIScene_AchievementsMenu::updateSelectedAchievement(int index)
 	if (ach == nullptr)
 		return;
 
-/*	m_selectedIconItem = ach->icon;
-	m_selectedIconIsGolden = ach->isGolden();*/
-
 	bool hasTaken = false;
 	bool canTake = true;
 	if (m_statsCounter != nullptr)
@@ -175,17 +123,14 @@ void UIScene_AchievementsMenu::updateSelectedAchievement(int index)
 		canTake = m_statsCounter->canTake(ach);
 	}
 
-//	wstring stateText;
 	wstring descriptionText;
 
 	if (hasTaken)
 	{
-	//	stateText = I18n::get(L"achievement.taken");
 		descriptionText = ach->getDescription();
 	}
 	else if (canTake)
 	{
-	//	stateText = I18n::get(L"achievement.get");
 		descriptionText = ach->getDescription();
 	}
 	else
@@ -198,12 +143,9 @@ void UIScene_AchievementsMenu::updateSelectedAchievement(int index)
 		{
 			descriptionText = I18n::get(L"achievement.requires", L"");
 		}
-		descriptionText = stateText;
 	}
 
 	m_labelSelectedName.setLabel(UIString(ach->name), true);
-//	m_labelSelectedState.setLabel(UIString(stateText), true);
-//	m_labelSelectedDescription.setLabel(UIString(descriptionText), true);
 	setAchievementDescription(descriptionText);
 }
 
@@ -302,23 +244,6 @@ void UIScene_AchievementsMenu::handleRequestMoreData(F64 startIndex, bool up)
 	(void)startIndex;
 	(void)up;
 }
-
-/*void UIScene_AchievementsMenu::customDraw(IggyCustomDrawCallbackRegion *region)
-{
-	int slotId = -1;
-
-	if (region == nullptr || region->name == nullptr)
-		return;
-
-	swscanf(static_cast<wchar_t *>(region->name), L"slot_%d", &slotId);
-
-	if (slotId == 0 && m_selectedIconItem != nullptr)
-	{
-		// The SWF movie is expected to expose a custom-draw slot named `slot_0`
-		// for the selected achievement icon.
-		customDrawSlotControl(region, m_iPad, m_selectedIconItem, 1.0f, m_selectedIconIsGolden, true);
-	}
-}*/
 
 #endif // !defined(_XBOX) && !defined(_DURANGO)
 
