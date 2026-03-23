@@ -832,6 +832,7 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 		}
 		break;
 	}
+}
 
 void UIScene_PauseMenu::PerformActionSaveGame()
 {

@@ -1,8 +1,5 @@
-#include "AchievementRestApi.h"
-#include <stdio.h>
-#include <codecvt>
-#include <locale>
 #include "stdafx.h"
+#include "AchievementRestApi.h"
 
 #ifdef _WINDOWS64
 extern wchar_t g_Win64BaseUrlW[256];
