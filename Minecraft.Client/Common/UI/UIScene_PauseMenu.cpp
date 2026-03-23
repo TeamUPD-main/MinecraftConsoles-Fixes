@@ -626,6 +626,7 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 //#elif TO_BE_IMPLEMENTED
 #else
 	case BUTTON_PAUSE_ACHIEVEMENTS:
+{
 		// guests can't look at achievements
 		//if(ProfileManager.IsGuest(pNotifyPressData->UserIndex))
 	/*	if(ProfileManager.IsGuest(m_iPad))
