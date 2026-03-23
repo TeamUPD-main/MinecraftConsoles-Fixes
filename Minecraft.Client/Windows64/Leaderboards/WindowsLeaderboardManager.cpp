@@ -62,7 +62,8 @@ namespace
 		if (len <= 0) return L"";
 		std::wstring out;
 		out.resize(static_cast<size_t>(len));
-		MultiByteToWideChar(CP_UTF8, 0, s.c_str(), static_cast<int>(s.size()), out.data(), len);
+		//MultiByteToWideChar(CP_UTF8, 0, s.c_str(), static_cast<int>(s.size()), out.data(), len);
+		MultiByteToWideChar(CP_UTF8, 0, s.c_str(), static_cast<int>(s.size()), &out[0], len);
 		return out;
 	}
 
@@ -73,7 +74,8 @@ namespace
 		if (bytes <= 0) return "";
 		std::string out;
 		out.resize(static_cast<size_t>(bytes));
-		WideCharToMultiByte(CP_UTF8, 0, w.c_str(), static_cast<int>(w.size()), out.data(), bytes, nullptr, nullptr);
+		//WideCharToMultiByte(CP_UTF8, 0, w.c_str(), static_cast<int>(w.size()), out.data(), bytes, nullptr, nullptr);
+		WideCharToMultiByte(CP_UTF8, 0, w.c_str(), static_cast<int>(w.size()), &out[0], bytes, nullptr, nullptr);
 		return out;
 	}
 
@@ -171,7 +173,11 @@ namespace
 				std::string chunk;
 				chunk.resize(available);
 				DWORD read = 0;
-				if (!WinHttpReadData(hRequest, chunk.data(), available, &read)) break;
+				//if (!WinHttpReadData(hRequest, chunk.data(), available, &read)) break;
+				if (!chunk.empty())
+				{
+    				WinHttpReadData(hRequest, &chunk[0], available, &read);
+				}
 				chunk.resize(read);
 				out.body += chunk;
 			} while (available > 0);
