@@ -623,10 +623,9 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			Windows::Xbox::ApplicationModel::Help::Show(user);
 		}
 		break;
-//#elif TO_BE_IMPLEMENTED
 #else
 	case BUTTON_PAUSE_ACHIEVEMENTS:
-{
+		{
 #if defined(_WINDOWS64)
 			PlayerUID xuid = INVALID_XUID;
 			ProfileManager.GetXUID(m_iPad, &xuid, false);
@@ -634,7 +633,7 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			wchar_t uidBuffer[32];
 			swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", static_cast<unsigned long long>(xuid));
 
-			std::wstring achievementsUrl = (g_Win64BaseUrlW[0] != 0) ? g_Win64BaseUrlW : L"https://legacy-leaderboards.onrender.com";
+			std::wstring achievementsUrl = (g_Win64BaseUrlW[0] != 0) ? g_Win64BaseUrlW : L"http://127.0.0.1:8000";
 			if (!achievementsUrl.empty() && achievementsUrl.back() == L'/')
 			{
 				achievementsUrl.pop_back();
@@ -676,9 +675,10 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			#endif
 			}
 #endif
+		}
 		break;
-}
 #endif
+
 	case BUTTON_PAUSE_HELPANDOPTIONS:
 		ui.NavigateToScene(m_iPad,eUIScene_HelpAndOptionsMenu);	
 		break;
