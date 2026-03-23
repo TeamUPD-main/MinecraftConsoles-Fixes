@@ -692,7 +692,6 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			#endif
 			}
 #endif
-		}
 		break;
 #endif
 	case BUTTON_PAUSE_HELPANDOPTIONS:
