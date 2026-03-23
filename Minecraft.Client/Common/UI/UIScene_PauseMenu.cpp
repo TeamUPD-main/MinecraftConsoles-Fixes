@@ -627,22 +627,6 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 #else
 	case BUTTON_PAUSE_ACHIEVEMENTS:
 {
-		// guests can't look at achievements
-		//if(ProfileManager.IsGuest(pNotifyPressData->UserIndex))
-	/*	if(ProfileManager.IsGuest(m_iPad))
-		{
-			UINT uiIDA[1];
-			uiIDA[0]=IDS_OK;
-			ui.RequestAlertMessage(IDS_PRO_GUESTPROFILE_TITLE, IDS_PRO_GUESTPROFILE_TEXT, uiIDA, 1, ProfileManager.GetPrimaryPad());
-		}
-		else
-		{
-		//	XShowAchievementsUI( pNotifyPressData->UserIndex );
-		#if !defined(_XBOX)
-			ui.NavigateToScene(m_iPad, eUIScene_AchievementsMenu);
-		#else
-			XShowAchievementsUI(m_iPad);
-		#endif*/
 #if defined(_WINDOWS64)
 			PlayerUID xuid = INVALID_XUID;
 			ProfileManager.GetXUID(m_iPad, &xuid, false);
@@ -650,8 +634,7 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			wchar_t uidBuffer[32];
 			swprintf_s(uidBuffer, sizeof(uidBuffer) / sizeof(wchar_t), L"%llu", static_cast<unsigned long long>(xuid));
 
-//			std::wstring achievementsUrl = L"http://127.0.0.1:8000/ui/achievements?uid=";
-			std::wstring achievementsUrl = (g_Win64BaseUrlW[0] != 0) ? g_Win64BaseUrlW : L"http://127.0.0.1:8000";
+			std::wstring achievementsUrl = (g_Win64BaseUrlW[0] != 0) ? g_Win64BaseUrlW : L"https://legacy-leaderboards.onrender.com";
 			if (!achievementsUrl.empty() && achievementsUrl.back() == L'/')
 			{
 				achievementsUrl.pop_back();
@@ -694,6 +677,7 @@ void UIScene_PauseMenu::handlePress(F64 controlId, F64 childId)
 			}
 #endif
 		break;
+}
 #endif
 	case BUTTON_PAUSE_HELPANDOPTIONS:
 		ui.NavigateToScene(m_iPad,eUIScene_HelpAndOptionsMenu);	
