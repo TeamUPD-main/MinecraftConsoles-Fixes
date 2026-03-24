@@ -10,11 +10,6 @@ RECURSIVE              = YES
 EXCLUDE_PATTERNS = \
     *_test.cpp \
     */tests/* \
-    */d3d*.h \
-    */dxgi*.h \
-    */dinput*.h \
-    */xaudio*.h \
-    */xinput*.h \
     */boost/* \
     */Platform/PS3/* \
     */Platform/PSVita/* \
