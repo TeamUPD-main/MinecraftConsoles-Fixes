@@ -12,7 +12,7 @@ EXCLUDE_PATTERNS = \
     */tests/* \
     */boost/* \
     */Platform/PS3/* \
-    */Platform/PSVita/* \
+    */Platform/PSVita/* 
 # Excluding all platform specific code except for Linux since the doc compiler runs on it so it wont shit itself
 #---------------------------------------------------------------------------
 # HTML Config shit
