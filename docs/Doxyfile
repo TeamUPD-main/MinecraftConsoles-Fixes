@@ -2,11 +2,22 @@
 # File Config
 #---------------------------------------------------------------------------
 PROJECT_NAME           = "MinecraftConsoles-Fixes"
-INPUT                  = ../Minecraft.Assets \
+INPUT                  = ../Minecraft.Server \
                          ../Minecraft.Client \
                          ../Minecraft.World  \
                          ./doxymain.md
 RECURSIVE              = YES
+EXCLUDE_PATTERNS = \
+    *_test.cpp \
+    */tests/* \
+    */d3d*.h \
+    */dxgi*.h \
+    */dinput*.h \
+    */xaudio*.h \
+    */xinput*.h \
+    */boost/* \
+    */Platform/PS3/* \
+    */Platform/PSVita/* \
 # Excluding all platform specific code except for Linux since the doc compiler runs on it so it wont shit itself
 #---------------------------------------------------------------------------
 # HTML Config shit
