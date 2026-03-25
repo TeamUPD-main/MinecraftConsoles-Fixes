@@ -1,0 +1,16 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/BookshelfTile.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/BookshelfTile.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,276,60"/>
+<area shape="rect" id="Node000002" href="$Tile_8h.html" title=" " alt="" coords="162,108,221,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,59,180,95,175,97,154,61"/>
+<area shape="rect" id="Node000003" href="$Material_8h.html" title=" " alt="" coords="46,181,134,207"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="135,61,100,169,95,167,130,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,136,119,175,116,171,174,131"/>
+<area shape="rect" id="Node000005" href="$Vec3_8h.html" title=" " alt="" coords="159,181,224,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="194,134,194,168,189,168,189,134"/>
+<area shape="rect" id="Node000006" href="$Definitions_8h.html" title=" " alt="" coords="249,181,353,207"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="210,131,273,171,270,176,207,136"/>
+<area shape="rect" id="Node000007" href="$SoundTypes_8h.html" title=" " alt="" coords="377,181,488,207"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="222,128,381,175,380,180,220,133"/>
+<area shape="rect" id="Node000004" href="$MaterialColor_8h.html" title=" " alt="" coords="29,255,151,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="93,207,93,241,87,241,87,207"/>
+</map>

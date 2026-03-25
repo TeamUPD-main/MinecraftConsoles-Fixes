@@ -1,0 +1,20 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/EnderChestRenderer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/EnderChestRenderer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,5,361,60"/>
+<area shape="rect" id="Node000002" href="$TileEntityRenderer_8h.html" title=" " alt="" coords="48,108,203,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,62,147,99,143,96,178,58"/>
+<area shape="rect" id="Node000006" href="$ChestModel_8h.html" title=" " alt="" coords="227,108,338,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="230,58,265,96,261,99,226,62"/>
+<area shape="rect" id="Node000003" href="$Textures_8h.html" title=" " alt="" coords="34,262,123,287"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,136,74,155,61,168,52,182,48,199,50,216,64,249,59,252,45,218,42,199,47,180,57,164,71,151,99,131"/>
+<area shape="rect" id="Node000005" href="$ResourceLocation_8h.html" title=" " alt="" coords="61,181,211,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="130,133,135,167,130,168,124,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,343,152,383"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,288,81,329,76,329,76,288"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="130,208,97,252,93,249,125,205"/>
+<area shape="rect" id="Node000007" href="$Model_8h.html" title=" " alt="" coords="245,181,320,207"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="285,134,285,168,280,168,280,134"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="181,255,317,295"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="280,208,265,243,260,241,275,206"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="342,255,479,295"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="303,205,369,245,366,249,300,209"/>
+</map>

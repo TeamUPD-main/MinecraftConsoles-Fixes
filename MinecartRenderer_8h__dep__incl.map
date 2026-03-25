@@ -1,0 +1,17 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/MinecartRenderer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/MinecartRenderer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="418,5,717,60"/>
+<area shape="rect" id="Node000002" href="$EntityRenderDispatcher_8cpp.html" title=" " alt="" coords="404,233,755,287"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="615,68,630,86,642,107,650,142,642,178,627,209,607,234,603,231,622,206,637,176,645,142,637,109,626,89,611,71"/>
+<area shape="rect" id="Node000003" href="$MinecartRenderer_8cpp.html" title=" " alt="" coords="313,115,627,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="536,73,496,117,492,113,532,69"/>
+<area shape="rect" id="Node000004" href="$MinecartSpawnerRenderer_8h.html" title=" " alt="" coords="5,108,289,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,66,279,111,277,105,451,61"/>
+<area shape="rect" id="Node000006" href="$TntMinecartRenderer_8h.html" title=" " alt="" coords="703,115,1021,170"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="653,62,791,113,790,118,651,67"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="287,178,482,230,481,235,286,183"/>
+<area shape="rect" id="Node000005" href="$MinecartSpawnerRenderer_8cpp.html" title=" " alt="" coords="5,225,289,295"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="150,191,150,225,145,225,145,191"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="786,178,645,235,643,230,784,173"/>
+<area shape="rect" id="Node000007" href="$TntMinecartRenderer_8cpp.html" title=" " alt="" coords="779,233,1113,287"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="891,180,929,231,925,234,887,183"/>
+</map>

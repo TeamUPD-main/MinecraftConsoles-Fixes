@@ -1,0 +1,9 @@
+<map id="IUIScene_TradingMenu" name="IUIScene_TradingMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,168,305,193"/>
+<area shape="rect" id="Node000002" href="$classMerchantMenu.html" title=" " alt="" coords="33,80,152,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,111,205,166,202,170,120,115"/>
+<area shape="rect" id="Node000003" href="$classAbstractContainerMenu.html" title=" " alt="" coords="5,5,180,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,45,95,80,90,80,90,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,80,359,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,119,229,169,225,166,252,116"/>
+</map>

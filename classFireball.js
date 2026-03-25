@@ -1,0 +1,26 @@
+var classFireball =
+[
+    [ "Fireball", "classFireball.html#aef2790df9f2d83c2241ffb6eb4426722", null ],
+    [ "Fireball", "classFireball.html#a5ab867505c3dfaf2c056dab29573ed14", null ],
+    [ "Fireball", "classFireball.html#a5173bb695f36ceeb38a00752b0cc4f0b", null ],
+    [ "addAdditonalSaveData", "classFireball.html#aa2329b3ec694b185e628431791ea3195", null ],
+    [ "defineSynchedData", "classFireball.html#a4e1eaf030891aca9fd2fd8d28a8064cf", null ],
+    [ "getBrightness", "classFireball.html#a1d248385f628195250175eb397816eb5", null ],
+    [ "getInertia", "classFireball.html#a38b9ba23be382244e13847b01da02ba4", null ],
+    [ "getLightColor", "classFireball.html#aa063794ffd3d19a3a92bd3b66fed29c7", null ],
+    [ "getPickRadius", "classFireball.html#a6411862e050b806025edc879aa7a228c", null ],
+    [ "getShadowHeightOffs", "classFireball.html#a5b693df25eaf36b9ab8831b0237f26dc", null ],
+    [ "getTrailParticleType", "classFireball.html#adc3130e469de760ef3e87745f991c0bb", null ],
+    [ "GetType", "classFireball.html#a361694243f050756464997495eb4113b", null ],
+    [ "hurt", "classFireball.html#af4898e07ed7413dbd9b7fd51c18c060a", null ],
+    [ "isPickable", "classFireball.html#a6a78e80f60257ba580ae0c8a2c59d1b2", null ],
+    [ "onHit", "classFireball.html#ae363088697d3e5deae7db9ff21c71226", null ],
+    [ "readAdditionalSaveData", "classFireball.html#a918224f755e163bae8e1073dc80ed82d", null ],
+    [ "shouldBurn", "classFireball.html#acfe2de265ce7d32d6d03f492e47b9afa", null ],
+    [ "shouldRenderAtSqrDistance", "classFireball.html#abf2b1ff7d41055f5d5b6c8caadd92de4", null ],
+    [ "tick", "classFireball.html#a815c13a0e8c0129fac4cb844201494d3", null ],
+    [ "owner", "classFireball.html#a22cd35fdecc5312c5b92edc95d651e4d", null ],
+    [ "xPower", "classFireball.html#a6b0725324c94179fbd6c4abedbaf12c1", null ],
+    [ "yPower", "classFireball.html#a9798d3710d3c4ee9e92c3f9a5563733a", null ],
+    [ "zPower", "classFireball.html#a1eec4938d7f2cc783663034cb58c377c", null ]
+];

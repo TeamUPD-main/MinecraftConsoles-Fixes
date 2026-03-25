@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/EntityRenderer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/EntityRenderer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,5,587,60"/>
+<area shape="rect" id="Node000002" href="$Model_8h.html" title=" " alt="" coords="116,108,191,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,63,205,107,203,102,357,58"/>
+<area shape="rect" id="Node000005" href="$TileRenderer_8h.html" title=" " alt="" coords="215,108,331,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="396,62,310,104,308,100,393,58"/>
+<area shape="rect" id="Node000006" href="$Tesselator_8h.html" title=" " alt="" coords="356,108,455,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="437,61,420,97,415,94,433,59"/>
+<area shape="rect" id="Node000007" href="$Textures_8h.html" title=" " alt="" coords="599,189,689,214"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="464,59,487,95,519,131,560,160,601,181,599,186,557,164,516,135,483,99,459,62"/>
+<area shape="rect" id="Node000009" href="$ItemInHandRenderer_8h.html" title=" " alt="" coords="529,108,697,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="500,58,580,99,578,104,497,62"/>
+<area shape="rect" id="Node000010" href="$ResourceLocation_8h.html" title=" " alt="" coords="721,108,871,133"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="555,57,737,102,736,107,554,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,141,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,135,104,173,101,170,140,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="166,181,303,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="167,132,207,170,204,174,163,135"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="571,269,717,309"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="647,214,647,255,641,255,641,214"/>
+<area shape="poly" id="edge10_Node000010_Node000007" title=" " alt="" coords="775,136,680,185,677,180,772,131"/>
+</map>

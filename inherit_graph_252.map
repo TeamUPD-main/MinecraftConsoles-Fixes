@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classCPlatformNetworkManager.html" title=" " alt="" coords="15,55,214,80"/>
+<area shape="rect" id="Node000001" href="$classCPlatformNetworkManagerDurango.html" title=" " alt="" coords="272,5,527,31"/>
+<area shape="poly" id="edge748_Node000000_Node000001" title=" " alt="" coords="202,50,325,28,326,33,203,55"/>
+<area shape="rect" id="Node000003" href="$classCPlatformNetworkManagerSony.html" title=" " alt="" coords="284,104,515,129"/>
+<area shape="poly" id="edge749_Node000000_Node000003" title=" " alt="" coords="203,80,326,101,325,107,202,85"/>
+<area shape="rect" id="Node000005" href="$classCPlatformNetworkManagerStub.html" title=" " alt="" coords="285,55,513,80"/>
+<area shape="poly" id="edge750_Node000000_Node000005" title=" " alt="" coords="228,65,285,65,285,70,228,70"/>
+<area shape="rect" id="Node000006" href="$classCPlatformNetworkManagerXbox.html" title=" " alt="" coords="283,153,515,179"/>
+<area shape="poly" id="edge751_Node000000_Node000006" title=" " alt="" coords="211,82,225,89,241,101,250,115,259,127,273,138,303,151,301,156,271,143,255,131,246,118,237,105,223,94,209,87"/>
+<area shape="rect" id="Node000002" href="$classIDQRNetworkManagerListener.html" title=" " alt="" coords="5,5,224,31"/>
+<area shape="poly" id="edge752_Node000002_Node000001" title=" " alt="" coords="238,15,272,15,272,21,238,21"/>
+<area shape="rect" id="Node000007" href="$classIQNetCallbacks.html" title=" " alt="" coords="53,153,176,179"/>
+<area shape="poly" id="edge753_Node000007_Node000006" title=" " alt="" coords="190,163,283,163,283,169,190,169"/>
+<area shape="rect" id="Node000004" href="$classISQRNetworkManagerListener.html" title=" " alt="" coords="6,104,223,129"/>
+<area shape="poly" id="edge754_Node000004_Node000003" title=" " alt="" coords="237,114,284,114,284,119,237,119"/>
+</map>

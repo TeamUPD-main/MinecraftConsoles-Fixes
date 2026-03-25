@@ -1,0 +1,7 @@
+<map id="MineShaftPieces::MineShaftCorridor" name="MineShaftPieces::MineShaftCorridor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,208,208"/>
+<area shape="rect" id="Node000002" href="$classStructurePiece.html" title=" " alt="" coords="49,93,165,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,132,109,168,104,168,104,132"/>
+<area shape="rect" id="Node000003" href="$classBoundingBox.html" title=" " alt="" coords="53,5,161,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,45,109,93,104,93,104,45"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="EnchantmentTableTile" name="EnchantmentTableTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,172,177"/>
+<area shape="rect" id="Node000002" href="$classBaseEntityTile.html" title=" " alt="" coords="31,79,147,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,118,91,152,86,152,86,118"/>
+<area shape="rect" id="Node000003" href="$classTile.html" title=" " alt="" coords="21,5,68,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,41,84,77,79,80,57,44"/>
+<area shape="rect" id="Node000004" href="$classEntityTile.html" title=" " alt="" coords="92,5,176,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="121,44,98,80,94,77,117,41"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="LevelRenderer_FindNearestChunk_DataIn::ClipChunk" name="LevelRenderer_FindNearestChunk_DataIn::ClipChunk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,207,45"/>
+<area shape="rect" id="Node000002" href="$classLevelRenderer__FindNearestChunk__DataIn_1_1Chunk.html" title=" " alt="" coords="105,108,307,148"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="99,59,100,71,104,83,116,96,131,106,128,110,112,100,100,85,95,73,94,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,96,175,71,144,48,148,43,179,68,196,93"/>
+<area shape="rect" id="Node000003" href="$classLevelRenderer__FindNearestChunk__DataIn_1_1AABB.html" title=" " alt="" coords="231,5,432,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,56,231,110,228,106,295,52"/>
+</map>

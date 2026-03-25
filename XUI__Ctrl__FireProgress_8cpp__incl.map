@@ -1,0 +1,27 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Ctrl_FireProgress.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Ctrl_FireProgress.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,5,489,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,77,93,125,85,128,84,123,91,120,247,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,123,264,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,77,232,118,229,114,305,73"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="288,123,448,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="371,75,371,108,365,108,365,75"/>
+<area shape="rect" id="Node000005" href="$XUI__Scene__Furnace_8h.html" title=" " alt="" coords="473,130,634,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="431,73,521,121,519,126,429,77"/>
+<area shape="rect" id="Node000012" href="$XUI__Ctrl__FireProgress_8h.html" title=" " alt="" coords="802,130,977,155"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="490,62,817,125,816,130,489,67"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="89,211,293,236"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="501,158,257,210,256,205,500,153"/>
+<area shape="rect" id="Node000007" href="$XUI__Scene__AbstractContainer_8h.html" title=" " alt="" coords="317,211,544,236"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="537,158,462,205,459,201,534,153"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="569,211,783,236"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="573,153,648,201,645,205,570,158"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="83,284,317,324"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="398,239,269,282,267,277,396,233"/>
+<area shape="rect" id="Node000009" href="$XUI__CustomMessages_8h.html" title=" " alt="" coords="341,291,520,317"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="433,236,433,277,428,277,428,236"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="544,284,701,324"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="460,234,565,276,563,281,458,238"/>
+<area shape="rect" id="Node000013" href="$XUI__Ctrl__ProgressCtrlBase_8h.html" title=" " alt="" coords="808,211,1013,236"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="895,155,906,197,901,198,890,156"/>
+</map>

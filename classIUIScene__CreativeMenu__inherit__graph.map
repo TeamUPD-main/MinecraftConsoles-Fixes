@@ -1,0 +1,9 @@
+<map id="IUIScene_CreativeMenu" name="IUIScene_CreativeMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,79,305,104"/>
+<area shape="rect" id="Node000003" href="$classCXuiSceneInventoryCreative.html" title=" " alt="" coords="5,152,213,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,114,128,154,125,150,186,109"/>
+<area shape="rect" id="Node000004" href="$classUIScene__CreativeMenu.html" title=" " alt="" coords="237,152,411,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,109,308,150,305,154,243,114"/>
+<area shape="rect" id="Node000002" href="$classIUIScene__AbstractContainerMenu.html" title=" " alt="" coords="97,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,44,219,79,213,79,213,44"/>
+</map>

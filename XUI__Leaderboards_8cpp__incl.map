@@ -1,0 +1,29 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Leaderboards.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Leaderboards.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="387,5,629,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,62,245,88,93,125,84,128,82,123,91,120,244,83,386,57"/>
+<area shape="rect" id="Node000003" href="$xuiresource_8h.html" title=" " alt="" coords="105,130,215,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="392,77,214,129,212,124,391,72"/>
+<area shape="rect" id="Node000004" href="$xuiapp_8h.html" title=" " alt="" coords="239,130,318,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="432,77,318,127,316,122,430,72"/>
+<area shape="rect" id="Node000005" href="$XUI__Leaderboards_8h.html" title=" " alt="" coords="343,130,495,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="480,77,440,121,436,117,476,73"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="519,123,679,163"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="541,73,574,110,570,114,537,77"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="703,123,863,163"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="601,72,720,116,718,121,599,77"/>
+<area shape="rect" id="Node000011" href="$XUI__Ctrl__CraftIngredientSlot_8h.html" title=" " alt="" coords="887,123,1065,163"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="630,65,876,117,875,122,629,70"/>
+<area shape="rect" id="Node000014" href="$XUI__XZP__Icons_8h.html" title=" " alt="" coords="1089,130,1220,155"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="630,53,840,81,1078,120,1098,124,1097,129,1077,125,839,86,629,58"/>
+<area shape="rect" id="Node000006" href="$XUI__Helper_8h.html" title=" " alt="" coords="167,218,273,243"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="393,158,261,215,258,210,391,153"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="298,218,539,243"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="421,156,421,204,416,204,416,156"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="563,211,770,251"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="453,153,600,204,598,209,451,158"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="900,218,959,243"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="968,164,945,207,940,205,963,162"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="983,218,1063,243"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="989,162,1012,205,1007,207,984,164"/>
+</map>

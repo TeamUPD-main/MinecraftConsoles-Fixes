@@ -1,0 +1,7 @@
+<map id="CXuiSceneCraftingPanel" name="CXuiSceneCraftingPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,79,239,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,125,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,37,138,76,135,80,88,41"/>
+<area shape="rect" id="Node000003" href="$classIUIScene__CraftingMenu.html" title=" " alt="" coords="149,5,323,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,41,166,80,163,76,210,37"/>
+</map>

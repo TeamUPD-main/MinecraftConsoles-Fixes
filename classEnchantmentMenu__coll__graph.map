@@ -1,0 +1,7 @@
+<map id="EnchantmentMenu" name="EnchantmentMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,93,266,119"/>
+<area shape="rect" id="Node000002" href="$classAbstractContainerMenu.html" title=" " alt="" coords="5,5,180,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,38,182,91,178,95,115,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="205,5,389,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,42,210,95,207,91,270,38"/>
+</map>

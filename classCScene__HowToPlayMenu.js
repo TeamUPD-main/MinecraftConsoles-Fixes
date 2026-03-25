@@ -1,0 +1,38 @@
+var classCScene__HowToPlayMenu =
+[
+    [ "eHTPButton", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ad", [
+      [ "eHTPButton_WhatsNew", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada322ce46ed976ca29f32537a1b1754e4d", null ],
+      [ "eHTPButton_Basics", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada847a0a09b0cea8cd31f56ef72c89c6db", null ],
+      [ "eHTPButton_Multiplayer", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada7b12b9534d86564c1ee1f1051739c2b4", null ],
+      [ "eHTPButton_Hud", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adabcf542aa4de73f7cfc6384325a650caa", null ],
+      [ "eHTPButton_Creative", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adad08ea0dbab37d83374047aca7beab945", null ],
+      [ "eHTPButton_Inventory", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada8ec443a2098dad2d741ea4c9b4b158ab", null ],
+      [ "eHTPButton_Chest", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adac79d7301a34aedf51c4c6baedf9023fe", null ],
+      [ "eHTPButton_Crafting", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adacda4ceeb550f955162c1ac662aa703bd", null ],
+      [ "eHTPButton_Furnace", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada80889358641b53e1f3594893ea5a2825", null ],
+      [ "eHTPButton_Dispenser", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adaf96f99e19bddeb7d2ccd78218b16697c", null ],
+      [ "eHTPButton_Brewing", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada697f7c9ba37f1f0be632be41478e48bb", null ],
+      [ "eHTPButton_Enchantment", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada9c31f9b42d5ca254b40a86355fca7ade", null ],
+      [ "eHTPButton_Anvil", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada8da8eacf0b495eaed93b32a5c94db0a0", null ],
+      [ "eHTPButton_FarmingAnimals", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada02b31df5a88d5dae8567a032f7f999cc", null ],
+      [ "eHTPButton_Breeding", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada128333416f4dce752cb52737a83eafb1", null ],
+      [ "eHTPButton_Trading", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada7095ffd0576bc3544a4f47cd9666d8eb", null ],
+      [ "eHTPButton_NetherPortal", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adaa00da2c2d7b7f7cbbce3cf5bd48ceff5", null ],
+      [ "eHTPButton_TheEnd", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adafae9a8339cf74a990a74fa30480c99ce", null ],
+      [ "eHTPButton_SocialMedia", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada78b5eb81ea042722ba49d847615011f2", null ],
+      [ "eHTPButton_BanningLevels", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70adaf903af70732fdb90b79b3c9b683876ea", null ],
+      [ "eHTPButton_HostOptions", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada9ec6e00c33c8cca2bd2ee87b95418f80", null ],
+      [ "eHTPButton_Max", "classCScene__HowToPlayMenu.html#afacf216d497265d4866b4e2fd19f70ada6f22030703aa017ef9982c051501e11d", null ]
+    ] ],
+    [ "OnCustomMessage_Splitscreenplayer", "classCScene__HowToPlayMenu.html#a84ec2f9ded7b44fdbeae7867040e01bf", null ],
+    [ "OnGetItemCountAll", "classCScene__HowToPlayMenu.html#a3e89e75fed56c6348dfbc6efd20362d1", null ],
+    [ "OnGetSourceDataText", "classCScene__HowToPlayMenu.html#a711c4323110aed8c2e789d03473590a4", null ],
+    [ "OnInit", "classCScene__HowToPlayMenu.html#a7315151d0fefa972391a2fb0d13db75e", null ],
+    [ "OnKeyDown", "classCScene__HowToPlayMenu.html#a345f52ca42e1789a0d6ea0f0258520d7", null ],
+    [ "OnNavReturn", "classCScene__HowToPlayMenu.html#a8baef24a096a23f6070670796819b724", null ],
+    [ "OnNotifyPressEx", "classCScene__HowToPlayMenu.html#af7817f72a26e14b233b3d8ec962c24d8", null ],
+    [ "OnNotifySelChanged", "classCScene__HowToPlayMenu.html#a92f5555766650ace5f0f26876825eb81", null ],
+    [ "m_Background", "classCScene__HowToPlayMenu.html#acf9bbadc37fae05eb1f9582c02b873ee", null ],
+    [ "m_ButtonList", "classCScene__HowToPlayMenu.html#a77536ac1a0ea8e199bf02deb1f0c6e6c", null ],
+    [ "m_Scene", "classCScene__HowToPlayMenu.html#accae42449d843bf08d40939ff3928371", null ]
+];

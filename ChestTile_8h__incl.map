@@ -1,0 +1,20 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ChestTile.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ChestTile.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,5,474,60"/>
+<area shape="rect" id="Node000002" href="$BaseEntityTile_8h.html" title=" " alt="" coords="238,108,366,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,61,318,97,314,95,335,59"/>
+<area shape="rect" id="Node000004" href="$Material_8h.html" title=" " alt="" coords="359,255,447,280"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="365,59,381,107,395,180,403,241,398,241,390,181,375,109,360,61"/>
+<area shape="rect" id="Node000003" href="$Tile_8h.html" title=" " alt="" coords="179,181,238,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,135,236,175,233,171,285,131"/>
+<area shape="rect" id="Node000009" href="$EntityTile_8h.html" title=" " alt="" coords="262,181,358,207"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="306,133,310,168,305,168,301,134"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,204,360,247,358,252,237,209"/>
+<area shape="rect" id="Node000006" href="$Vec3_8h.html" title=" " alt="" coords="5,255,71,280"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="182,209,79,252,77,247,180,204"/>
+<area shape="rect" id="Node000007" href="$Definitions_8h.html" title=" " alt="" coords="95,255,199,280"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="201,209,168,246,164,242,197,205"/>
+<area shape="rect" id="Node000008" href="$SoundTypes_8h.html" title=" " alt="" coords="224,255,335,280"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="222,205,260,243,256,247,218,209"/>
+<area shape="rect" id="Node000005" href="$MaterialColor_8h.html" title=" " alt="" coords="343,328,464,353"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,280,406,314,401,314,401,280"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/TextureHolder.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/TextureHolder.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="687,5,961,60"/>
+<area shape="rect" id="Node000002" href="$PreStitchedTextureMap_8cpp.html" title=" " alt="" coords="5,211,299,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="697,66,531,111,375,163,238,213,236,208,373,158,530,105,696,61"/>
+<area shape="rect" id="Node000003" href="$StitchSlot_8cpp.html" title=" " alt="" coords="991,108,1251,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="915,62,1045,105,1043,110,914,67"/>
+<area shape="rect" id="Node000004" href="$Stitcher_8cpp.html" title=" " alt="" coords="323,218,570,273"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="715,67,663,86,613,110,573,136,535,165,474,220,471,216,532,161,570,132,611,106,661,81,713,62"/>
+<area shape="rect" id="Node000005" href="$Stitcher_8h.html" title=" " alt="" coords="624,108,867,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="797,73,768,110,764,106,793,69"/>
+<area shape="rect" id="Node000006" href="$TextureHolder_8cpp.html" title=" " alt="" coords="921,218,1209,273"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="853,69,891,115,938,161,977,190,1018,216,1015,220,974,195,934,165,888,118,849,73"/>
+<area shape="rect" id="Node000008" href="$TextureMap_8cpp.html" title=" " alt="" coords="1233,218,1508,273"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="877,66,930,106,945,122,955,136,965,148,981,160,1015,176,1044,187,1097,195,1152,198,1222,208,1256,215,1255,221,1221,213,1152,204,1096,201,1042,192,1012,181,979,165,961,152,950,139,941,125,926,110,874,70"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="611,161,311,213,299,216,298,210,310,208,610,156"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="661,170,520,220,518,215,659,165"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="837,165,989,215,987,220,836,170"/>
+<area shape="rect" id="Node000007" href="$TextureManager_8cpp.html" title=" " alt="" coords="594,218,897,273"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="748,177,748,218,743,218,743,177"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="881,153,1044,177,1222,208,1258,215,1257,221,1221,213,1043,183,880,158"/>
+</map>

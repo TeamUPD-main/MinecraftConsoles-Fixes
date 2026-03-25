@@ -1,0 +1,37 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/stdafx.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/stdafx.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2491,5,2733,75"/>
+<area shape="rect" id="Node000002" href="$ChunkRebuildData_8cpp.html" title=" " alt="" coords="5,123,315,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2477,46,2021,54,1400,70,780,93,523,108,327,125,315,127,314,122,326,120,522,103,780,88,1400,64,2021,49,2477,41"/>
+<area shape="rect" id="Node000003" href="$DiodeTile__SPU_8cpp.html" title=" " alt="" coords="339,123,621,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2477,47,2076,56,1545,72,1018,95,800,109,634,125,622,127,621,122,633,120,799,104,1018,89,1544,66,2076,50,2477,41"/>
+<area shape="rect" id="Node000004" href="$Direction__SPU_8cpp.html" title=" " alt="" coords="645,123,925,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2477,43,2196,45,1813,56,1599,66,1378,80,1155,100,938,125,926,127,925,122,937,120,1155,95,1377,75,1599,61,1813,50,2196,40,2477,38"/>
+<area shape="rect" id="Node000005" href="$DoorTile__SPU_8cpp.html" title=" " alt="" coords="950,123,1226,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2477,45,2243,50,1934,62,1587,86,1410,104,1238,125,1227,127,1226,122,1237,120,1410,99,1586,81,1934,57,2243,44,2477,39"/>
+<area shape="rect" id="Node000006" href="$Facing__SPU_8cpp.html" title=" " alt="" coords="1250,123,1513,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2477,47,2289,55,2051,70,1789,92,1526,125,1513,127,1513,122,1525,120,1788,87,2051,64,2288,50,2476,42"/>
+<area shape="rect" id="Node000007" href="$FenceTile__SPU_8cpp.html" title=" " alt="" coords="1537,123,1820,192"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2477,54,2181,80,2006,101,1832,125,1821,127,1820,122,1832,120,2005,95,2180,75,2477,48"/>
+<area shape="rect" id="Node000008" href="$GrassTile__SPU_8cpp.html" title=" " alt="" coords="1844,123,2127,192"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2477,66,2139,125,2127,128,2126,122,2138,120,2476,60"/>
+<area shape="rect" id="Node000009" href="$HalfSlabTile__SPU_8cpp.html" title=" " alt="" coords="2151,123,2451,192"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2510,82,2393,125,2391,120,2508,77"/>
+<area shape="rect" id="Node000010" href="$LeafTile__SPU_8cpp.html" title=" " alt="" coords="2475,123,2749,192"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2615,89,2615,122,2609,122,2609,89"/>
+<area shape="rect" id="Node000011" href="$LiquidTile__SPU_8cpp.html" title=" " alt="" coords="2773,123,3057,192"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2714,77,2827,120,2825,125,2712,82"/>
+<area shape="rect" id="Node000012" href="$PressurePlateTile__SPU_8cpp.html" title=" " alt="" coords="3081,123,3415,192"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2747,62,3070,120,3081,122,3080,127,3069,125,2746,68"/>
+<area shape="rect" id="Node000013" href="$StairTile__SPU_8cpp.html" title=" " alt="" coords="3440,123,3715,192"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2747,47,3059,73,3244,94,3428,120,3440,122,3439,127,3428,125,3244,99,3059,79,2747,52"/>
+<area shape="rect" id="Node000014" href="$TallGrass__SPU_8cpp.html" title=" " alt="" coords="3739,123,4019,192"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2747,42,2940,50,3184,65,3455,87,3727,120,3739,122,3738,127,3726,125,3455,93,3184,70,2939,56,2747,48"/>
+<area shape="rect" id="Node000015" href="$Tesselator__SPU_8cpp.html" title=" " alt="" coords="4043,123,4330,192"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2747,40,2989,45,3308,57,3668,81,3852,99,4031,120,4044,122,4043,127,4030,125,3851,104,3668,87,3308,63,2989,50,2747,45"/>
+<area shape="rect" id="Node000016" href="$ThinFenceTile__SPU_8cpp.html" title=" " alt="" coords="4354,123,4665,192"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2747,38,3037,41,3433,52,3885,77,4117,96,4343,120,4354,121,4353,127,4342,125,4116,101,3885,82,3433,57,3037,46,2747,43"/>
+<area shape="rect" id="Node000017" href="$TileRenderer__SPU_8cpp.html" title=" " alt="" coords="4689,123,4993,192"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2747,41,3164,50,3720,66,4273,90,4503,104,4678,120,4689,122,4689,127,4677,125,4503,109,4273,95,3720,72,3163,56,2747,46"/>
+<area shape="rect" id="Node000018" href="$Tile__SPU_8cpp.html" title=" " alt="" coords="5017,123,5263,192"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2748,40,3223,45,3876,58,4213,68,4528,82,4800,99,5006,120,5018,122,5017,127,5005,125,4799,104,4528,87,4213,74,3875,63,3223,50,2747,45"/>
+</map>

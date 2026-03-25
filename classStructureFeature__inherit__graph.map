@@ -1,0 +1,15 @@
+<map id="StructureFeature" name="StructureFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,104,291,129"/>
+<area shape="rect" id="Node000003" href="$classMineShaftFeature.html" title=" " alt="" coords="382,5,518,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,93,291,65,338,40,381,26,382,31,340,44,293,70,254,97"/>
+<area shape="rect" id="Node000004" href="$classNetherBridgeFeature.html" title=" " alt="" coords="371,55,529,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="295,98,338,89,389,77,390,83,339,94,296,104"/>
+<area shape="rect" id="Node000005" href="$classRandomScatteredLargeFeature.html" title=" " alt="" coords="339,104,561,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="305,114,339,114,339,119,305,119"/>
+<area shape="rect" id="Node000006" href="$classStrongholdFeature.html" title=" " alt="" coords="379,153,521,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="296,130,339,139,390,151,389,156,338,145,295,135"/>
+<area shape="rect" id="Node000007" href="$classVillageFeature.html" title=" " alt="" coords="392,203,508,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="254,136,293,164,340,189,392,204,391,210,338,194,291,168,251,140"/>
+<area shape="rect" id="Node000002" href="$classLargeFeature.html" title=" " alt="" coords="5,104,112,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,114,160,114,160,119,126,119"/>
+</map>

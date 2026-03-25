@@ -1,0 +1,7 @@
+<map id="UIScene_LoadMenu" name="UIScene_LoadMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,152,158,177"/>
+<area shape="rect" id="Node000002" href="$classIUIScene__StartGame.html" title=" " alt="" coords="5,79,161,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,118,86,152,81,152,81,118"/>
+<area shape="rect" id="Node000003" href="$classUIScene.html" title=" " alt="" coords="46,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,44,86,79,81,79,81,44"/>
+</map>

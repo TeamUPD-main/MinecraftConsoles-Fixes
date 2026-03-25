@@ -1,0 +1,25 @@
+var classMapItemSavedData =
+[
+    [ "HoldingPlayer", "classMapItemSavedData_1_1HoldingPlayer.html", "classMapItemSavedData_1_1HoldingPlayer" ],
+    [ "MapDecoration", "classMapItemSavedData_1_1MapDecoration.html", "classMapItemSavedData_1_1MapDecoration" ],
+    [ "MapItemSavedData", "classMapItemSavedData.html#a1d29ffacf070986cde4ee46e7260dea4", null ],
+    [ "~MapItemSavedData", "classMapItemSavedData.html#af8606dd048183f6e5f3635783e632c8a", null ],
+    [ "getHoldingPlayer", "classMapItemSavedData.html#acc969006c78fc95efc939ea1359f27e7", null ],
+    [ "getUpdatePacket", "classMapItemSavedData.html#a54ce7e9b48e4ba4744e071fea3152bae", null ],
+    [ "handleComplexItemData", "classMapItemSavedData.html#a4c12485ccd5832ce6cd02d529c1ba48f", null ],
+    [ "load", "classMapItemSavedData.html#a1df7a397ff78f1feff6eced61a712450", null ],
+    [ "mergeInMapData", "classMapItemSavedData.html#a5d0cbd1c007571c758cff9aab4fcdffe", null ],
+    [ "removeItemFrameDecoration", "classMapItemSavedData.html#aa8c42f9c142b7f845fc79819b48b9225", null ],
+    [ "save", "classMapItemSavedData.html#a5c2256777ae59454f381a2a3461a07b6", null ],
+    [ "setDirty", "classMapItemSavedData.html#ad0c8ae8126ae890453d782f050499e3d", null ],
+    [ "setDirty", "classMapItemSavedData.html#a84a7b2967e7b6e796cd07599446da961", null ],
+    [ "setDirty", "classMapItemSavedData.html#a74320a8f1130e275ac992e2900e28827", null ],
+    [ "tickCarriedBy", "classMapItemSavedData.html#ad5b7891d395287903b3f4f7c807ff8b9", null ],
+    [ "carriedBy", "classMapItemSavedData.html#aed1984fb37eb1df9d195e744e782db97", null ],
+    [ "colors", "classMapItemSavedData.html#a897523aa9aad866249435bb3d3f1ae8c", null ],
+    [ "decorations", "classMapItemSavedData.html#a33f6c3b97965feae16cb57f7a7eb46da", null ],
+    [ "dimension", "classMapItemSavedData.html#a3aab046ad58d3850b9a6e4b223777b5f", null ],
+    [ "scale", "classMapItemSavedData.html#a3fc77b44c1c3488b2a8ab0458a44f86a", null ],
+    [ "x", "classMapItemSavedData.html#a6f1e7bfe47872e9ff571558754adbfaa", null ],
+    [ "z", "classMapItemSavedData.html#aa1873f97b60a4ea069968b1c4098f646", null ]
+];

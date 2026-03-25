@@ -1,0 +1,26 @@
+var dir_8a1a71c31455a4420f24e3bbd1d80ffb =
+[
+    [ "Conf.h", "Conf_8h.html", null ],
+    [ "CustomMap.cpp", "CustomMap_8cpp.html", null ],
+    [ "CustomMap.h", "CustomMap_8h.html", "CustomMap_8h" ],
+    [ "CustomSet.cpp", "CustomSet_8cpp.html", null ],
+    [ "CustomSet.h", "CustomSet_8h.html", "CustomSet_8h" ],
+    [ "libdivide.h", "libdivide_8h.html", "libdivide_8h" ],
+    [ "PSVitaMaths.h", "PSVitaMaths_8h.html", "PSVitaMaths_8h" ],
+    [ "PSVitaStrings.cpp", "PSVitaStrings_8cpp.html", "PSVitaStrings_8cpp" ],
+    [ "PSVitaStrings.h", "PSVitaStrings_8h.html", "PSVitaStrings_8h" ],
+    [ "PsVitaStubs.cpp", "PsVitaStubs_8cpp.html", "PsVitaStubs_8cpp" ],
+    [ "PSVitaStubs.h", "PSVitaStubs_8h.html", "PSVitaStubs_8h" ],
+    [ "PSVitaTLSStorage.cpp", "PSVitaTLSStorage_8cpp.html", "PSVitaTLSStorage_8cpp" ],
+    [ "PSVitaTLSStorage.h", "PSVitaTLSStorage_8h.html", "PSVitaTLSStorage_8h" ],
+    [ "PSVitaTypes.h", "PSVitaTypes_8h.html", "PSVitaTypes_8h" ],
+    [ "ShutdownManager.cpp", "PSVita_2PSVitaExtras_2ShutdownManager_8cpp.html", null ],
+    [ "ShutdownManager.h", "PSVita_2PSVitaExtras_2ShutdownManager_8h.html", "PSVita_2PSVitaExtras_2ShutdownManager_8h" ],
+    [ "TLSStorage.cpp", "PSVita_2PSVitaExtras_2TLSStorage_8cpp.html", null ],
+    [ "TLSStorage.h", "PSVita_2PSVitaExtras_2TLSStorage_8h.html", "PSVita_2PSVitaExtras_2TLSStorage_8h" ],
+    [ "user_malloc.c", "user__malloc_8c.html", "user__malloc_8c" ],
+    [ "user_malloc_for_tls.c", "user__malloc__for__tls_8c.html", "user__malloc__for__tls_8c" ],
+    [ "user_new.cpp", "PSVita_2PSVitaExtras_2user__new_8cpp.html", "PSVita_2PSVitaExtras_2user__new_8cpp" ],
+    [ "zconf.h", "PSVita_2PSVitaExtras_2zconf_8h.html", "PSVita_2PSVitaExtras_2zconf_8h" ],
+    [ "zlib.h", "PSVita_2PSVitaExtras_2zlib_8h.html", "PSVita_2PSVitaExtras_2zlib_8h" ]
+];

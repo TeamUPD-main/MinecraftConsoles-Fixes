@@ -1,0 +1,17 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/ScrolledSelectionList.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/ScrolledSelectionList.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="324,5,643,60"/>
+<area shape="rect" id="Node000002" href="$ScrolledSelectionList_8cpp.html" title=" " alt="" coords="25,108,307,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,67,266,110,264,105,392,62"/>
+<area shape="rect" id="Node000003" href="$SelectWorldScreen_8h.html" title=" " alt="" coords="331,115,635,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,74,486,115,481,115,481,74"/>
+<area shape="rect" id="Node000006" href="$StatsScreen_8h.html" title=" " alt="" coords="665,115,925,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="573,62,720,113,719,118,571,67"/>
+<area shape="rect" id="Node000004" href="$SelectWorldScreen_8cpp.html" title=" " alt="" coords="5,225,324,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,177,243,228,241,223,392,172"/>
+<area shape="rect" id="Node000005" href="$TitleScreen_8cpp.html" title=" " alt="" coords="348,225,619,280"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="486,184,486,225,481,225,481,184"/>
+<area shape="rect" id="Node000007" href="$InventoryScreen_8cpp.html" title=" " alt="" coords="643,225,947,280"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="798,184,798,225,793,225,793,184"/>
+<area shape="rect" id="Node000008" href="$StatsScreen_8cpp.html" title=" " alt="" coords="971,225,1246,280"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="885,172,1033,223,1032,228,884,177"/>
+</map>

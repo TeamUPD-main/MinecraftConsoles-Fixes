@@ -1,0 +1,42 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/GameMode.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/GameMode.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1209,5,1467,60"/>
+<area shape="rect" id="Node000002" href="$AbstractContainerScreen_8cpp.html" title=" " alt="" coords="306,108,594,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1195,47,924,72,768,89,613,111,595,114,594,108,612,105,768,84,924,66,1195,42"/>
+<area shape="rect" id="Node000003" href="$CreativeMode_8h.html" title=" " alt="" coords="669,115,943,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1196,63,956,111,922,118,921,113,955,105,1195,58"/>
+<area shape="rect" id="Node000005" href="$GameRenderer_8cpp.html" title=" " alt="" coords="5,233,300,287"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="1195,39,1050,45,895,57,754,78,699,93,658,110,642,126,634,143,625,162,608,179,567,201,531,213,498,219,465,221,397,220,357,222,312,228,274,235,273,230,311,223,357,216,396,215,465,216,497,214,530,208,565,196,604,175,621,159,629,141,637,123,655,106,697,88,753,73,894,52,1050,40,1194,33"/>
+<area shape="rect" id="Node000007" href="$Minecraft_8cpp.html" title=" " alt="" coords="1241,233,1499,287"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="1346,73,1369,232,1364,233,1341,74"/>
+<area shape="rect" id="Node000009" href="$GameMode_8cpp.html" title=" " alt="" coords="1671,115,1944,170"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1466,61,1694,113,1693,118,1465,66"/>
+<area shape="rect" id="Node000010" href="$Gui_8cpp.html" title=" " alt="" coords="1969,115,2211,170"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1481,43,1705,68,1956,105,1991,113,1990,118,1955,111,1704,73,1481,49"/>
+<area shape="rect" id="Node000011" href="$Input_8cpp.html" title=" " alt="" coords="2235,115,2478,170"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1481,36,1635,44,1821,57,2023,77,2224,105,2261,113,2260,118,2223,111,2022,83,1820,63,1634,49,1481,42"/>
+<area shape="rect" id="Node000012" href="$MultiPlayerGameMode_8h.html" title=" " alt="" coords="968,115,1300,170"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1277,69,1185,118,1183,113,1275,64"/>
+<area shape="rect" id="Node000013" href="$SurvivalMode_8h.html" title=" " alt="" coords="1375,115,1647,170"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1393,65,1470,113,1467,117,1390,70"/>
+<area shape="rect" id="Node000004" href="$CreativeMode_8cpp.html" title=" " alt="" coords="324,233,613,287"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="717,177,546,235,545,230,716,172"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="675,175,650,180,481,204,312,228,273,235,272,230,311,223,480,199,650,175,674,170"/>
+<area shape="rect" id="Node000006" href="$LocalPlayer_8cpp.html" title=" " alt="" coords="638,233,910,287"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="798,184,784,233,779,232,793,182"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="934,170,956,175,1093,198,1229,223,1263,230,1262,235,1228,228,1092,204,955,180,933,175"/>
+<area shape="rect" id="Node000008" href="$MultiPlayerGameMode_8cpp.html" title=" " alt="" coords="933,225,1217,295"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="881,173,998,223,996,228,879,178"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="1117,183,1095,226,1090,224,1112,181"/>
+<area shape="poly" id="edge21_Node000013_Node000007" title=" " alt="" coords="1470,181,1404,234,1401,230,1467,177"/>
+<area shape="rect" id="Node000014" href="$CreateWorldScreen_8cpp.html" title=" " alt="" coords="1523,233,1846,287"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1563,175,1646,230,1643,235,1561,180"/>
+<area shape="rect" id="Node000015" href="$DemoMode_8h.html" title=" " alt="" coords="1870,233,2129,287"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="1636,171,1859,223,1890,230,1888,235,1857,228,1635,176"/>
+<area shape="rect" id="Node000018" href="$SurvivalMode_8cpp.html" title=" " alt="" coords="2143,343,2429,397"/>
+<area shape="poly" id="edge22_Node000013_Node000018" title=" " alt="" coords="1633,170,1658,175,1732,183,1796,184,1906,177,1958,176,2013,181,2073,196,2142,223,2182,248,2218,279,2270,341,2266,344,2215,283,2179,252,2139,228,2072,201,2012,187,1958,182,1906,183,1796,189,1732,188,1658,180,1632,175"/>
+<area shape="rect" id="Node000016" href="$DemoMode_8cpp.html" title=" " alt="" coords="1503,343,1776,397"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="1899,294,1727,345,1726,340,1898,289"/>
+<area shape="rect" id="Node000017" href="$SelectWorldScreen_8cpp.html" title=" " alt="" coords="1800,343,2119,397"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="1987,302,1972,343,1967,342,1982,300"/>
+<area shape="poly" id="edge20_Node000015_Node000018" title=" " alt="" coords="2083,290,2217,340,2215,345,2081,295"/>
+</map>

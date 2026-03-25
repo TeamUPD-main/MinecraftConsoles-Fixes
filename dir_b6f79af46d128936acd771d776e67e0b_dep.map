@@ -1,0 +1,51 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common">
+<area shape="rect" id="node1" href="dir_098d64dbca449773887fe283469a610c.html" title="PSVita" alt="" coords="645,283,709,308"/>
+<area shape="rect" id="node3" href="dir_da5024fb62d0249a020ba5f3d7ae673d.html" title="Audio" alt="" coords="64,136,123,161"/>
+<area shape="poly" id="edge6" href="dir_000020_000011.html" alt="" coords="141,90,113,127,108,124,137,87"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000020_000011.html" title="1" alt="" coords="115,119,125,134"/>
+<area shape="rect" id="node5" href="dir_6863f4310f8703f4f18c88da57e6757e.html" title="DLC" alt="" coords="156,209,204,235"/>
+<area shape="poly" id="edge4" href="dir_000020_000029.html" alt="" coords="152,88,165,161,175,195,170,197,160,162,147,89"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000020_000029.html" title="3" alt="" coords="174,182,183,196"/>
+<area shape="rect" id="node6" href="dir_67e56a7d1893b6ad7e61b4a1d3b440a8.html" title="GameRules" alt="" coords="174,136,271,161"/>
+<area shape="poly" id="edge3" href="dir_000020_000044.html" alt="" coords="162,86,202,125,199,128,158,90"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000020_000044.html" title="2" alt="" coords="198,110,208,125"/>
+<area shape="rect" id="node12" href="dir_450bcdc24bfab6f0d6b7b0c2036c629c.html" title="Tutorial" alt="" coords="262,209,333,235"/>
+<area shape="poly" id="edge2" href="dir_000020_000159.html" alt="" coords="185,86,244,108,270,121,286,134,299,164,302,195,297,196,294,166,282,138,267,125,242,113,183,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000020_000159.html" title="1" alt="" coords="303,184,313,199"/>
+<area shape="rect" id="node13" href="dir_8d97201ef101630fe8b9a8f4a18c8026.html" title="UI" alt="" coords="339,283,378,308"/>
+<area shape="poly" id="edge5" href="dir_000020_000160.html" alt="" coords="190,84,244,102,272,116,298,134,329,167,348,208,356,240,360,269,355,270,351,241,343,210,325,170,294,138,269,121,242,107,188,89"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000020_000160.html" title="9" alt="" coords="361,257,370,271"/>
+<area shape="rect" id="node16" href="dir_0666e2af806c1786b778dbc2d7b22cf8.html" title="Minecraft.World" alt="" coords="710,356,834,381"/>
+<area shape="poly" id="edge1" href="dir_000020_000101.html" alt="" coords="189,83,202,85,268,93,326,93,426,87,474,86,523,92,577,106,637,134,684,163,715,194,739,231,762,282,772,313,775,342,769,343,766,314,758,284,734,234,711,197,681,167,635,138,575,111,522,97,474,91,426,92,326,98,268,98,201,91,188,88"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000020_000101.html" title="23" alt="" coords="772,330,789,345"/>
+<area shape="poly" id="edge7" href="dir_000011_000029.html" alt="" coords="109,159,157,198,154,203,106,163"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000011_000029.html" title="1" alt="" coords="152,184,162,198"/>
+<area shape="rect" id="node4" href="dir_c7bcc24f2149b876826d47cb11f2f269.html" title="Colours" alt="" coords="483,63,554,88"/>
+<area shape="poly" id="edge8" href="dir_000029_000160.html" alt="" coords="205,230,327,279,326,284,203,235"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000029_000160.html" title="1" alt="" coords="321,264,330,279"/>
+<area shape="poly" id="edge9" href="dir_000044_000029.html" alt="" coords="218,163,196,199,192,196,213,160"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000044_000029.html" title="1" alt="" coords="199,191,208,205"/>
+<area shape="rect" id="node7" href="dir_dfa301130c2109ecbcc7aa4916fdad3d.html" title="Leaderboards" alt="" coords="513,136,623,161"/>
+<area shape="rect" id="node9" href="dir_bf5d76a865dc70d5dc8685a47fd8289f.html" title="Network" alt="" coords="537,209,615,235"/>
+<area shape="poly" id="edge10" href="dir_000077_000103.html" alt="" coords="572,161,576,196,571,196,567,162"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000077_000103.html" title="1" alt="" coords="576,183,586,198"/>
+<area shape="rect" id="node8" href="dir_251b93421b0f37628d9e3b042b657ef9.html" title="Media" alt="" coords="397,63,459,88"/>
+<area shape="poly" id="edge13" href="dir_000103_000126.html" alt="" coords="594,232,651,272,648,277,591,237"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000103_000126.html" title="1" alt="" coords="646,258,655,272"/>
+<area shape="poly" id="edge12" href="dir_000103_000160.html" alt="" coords="538,236,392,283,390,278,536,231"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000103_000160.html" title="2" alt="" coords="394,279,403,294"/>
+<area shape="poly" id="edge11" href="dir_000103_000101.html" alt="" coords="616,228,671,247,701,262,727,281,751,311,766,342,761,344,746,313,723,285,698,266,669,252,614,234"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000103_000101.html" title="2" alt="" coords="766,329,775,343"/>
+<area shape="rect" id="node10" href="dir_69999cb251b938318e5ffaf47468dda1.html" title="Telemetry" alt="" coords="286,63,373,88"/>
+<area shape="rect" id="node11" href="dir_fe05738b2e6ffa75b0d9cc8dd02e0067.html" title="Trial" alt="" coords="213,63,262,88"/>
+<area shape="poly" id="edge14" href="dir_000159_000160.html" alt="" coords="309,233,342,270,338,274,305,237"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000159_000160.html" title="3" alt="" coords="339,256,348,271"/>
+<area shape="poly" id="edge15" href="dir_000160_000101.html" alt="" coords="367,307,375,318,385,327,409,337,441,344,523,356,696,364,696,370,523,361,440,350,407,342,383,332,371,322,362,310"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000160_000101.html" title="6" alt="" coords="687,351,696,366"/>
+<area shape="rect" id="node14" href="dir_56a22b13ab6ba4ec7addefa891511b81.html" title="XUI" alt="" coords="579,63,624,88"/>
+<area shape="poly" id="edge16" href="dir_000175_000101.html" alt="" coords="625,77,731,96,784,113,805,123,818,134,835,159,846,183,851,206,852,229,841,277,818,331,805,349,800,346,814,328,836,275,846,229,846,207,840,185,830,162,814,138,802,127,782,118,730,101,624,82"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000175_000101.html" title="13" alt="" coords="803,344,820,358"/>
+<area shape="rect" id="node15" href="dir_41068c4861ee76883a7f001d1ff214a3.html" title="zlib" alt="" coords="37,63,83,88"/>
+<area shape="rect" id="clust2" href="dir_b6f79af46d128936acd771d776e67e0b.html" alt="" coords="27,52,635,319"/>
+<area shape="rect" id="clust1" href="dir_5ec920bed51d12b6e964413a88310eeb.html" title="Minecraft.Client" alt="" coords="16,16,720,329"/>
+</map>

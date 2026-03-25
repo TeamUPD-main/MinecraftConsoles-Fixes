@@ -1,0 +1,20 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Durango/Network/NetworkPlayerDurango.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Durango/Network/NetworkPlayerDurango.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,268,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="22,123,97,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,76,80,114,76,110,107,73"/>
+<area shape="rect" id="Node000003" href="$NetworkPlayerDurango_8h.html" title=" " alt="" coords="121,123,307,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,73,198,110,193,114,163,76"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="18,196,210,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,150,151,189,147,185,198,146"/>
+<area shape="rect" id="Node000005" href="$DQRNetworkPlayer_8h.html" title=" " alt="" coords="235,203,393,229"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="230,146,290,193,287,197,227,150"/>
+<area shape="rect" id="Node000006" href="$DQRNetworkManager_8h.html" title=" " alt="" coords="227,284,401,309"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="310,229,308,270,303,270,305,229"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="425,284,488,309"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="336,227,425,275,423,280,334,231"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="318,284,320,242,325,243,323,284"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="175,357,311,397"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="306,311,271,349,267,345,302,308"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="336,365,433,390"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="326,308,367,353,363,356,322,311"/>
+</map>

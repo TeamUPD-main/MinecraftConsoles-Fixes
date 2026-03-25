@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/GameRules/XboxStructureActionGenerateBox.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/GameRules/XboxStructureActionGenerateBox.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,5,355,75"/>
+<area shape="rect" id="Node000002" href="$ConsoleGenerateStructureAction_8h.html" title=" " alt="" coords="91,123,284,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,75,190,108,185,108,185,75"/>
+<area shape="rect" id="Node000003" href="$GameRuleDefinition_8h.html" title=" " alt="" coords="105,211,270,236"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,163,190,197,185,197,185,163"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="244,445,368,471"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,235,55,252,33,267,15,285,8,304,15,323,35,348,59,370,115,405,175,429,232,443,230,448,173,434,112,410,56,374,31,352,11,325,3,304,11,283,30,262,53,247,104,229"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="25,291,84,317"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="169,238,87,287,84,282,167,234"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="108,284,268,324"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="190,236,190,270,185,270,185,236"/>
+<area shape="rect" id="Node000007" href="$ConsoleGameRulesConstants_8h.html" title=" " alt="" coords="292,291,518,317"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="220,233,361,284,359,289,218,239"/>
+<area shape="rect" id="Node000008" href="$GameRulesInstance_8h.html" title=" " alt="" coords="543,291,707,317"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="256,233,531,281,556,286,555,291,530,287,255,239"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="487,372,550,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="611,319,547,366,543,362,608,315"/>
+<area shape="rect" id="Node000010" href="$GameRule_8h.html" title=" " alt="" coords="574,372,676,397"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="628,317,628,358,622,358,622,317"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="574,400,372,445,370,440,573,395"/>
+</map>

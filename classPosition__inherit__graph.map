@@ -1,0 +1,13 @@
+<map id="Position" name="Position">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,5,165,31"/>
+<area shape="rect" id="Node000002" href="$classLocation.html" title=" " alt="" coords="32,79,109,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,43,82,80,78,77,108,40"/>
+<area shape="rect" id="Node000006" href="$classPositionImpl.html" title=" " alt="" coords="134,79,237,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="148,40,178,77,174,80,144,43"/>
+<area shape="rect" id="Node000003" href="$classLocatableSource.html" title=" " alt="" coords="6,152,135,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,118,73,152,68,152,68,118"/>
+<area shape="rect" id="Node000004" href="$classBlockSource.html" title=" " alt="" coords="19,225,122,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,191,73,225,68,225,68,191"/>
+<area shape="rect" id="Node000005" href="$classBlockSourceImpl.html" title=" " alt="" coords="5,299,136,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="73,264,73,299,68,299,68,264"/>
+</map>

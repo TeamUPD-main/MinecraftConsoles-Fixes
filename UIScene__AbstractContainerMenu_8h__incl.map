@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIScene_AbstractContainerMenu.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIScene_AbstractContainerMenu.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,5,354,75"/>
+<area shape="rect" id="Node000002" href="$UIScene_8h.html" title=" " alt="" coords="92,130,179,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,77,156,121,152,118,189,73"/>
+<area shape="rect" id="Node000010" href="$IUIScene__AbstractContainerMenu_8h.html" title=" " alt="" coords="203,123,406,163"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="250,73,281,110,277,113,246,77"/>
+<area shape="rect" id="Node000003" href="$UIEnums_8h.html" title=" " alt="" coords="5,211,97,236"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,157,76,203,72,199,121,154"/>
+<area shape="rect" id="Node000004" href="$UIControl__Base_8h.html" title=" " alt="" coords="127,284,261,309"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="140,155,149,191,163,235,182,271,177,273,158,237,144,193,135,156"/>
+<area shape="rect" id="Node000009" href="$UIControl__TextInput_8h.html" title=" " alt="" coords="173,211,335,236"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="154,153,226,201,223,205,151,158"/>
+<area shape="rect" id="Node000005" href="$UIControl_8h.html" title=" " alt="" coords="89,357,184,383"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,311,157,348,153,345,182,308"/>
+<area shape="rect" id="Node000006" href="$UIString_8h.html" title=" " alt="" coords="208,357,295,383"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="206,308,235,345,231,348,201,311"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="186,431,229,456"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="246,384,224,420,219,418,242,382"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="253,431,340,456"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="261,382,284,418,280,421,257,384"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="246,238,215,275,210,272,242,235"/>
+</map>

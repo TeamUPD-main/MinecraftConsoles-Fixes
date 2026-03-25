@@ -1,0 +1,18 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/DummyCriteria.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/DummyCriteria.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="322,5,605,60"/>
+<area shape="rect" id="Node000002" href="$DummyCriteria_8cpp.html" title=" " alt="" coords="5,108,303,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,67,235,110,234,105,369,62"/>
+<area shape="rect" id="Node000003" href="$HealthCriteria_8h.html" title=" " alt="" coords="327,108,600,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="466,74,466,108,461,108,461,74"/>
+<area shape="rect" id="Node000005" href="$net_8minecraft_8world_8scores_8criteria_8h.html" title=" " alt="" coords="435,211,841,265"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="561,64,589,82,613,106,628,131,636,159,642,210,636,211,631,160,623,134,609,110,586,87,558,68"/>
+<area shape="rect" id="Node000004" href="$HealthCriteria_8cpp.html" title=" " alt="" coords="123,211,411,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,171,320,213,317,208,399,167"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="522,167,594,208,591,213,519,172"/>
+<area shape="rect" id="Node000006" href="$ObjectiveCriteria_8cpp.html" title=" " alt="" coords="186,313,493,368"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="548,272,418,316,416,311,547,267"/>
+<area shape="rect" id="Node000007" href="$Player_8cpp.html" title=" " alt="" coords="517,313,759,368"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="641,279,641,313,635,313,635,279"/>
+<area shape="rect" id="Node000008" href="$Score_8cpp.html" title=" " alt="" coords="783,313,1026,368"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="721,268,836,311,834,316,719,273"/>
+</map>

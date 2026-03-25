@@ -1,0 +1,9 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/PlayerEnderChestContainer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/PlayerEnderChestContainer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,291,75"/>
+<area shape="rect" id="Node000002" href="$SimpleContainer_8h.html" title=" " alt="" coords="77,123,219,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,75,151,109,145,109,145,75"/>
+<area shape="rect" id="Node000003" href="$Container_8h.html" title=" " alt="" coords="11,203,107,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,150,84,196,80,192,133,146"/>
+<area shape="rect" id="Node000004" href="$net_8minecraft_8world_8ContainerListener_8h.html" title=" " alt="" coords="131,196,347,236"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,146,208,185,205,189,160,150"/>
+</map>

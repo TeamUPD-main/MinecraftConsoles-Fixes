@@ -1,0 +1,49 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/Tesselator_SPU.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/Tesselator_SPU.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="4401,5,4673,75"/>
+<area shape="rect" id="Node000002" href="$ChunkRebuildData_8cpp.html" title=" " alt="" coords="4077,357,4387,427"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4539,88,4534,139,4522,199,4499,258,4483,286,4463,311,4429,340,4388,361,4386,356,4426,335,4459,307,4479,283,4494,256,4517,197,4529,139,4534,88"/>
+<area shape="rect" id="Node000003" href="$ChunkRebuildData_8h.html" title=" " alt="" coords="2675,123,2970,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="4387,54,2970,149,2970,143,4387,49"/>
+<area shape="rect" id="Node000018" href="$TileRenderer__SPU_8cpp.html" title=" " alt="" coords="4411,357,4715,427"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="4543,88,4563,357,4558,357,4538,88"/>
+<area shape="rect" id="Node000021" href="$Tesselator__SPU_8cpp.html" title=" " alt="" coords="4601,123,4887,192"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="4611,79,4685,120,4682,125,4608,84"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="2983,158,3372,166,3841,181,4060,191,4244,204,4376,219,4417,228,4438,238,4450,256,4453,274,4449,292,4438,311,4412,339,4380,359,4378,355,4409,335,4434,308,4444,290,4448,273,4445,258,4434,242,4415,233,4375,225,4244,209,4060,196,3840,186,3371,171,2983,164"/>
+<area shape="rect" id="Node000004" href="$C4JThread__SPU_8cpp.html" title=" " alt="" coords="3495,240,3759,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2984,172,3217,199,3476,237,3495,241,3494,246,3476,243,3217,204,2984,177"/>
+<area shape="rect" id="Node000005" href="$CakeTile__SPU_8h.html" title=" " alt="" coords="2846,240,3109,309"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="2881,198,2933,237,2930,242,2877,203"/>
+<area shape="rect" id="Node000006" href="$Tile__SPU_8cpp.html" title=" " alt="" coords="3153,357,3399,427"/>
+<area shape="poly" id="edge21_Node000003_Node000006" title=" " alt="" coords="2984,167,3122,178,3261,194,3374,214,3412,225,3434,238,3445,256,3448,274,3444,292,3434,311,3411,339,3381,359,3378,355,3407,335,3430,308,3439,290,3443,273,3440,258,3430,242,3410,230,3373,219,3260,200,3121,184,2983,172"/>
+<area shape="rect" id="Node000007" href="$DoorTile__SPU_8cpp.html" title=" " alt="" coords="4147,240,4423,309"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="2984,158,3211,164,3498,177,3817,201,3979,217,4136,237,4148,239,4147,244,4136,243,3978,223,3817,206,3498,183,3210,169,2984,163"/>
+<area shape="rect" id="Node000008" href="$FenceTile__SPU_8cpp.html" title=" " alt="" coords="5,240,288,309"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="2662,163,2154,169,1473,183,795,207,514,223,300,243,288,244,288,239,300,237,514,218,795,201,1473,178,2154,164,2661,157"/>
+<area shape="rect" id="Node000009" href="$GrassTile__SPU_8cpp.html" title=" " alt="" coords="312,240,595,309"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="2662,164,2211,172,1618,187,1034,210,791,225,607,243,595,244,594,239,606,237,791,220,1034,205,1618,181,2211,166,2662,158"/>
+<area shape="rect" id="Node000010" href="$HalfSlabTile__SPU_8cpp.html" title=" " alt="" coords="619,240,919,309"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="2661,165,2272,175,1774,192,1287,215,1086,228,932,243,920,244,919,239,932,237,1085,223,1287,209,1773,187,2272,170,2661,160"/>
+<area shape="rect" id="Node000011" href="$LeafTile__SPU_8cpp.html" title=" " alt="" coords="943,240,1217,309"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="2662,161,2390,164,2033,175,1632,200,1429,219,1230,243,1217,244,1217,239,1229,237,1428,214,1632,195,2032,170,2389,158,2662,155"/>
+<area shape="rect" id="Node000012" href="$LiquidTile__SPU_8cpp.html" title=" " alt="" coords="1241,240,1525,309"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="2661,164,2439,171,2159,184,1848,208,1538,243,1525,244,1525,239,1537,237,1848,202,2158,179,2439,165,2661,159"/>
+<area shape="rect" id="Node000013" href="$PressurePlateTile__SPU_8cpp.html" title=" " alt="" coords="1549,240,1883,309"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="2662,171,2310,198,2103,218,1896,243,1884,244,1883,239,1896,237,2102,212,2309,192,2661,165"/>
+<area shape="rect" id="Node000014" href="$StairTile__SPU_8cpp.html" title=" " alt="" coords="1908,240,2183,309"/>
+<area shape="poly" id="edge14_Node000003_Node000014" title=" " alt="" coords="2662,178,2440,205,2195,243,2183,245,2182,240,2194,237,2439,200,2661,173"/>
+<area shape="rect" id="Node000015" href="$TallGrass__SPU_8cpp.html" title=" " alt="" coords="2207,240,2487,309"/>
+<area shape="poly" id="edge15_Node000003_Node000015" title=" " alt="" coords="2671,198,2486,243,2485,237,2670,193"/>
+<area shape="rect" id="Node000016" href="$ThinFenceTile__SPU_8cpp.html" title=" " alt="" coords="2511,240,2822,309"/>
+<area shape="poly" id="edge16_Node000003_Node000016" title=" " alt="" coords="2768,202,2714,242,2711,237,2765,198"/>
+<area shape="rect" id="Node000017" href="$TileRenderer__SPU_8h.html" title=" " alt="" coords="3834,240,4123,309"/>
+<area shape="poly" id="edge17_Node000003_Node000017" title=" " alt="" coords="2984,163,3364,189,3590,210,3815,237,3834,240,3834,246,3814,243,3589,215,3363,194,2983,169"/>
+<area shape="rect" id="Node000019" href="$task_8cpp.html" title=" " alt="" coords="3743,357,3985,427"/>
+<area shape="poly" id="edge24_Node000003_Node000019" title=" " alt="" coords="2984,162,3204,173,3448,189,3656,210,3729,223,3772,238,3791,257,3812,287,3850,356,3845,358,3808,290,3787,260,3769,242,3728,228,3655,215,3447,194,3204,178,2984,167"/>
+<area shape="rect" id="Node000020" href="$TopSnowTile__SPU_8h.html" title=" " alt="" coords="3133,240,3419,309"/>
+<area shape="poly" id="edge22_Node000003_Node000020" title=" " alt="" coords="2969,193,3145,237,3143,243,2967,198"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="3078,312,3190,355,3188,360,3076,317"/>
+<area shape="poly" id="edge18_Node000017_Node000002" title=" " alt="" coords="4066,313,4159,355,4157,360,4064,317"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="4137,307,4399,355,4411,357,4410,362,4398,360,4136,312"/>
+<area shape="poly" id="edge20_Node000017_Node000019" title=" " alt="" coords="3937,321,3899,359,3896,355,3933,318"/>
+<area shape="poly" id="edge23_Node000020_Node000006" title=" " alt="" coords="3279,323,3279,357,3273,357,3273,323"/>
+</map>

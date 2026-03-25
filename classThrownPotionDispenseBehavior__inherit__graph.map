@@ -1,0 +1,12 @@
+<map id="ThrownPotionDispenseBehavior" name="ThrownPotionDispenseBehavior">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,313,235,339"/>
+<area shape="rect" id="Node000002" href="$classAbstractProjectileDispenseBehavior.html" title=" " alt="" coords="21,225,219,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,279,123,313,117,313,117,279"/>
+<area shape="rect" id="Node000003" href="$classDefaultDispenseItemBehavior.html" title=" " alt="" coords="11,152,229,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,191,115,225,110,225,109,191"/>
+<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="131,191,130,225,125,225,126,191"/>
+<area shape="rect" id="Node000004" href="$classDispenseItemBehavior.html" title=" " alt="" coords="35,79,205,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,118,123,152,117,152,117,118"/>
+<area shape="rect" id="Node000005" href="$classBehavior.html" title=" " alt="" coords="80,5,160,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,44,123,79,117,79,117,44"/>
+</map>

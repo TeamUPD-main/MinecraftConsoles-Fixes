@@ -1,0 +1,6 @@
+<map id="AttackDamageMobEffect" name="AttackDamageMobEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,216,189,241"/>
+<area shape="rect" id="Node000002" href="$classMobEffect.html" title=" " alt="" coords="54,73,141,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,112,100,216,95,216,95,112"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="126,66,141,64,154,66,164,74,167,86,162,100,148,107,131,107,113,101,114,96,132,102,147,102,158,97,162,86,159,77,152,71,140,69,127,71"/>
+</map>

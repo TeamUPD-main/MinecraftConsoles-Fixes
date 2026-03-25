@@ -1,0 +1,51 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/IUIScene_BeaconMenu.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/IUIScene_BeaconMenu.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="933,5,1176,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="933,44,766,48,555,60,323,84,206,103,93,125,82,128,81,123,91,120,205,97,322,79,554,55,765,42,933,38"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,123,285,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="933,54,648,82,300,125,299,120,648,77,933,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="309,123,539,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="933,63,553,124,552,118,933,58"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="563,123,829,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="935,77,777,121,776,116,934,72"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="854,123,1061,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1024,77,987,114,984,111,1020,73"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1085,123,1221,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1090,73,1127,111,1123,114,1086,77"/>
+<area shape="rect" id="Node000008" href="$IUIScene__BeaconMenu_8h.html" title=" " alt="" coords="1246,130,1429,155"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1150,72,1293,123,1291,128,1148,77"/>
+<area shape="rect" id="Node000010" href="$Minecraft_8h.html" title=" " alt="" coords="1453,130,1547,155"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1177,61,1305,88,1441,120,1453,123,1452,129,1439,125,1303,93,1176,67"/>
+<area shape="rect" id="Node000017" href="$MultiPlayerLocalPlayer_8h.html" title=" " alt="" coords="1729,130,1911,155"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1177,55,1719,126,1719,131,1176,60"/>
+<area shape="rect" id="Node000023" href="$ClientConnection_8h.html" title=" " alt="" coords="2055,130,2201,155"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="1176,50,2042,131,2041,136,1176,55"/>
+<area shape="rect" id="Node000009" href="$IUIScene__AbstractContainerMenu_8h.html" title=" " alt="" coords="877,211,1072,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1289,158,1068,210,1067,205,1288,153"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1096,211,1232,251"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1465,158,1441,165,1246,213,1245,208,1439,160,1464,153"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1256,211,1408,251"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1479,158,1382,207,1380,202,1476,153"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1432,211,1568,251"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1503,156,1503,197,1497,197,1497,156"/>
+<area shape="rect" id="Node000014" href="$ResourceLocation_8h.html" title=" " alt="" coords="1592,218,1741,243"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="1524,153,1633,209,1631,214,1521,158"/>
+<area shape="rect" id="Node000015" href="$Textures_8h.html" title=" " alt="" coords="1522,306,1611,331"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1655,246,1593,298,1589,294,1651,241"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1493,387,1640,427"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1569,332,1569,373,1564,373,1564,332"/>
+<area shape="rect" id="Node000018" href="$LocalPlayer_8h.html" title=" " alt="" coords="1766,218,1874,243"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1823,156,1823,204,1817,204,1817,156"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1898,211,2046,251"/>
+<area shape="poly" id="edge21_Node000017_Node000022" title=" " alt="" coords="1842,153,1928,202,1925,206,1839,158"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1636,299,1772,339"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1806,246,1742,293,1739,288,1803,241"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1797,299,2046,339"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="1835,241,1890,288,1887,292,1832,246"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="2069,299,2205,339"/>
+<area shape="poly" id="edge20_Node000018_Node000021" title=" " alt="" coords="1861,241,1887,248,2056,293,2055,298,1886,253,1859,246"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="2071,218,2185,243"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="2131,156,2131,204,2125,204,2125,156"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="2210,211,2393,251"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="2153,153,2252,202,2250,207,2150,158"/>
+</map>

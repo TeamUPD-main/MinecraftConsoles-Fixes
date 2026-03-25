@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/WaterDropParticle.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/WaterDropParticle.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="312,5,612,60"/>
+<area shape="rect" id="Node000002" href="$GameRenderer_8cpp.html" title=" " alt="" coords="5,108,300,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,67,234,110,232,105,368,62"/>
+<area shape="rect" id="Node000003" href="$SplashParticle_8h.html" title=" " alt="" coords="325,108,599,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="465,74,465,108,459,108,459,74"/>
+<area shape="rect" id="Node000006" href="$WaterDropParticle_8cpp.html" title=" " alt="" coords="623,108,938,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="559,62,698,105,697,110,557,67"/>
+<area shape="rect" id="Node000004" href="$LevelRenderer_8cpp.html" title=" " alt="" coords="159,211,450,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,172,347,213,345,208,408,168"/>
+<area shape="rect" id="Node000005" href="$SplashParticle_8cpp.html" title=" " alt="" coords="475,211,764,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="516,168,579,208,577,213,513,172"/>
+</map>

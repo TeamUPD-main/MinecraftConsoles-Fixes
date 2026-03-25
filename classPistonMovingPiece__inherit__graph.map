@@ -1,0 +1,9 @@
+<map id="PistonMovingPiece" name="PistonMovingPiece">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,151,177"/>
+<area shape="rect" id="Node000002" href="$classBaseEntityTile.html" title=" " alt="" coords="20,79,136,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,118,81,152,75,152,75,118"/>
+<area shape="rect" id="Node000003" href="$classTile.html" title=" " alt="" coords="11,5,57,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,41,73,77,69,80,46,44"/>
+<area shape="rect" id="Node000004" href="$classEntityTile.html" title=" " alt="" coords="81,5,165,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="111,44,88,80,83,77,106,41"/>
+</map>

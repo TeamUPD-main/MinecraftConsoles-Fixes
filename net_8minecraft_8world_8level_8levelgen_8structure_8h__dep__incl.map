@@ -1,0 +1,35 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.levelgen.structure.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.levelgen.structure.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2434,5,2901,60"/>
+<area shape="rect" id="Node000002" href="$CustomLevelSource_8cpp.html" title=" " alt="" coords="5,115,332,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2420,40,1935,48,1339,61,764,82,527,95,345,111,293,118,292,113,344,105,526,90,764,77,1339,56,1935,42,2420,34"/>
+<area shape="rect" id="Node000003" href="$FlatLevelSource_8cpp.html" title=" " alt="" coords="357,115,658,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2420,41,2001,50,1498,64,1019,84,822,97,670,111,623,118,622,113,670,105,821,91,1019,79,1498,59,2000,44,2420,35"/>
+<area shape="rect" id="Node000004" href="$MineShaftFeature_8cpp.html" title=" " alt="" coords="683,115,993,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2421,36,2133,40,1779,51,1392,74,1197,90,1006,111,958,118,957,113,1006,105,1197,85,1392,68,1779,46,2132,35,2421,31"/>
+<area shape="rect" id="Node000005" href="$MineShaftPieces_8cpp.html" title=" " alt="" coords="1018,115,1322,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2421,40,2191,46,1918,59,1625,80,1334,111,1288,118,1287,113,1334,105,1625,75,1918,54,2190,41,2420,34"/>
+<area shape="rect" id="Node000006" href="$MineShaftStart_8cpp.html" title=" " alt="" coords="1346,115,1639,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2421,45,2057,68,1853,86,1652,111,1608,118,1607,113,1651,105,1852,81,2056,62,2420,40"/>
+<area shape="rect" id="Node000007" href="$Minecraft_8World_8cpp.html" title=" " alt="" coords="1663,115,1962,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2421,57,2203,80,1974,111,1933,118,1932,113,1974,105,2202,75,2420,52"/>
+<area shape="rect" id="Node000008" href="$NetherBridgePieces_8cpp.html" title=" " alt="" coords="1986,115,2311,170"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2528,66,2275,118,2274,113,2527,60"/>
+<area shape="rect" id="Node000009" href="$RandomLevelSource_8cpp.html" title=" " alt="" coords="2335,115,2666,170"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2617,70,2543,117,2540,113,2614,65"/>
+<area shape="rect" id="Node000010" href="$RandomScatteredLargeFeature_8cpp.html" title=" " alt="" coords="2691,108,2977,177"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2721,65,2783,105,2780,110,2718,70"/>
+<area shape="rect" id="Node000011" href="$ScatteredFeaturePieces_8cpp.html" title=" " alt="" coords="3001,108,3283,177"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2797,61,3002,107,3000,112,2796,66"/>
+<area shape="rect" id="Node000012" href="$StrongholdPieces_8cpp.html" title=" " alt="" coords="3307,115,3617,170"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2915,56,3102,78,3296,105,3338,113,3337,118,3295,111,3101,83,2914,61"/>
+<area shape="rect" id="Node000013" href="$StructureFeatureIO_8cpp.html" title=" " alt="" coords="3641,115,3960,170"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2915,43,3254,66,3443,83,3629,105,3675,113,3675,118,3628,111,3442,89,3254,71,2914,48"/>
+<area shape="rect" id="Node000014" href="$StructurePiece_8cpp.html" title=" " alt="" coords="3985,115,4275,170"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2915,34,3140,41,3405,54,3690,74,3973,105,4018,113,4017,118,3972,111,3690,80,3405,59,3140,46,2915,40"/>
+<area shape="rect" id="Node000015" href="$StructureStart_8cpp.html" title=" " alt="" coords="4300,115,4587,170"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2915,38,3649,63,4018,82,4170,93,4288,105,4333,113,4332,118,4287,111,4170,99,4018,88,3649,68,2914,43"/>
+<area shape="rect" id="Node000016" href="$TheEndLevelRandomLevelSource_8cpp.html" title=" " alt="" coords="4611,108,4918,177"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2915,36,3321,45,3805,60,4264,80,4454,92,4600,105,4612,107,4611,112,4599,111,4454,97,4264,85,3805,65,3321,50,2915,41"/>
+<area shape="rect" id="Node000017" href="$VillagePieces_8cpp.html" title=" " alt="" coords="4943,115,5227,170"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2914,34,3388,41,3967,54,4524,75,4754,89,4930,105,4976,113,4975,118,4930,111,4754,94,4524,80,3967,59,3388,46,2914,39"/>
+</map>

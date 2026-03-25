@@ -1,0 +1,16 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Scene_Base.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Scene_Base.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,5,524,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,192,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,77,147,128,145,123,300,72"/>
+<area shape="rect" id="Node000003" href="$XUI__Ctrl__SlotItem_8h.html" title=" " alt="" coords="216,130,365,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="367,77,316,122,312,118,363,73"/>
+<area shape="rect" id="Node000005" href="$XUI__CustomMessages_8h.html" title=" " alt="" coords="243,284,421,309"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="406,75,401,151,393,195,380,237,369,257,355,275,351,272,364,255,375,235,388,193,396,150,401,75"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="440,130,563,155"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="438,73,482,118,478,122,434,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="587,123,747,163"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="492,72,606,115,604,120,490,77"/>
+<area shape="rect" id="Node000004" href="$XUI__Ctrl__SlotItemCtrlBase_8h.html" title=" " alt="" coords="161,211,365,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,156,274,199,269,197,284,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,234,313,272,309,276,272,238"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/ProgressFlagTask.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/ProgressFlagTask.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,285,75"/>
+<area shape="rect" id="Node000002" href="$Tutorial_8h.html" title=" " alt="" coords="169,123,251,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,74,200,109,196,111,178,76"/>
+<area shape="rect" id="Node000003" href="$TutorialTask_8h.html" title=" " alt="" coords="5,196,116,221"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="145,76,77,186,73,183,140,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,150,99,192,96,188,185,146"/>
+<area shape="rect" id="Node000004" href="$TutorialEnum_8h.html" title=" " alt="" coords="95,269,213,295"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="206,149,182,197,163,256,158,255,177,195,201,147"/>
+<area shape="rect" id="Node000005" href="$TutorialConstraint_8h.html" title=" " alt="" coords="191,196,341,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,147,251,184,246,187,217,150"/>
+<area shape="rect" id="Node000006" href="$TutorialHint_8h.html" title=" " alt="" coords="365,196,474,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="244,145,373,189,371,194,243,151"/>
+<area shape="rect" id="Node000007" href="$TutorialMessage_8h.html" title=" " alt="" coords="499,196,639,221"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="252,142,498,191,497,196,251,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,219,130,259,126,263,74,223"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="377,224,211,268,210,263,376,219"/>
+</map>

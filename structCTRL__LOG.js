@@ -1,0 +1,25 @@
+var structCTRL__LOG =
+[
+    [ "bank", "structCTRL__LOG.html#af1d626233891a23d5bfdda1204de9652", null ],
+    [ "bend_range", "structCTRL__LOG.html#af98d0b89336b75a367af4bbc0d47c6ca", null ],
+    [ "c_lock", "structCTRL__LOG.html#a7f6c616281c5fc1afb728ac434460210", null ],
+    [ "c_mute", "structCTRL__LOG.html#adfeb21ad01e06c4f94652a366f1e7632", null ],
+    [ "c_prot", "structCTRL__LOG.html#a95c01846fe4a856ab52cece3847902cd", null ],
+    [ "c_v_prot", "structCTRL__LOG.html#a5184aa2a5c76a947604bc80cbc48347a", null ],
+    [ "callback", "structCTRL__LOG.html#a5cf3b75fb2f2ad9cdbbe3a6ee2b69e06", null ],
+    [ "chorus", "structCTRL__LOG.html#a05c8a4f680ff3ade9884a168f87cd450", null ],
+    [ "exp", "structCTRL__LOG.html#ad2d83262975a2ccade1a6dc8c821681f", null ],
+    [ "gm_bank_l", "structCTRL__LOG.html#aa38a11fc2337b996635ae637b6115ef3", null ],
+    [ "gm_bank_m", "structCTRL__LOG.html#ad20fe33f45afdc8cf97c4e8bf683bb41", null ],
+    [ "indirect", "structCTRL__LOG.html#abbdfe8f909db1a7476cc55c11cb916e1", null ],
+    [ "mod", "structCTRL__LOG.html#a66e12666f352cb82ac9323dcd9f3b26c", null ],
+    [ "pan", "structCTRL__LOG.html#a3ab2da7810392a42d5b95b3a9ca89297", null ],
+    [ "pitch_h", "structCTRL__LOG.html#a6bcdd26e0a82adcae58e88163cd06c9e", null ],
+    [ "pitch_l", "structCTRL__LOG.html#aba4c0aee426f2ca51681487813456f00", null ],
+    [ "program", "structCTRL__LOG.html#a5a03e676e8dccd19eae8f2886a558be2", null ],
+    [ "reverb", "structCTRL__LOG.html#a2b6fd24e669ddcbaf9781ca891d64a6d", null ],
+    [ "RPN_L", "structCTRL__LOG.html#a3bd8b7a88d73c9cdf18117e0cd399b71", null ],
+    [ "RPN_M", "structCTRL__LOG.html#a4f64ea817923eb1dcdcb8ffc71c702dc", null ],
+    [ "sus", "structCTRL__LOG.html#a1db4a186a88e7f7f908b1a8085b2695c", null ],
+    [ "vol", "structCTRL__LOG.html#a2a79dea83794d2c1cc741dadbdbe1871", null ]
+];

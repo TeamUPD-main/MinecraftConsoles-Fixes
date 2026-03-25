@@ -1,0 +1,25 @@
+var classLevelRenderer__FindNearestChunk__DataIn =
+[
+    [ "AABB", "classLevelRenderer__FindNearestChunk__DataIn_1_1AABB.html", null ],
+    [ "Chunk", "classLevelRenderer__FindNearestChunk__DataIn_1_1Chunk.html", "classLevelRenderer__FindNearestChunk__DataIn_1_1Chunk" ],
+    [ "ClipChunk", "classLevelRenderer__FindNearestChunk__DataIn_1_1ClipChunk.html", "classLevelRenderer__FindNearestChunk__DataIn_1_1ClipChunk" ],
+    [ "CompressedTileStorage", "classLevelRenderer__FindNearestChunk__DataIn_1_1CompressedTileStorage.html", "classLevelRenderer__FindNearestChunk__DataIn_1_1CompressedTileStorage" ],
+    [ "MultiplayerChunkCache", "classLevelRenderer__FindNearestChunk__DataIn_1_1MultiplayerChunkCache.html", "classLevelRenderer__FindNearestChunk__DataIn_1_1MultiplayerChunkCache" ],
+    [ "PlayerData", "classLevelRenderer__FindNearestChunk__DataIn_1_1PlayerData.html", "classLevelRenderer__FindNearestChunk__DataIn_1_1PlayerData" ],
+    [ "chunkLengths", "classLevelRenderer__FindNearestChunk__DataIn.html#aeb8636f078c95944a52993afb67d7078", null ],
+    [ "chunks", "classLevelRenderer__FindNearestChunk__DataIn.html#a26cd6e2a4677b18478a89b38cd382cf1", null ],
+    [ "level", "classLevelRenderer__FindNearestChunk__DataIn.html#a71a3a7d4fdbbff2799a8acd1d4b89ffe", null ],
+    [ "lowerOffset", "classLevelRenderer__FindNearestChunk__DataIn.html#a1c6892db449b609d329c24acae47fb5a", null ],
+    [ "multiplayerChunkCache", "classLevelRenderer__FindNearestChunk__DataIn.html#a9a82983123d6029297e80a836f62bc38", null ],
+    [ "nearChunk", "classLevelRenderer__FindNearestChunk__DataIn.html#aa9700a17ce690d13cf1655fb3baf282d", null ],
+    [ "numGlobalChunks", "classLevelRenderer__FindNearestChunk__DataIn.html#a24ac80709c557808b43ab3959c864f6a", null ],
+    [ "onlyRebuild", "classLevelRenderer__FindNearestChunk__DataIn.html#acd3b66928e48d93809cabf5f5f483524", null ],
+    [ "padding", "classLevelRenderer__FindNearestChunk__DataIn.html#a313b895f972c8ac18d24363c59483627", null ],
+    [ "pGlobalChunkFlags", "classLevelRenderer__FindNearestChunk__DataIn.html#ad3df9a74e1743bbb54043ce6d713ce98", null ],
+    [ "playerData", "classLevelRenderer__FindNearestChunk__DataIn.html#a9351da7c9927e3c5d94b4efb3eb64864", null ],
+    [ "upperOffset", "classLevelRenderer__FindNearestChunk__DataIn.html#a461d88fb996f2635f463d16308442bc4", null ],
+    [ "veryNearCount", "classLevelRenderer__FindNearestChunk__DataIn.html#a83207c83889bbda588f16d9279d94df0", null ],
+    [ "xChunks", "classLevelRenderer__FindNearestChunk__DataIn.html#a178d1fd81c58e13ffe1c335ae389d1b9", null ],
+    [ "yChunks", "classLevelRenderer__FindNearestChunk__DataIn.html#ab0df07a1246945728b2d1af7f2e56e40", null ],
+    [ "zChunks", "classLevelRenderer__FindNearestChunk__DataIn.html#a95e58658515bbda62fe4e65660a8194c", null ]
+];

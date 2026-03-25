@@ -1,0 +1,51 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classGameRuleDefinition.html" title=" " alt="" coords="5,309,159,335"/>
+<area shape="rect" id="Node000001" href="$classAddEnchantmentRuleDefinition.html" title=" " alt="" coords="214,5,439,31"/>
+<area shape="poly" id="edge1068_Node000000_Node000001" title=" " alt="" coords="84,295,95,241,117,171,133,135,152,100,176,68,205,40,224,28,226,33,208,44,180,71,157,103,138,138,122,173,100,242,89,296"/>
+<area shape="rect" id="Node000002" href="$classAddItemRuleDefinition.html" title=" " alt="" coords="242,55,411,80"/>
+<area shape="poly" id="edge1069_Node000000_Node000002" title=" " alt="" coords="87,295,101,250,124,194,158,137,180,111,205,89,240,72,243,77,208,94,184,115,163,140,129,196,106,252,92,297"/>
+<area shape="rect" id="Node000003" href="$classApplySchematicRuleDefinition.html" title=" " alt="" coords="217,104,436,129"/>
+<area shape="poly" id="edge1070_Node000000_Node000003" title=" " alt="" coords="91,295,107,259,132,217,165,174,205,138,228,127,230,132,208,143,169,178,137,220,112,262,96,298"/>
+<area shape="rect" id="Node000004" href="$classBiomeOverride.html" title=" " alt="" coords="267,153,387,179"/>
+<area shape="poly" id="edge1071_Node000000_Node000004" title=" " alt="" coords="97,296,141,241,171,212,205,188,235,175,265,168,267,173,237,180,208,192,174,216,145,244,101,299"/>
+<area shape="rect" id="Node000005" href="$classCollectItemRuleDefinition.html" title=" " alt="" coords="232,203,421,228"/>
+<area shape="poly" id="edge1072_Node000000_Node000005" title=" " alt="" coords="107,298,151,266,206,237,240,226,242,231,208,242,154,271,110,303"/>
+<area shape="rect" id="Node000006" href="$classCompoundGameRuleDefinition.html" title=" " alt="" coords="215,252,438,277"/>
+<area shape="poly" id="edge1073_Node000000_Node000006" title=" " alt="" coords="143,303,206,287,262,275,264,280,207,293,145,308"/>
+<area shape="rect" id="Node000009" href="$classConsoleGenerateStructure.html" title=" " alt="" coords="230,613,423,639"/>
+<area shape="poly" id="edge1076_Node000000_Node000009" title=" " alt="" coords="89,348,100,402,122,471,138,506,157,541,180,573,208,600,231,613,228,618,205,604,176,576,152,544,133,509,117,473,95,403,84,349"/>
+<area shape="rect" id="Node000015" href="$classConsoleGenerateStructureAction.html" title=" " alt="" coords="230,302,423,342"/>
+<area shape="poly" id="edge1077_Node000000_Node000015" title=" " alt="" coords="173,319,230,319,230,325,173,325"/>
+<area shape="rect" id="Node000020" href="$classLevelGenerationOptions.html" title=" " alt="" coords="237,367,416,392"/>
+<area shape="poly" id="edge1082_Node000000_Node000020" title=" " alt="" coords="145,336,207,351,264,364,262,369,206,357,143,341"/>
+<area shape="rect" id="Node000021" href="$classNamedAreaRuleDefinition.html" title=" " alt="" coords="231,416,422,441"/>
+<area shape="poly" id="edge1083_Node000000_Node000021" title=" " alt="" coords="110,341,154,373,208,402,242,413,240,418,206,407,151,378,107,346"/>
+<area shape="rect" id="Node000022" href="$classStartFeature.html" title=" " alt="" coords="275,465,378,491"/>
+<area shape="poly" id="edge1084_Node000000_Node000022" title=" " alt="" coords="101,345,145,400,174,428,208,452,241,465,276,472,274,477,240,470,205,456,171,432,141,403,97,348"/>
+<area shape="rect" id="Node000023" href="$classUpdatePlayerRuleDefinition.html" title=" " alt="" coords="225,515,428,540"/>
+<area shape="poly" id="edge1085_Node000000_Node000023" title=" " alt="" coords="96,346,112,382,137,424,169,466,208,501,230,512,228,517,205,506,165,470,132,427,107,385,91,349"/>
+<area shape="rect" id="Node000024" href="$classUseTileRuleDefinition.html" title=" " alt="" coords="245,564,408,589"/>
+<area shape="poly" id="edge1086_Node000000_Node000024" title=" " alt="" coords="92,347,106,392,129,448,163,504,184,529,208,551,226,561,246,568,244,573,224,566,205,555,180,533,158,507,124,450,101,394,87,349"/>
+<area shape="rect" id="Node000007" href="$classCompleteAllRuleDefinition.html" title=" " alt="" coords="517,205,712,231"/>
+<area shape="poly" id="edge1074_Node000006_Node000007" title=" " alt="" coords="419,247,535,228,536,233,420,252"/>
+<area shape="rect" id="Node000008" href="$classLevelRuleset.html" title=" " alt="" coords="561,255,668,280"/>
+<area shape="poly" id="edge1075_Node000006_Node000008" title=" " alt="" coords="452,263,561,264,561,270,452,268"/>
+<area shape="rect" id="Node000016" href="$classXboxStructureActionGenerateBox.html" title=" " alt="" coords="495,308,735,333"/>
+<area shape="poly" id="edge1078_Node000015_Node000016" title=" " alt="" coords="437,319,494,319,494,324,437,324"/>
+<area shape="rect" id="Node000017" href="$classXboxStructureActionPlaceBlock.html" title=" " alt="" coords="519,358,710,398"/>
+<area shape="poly" id="edge1079_Node000015_Node000017" title=" " alt="" coords="437,341,519,357,518,362,436,346"/>
+<area shape="rect" id="Node000018" href="$classXboxStructureActionPlaceContainer.html" title=" " alt="" coords="783,326,973,366"/>
+<area shape="poly" id="edge1080_Node000017_Node000018" title=" " alt="" coords="723,362,782,355,783,360,724,367"/>
+<area shape="rect" id="Node000019" href="$classXboxStructureActionPlaceSpawner.html" title=" " alt="" coords="783,390,973,430"/>
+<area shape="poly" id="edge1081_Node000017_Node000019" title=" " alt="" coords="724,389,783,396,782,401,723,394"/>
+<area shape="rect" id="Node000010" href="$classStructurePiece.html" title=" " alt="" coords="24,735,140,760"/>
+<area shape="poly" id="edge1087_Node000010_Node000009" title=" " alt="" coords="104,723,149,684,206,649,241,636,243,641,208,654,152,689,108,727"/>
+<area shape="rect" id="Node000011" href="$classMineShaftPieces_1_1MineShaftCorridor.html" title=" " alt="" coords="225,663,428,703"/>
+<area shape="poly" id="edge1088_Node000010_Node000011" title=" " alt="" coords="144,728,249,701,250,706,146,734"/>
+<area shape="rect" id="Node000012" href="$classMineShaftPieces_1_1MineShaftCrossing.html" title=" " alt="" coords="225,727,428,767"/>
+<area shape="poly" id="edge1089_Node000010_Node000012" title=" " alt="" coords="154,745,225,745,225,750,154,750"/>
+<area shape="rect" id="Node000013" href="$classMineShaftPieces_1_1MineShaftRoom.html" title=" " alt="" coords="207,792,447,817"/>
+<area shape="poly" id="edge1090_Node000010_Node000013" title=" " alt="" coords="145,761,207,777,264,789,262,794,206,782,143,766"/>
+<area shape="rect" id="Node000014" href="$classMineShaftPieces_1_1MineShaftStairs.html" title=" " alt="" coords="225,842,428,882"/>
+<area shape="poly" id="edge1091_Node000010_Node000014" title=" " alt="" coords="111,766,155,798,208,828,239,839,237,844,206,832,152,802,108,771"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ma_lpf" name="ma_lpf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,368,102,393"/>
+<area shape="rect" id="Node000002" href="$structma__lpf1.html" title=" " alt="" coords="19,231,94,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,270,62,305,70,368,64,368,57,306,55,270"/>
+<area shape="rect" id="Node000003" href="$unionma__biquad__coefficient.html" title=" " alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,44,75,55,65,106,60,156,59,230,54,230,55,155,60,105,70,54,74,42"/>
+<area shape="rect" id="Node000005" href="$structma__biquad.html" title=" " alt="" coords="103,181,197,207"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="101,42,148,180,143,182,96,44"/>
+<area shape="rect" id="Node000004" href="$structma__lpf2.html" title=" " alt="" coords="115,280,190,305"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,317,82,369,78,366,130,313"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="153,220,155,280,150,280,148,221"/>
+</map>

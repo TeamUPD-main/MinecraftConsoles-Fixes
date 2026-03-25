@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/DiodeTile_SPU.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/DiodeTile_SPU.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,5,558,75"/>
+<area shape="rect" id="Node000002" href="$DiodeTile__SPU_8cpp.html" title=" " alt="" coords="5,123,288,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,82,229,125,227,120,329,78"/>
+<area shape="rect" id="Node000003" href="$RedStoneDustTile__SPU_8h.html" title=" " alt="" coords="363,123,685,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,83,497,121,493,124,460,87"/>
+<area shape="rect" id="Node000004" href="$TileRenderer__SPU_8cpp.html" title=" " alt="" coords="197,240,501,309"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="377,86,363,104,353,124,345,153,342,184,346,240,340,240,337,184,340,152,348,122,359,101,372,83"/>
+<area shape="rect" id="Node000005" href="$Tile__SPU_8cpp.html" title=" " alt="" coords="575,240,820,309"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="572,66,650,90,680,105,699,121,713,150,718,181,716,213,711,240,705,239,711,212,712,182,708,151,695,124,677,109,648,95,570,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,202,402,242,399,237,460,197"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="587,197,648,237,645,242,585,202"/>
+</map>

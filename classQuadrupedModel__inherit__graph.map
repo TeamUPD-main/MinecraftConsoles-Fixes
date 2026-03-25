@@ -1,0 +1,13 @@
+<map id="QuadrupedModel" name="QuadrupedModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,79,291,104"/>
+<area shape="rect" id="Node000003" href="$classCowModel.html" title=" " alt="" coords="5,152,96,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,112,80,154,78,149,183,107"/>
+<area shape="rect" id="Node000004" href="$classPigModel.html" title=" " alt="" coords="120,152,203,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,116,173,154,169,150,203,113"/>
+<area shape="rect" id="Node000005" href="$classSheepFurModel.html" title=" " alt="" coords="227,152,349,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="246,113,280,150,276,154,242,116"/>
+<area shape="rect" id="Node000006" href="$classSheepModel.html" title=" " alt="" coords="374,152,477,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="270,106,393,149,392,154,269,111"/>
+<area shape="rect" id="Node000002" href="$classModel.html" title=" " alt="" coords="193,5,255,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,44,227,79,221,79,221,44"/>
+</map>

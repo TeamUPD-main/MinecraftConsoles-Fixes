@@ -1,0 +1,23 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/zlib/zutil.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/zlib/zutil.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="939,5,1181,75"/>
+<area shape="rect" id="Node000002" href="$adler32_8c.html" title=" " alt="" coords="5,123,248,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="925,52,620,77,440,98,260,125,249,127,248,122,260,120,439,93,619,72,925,46"/>
+<area shape="rect" id="Node000003" href="$crc32_8c.html" title=" " alt="" coords="272,123,515,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="925,61,736,88,527,125,515,128,514,122,526,120,735,83,924,56"/>
+<area shape="rect" id="Node000004" href="$deflate_8h.html" title=" " alt="" coords="539,123,781,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="931,81,777,125,776,120,929,76"/>
+<area shape="rect" id="Node000007" href="$infback_8c.html" title=" " alt="" coords="805,123,1048,192"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1012,86,968,124,964,120,1009,82"/>
+<area shape="rect" id="Node000008" href="$inffast_8c.html" title=" " alt="" coords="1072,123,1315,192"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1111,82,1156,120,1152,124,1108,86"/>
+<area shape="rect" id="Node000009" href="$inflate_8c.html" title=" " alt="" coords="1339,123,1581,192"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1191,76,1344,120,1343,125,1189,81"/>
+<area shape="rect" id="Node000010" href="$inftrees_8c.html" title=" " alt="" coords="1605,123,1848,192"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1196,56,1385,83,1594,120,1606,122,1605,128,1593,125,1384,88,1195,61"/>
+<area shape="rect" id="Node000011" href="$zutil_8c.html" title=" " alt="" coords="1872,123,2115,192"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1195,46,1501,72,1681,93,1860,120,1872,122,1871,127,1860,125,1680,98,1500,77,1195,52"/>
+<area shape="rect" id="Node000005" href="$deflate_8c.html" title=" " alt="" coords="405,240,648,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="612,203,568,242,564,238,609,199"/>
+<area shape="rect" id="Node000006" href="$trees_8c.html" title=" " alt="" coords="672,240,915,309"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="711,199,756,238,752,242,708,203"/>
+</map>

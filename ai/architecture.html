@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Architecture - Minecraft Consoles Fixes</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 0 auto; max-width: 900px; padding: 20px; background-color: #f4f4f4; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        h3 { color: #555; margin-top: 20px; }
+        nav ul { list-style-type: none; padding: 0; }
+        nav ul li { display: inline; margin-right: 20px; }
+        nav ul li a { text-decoration: none; color: #3498db; font-weight: bold; }
+        nav ul li a:hover { text-decoration: underline; }
+        a { color: #3498db; }
+        code { background-color: #eef; padding: 2px 4px; border-radius: 3px; }
+        ul { list-style-type: disc; margin-left: 20px; }
+        .note { background-color: #e7f3ff; border-left: 5px solid #3498db; padding: 10px 15px; margin-top: 20px; border-radius: 5px; }
+        .footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #ccc; text-align: center; color: #777; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="architecture.html">Architecture</a></li>
+            <li><a href="contributor-guide.html">Contributor Guide</a></li>
+        </ul>
+    </nav>
+
+    <h1>Project Architecture Overview</h1>
+
+    <p>The <strong>Minecraft Consoles Fixes</strong> project is designed with a layered architecture, separating core game logic from client-specific implementations, server functionalities, and platform abstractions. This structure aims to enhance maintainability, facilitate targeted development, and manage platform-specific complexities.</p>
+
+    <h2>Core Game Logic: <code>Minecraft.World</code></h2>
+    <p>This module is the heart of the game, encapsulating all fundamental gameplay mechanics and data structures. It is largely platform-agnostic and serves as a dependency for both the client and server applications.</p>
+    <ul>
+        <li>
+            <h3>Physics and Collisions</h3>
+            <p>The <code>AABB.h</code> (Axis-Aligned Bounding Box) and <code>Vec3.h</code> files define the core structures and operations for spatial calculations, collision detection, and entity positioning within the game world. These are critical for all in-game interactions.</p>
+        </li>
+        <li>
+            <h3>Entities, Items, and Blocks (Tiles)</h3>
+            <p>Definitions for all in-game objects reside here. This includes base classes and specific implementations for:</p>
+            <ul>
+                <li><strong>Entities:</strong> Such as players (<code>Player.h</code>), mobs (<code>Mob.h</code>), and other living entities (<code>LivingEntity.h</code>). Player abilities are managed via <code>Abilities.h</code>.</li>
+                <li><strong>Items:</strong> Inventory items, tools, weapons, and consumables (e.g., <code>Item.h</code>, <code>ItemInstance.h</code>).</li>
+                <li><strong>Blocks (Tiles):</strong> The fundamental building blocks of the world (e.g., <code>Tile.h</code>, <code>BlockSource.h</code>).</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Status Effects and Attributes</h3>
+            <p>The system for applying temporary or permanent effects to entities is defined here, including base classes like <code>MobEffect.h</code> and specific effects such as <code>AbsoptionMobEffect.h</code>. These often interact with entity attributes (e.g., via <code>AttributeModifier.h</code>).</p>
+        </li>
+        <li>
+            <h3>Inventory and Menus</h3>
+            <p>This sub-component manages inventory systems for players and blocks. Key files include <code>AbstractContainerMenu.h</code> for generic container interfaces and <code>Slot.h</code> for inventory slots.</p>
+        </li>
+        <li>
+            <h3>Data Persistence (NBT)</h3>
+            <p>Minecraft uses a custom NBT (Named Binary Tag) format for saving and loading world data, entity states, and player inventories. The <code>com.mojang.nbt.h</code> header and related tag classes (e.g., <code>CompoundTag.h</code>, <code>ListTag.h</code>, <code>ByteTag.h</code>, <code>FloatTag.h</code>) are fundamental for serialization. The <code>NbtIo.h</code> file provides utilities for NBT input/output.</p>
+        </li>
+        <li>
+            <h3>Achievements and Statistics</h3>
+            <p>The framework for defining, tracking, and managing in-game achievements and player statistics. Files like <code>Achievement.h</code>, <code>Achievements.h</code>, <code>Stat.h</code>, and <code>StatsCounter.h</code> are part of this system.</p>
+        </li>
+        <li>
+            <h3>Input/Output Utilities</h3>
+            <p>A collection of classes for stream-based I/O operations, including <code>InputOutputStream.h</code>, <code>DataInput.h</code>, <code>DataOutput.h</code>, and specialized streams like <code>FileInputStream.h</code>, <code>FileOutputStream.h</code>, <code>GZIPInputStream.h</code>, and <code>GZIPOutputStream.h</code>.</p>
+        </li>
+    </ul>
+
+    <h2>Client Application: <code>Minecraft.Client</code></h2>
+    <p>This layer focuses on the user experience, responsible for rendering the game world, processing user input, and displaying the user interface. It integrates with platform-specific APIs.</p>
+    <ul>
+        <li>
+            <h3>User Interface (UI) and Screens</h3>
+            <p>The UI framework is built upon <code>Screen.h</code> and <code>GuiComponent.h</code>. Specific screens, such as <code>AbstractContainerScreen.h</code> (for inventories) and <code>AchievementScreen.h</code>, handle interaction and display logic. Interactive popups, like those for achievements, use <code>AchievementPopup.h</code>.</p>
+        </li>
+        <li>
+            <h3>Rendering and Graphics</h3>
+            <p>Manages how the game world and UI elements are drawn. Key components include <code>ItemRenderer.h</code> for items, <code>Lighting.h</code> for visual effects, and <code>Textures.h</code> for asset management. Texture packs are handled by <code>AbstractTexturePack.h</code> and its derivatives.</p>
+        </li>
+        <li>
+            <h3>Input Processing</h3>
+            <p>Translates hardware input into game actions, with configurations managed by <code>KeyMapping.h</code>.</p>
+        </li>
+        <li>
+            <h3>Platform-Specific Client Integration</h3>
+            <p>This includes integration with console services using <code>4JLibs</code> (e.g., <code>4J_Input.h</code>, <code>4J_Render.h</code>, <code>4J_Storage.h</code>) and specific console app components (e.g., <code>Orbis_App.h</code> for PlayStation, references to <code>SonyCommerce.h</code> and <code>SonyRemoteStorage.h</code>). It also handles client-side networking via <code>GameNetworkManager.h</code>.</p>
+        </li>
+    </ul>
+
+    <h2>Server Application: <code>Minecraft.Server</code></h2>
+    <p>This module is responsible for hosting multiplayer game sessions, managing persistent data, and enforcing game rules and access policies.</p>
+    <ul>
+        <li>
+            <h3>Access Control</h3>
+            <p>The <code>Access.h</code> module provides functionality for managing player bans and server whitelists, utilizing <code>BanManager.h</code> and <code>WhitelistManager.h</code>. This ensures a controlled and safe multiplayer environment.</p>
+        </li>
+        <li>
+            <h3>Server Core and Data Management</h3>
+            <p>The <code>ServerMain.cpp</code> acts as the entry point for the server application. Server-side data operations often rely on utilities like <code>AccessStorageUtils.h</code>, <code>FileUtils.h</code>, and <code>StringUtils.h</code> for file system interaction and data parsing (e.g., JSON lists).</p>
+        </li>
+        <li>
+            <h3>Concurrency</h3>
+            <p>For safe concurrent access to shared resources, particularly within the <code>Access</code> module, mutexes such as <code>std::mutex stateLock</code> and <code>std::mutex writeLock</code> are employed to prevent race conditions.</p>
+        </li>
+        <li>
+            <h3>Logging</h3>
+            <p>Server operations and events are recorded using <code>ServerLogger.h</code> for monitoring and debugging.</p>
+        </li>
+    </ul>
+
+    <h2>Platform Abstraction Layer: <code>4JLibs</code>, <code>Durango</code>, <code>Orbis</code></h2>
+    <p>These directories contain libraries and code tailored for specific console platforms, abstracting hardware and system services. The <code>4JLibs</code> often provide common interfaces for features like input, rendering, and storage, used by the client.</p>
+    <ul>
+        <li>
+            <h3>TMS Client (Xbox/PlayStation)</h3>
+            <p><code>4J_xtms.h</code> defines functions like <code>XSGX_XTmsPutUserFile</code> and <code>XSGX_XTmsCancelPutUserFile</code>, indicating an interface for managing user-generated content (UGC) or save files on the console platform (likely a "Telemetry/Media/Storage" service).</p>
+        </li>
+        <li>
+            <h3>Console-Specific Services</h3>
+            <p>General platform services such as profiling (<code>4J_Profile.h</code>) and specific client application setups (e.g., <code>Orbis_App.h</code>, <code>Durango</code> for Xbox) reside here, allowing the main client logic to remain more generic.</p>
+        </li>
+        <li>
+            <h3>Achievement Management</h3>
+            <p><code>AchievementManager.h</code>, particularly in the <code>Durango</code> directory, suggests a platform-specific manager for integrating with console achievement systems.</p>
+        </li>
+    </ul>
+
+    <h2>Shared Components: <code>Common</code></h2>
+    <p>This directory holds code, definitions, and utilities that are broadly applicable across multiple layers of the project (Client, World, Server) to promote code reuse and consistency.</p>
+    <ul>
+        <li>
+            <h3>Core Definitions</h3>
+            <p>Includes fundamental definitions, enumerations, and structures in files like <code>App_defines.h</code>, <code>App_enums.h</code>, and <code>App_structs.h</code>. Utility macros are found in <code>Minecraft_Macros.h</code> and <code>Potion_Macros.h</code>.</p>
+        </li>
+        <li>
+            <h3>Game Rules</h3>
+            <p>Configurable game settings and rules are defined in <code>ConsoleGameRules.h</code> and <code>ConsoleGameRulesConstants.h</code>.</p>
+        </li>
+        <li>
+            <h3>Telemetry</h3>
+            <p>The telemetry system, including <code>TelemetryManager.h</code>, <code>MinecraftTelemetry.h</code>, and <code>SentientTelemetryCommon.h</code>, is used to collect and report game data for analytics and debugging.</p>
+        </li>
+        <li>
+            <h3>Audio</h3>
+            <p>Sound management is handled through a common audio engine, with headers like <code>Consoles_SoundEngine.h</code>, <code>Common_2Audio_2SoundEngine.h</code>, and underlying libraries like <code>miniaudio.h</code>.</p>
+        </li>
+        <li>
+            <h3>Downloadable Content (DLC)</h3>
+            <p>The DLC system, including <code>DLCManager.h</code>, <code>DLCSkinFile.h</code>, and <code>DLCPack.h</code>, manages additional game content.</p>
+        </li>
+        <li>
+            <h3>Networking Interfaces</h3>
+            <p>Shared networking interfaces are defined in <code>GameNetworkManager.h</code>, facilitating communication between client and server components.</p>
+        </li>
+    </ul>
+
+    <h2>Inter-Component Relationships</h2>
+    <div class="note">
+        <p>The dependency graph generally flows from platform-specific layers and shared utilities towards the core game logic, with the client and server applications acting as orchestrators.</p>
+        <ul>
+            <li><code>Minecraft.Client</code> and <code>Minecraft.Server</code> both depend on <code>Minecraft.World</code>.</li>
+            <li>All major components rely on utilities provided by the <code>Common</code> module.</li>
+            <li><code>Minecraft.Client</code> interacts heavily with the platform abstraction layers (<code>4JLibs</code>, <code>Durango</code>, <code>Orbis</code>).</li>
+            <li><code>Minecraft.Server</code> has its own dedicated <code>Access</code> control system, which uses shared file utilities.</li>
+            <li>Data persistence (NBT) is a cross-cutting concern, used extensively by <code>Minecraft.World</code> and likely for network serialization.</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        Generated using Doxygen XML data.
+    </div>
+</body>
+</html>

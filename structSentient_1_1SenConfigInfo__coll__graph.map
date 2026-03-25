@@ -1,0 +1,15 @@
+<map id="Sentient::SenConfigInfo" name="Sentient::SenConfigInfo">
+<area shape="rect" id="Node000001" title="Basic config file information." alt="" coords="135,299,309,324"/>
+<area shape="rect" id="Node000002" href="$structSentient_1_1SenResourceInfo.html" title="Generic resource information." alt="" coords="5,211,199,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,242,207,296,204,301,128,246"/>
+<area shape="rect" id="Node000003" href="$struct__SYSTEMTIME.html" title=" " alt="" coords="45,101,159,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,140,105,210,99,210,99,140"/>
+<area shape="rect" id="Node000004" href="$structSentient_1_1SenRawDataTransferInfo.html" title="Basic raw data transfer information." alt="" coords="223,211,467,236"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,246,240,301,237,296,315,242"/>
+<area shape="rect" id="Node000005" href="$structSentient_1_1SenFileTransferInfo.html" title="Basic file transfer information." alt="" coords="211,101,419,126"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,138,344,210,339,211,319,140"/>
+<area shape="rect" id="Node000006" href="$structSentient_1_1SenFileDigest.html" title="Stores a digest of a file." alt="" coords="229,5,402,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="318,44,318,101,313,101,313,44"/>
+<area shape="rect" id="Node000007" href="$structSentient_1_1SenPackageFileTransferInfo.html" title="Basic file transfer information." alt="" coords="443,93,627,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="492,142,366,213,364,208,489,138"/>
+</map>

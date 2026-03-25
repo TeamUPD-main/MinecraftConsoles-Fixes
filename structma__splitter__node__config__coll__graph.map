@@ -1,0 +1,7 @@
+<map id="ma_splitter_node_config" name="ma_splitter_node_config">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,187,207"/>
+<area shape="rect" id="Node000002" href="$structma__node__config.html" title=" " alt="" coords="32,93,160,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,133,99,181,93,181,93,133"/>
+<area shape="rect" id="Node000003" href="$structma__node__vtable.html" title=" " alt="" coords="31,5,161,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,45,99,93,93,93,93,45"/>
+</map>

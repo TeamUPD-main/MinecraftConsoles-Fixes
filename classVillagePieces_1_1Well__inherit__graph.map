@@ -1,0 +1,9 @@
+<map id="VillagePieces::Well" name="VillagePieces::Well">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,152,177,177"/>
+<area shape="rect" id="Node000004" href="$classVillagePieces_1_1StartPiece.html" title=" " alt="" coords="13,225,195,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,191,107,225,101,225,101,191"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,203,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,118,107,152,101,152,101,118"/>
+<area shape="rect" id="Node000003" href="$classStructurePiece.html" title=" " alt="" coords="46,5,162,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,44,107,79,101,79,101,44"/>
+</map>

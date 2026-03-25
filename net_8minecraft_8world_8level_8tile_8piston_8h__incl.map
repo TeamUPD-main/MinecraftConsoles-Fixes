@@ -1,0 +1,35 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.tile.piston.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.tile.piston.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,521,60"/>
+<area shape="rect" id="Node000002" href="$PistonBaseTile_8h.html" title=" " alt="" coords="46,181,177,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,62,162,82,131,110,117,138,113,167,108,167,112,136,127,106,159,78,197,58"/>
+<area shape="rect" id="Node000009" href="$PistonExtensionTile_8h.html" title=" " alt="" coords="141,108,303,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="288,62,246,100,243,96,284,58"/>
+<area shape="rect" id="Node000010" href="$PistonMovingPiece_8h.html" title=" " alt="" coords="327,108,485,133"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="344,58,385,96,382,100,340,62"/>
+<area shape="rect" id="Node000013" href="$PistonPieceEntity_8h.html" title=" " alt="" coords="509,108,655,133"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="397,58,534,101,533,106,395,63"/>
+<area shape="rect" id="Node000003" href="$Tile_8h.html" title=" " alt="" coords="193,262,251,287"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,205,196,252,193,256,126,209"/>
+<area shape="rect" id="Node000004" href="$Material_8h.html" title=" " alt="" coords="22,343,110,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,290,102,339,100,334,198,285"/>
+<area shape="rect" id="Node000006" href="$Vec3_8h.html" title=" " alt="" coords="135,343,200,368"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="216,289,185,333,181,330,212,286"/>
+<area shape="rect" id="Node000007" href="$Definitions_8h.html" title=" " alt="" coords="225,343,329,368"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="232,286,263,330,259,333,228,289"/>
+<area shape="rect" id="Node000008" href="$SoundTypes_8h.html" title=" " alt="" coords="353,343,464,368"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="250,285,370,335,368,340,248,290"/>
+<area shape="rect" id="Node000005" href="$MaterialColor_8h.html" title=" " alt="" coords="5,416,127,441"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="69,368,69,402,63,402,63,368"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="225,133,225,248,219,248,219,133"/>
+<area shape="rect" id="Node000011" href="$BaseEntityTile_8h.html" title=" " alt="" coords="301,181,429,207"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="401,135,381,171,376,168,397,132"/>
+<area shape="poly" id="edge12_Node000011_Node000003" title=" " alt="" coords="345,209,256,258,254,253,342,205"/>
+<area shape="rect" id="Node000012" href="$EntityTile_8h.html" title=" " alt="" coords="317,262,413,287"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="367,207,367,248,362,248,362,207"/>
+<area shape="rect" id="Node000014" href="$TileEntity_8h.html" title=" " alt="" coords="535,181,629,207"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="585,134,585,168,579,168,579,134"/>
+<area shape="rect" id="Node000015" href="$HashExtension_8h.html" title=" " alt="" coords="477,262,607,287"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="578,208,556,251,552,249,574,206"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="631,255,767,295"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="601,205,661,245,658,249,598,209"/>
+</map>

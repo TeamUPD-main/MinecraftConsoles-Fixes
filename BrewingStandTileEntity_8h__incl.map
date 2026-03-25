@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/BrewingStandTileEntity.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/BrewingStandTileEntity.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,5,439,75"/>
+<area shape="rect" id="Node000002" href="$TileEntity_8h.html" title=" " alt="" coords="178,123,273,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,76,245,113,241,110,269,73"/>
+<area shape="rect" id="Node000005" href="$WorldlyContainer_8h.html" title=" " alt="" coords="297,123,442,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="325,73,354,110,350,113,321,76"/>
+<area shape="rect" id="Node000003" href="$HashExtension_8h.html" title=" " alt="" coords="5,203,136,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,151,107,199,105,195,201,146"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="160,196,296,236"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,148,230,182,224,182,223,148"/>
+<area shape="rect" id="Node000006" href="$Container_8h.html" title=" " alt="" coords="321,203,417,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="372,148,372,189,367,189,367,148"/>
+</map>

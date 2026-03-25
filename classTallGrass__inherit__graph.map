@@ -1,0 +1,7 @@
+<map id="TallGrass" name="TallGrass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,87,177"/>
+<area shape="rect" id="Node000002" href="$classBush.html" title=" " alt="" coords="19,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,118,49,152,43,152,43,118"/>
+<area shape="rect" id="Node000003" href="$classTile.html" title=" " alt="" coords="23,5,69,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="49,44,49,79,43,79,43,44"/>
+</map>

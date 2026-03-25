@@ -1,0 +1,31 @@
+<map id="UIScene_AbstractContainerMenu" name="UIScene_AbstractContainerMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,277,527,303"/>
+<area shape="rect" id="Node000004" href="$classUIScene__AnvilMenu.html" title=" " alt="" coords="609,5,759,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="417,264,438,215,471,154,516,92,543,64,573,40,608,24,610,29,576,44,547,68,520,95,476,157,443,218,422,266"/>
+<area shape="rect" id="Node000005" href="$classUIScene__BeaconMenu.html" title=" " alt="" coords="601,55,767,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="422,264,445,225,479,177,522,129,573,89,599,77,601,82,576,94,526,133,483,180,450,228,426,266"/>
+<area shape="rect" id="Node000006" href="$classUIScene__BrewingStandMenu.html" title=" " alt="" coords="580,104,788,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="427,265,488,201,528,167,573,138,602,127,604,132,576,143,532,171,491,205,431,268"/>
+<area shape="rect" id="Node000007" href="$classUIScene__ContainerMenu.html" title=" " alt="" coords="593,153,775,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="437,267,498,227,574,188,609,176,610,181,576,192,500,231,440,271"/>
+<area shape="rect" id="Node000008" href="$classUIScene__CreativeMenu.html" title=" " alt="" coords="597,203,771,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="461,271,574,237,621,225,622,231,575,242,462,276"/>
+<area shape="rect" id="Node000009" href="$classUIScene__DispenserMenu.html" title=" " alt="" coords="593,252,775,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="540,275,592,270,593,276,540,281"/>
+<area shape="rect" id="Node000010" href="$classUIScene__EnchantingMenu.html" title=" " alt="" coords="589,301,779,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="541,299,589,303,588,308,540,304"/>
+<area shape="rect" id="Node000011" href="$classUIScene__FireworksMenu.html" title=" " alt="" coords="593,351,775,376"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="464,304,575,337,623,348,621,353,574,342,463,309"/>
+<area shape="rect" id="Node000012" href="$classUIScene__FurnaceMenu.html" title=" " alt="" coords="599,400,769,425"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="440,309,501,348,576,386,611,397,609,403,574,391,498,353,437,313"/>
+<area shape="rect" id="Node000013" href="$classUIScene__HopperMenu.html" title=" " alt="" coords="601,449,767,475"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="432,312,492,374,532,408,576,436,604,447,602,452,573,440,529,412,488,378,428,315"/>
+<area shape="rect" id="Node000014" href="$classUIScene__HorseInventoryMenu.html" title=" " alt="" coords="575,499,793,524"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="426,313,450,352,484,399,526,446,576,485,600,496,597,501,573,490,522,450,479,402,445,355,422,316"/>
+<area shape="rect" id="Node000015" href="$classUIScene__InventoryMenu.html" title=" " alt="" coords="594,548,774,573"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="422,314,443,362,476,422,520,483,547,511,576,534,598,546,595,550,573,539,543,515,516,487,471,425,438,364,417,316"/>
+<area shape="rect" id="Node000002" href="$classUIScene.html" title=" " alt="" coords="87,252,162,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,266,292,277,292,282,176,272"/>
+<area shape="rect" id="Node000003" href="$classIUIScene__AbstractContainerMenu.html" title=" " alt="" coords="5,301,244,327"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,300,292,297,292,303,258,305"/>
+</map>

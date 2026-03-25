@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/HellDimension.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/HellDimension.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,5,307,60"/>
+<area shape="rect" id="Node000002" href="$Dimension_8h.html" title=" " alt="" coords="115,108,219,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,60,170,94,165,94,165,60"/>
+<area shape="rect" id="Node000003" href="$Material_8h.html" title=" " alt="" coords="22,181,110,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,136,95,175,92,171,150,131"/>
+<area shape="rect" id="Node000005" href="$Vec3_8h.html" title=" " alt="" coords="135,181,200,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="170,134,170,168,165,168,165,134"/>
+<area shape="rect" id="Node000006" href="$Pos_8h.html" title=" " alt="" coords="224,181,281,207"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="183,131,230,170,227,175,179,135"/>
+<area shape="rect" id="Node000004" href="$MaterialColor_8h.html" title=" " alt="" coords="5,255,127,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="69,207,69,241,63,241,63,207"/>
+</map>

@@ -1,0 +1,25 @@
+var classMobEffectInstance =
+[
+    [ "MobEffectInstance", "classMobEffectInstance.html#aa59cfb4e0fd83ade67413fad566b04d0", null ],
+    [ "MobEffectInstance", "classMobEffectInstance.html#a0d1d54acd2a143c21d7091b978c90c1b", null ],
+    [ "MobEffectInstance", "classMobEffectInstance.html#a0f6e6a20aebb138682ea1c533b95a90e", null ],
+    [ "MobEffectInstance", "classMobEffectInstance.html#a2cb7cd4d9d7431410cc43792c3143f84", null ],
+    [ "MobEffectInstance", "classMobEffectInstance.html#a4f9c6eface43dff6a80b849b3344693d", null ],
+    [ "applyEffect", "classMobEffectInstance.html#a7fd1952e445060157d0aa0993cb65d85", null ],
+    [ "equals", "classMobEffectInstance.html#a6b56bb5aa83cadcff17f7eef04db1c11", null ],
+    [ "getAmplifier", "classMobEffectInstance.html#a954a0dd41d7166276abd01d1f5639912", null ],
+    [ "getDescriptionId", "classMobEffectInstance.html#ac79742570ba391e59279061fc76b4576", null ],
+    [ "getDuration", "classMobEffectInstance.html#a26b84fd739b5cdc6a12e6fce534af087", null ],
+    [ "getId", "classMobEffectInstance.html#a6408a1a85ff99f15dd4b6472b3fe8e07", null ],
+    [ "getPostfixDescriptionId", "classMobEffectInstance.html#aaf82d37aa843512a9a2ab829283cbeb6", null ],
+    [ "hashCode", "classMobEffectInstance.html#ad11af60ac7b020300afda61d1103b217", null ],
+    [ "isAmbient", "classMobEffectInstance.html#a7879c3d2892816139748fd3088799174", null ],
+    [ "isNoCounter", "classMobEffectInstance.html#a7ef03b42ec2bd3656b5f3be0854e6b7a", null ],
+    [ "isSplash", "classMobEffectInstance.html#a0f6b8d0580a5d2b1a6b2a2593318f4eb", null ],
+    [ "save", "classMobEffectInstance.html#abd89d67e4a5cbd9e9a333964b7519c3e", null ],
+    [ "setNoCounter", "classMobEffectInstance.html#ade0e0c111726e0f5418ea60f928cd90c", null ],
+    [ "setSplash", "classMobEffectInstance.html#aad1dd7f640cc3a13f142581efbc4595f", null ],
+    [ "tick", "classMobEffectInstance.html#a8196602f42e6c3d3881d23f8e130189a", null ],
+    [ "toString", "classMobEffectInstance.html#af503a3dcc606f1f3036711129e704584", null ],
+    [ "update", "classMobEffectInstance.html#a5f0d3e04a910e22fc5409703ae20752e", null ]
+];

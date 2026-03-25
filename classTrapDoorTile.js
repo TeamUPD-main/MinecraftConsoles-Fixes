@@ -1,0 +1,25 @@
+var classTrapDoorTile =
+[
+    [ "TrapDoorTile", "classTrapDoorTile.html#a4a4cfa7c940c618d03e748ae1d533187", null ],
+    [ "attack", "classTrapDoorTile.html#a175eae72536eb7c091c80964d558bc16", null ],
+    [ "blocksLight", "classTrapDoorTile.html#a7e7f98f6cbc8faee62dda0425ae022c8", null ],
+    [ "clip", "classTrapDoorTile.html#a673fb11d965de3eb7956b2005f5c9900", null ],
+    [ "getAABB", "classTrapDoorTile.html#a44c43f8722ee8934f7cac99493cc58a2", null ],
+    [ "getDir", "classTrapDoorTile.html#a19bd56b0f017aa9b9aff88d078b6c308", null ],
+    [ "getPlacedOnFaceDataValue", "classTrapDoorTile.html#add5788c6cf420e3d2b58ce7ee1c0fa15", null ],
+    [ "getRenderShape", "classTrapDoorTile.html#a87e056beba49a66e8340b8ad55b2ffcb", null ],
+    [ "getTileAABB", "classTrapDoorTile.html#ac5c4b3485358b677884afe3d1926998b", null ],
+    [ "isCubeShaped", "classTrapDoorTile.html#a9d46e2a674106181bfaa9a4cebd04a70", null ],
+    [ "isPathfindable", "classTrapDoorTile.html#a9110dd94fb25eb331193e7924af517dd", null ],
+    [ "isSolidRender", "classTrapDoorTile.html#aaf8d08604825938cb517d09a67a8d4e6", null ],
+    [ "mayPlace", "classTrapDoorTile.html#a7c363dff807c786ccd2677a95ee3a7a9", null ],
+    [ "neighborChanged", "classTrapDoorTile.html#a21a5458b9752b4cfe46d925fa5867d3b", null ],
+    [ "setOpen", "classTrapDoorTile.html#aa236af751b6b9dfff805e72ae6fee372", null ],
+    [ "setShape", "classTrapDoorTile.html#a77ca35237ae6c4cb595b40dff528fa26", null ],
+    [ "setShape", "classTrapDoorTile.html#aedfe01d63af328d6c9b7c2f2c41c5d6c", null ],
+    [ "TestUse", "classTrapDoorTile.html#acfc64adbd0f58a79dd6508b32faf688f", null ],
+    [ "updateDefaultShape", "classTrapDoorTile.html#af6464955c4c553705c6e585e0e043fc2", null ],
+    [ "updateShape", "classTrapDoorTile.html#ad78bb17a2e9575dfdc79c31e409a53a4", null ],
+    [ "use", "classTrapDoorTile.html#a4142e63b6fb28b58dbdb3df72d729438", null ],
+    [ "Tile", "classTrapDoorTile.html#a8a6c6f6de547e6f39d3212d1f4d49a65", null ]
+];

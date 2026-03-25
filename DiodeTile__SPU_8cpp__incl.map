@@ -1,0 +1,20 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/DiodeTile_SPU.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/ChunkUpdate/DiodeTile_SPU.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,325,75"/>
+<area shape="rect" id="Node000002" href="$Minecraft_8Client_2PS3_2SPU__Tasks_2ChunkUpdate_2stdafx_8h.html" title=" " alt="" coords="83,123,158,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,76,138,113,134,110,159,73"/>
+<area shape="rect" id="Node000003" href="$DiodeTile__SPU_8h.html" title=" " alt="" coords="183,123,312,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,73,234,110,229,113,204,76"/>
+<area shape="rect" id="Node000004" href="$Tile__SPU_8h.html" title=" " alt="" coords="139,196,230,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,150,206,187,202,184,235,147"/>
+<area shape="rect" id="Node000009" href="$Facing__SPU_8h.html" title=" " alt="" coords="255,196,363,221"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="259,147,292,184,288,187,255,150"/>
+<area shape="rect" id="Node000005" href="$Icon__SPU_8h.html" title=" " alt="" coords="5,269,100,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="165,224,87,265,85,260,162,219"/>
+<area shape="rect" id="Node000007" href="$Material__SPU_8h.html" title=" " alt="" coords="124,269,245,295"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="187,222,187,256,182,256,182,222"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="270,269,345,295"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="206,219,277,260,274,265,203,224"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="83,343,153,368"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="65,293,100,331,96,334,61,297"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="176,297,140,334,136,331,172,293"/>
+</map>

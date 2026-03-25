@@ -1,0 +1,9 @@
+<map id="WebMaterial" name="WebMaterial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,440,113,465"/>
+<area shape="rect" id="Node000002" href="$classMaterial.html" title=" " alt="" coords="23,297,99,323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,336,63,440,58,440,58,336"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="88,289,101,288,113,291,122,298,125,310,120,324,108,331,92,331,75,325,77,320,93,326,106,326,116,321,120,310,118,301,111,295,101,293,89,295"/>
+<area shape="rect" id="Node000003" href="$classMaterialColor.html" title=" " alt="" coords="5,73,116,99"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="63,113,63,297,58,297,58,113"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="90,65,108,62,125,64,138,72,143,86,136,101,120,109,99,109,77,101,79,96,99,103,119,104,132,98,137,86,134,76,123,70,108,68,91,71"/>
+</map>

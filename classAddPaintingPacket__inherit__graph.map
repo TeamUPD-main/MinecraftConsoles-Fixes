@@ -1,0 +1,7 @@
+<map id="AddPaintingPacket" name="AddPaintingPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,93,187,119"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,13,69,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,46,106,91,102,95,57,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,296,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,57,130,95,126,91,164,53"/>
+</map>

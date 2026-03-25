@@ -1,0 +1,26 @@
+var structGAME__SETTINGS =
+[
+    [ "bSettingsChanged", "structGAME__SETTINGS.html#af0e026719061bf37f1f467c2e51e7b35", null ],
+    [ "dwSelectedCape", "structGAME__SETTINGS.html#aeb18b0ac4906a08f2922c739283efbd0", null ],
+    [ "dwSelectedSkin", "structGAME__SETTINGS.html#a4c649b525142d42df5086f05719e03bc", null ],
+    [ "ucCurrentFavoriteSkinPos", "structGAME__SETTINGS.html#ae75359fc00f612a0113a7f234a983bd5", null ],
+    [ "ucFov", "structGAME__SETTINGS.html#a3a26b285da3bb2ef323edfc4379e6032", null ],
+    [ "ucGamma", "structGAME__SETTINGS.html#aad64e8feb2846430f48c14422d28ecdb", null ],
+    [ "ucInterfaceOpacity", "structGAME__SETTINGS.html#ae9bdec980da973422d981f3db3eb8b4d", null ],
+    [ "ucLanguage", "structGAME__SETTINGS.html#a5e39827967c611695294c54a6841836c", null ],
+    [ "ucLocale", "structGAME__SETTINGS.html#aa1841559bb43559a93db12c7070bb527", null ],
+    [ "ucMenuSensitivity", "structGAME__SETTINGS.html#ab01d058a4e84a99f39a7b6a6237e01aa", null ],
+    [ "ucMusicVolume", "structGAME__SETTINGS.html#aa5823d75bdae97c866571af3f5fd6f44", null ],
+    [ "ucPad01", "structGAME__SETTINGS.html#a31c9a74a83d830fc79fe6d557ee893b0", null ],
+    [ "ucPad02", "structGAME__SETTINGS.html#adbd9183558e1978c441b7fa946762b2a", null ],
+    [ "ucReservedSpace", "structGAME__SETTINGS.html#ab7b8bc8659f718123545575e253db7f5", null ],
+    [ "ucSensitivity", "structGAME__SETTINGS.html#a9c51272e9e8b95530e9e0ec665c8d8d3", null ],
+    [ "ucSoundFXVolume", "structGAME__SETTINGS.html#a05e2aba13967388e1bb46652d8202244", null ],
+    [ "ucTutorialCompletion", "structGAME__SETTINGS.html#aee7e4e427e9967fdf6159cb5b1ab25b7", null ],
+    [ "uiBitmaskValues", "structGAME__SETTINGS.html#a3782c5c1791d8ec89391b76693009680", null ],
+    [ "uiDebugBitmask", "structGAME__SETTINGS.html#ab2f50f5f0e55dfcafcc41cf7a307d333", null ],
+    [ "uiFavoriteSkinA", "structGAME__SETTINGS.html#ae5ced9c35f80e431e6a0a51efa165382", null ],
+    [ "uiMashUpPackWorldsDisplay", "structGAME__SETTINGS.html#a6cfee6eab3637fd33bfe0a2e91084458", null ],
+    [ "uiSpecialTutorialBitmask", "structGAME__SETTINGS.html#ad4723900fa187f373a2b69126d93b4ff", null ],
+    [ "usBitmaskValues", "structGAME__SETTINGS.html#ae8a2a4bf1235881519aad1f3c420da26", null ]
+];

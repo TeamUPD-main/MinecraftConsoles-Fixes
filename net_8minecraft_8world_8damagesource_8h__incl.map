@@ -1,0 +1,24 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.damagesource.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.damagesource.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,5,415,60"/>
+<area shape="rect" id="Node000002" href="$CombatEntry_8h.html" title=" " alt="" coords="5,108,123,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,62,97,103,94,99,165,58"/>
+<area shape="rect" id="Node000003" href="$CombatTracker_8h.html" title=" " alt="" coords="21,181,152,207"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="193,62,137,135,107,172,103,169,133,132,189,59"/>
+<area shape="rect" id="Node000006" href="$DamageSource_8h.html" title=" " alt="" coords="213,255,347,280"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="213,60,219,128,226,167,238,206,262,243,257,246,234,208,221,169,213,128,208,60"/>
+<area shape="rect" id="Node000009" href="$EntityDamageSource_8h.html" title=" " alt="" coords="248,181,419,207"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="233,59,289,132,318,169,314,172,285,135,228,62"/>
+<area shape="rect" id="Node000010" href="$IndirectEntityDamageSource_8h.html" title=" " alt="" coords="299,108,519,133"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="272,58,371,100,369,105,270,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,133,81,167,76,169,65,134"/>
+<area shape="rect" id="Node000004" href="$SharedConstants_8h.html" title=" " alt="" coords="15,255,159,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,207,89,241,84,241,84,207"/>
+<area shape="rect" id="Node000005" href="$Class_8h.html" title=" " alt="" coords="52,328,121,353"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,280,89,314,84,314,84,280"/>
+<area shape="rect" id="Node000007" href="$ChatPacket_8h.html" title=" " alt="" coords="227,328,333,353"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="283,280,283,314,277,314,277,280"/>
+<area shape="rect" id="Node000008" href="$Packet_8h.html" title=" " alt="" coords="242,401,318,427"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="283,354,283,388,277,388,277,354"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="327,209,299,245,295,242,322,205"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="399,135,358,174,354,170,395,131"/>
+</map>

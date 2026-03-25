@@ -1,0 +1,9 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PSVita/PSVitaExtras/CustomMap.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PSVita/PSVitaExtras/CustomMap.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,248,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,123,105,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,76,85,112,80,109,103,73"/>
+<area shape="rect" id="Node000003" href="$CustomMap_8h.html" title=" " alt="" coords="129,123,241,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,73,173,109,168,112,146,76"/>
+<area shape="rect" id="Node000004" href="$ChunkPos_8h.html" title=" " alt="" coords="105,196,265,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,148,188,182,183,182,183,148"/>
+</map>

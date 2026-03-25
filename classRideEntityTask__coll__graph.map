@@ -1,0 +1,12 @@
+<map id="RideEntityTask" name="RideEntityTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,124,133"/>
+<area shape="rect" id="Node000002" href="$classTutorialTask.html" title=" " alt="" coords="59,13,158,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,51,86,70,71,109,66,107,81,68,91,49"/>
+<area shape="rect" id="Node000003" href="$classTutorial.html" title=" " alt="" coords="225,108,296,133"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="103,51,101,68,107,82,125,94,155,103,225,114,225,119,154,108,123,99,103,86,96,69,97,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,102,189,72,131,40,134,36,191,67,236,97"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,5,382,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="291,59,268,109,263,107,286,57"/>
+<area shape="rect" id="Node000005" href="$classTutorialConstraint.html" title=" " alt="" coords="407,13,544,38"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="443,47,359,86,296,110,294,105,357,82,441,42"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Sentient::SenAvatarInfo" name="Sentient::SenAvatarInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,431,304,456"/>
+<area shape="rect" id="Node000002" href="$structSentient_1_1SenResourceInfo.html" title="Generic resource information." alt="" coords="5,328,199,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,361,205,429,202,433,124,365"/>
+<area shape="rect" id="Node000003" href="$struct__SYSTEMTIME.html" title=" " alt="" coords="45,196,159,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,235,105,328,99,328,99,235"/>
+<area shape="rect" id="Node000004" href="$structSentient_1_1SenAvatarGenderInfo.html" title=" " alt="" coords="223,328,445,353"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,365,232,433,228,429,308,361"/>
+<area shape="rect" id="Node000005" href="$structSentient_1_1SenRawDataTransferInfo.html" title="Basic raw data transfer information." alt="" coords="212,196,456,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="337,235,337,328,331,328,331,235"/>
+<area shape="rect" id="Node000006" href="$structSentient_1_1SenFileTransferInfo.html" title="Basic file transfer information." alt="" coords="79,101,287,126"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="215,131,317,194,314,198,212,135"/>
+<area shape="rect" id="Node000007" href="$structSentient_1_1SenFileDigest.html" title="Stores a digest of a file." alt="" coords="97,5,270,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="186,44,186,101,181,101,181,44"/>
+<area shape="rect" id="Node000008" href="$structSentient_1_1SenPackageFileTransferInfo.html" title="Basic file transfer information." alt="" coords="311,93,495,133"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="383,146,345,197,341,194,379,143"/>
+</map>

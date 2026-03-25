@@ -1,0 +1,7 @@
+<map id="_BeaconScreenInput" name="_BeaconScreenInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="134,93,289,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,188,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,37,197,91,194,95,121,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="212,5,443,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,41,229,95,226,91,299,37"/>
+</map>

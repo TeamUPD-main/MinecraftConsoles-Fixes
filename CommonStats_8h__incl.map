@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/CommonStats.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/CommonStats.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,280,60"/>
+<area shape="rect" id="Node000002" href="$GenericStats_8h.html" title=" " alt="" coords="84,108,201,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,60,145,94,140,94,140,60"/>
+<area shape="rect" id="Node000003" href="$Stat_8h.html" title=" " alt="" coords="113,255,173,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,134,136,184,138,241,133,241,131,184,135,134"/>
+<area shape="rect" id="Node000005" href="$Stats_8h.html" title=" " alt="" coords="192,181,259,207"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="158,131,203,170,200,174,154,135"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="145,254,149,204,147,147,152,147,154,204,150,255"/>
+<area shape="rect" id="Node000004" href="$StatFormatter_8h.html" title=" " alt="" coords="81,328,204,353"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,280,145,314,140,314,140,280"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="214,209,168,248,165,243,210,205"/>
+</map>

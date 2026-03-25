@@ -1,0 +1,23 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/TutorialHints.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/TutorialHints.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,5,467,75"/>
+<area shape="rect" id="Node000002" href="$AreaHint_8h.html" title=" " alt="" coords="5,123,96,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,77,101,121,99,116,238,72"/>
+<area shape="rect" id="Node000005" href="$DiggerItemHint_8h.html" title=" " alt="" coords="121,123,255,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="290,77,221,118,218,113,287,72"/>
+<area shape="rect" id="Node000006" href="$LookAtTileHint_8h.html" title=" " alt="" coords="280,123,411,148"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="348,75,348,109,343,109,343,75"/>
+<area shape="rect" id="Node000007" href="$TakeItemHint_8h.html" title=" " alt="" coords="435,123,555,148"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="401,73,466,113,463,118,398,77"/>
+<area shape="rect" id="Node000008" href="$LookAtEntityHint_8h.html" title=" " alt="" coords="579,123,723,148"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="456,72,601,116,599,121,455,77"/>
+<area shape="rect" id="Node000003" href="$TutorialHint_8h.html" title=" " alt="" coords="291,203,400,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,145,290,197,289,202,93,151"/>
+<area shape="rect" id="Node000004" href="$TutorialEnum_8h.html" title=" " alt="" coords="286,284,405,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,229,348,270,343,270,343,229"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="212,146,311,195,309,200,210,150"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="348,148,348,189,343,189,343,148"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="474,151,381,199,378,195,471,146"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="607,151,404,203,402,197,606,145"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="571,196,731,236"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="653,148,653,182,648,182,648,148"/>
+</map>

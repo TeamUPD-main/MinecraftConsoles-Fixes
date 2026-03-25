@@ -1,0 +1,17 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ArmorItem.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ArmorItem.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,5,426,60"/>
+<area shape="rect" id="Node000002" href="$Item_8h.html" title=" " alt="" coords="183,108,247,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,62,238,100,234,96,272,58"/>
+<area shape="rect" id="Node000006" href="$DefaultDispenseItemBehavior_8h.html" title=" " alt="" coords="292,108,521,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="334,58,383,97,380,101,331,62"/>
+<area shape="rect" id="Node000003" href="$Container_8h.html" title=" " alt="" coords="5,181,101,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,136,93,178,91,173,188,131"/>
+<area shape="rect" id="Node000004" href="$UseAnim_8h.html" title=" " alt="" coords="125,181,219,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,135,188,171,184,168,205,132"/>
+<area shape="rect" id="Node000005" href="$Rarity_8h.html" title=" " alt="" coords="243,181,314,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,132,261,169,257,173,223,135"/>
+<area shape="rect" id="Node000007" href="$DispenseItemBehavior_8h.html" title=" " alt="" coords="339,181,520,207"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="413,133,424,167,419,169,408,134"/>
+<area shape="rect" id="Node000008" href="$Behavior_8h.html" title=" " alt="" coords="384,255,475,280"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="432,207,432,241,427,241,427,207"/>
+</map>

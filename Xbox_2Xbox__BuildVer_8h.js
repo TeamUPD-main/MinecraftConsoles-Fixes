@@ -1,0 +1,25 @@
+var Xbox_2Xbox__BuildVer_8h =
+[
+    [ "VER_FILEBETA_STR", "Xbox_2Xbox__BuildVer_8h.html#ad09409fb44393b00322cbc5d9b0b34ab", null ],
+    [ "VER_FILEBPAD", "Xbox_2Xbox__BuildVer_8h.html#a73a245bdef7013fc6d7a67ce07646cc9", null ],
+    [ "VER_FILEBPAD_W", "Xbox_2Xbox__BuildVer_8h.html#a2696ecd5d88e5cabb0f57fc6417f0713", null ],
+    [ "VER_FILEVERSION", "Xbox_2Xbox__BuildVer_8h.html#ae6ef9058da3d1f2efdc365d6643d1de3", null ],
+    [ "VER_FILEVERSION_STR", "Xbox_2Xbox__BuildVer_8h.html#a9ab9575a5fdacc8d78fb6a6a982bb060", null ],
+    [ "VER_FILEVERSION_STR1", "Xbox_2Xbox__BuildVer_8h.html#ad08ac9e89b170ea3e4bed55d7872ea27", null ],
+    [ "VER_FILEVERSION_STR1_W", "Xbox_2Xbox__BuildVer_8h.html#aaad4329a6f12c0b704b3e835033cd37e", null ],
+    [ "VER_FILEVERSION_STR2", "Xbox_2Xbox__BuildVer_8h.html#a2f2c5531c447f40d27a8595026c46239", null ],
+    [ "VER_FILEVERSION_STR2_W", "Xbox_2Xbox__BuildVer_8h.html#a40e9ba3f4e61dfd8f6443690fd4cb740", null ],
+    [ "VER_FILEVERSION_STR_W", "Xbox_2Xbox__BuildVer_8h.html#a06ad98ec72fc1a22a7ef374d43aadbda", null ],
+    [ "VER_FILEVERSION_STRING", "Xbox_2Xbox__BuildVer_8h.html#a80e99b862ef5f54755c3b3fae836376b", null ],
+    [ "VER_FILEVERSION_STRING_W", "Xbox_2Xbox__BuildVer_8h.html#ab48743558b61efe0dd40d03d4fd39c5a", null ],
+    [ "VER_PRODUCTBUILD", "Xbox_2Xbox__BuildVer_8h.html#af7de8a5ec2177cbaaaea4b5eb493abda", null ],
+    [ "VER_PRODUCTBUILD_QFE", "Xbox_2Xbox__BuildVer_8h.html#a8758aa87eaba93a66dd35e5c8311fa1c", null ],
+    [ "VER_PRODUCTMAJORVERSION", "Xbox_2Xbox__BuildVer_8h.html#a15cdb4d2ebd50c4713f3d87d5b6d9315", null ],
+    [ "VER_PRODUCTMINORVERSION", "Xbox_2Xbox__BuildVer_8h.html#a89af2301f26aa33ce932dcf6c36a72b4", null ],
+    [ "VER_PRODUCTVERSION", "Xbox_2Xbox__BuildVer_8h.html#a1f0c72807dfc9de46855bff55bae541c", null ],
+    [ "VER_PRODUCTVERSION_STR", "Xbox_2Xbox__BuildVer_8h.html#a5084df706ac15e76da275c143313f3d9", null ],
+    [ "VER_PRODUCTVERSION_STR_W", "Xbox_2Xbox__BuildVer_8h.html#a43b92356ad67f3b06b646a1458fa90b1", null ],
+    [ "VER_PRODUCTVERSION_STRING", "Xbox_2Xbox__BuildVer_8h.html#a0a29ee1113fcf44977f9699b5f28b2b5", null ],
+    [ "VER_PRODUCTVERSION_STRING_W", "Xbox_2Xbox__BuildVer_8h.html#a65b6f88c93220e9fb70485293778a633", null ],
+    [ "VER_WIDE_PREFIX", "Xbox_2Xbox__BuildVer_8h.html#ad85890f9f97ac4a2cad9cd532f2def4b", null ]
+];

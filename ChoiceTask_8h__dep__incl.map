@@ -1,0 +1,16 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/ChoiceTask.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/ChoiceTask.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,5,515,75"/>
+<area shape="rect" id="Node000002" href="$ChoiceTask_8cpp.html" title=" " alt="" coords="5,123,248,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,83,206,125,204,120,302,78"/>
+<area shape="rect" id="Node000003" href="$HorseChoiceTask_8h.html" title=" " alt="" coords="272,123,515,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,89,396,122,391,122,391,89"/>
+<area shape="rect" id="Node000005" href="$TutorialTasks_8h.html" title=" " alt="" coords="431,240,673,309"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="486,80,509,98,529,121,543,150,552,182,557,240,551,240,547,183,538,152,524,124,506,102,482,84"/>
+<area shape="rect" id="Node000004" href="$HorseChoiceTask_8cpp.html" title=" " alt="" coords="164,240,407,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,204,319,242,315,238,350,200"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="452,198,507,237,504,242,449,202"/>
+<area shape="rect" id="Node000006" href="$FullTutorial_8cpp.html" title=" " alt="" coords="297,357,540,427"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="504,321,460,359,456,355,501,316"/>
+<area shape="rect" id="Node000007" href="$Tutorial_8cpp.html" title=" " alt="" coords="564,357,807,427"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="603,316,648,355,644,359,600,321"/>
+</map>

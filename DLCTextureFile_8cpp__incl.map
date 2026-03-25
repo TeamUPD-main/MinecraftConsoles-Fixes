@@ -1,0 +1,14 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/DLC/DLCTextureFile.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/DLC/DLCTextureFile.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,248,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,123,89,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,76,72,113,68,110,98,73"/>
+<area shape="rect" id="Node000003" href="$DLCManager_8h.html" title=" " alt="" coords="114,269,230,295"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,75,170,255,165,256,130,76"/>
+<area shape="rect" id="Node000005" href="$DLCTextureFile_8h.html" title=" " alt="" coords="164,123,295,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,73,208,111,204,115,162,77"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="141,343,203,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,295,175,329,169,329,169,295"/>
+<area shape="rect" id="Node000006" href="$DLCFile_8h.html" title=" " alt="" coords="176,196,259,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="230,149,224,183,219,182,225,148"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="212,223,189,259,184,256,208,220"/>
+</map>

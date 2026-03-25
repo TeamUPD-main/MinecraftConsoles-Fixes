@@ -1,0 +1,6 @@
+<map id="AvoidPlayerGoalEntitySelector" name="AvoidPlayerGoalEntitySelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,225,109"/>
+<area shape="rect" id="Node000002" href="$classEntitySelector.html" title=" " alt="" coords="59,7,172,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,46,118,84,113,84,113,46"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="187,12,199,20,190,27,173,30,172,24,188,22,193,20,184,17"/>
+</map>

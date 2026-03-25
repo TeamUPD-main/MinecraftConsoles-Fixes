@@ -1,0 +1,11 @@
+<map id="BrewingStandTileEntity" name="BrewingStandTileEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,167,263,192"/>
+<area shape="rect" id="Node000002" href="$classTileEntity.html" title=" " alt="" coords="67,93,151,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,127,166,165,163,168,127,131"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,59,110,93,104,93,99,59"/>
+<area shape="rect" id="Node000004" href="$classWorldlyContainer.html" title=" " alt="" coords="181,93,316,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,130,189,168,185,165,225,126"/>
+<area shape="rect" id="Node000005" href="$classContainer.html" title=" " alt="" coords="213,13,298,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,52,252,93,247,93,251,52"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="INetworkPlayer" name="INetworkPlayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,5,340,31"/>
+<area shape="rect" id="Node000002" href="$classNetworkPlayerDurango.html" title=" " alt="" coords="5,79,179,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,38,123,81,122,76,235,33"/>
+<area shape="rect" id="Node000003" href="$classNetworkPlayerSony.html" title=" " alt="" coords="203,79,354,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,44,281,79,276,79,276,44"/>
+<area shape="rect" id="Node000004" href="$classNetworkPlayerXbox.html" title=" " alt="" coords="378,79,529,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,33,426,76,424,81,318,38"/>
+</map>

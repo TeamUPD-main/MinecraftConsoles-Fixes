@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/SplashParticle.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/SplashParticle.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,371,60"/>
+<area shape="rect" id="Node000002" href="$WaterDropParticle_8h.html" title=" " alt="" coords="158,108,309,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,60,236,94,231,94,231,60"/>
+<area shape="rect" id="Node000003" href="$Particle_8h.html" title=" " alt="" coords="192,181,275,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,134,236,168,231,168,231,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,255,141,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,209,126,251,123,246,209,204"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="165,255,301,295"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="236,207,236,241,231,241,231,207"/>
+<area shape="rect" id="Node000006" href="$ParticleEngine_8h.html" title=" " alt="" coords="326,262,453,287"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="257,204,356,254,353,258,255,209"/>
+</map>

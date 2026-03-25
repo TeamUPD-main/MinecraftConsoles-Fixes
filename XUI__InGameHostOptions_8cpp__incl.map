@@ -1,0 +1,33 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_InGameHostOptions.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_InGameHostOptions.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="819,5,1062,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="267,130,342,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="819,53,601,78,477,98,355,125,345,128,343,123,353,120,476,93,600,73,819,48"/>
+<area shape="rect" id="Node000003" href="$XUI__MultiGameCreate_8h.html" title=" " alt="" coords="366,130,545,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="819,69,524,130,523,125,818,64"/>
+<area shape="rect" id="Node000010" href="$XUI__InGameHostOptions_8h.html" title=" " alt="" coords="569,130,763,155"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="850,77,711,128,709,123,848,72"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="788,130,907,155"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="911,77,870,121,866,118,907,73"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="931,130,1137,155"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="974,73,1016,118,1012,121,970,77"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1161,130,1331,155"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1044,72,1199,123,1198,128,1042,77"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1355,123,1537,163"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1063,63,1342,118,1341,123,1062,68"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1562,123,1791,163"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1062,54,1549,120,1548,125,1062,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,211,183,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="408,158,187,210,186,205,406,153"/>
+<area shape="rect" id="Node000005" href="$XUI__Ctrl__4JEdit_8h.html" title=" " alt="" coords="207,218,338,243"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="432,158,311,214,309,210,430,153"/>
+<area shape="rect" id="Node000007" href="$XUI__Ctrl__SliderWrapper_8h.html" title=" " alt="" coords="363,218,548,243"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="458,156,458,204,453,204,453,156"/>
+<area shape="rect" id="Node000008" href="$XUI__MultiGameLaunchMoreOptions_8h.html" title=" " alt="" coords="572,218,837,243"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="490,153,659,211,657,216,488,158"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,306,313,331"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="275,244,275,292,270,292,270,244"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="615,299,795,339"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="707,244,707,285,702,285,702,244"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="862,211,1054,251"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="706,153,882,204,880,209,705,158"/>
+</map>

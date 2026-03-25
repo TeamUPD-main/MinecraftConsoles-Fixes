@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contributor Guide - Minecraft Consoles Fixes</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 0 auto; max-width: 900px; padding: 20px; background-color: #f4f4f4; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        h3 { color: #555; margin-top: 20px; }
+        nav ul { list-style-type: none; padding: 0; }
+        nav ul li { display: inline; margin-right: 20px; }
+        nav ul li a { text-decoration: none; color: #3498db; font-weight: bold; }
+        nav ul li a:hover { text-decoration: underline; }
+        a { color: #3498db; }
+        code { background-color: #eef; padding: 2px 4px; border-radius: 3px; }
+        pre { background-color: #eee; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        ul { list-style-type: disc; margin-left: 20px; }
+        .tip { background-color: #e6ffe6; border-left: 5px solid #28a745; padding: 10px 15px; margin-top: 20px; border-radius: 5px; }
+        .warning { background-color: #fff3e6; border-left: 5px solid #ff9800; padding: 10px 15px; margin-top: 20px; border-radius: 5px; }
+        .footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #ccc; text-align: center; color: #777; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="architecture.html">Architecture</a></li>
+            <li><a href="contributor-guide.html">Contributor Guide</a></li>
+        </ul>
+    </nav>
+
+    <h1>Contributor Guide</h1>
+
+    <p>This guide provides practical information for new and existing contributors to the <strong>Minecraft Consoles Fixes</strong> project. Understanding the project's structure and common code patterns will help you make effective contributions.</p>
+
+    <h2>Project Structure Overview</h2>
+    <p>As detailed in the <a href="architecture.html">Architecture Overview</a>, the project is organized into distinct layers:</p>
+    <ul>
+        <li><code>Minecraft.World</code>: Core game logic (e.g., physics, entities, items, blocks).</li>
+        <li><code>Minecraft.Client</code>: Client-side application (e.g., UI, rendering, input).</li>
+        <li><code>Minecraft.Server</code>: Server-side application (e.g., multiplayer, access control).</li>
+        <li><code>Common</code>: Shared utilities and definitions.</li>
+        <li><code>4JLibs</code>, <code>Durango</code>, <code>Orbis</code>: Platform-specific code and abstractions for Xbox and PlayStation.</li>
+    </ul>
+    <p>Most contributions will involve changes within one or more of these modules, often requiring an understanding of their interactions.</p>
+
+    <h2>Key Areas for Contribution</h2>
+    <p>Here are common areas where you might contribute and the relevant modules:</p>
+    <ul>
+        <li>
+            <h3>Modifying Gameplay Mechanics (<code>Minecraft.World</code>)</h3>
+            <p>If you're looking to change how entities behave, introduce new item functionalities, alter block properties, or adjust physics, your work will primarily be in the <code>Minecraft.World</code> module.</p>
+            <ul>
+                <li><strong>Physics:</strong> Modify <code>AABB.h</code>, <code>Vec3.h</code> for collision and movement logic.</li>
+                <li><strong>Entities/Mobs/Players:</strong> Extend classes like <code>LivingEntity.h</code>, <code>Mob.h</code>, <code>Player.h</code>. Adjust player abilities through <code>Abilities.h</code>.</li>
+                <li><strong>Items/Blocks:</strong> Work with <code>Item.h</code>, <code>Tile.h</code>, and their derived classes.</li>
+                <li><strong>Status Effects:</strong> Implement new effects or modify existing ones using <code>MobEffect.h</code> and specific effects like <code>AbsoptionMobEffect.h</code>.</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Extending Client Features (<code>Minecraft.Client</code>)</h3>
+            <p>Contributions related to the user interface, rendering, or client-side platform integration belong here.</p>
+            <ul>
+                <li><strong>User Interface:</strong> Implement new screens or GUI elements by extending <code>Screen.h</code> or <code>GuiComponent.h</code>. Existing container UIs use <code>AbstractContainerScreen.h</code>.</li>
+                <li><strong>Rendering:</strong> Adjust how items are drawn via <code>ItemRenderer.h</code> or manage textures using <code>Textures.h</code> and <code>AbstractTexturePack.h</code>.</li>
+                <li><strong>Input:</strong> Modify input handling or key mappings via <code>KeyMapping.h</code>.</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Enhancing Server Management (<code>Minecraft.Server</code>)</h3>
+            <p>For multiplayer-focused changes, especially regarding server management and player access, the <code>Minecraft.Server</code> module is the place to look.</p>
+            <ul>
+                <li><strong>Access Control:</strong> Implement new ban or whitelist rules, or modify existing ones within <code>Access.h</code>, <code>BanManager.h</code>, and <code>WhitelistManager.h</code>.</li>
+                <li><strong>Server Logic:</strong> Changes to the main server loop or game session management will be around <code>ServerMain.cpp</code>.</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Platform-Specific Implementations (<code>4JLibs</code>, <code>Durango</code>, <code>Orbis</code>)</h3>
+            <p>If your contribution involves specific console features, such as user file management (UGC, saves) or integrating with platform achievements:</p>
+            <ul>
+                <li><strong>User File Management:</strong> Refer to <code>4J_xtms.h</code> for functions like <code>XSGX_XTmsPutUserFile</code> and <code>XSGX_XTmsCancelPutUserFile</code>.</li>
+                <li><strong>Achievements:</strong> Investigate <code>AchievementManager.h</code> in the platform-specific directories for integration with console achievement systems.</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Core Utilities (<code>Common</code>)</h3>
+            <p>For general-purpose enhancements or bug fixes affecting definitions, game rules, telemetry, or audio, the <code>Common</code> module is relevant.</p>
+            <ul>
+                <li><strong>Game Rules:</strong> Modify existing or add new game rules in <code>ConsoleGameRules.h</code>.</li>
+                <li><strong>Telemetry:</strong> Understand how game data is collected and reported by examining <code>TelemetryManager.h</code>.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Understanding the Codebase</h2>
+    <ul>
+        <li>
+            <h3>Dependencies: Use Include Graphs</h3>
+            <p>Doxygen provides include dependency graphs. When working on a file, examine its <strong><code>incdepgraph</code></strong> (what it includes) and <strong><code>invincdepgraph</code></strong> (what includes it) to understand its place in the system and potential side effects of changes. This is crucial for navigating the large codebase.</p>
+        </li>
+        <li>
+            <h3>Data Structures: NBT System</h3>
+            <p>The game extensively uses the NBT (Named Binary Tag) format for data serialization. You'll frequently encounter classes like <code>CompoundTag</code>, <code>ListTag</code>, <code>ByteTag</code>, <code>IntTag</code>, <code>StringTag</code>, <code>FloatTag</code>, etc. Understanding how these tags work and how to read/write them using <code>NbtIo.h</code> and stream classes is fundamental for handling persistent game data (e.g., player data, world chunks).</p>
+        </li>
+        <li>
+            <h3>Input/Output Operations</h3>
+            <p>File and network I/O often uses stream abstractions like <code>InputStream.h</code>, <code>OutputStream.h</code>, <code>DataInput.h</code>, and <code>DataOutput.h</code>, with specialized implementations for files (<code>FileInputStream</code>, <code>FileOutputStream</code>) and compression (<code>GZIPInputStream</code>, <code>GZIPOutputStream</code>).</p>
+        </li>
+        <li>
+            <h3>Concurrency and Thread Safety</h3>
+            <p>In server-side code, especially within the <code>Access</code> module, be aware of concurrency. Files like <code>Access.cpp</code> explicitly use <code>std::mutex</code> (e.g., <code>stateLock</code>, <code>writeLock</code>) to protect shared data. Ensure any new concurrent code adheres to proper synchronization mechanisms to prevent race conditions.</p>
+        </li>
+        <li>
+            <h3>Platform Specifics</h3>
+            <p>Code within <code>4JLibs</code>, <code>Durango</code>, or <code>Orbis</code> directories often interacts with console-specific APIs. Be cautious when modifying these, as changes might only apply to a particular platform or require specific SDK knowledge.</p>
+        </li>
+    </ul>
+
+    <h2>Practical Advice</h2>
+    <ul>
+        <li>
+            <p><strong>Respect Existing Structure:</strong> Maintain the current directory structure and file organization to ensure consistency.</p>
+        </li>
+        <li>
+            <p><strong>Review Headers:</strong> Always review the included headers in a <code>.cpp</code> file (e.g., <code>#include "stdafx.h"</code> for precompiled headers) to understand local dependencies and the compilation environment.</p>
+        </li>
+        <li>
+            <p><strong>Utilize Shared Utilities:</strong> Before writing new utility functions, check the <code>Common</code> module and various <code>*Utils.h</code> files (e.g., <code>StringUtils.h</code>, <code>FileUtils.h</code>, <code>AccessStorageUtils.h</code>) for existing implementations.</p>
+        </li>
+        <li>
+            <p><strong>Callback Patterns:</strong> Be aware of callback patterns for asynchronous operations, such as <code>TMSCLIENT_PROG_CALLBACK</code>, which are common in platform integration code.</p>
+        </li>
+    </ul>
+
+    <div class="tip">
+        <p><strong>Start Small:</strong> For new contributors, begin with minor bug fixes or small feature enhancements to familiarize yourself with the codebase and workflow.</p>
+    </div>
+
+    <div class="warning">
+        <p><strong>Do Not Invent Systems:</strong> Adhere to the existing architecture and system design. Do not introduce entirely new architectural patterns or major components without prior discussion and agreement.</p>
+    </div>
+
+    <div class="footer">
+        Generated using Doxygen XML data.
+    </div>
+</body>
+</html>

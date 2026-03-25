@@ -1,0 +1,9 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ArmorDyeRecipe.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ArmorDyeRecipe.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,297,60"/>
+<area shape="rect" id="Node000002" href="$Recipy_8h.html" title=" " alt="" coords="113,108,189,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,60,154,94,149,94,149,60"/>
+<area shape="rect" id="Node000003" href="$CraftingContainer_8h.html" title=" " alt="" coords="78,181,225,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,134,154,168,149,168,149,134"/>
+<area shape="rect" id="Node000004" href="$Container_8h.html" title=" " alt="" coords="103,255,199,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,207,154,241,149,241,149,207"/>
+</map>

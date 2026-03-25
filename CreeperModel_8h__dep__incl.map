@@ -1,0 +1,9 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/CreeperModel.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/CreeperModel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,5,610,60"/>
+<area shape="rect" id="Node000002" href="$CreeperModel_8cpp.html" title=" " alt="" coords="5,108,295,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,67,235,110,233,105,375,62"/>
+<area shape="rect" id="Node000003" href="$CreeperRenderer_8cpp.html" title=" " alt="" coords="319,108,626,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="475,74,475,108,470,108,470,74"/>
+<area shape="rect" id="Node000004" href="$EntityRenderDispatcher_8cpp.html" title=" " alt="" coords="651,108,1001,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="578,61,735,105,733,111,577,66"/>
+</map>

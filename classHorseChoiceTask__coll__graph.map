@@ -1,0 +1,14 @@
+<map id="HorseChoiceTask" name="HorseChoiceTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,139,208"/>
+<area shape="rect" id="Node000002" href="$classChoiceTask.html" title=" " alt="" coords="25,108,119,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,148,75,182,69,182,69,148"/>
+<area shape="rect" id="Node000003" href="$classTutorialTask.html" title=" " alt="" coords="67,13,165,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,51,93,70,78,109,73,107,88,68,99,49"/>
+<area shape="rect" id="Node000004" href="$classTutorial.html" title=" " alt="" coords="233,108,303,133"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="110,51,109,68,114,82,132,94,163,103,233,114,232,119,162,108,130,99,110,86,103,69,105,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,102,196,72,138,40,141,36,199,67,243,97"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="229,5,389,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,59,276,109,271,107,293,57"/>
+<area shape="rect" id="Node000006" href="$classTutorialConstraint.html" title=" " alt="" coords="414,13,551,38"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="450,47,366,86,303,110,301,105,364,82,448,42"/>
+</map>

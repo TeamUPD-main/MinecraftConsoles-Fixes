@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/VillagerZombieModel.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/VillagerZombieModel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,5,289,75"/>
+<area shape="rect" id="Node000002" href="$HumanoidModel_8h.html" title=" " alt="" coords="83,123,224,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,75,156,109,151,109,151,75"/>
+<area shape="rect" id="Node000003" href="$Model_8h.html" title=" " alt="" coords="116,196,191,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,148,156,182,151,182,151,148"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,269,141,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="143,223,104,261,101,258,140,220"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="166,269,303,309"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="167,220,207,258,204,262,163,223"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BrewingStandTile" name="BrewingStandTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,141,177"/>
+<area shape="rect" id="Node000002" href="$classBaseEntityTile.html" title=" " alt="" coords="15,79,131,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,118,76,152,71,152,71,118"/>
+<area shape="rect" id="Node000003" href="$classTile.html" title=" " alt="" coords="6,5,53,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="46,41,68,77,64,80,42,44"/>
+<area shape="rect" id="Node000004" href="$classEntityTile.html" title=" " alt="" coords="77,5,161,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="106,44,83,80,78,77,102,41"/>
+</map>

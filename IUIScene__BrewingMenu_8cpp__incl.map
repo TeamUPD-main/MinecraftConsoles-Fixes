@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/IUIScene_BrewingMenu.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/IUIScene_BrewingMenu.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,5,319,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,77,73,125,70,120,144,73"/>
+<area shape="rect" id="Node000003" href="$IUIScene__BrewingMenu_8h.html" title=" " alt="" coords="104,130,291,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,75,200,116,195,116,195,75"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="315,123,544,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="276,72,374,115,372,120,274,77"/>
+<area shape="rect" id="Node000004" href="$IUIScene__AbstractContainerMenu_8h.html" title=" " alt="" coords="96,211,299,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="200,156,200,197,195,197,195,156"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIControl_PlayerSkinPreview.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIControl_PlayerSkinPreview.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="836,5,1095,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="836,45,684,51,497,64,294,88,192,105,93,125,82,128,81,123,91,120,191,100,293,83,497,59,683,46,836,40"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,130,223,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="836,53,559,79,397,99,236,125,217,129,216,124,236,120,396,94,558,74,835,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="248,130,443,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="836,64,455,125,425,130,424,125,454,120,835,59"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="467,130,677,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="837,77,631,129,629,124,835,72"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="701,130,859,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="904,77,814,126,812,121,902,73"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="883,130,1048,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="968,75,968,116,963,116,963,75"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1073,130,1183,155"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1021,73,1099,120,1096,125,1019,77"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1208,130,1331,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1068,72,1223,123,1221,128,1066,77"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1355,130,1463,155"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1096,65,1343,120,1358,124,1357,129,1342,125,1094,70"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1487,123,1737,163"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1095,59,1478,118,1477,123,1095,64"/>
+<area shape="rect" id="Node000012" href="$UIControl__PlayerSkinPreview_8h.html" title=" " alt="" coords="1761,130,1983,155"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1095,50,1394,80,1748,120,1787,125,1786,131,1748,125,1393,85,1094,56"/>
+<area shape="rect" id="Node000013" href="$UIControl_8h.html" title=" " alt="" coords="1761,211,1855,236"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1865,157,1828,202,1824,198,1860,154"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1879,211,1993,236"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1884,154,1920,198,1916,202,1879,157"/>
+</map>

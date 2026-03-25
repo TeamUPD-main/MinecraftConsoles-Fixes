@@ -1,0 +1,24 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Windows64/Iggy/gdraw/gdraw_d3d.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Windows64/Iggy/gdraw/gdraw_d3d.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,5,535,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,123,96,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,76,109,122,108,117,288,70"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,123,187,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,77,199,120,197,115,318,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="211,123,282,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,77,281,118,278,113,351,72"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="306,123,374,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="388,76,360,113,355,110,384,73"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="463,196,537,221"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="418,74,425,111,440,147,455,168,474,185,470,189,451,171,435,149,420,112,412,75"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="450,123,510,148"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="439,73,466,110,461,113,434,76"/>
+<area shape="rect" id="Node000008" href="$gdraw__d3d_8h.html" title=" " alt="" coords="534,123,639,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="476,72,554,114,552,118,474,77"/>
+<area shape="rect" id="Node000009" href="$Windows64_2Iggy_2gdraw_2gdraw__shared_8inl.html" title=" " alt="" coords="664,123,797,148"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="528,72,679,116,678,121,526,77"/>
+<area shape="rect" id="Node000011" href="$gdraw__d3d9__shaders_8inl.html" title=" " alt="" coords="821,123,1000,148"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="536,62,837,118,836,123,535,67"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="574,150,526,189,523,185,571,146"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="693,196,768,221"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="733,148,733,182,728,182,728,148"/>
+</map>

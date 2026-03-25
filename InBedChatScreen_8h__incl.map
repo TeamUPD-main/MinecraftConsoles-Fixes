@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/InBedChatScreen.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/InBedChatScreen.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,300,60"/>
+<area shape="rect" id="Node000002" href="$ChatScreen_8h.html" title=" " alt="" coords="99,108,207,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,60,155,94,150,94,150,60"/>
+<area shape="rect" id="Node000003" href="$Screen_8h.html" title=" " alt="" coords="67,181,145,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,135,123,171,119,168,143,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,181,232,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="163,132,188,169,183,172,158,135"/>
+<area shape="rect" id="Node000004" href="$GuiComponent_8h.html" title=" " alt="" coords="41,255,171,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,207,109,241,103,241,103,207"/>
+</map>

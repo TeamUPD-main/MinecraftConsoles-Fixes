@@ -1,0 +1,18 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/GameRules/GameRuleDefinition.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/GameRules/GameRuleDefinition.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,5,312,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="244,284,368,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,77,43,94,19,114,12,125,8,136,9,148,15,161,35,187,59,209,115,244,175,267,232,282,231,287,174,272,113,248,56,213,31,190,11,164,4,149,3,136,7,122,15,110,40,90,74,73"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,130,84,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,77,82,124,79,120,141,73"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,123,268,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,75,190,108,185,108,185,75"/>
+<area shape="rect" id="Node000005" href="$ConsoleGameRulesConstants_8h.html" title=" " alt="" coords="292,130,518,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,72,369,122,367,127,260,77"/>
+<area shape="rect" id="Node000006" href="$GameRulesInstance_8h.html" title=" " alt="" coords="543,130,707,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,67,563,124,561,129,311,72"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="487,211,550,236"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="611,158,547,205,544,200,608,153"/>
+<area shape="rect" id="Node000008" href="$GameRule_8h.html" title=" " alt="" coords="574,211,676,236"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="628,156,628,197,622,197,622,156"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="575,239,372,284,371,278,573,233"/>
+</map>

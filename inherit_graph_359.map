@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classDimension.html" title=" " alt="" coords="5,55,97,80"/>
+<area shape="rect" id="Node000001" href="$classHellDimension.html" title=" " alt="" coords="156,5,275,31"/>
+<area shape="poly" id="edge803_Node000000_Node000001" title=" " alt="" coords="106,48,171,28,173,33,108,53"/>
+<area shape="rect" id="Node000002" href="$classNormalDimension.html" title=" " alt="" coords="145,55,285,80"/>
+<area shape="poly" id="edge804_Node000000_Node000002" title=" " alt="" coords="111,65,145,65,145,70,111,70"/>
+<area shape="rect" id="Node000003" href="$classTheEndDimension.html" title=" " alt="" coords="145,104,285,129"/>
+<area shape="poly" id="edge805_Node000000_Node000003" title=" " alt="" coords="108,81,173,101,171,106,106,87"/>
+</map>

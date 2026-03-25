@@ -1,0 +1,19 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/InputConstraint.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/InputConstraint.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="539,5,781,75"/>
+<area shape="rect" id="Node000002" href="$InputConstraint_8cpp.html" title=" " alt="" coords="405,123,648,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="612,86,568,124,564,120,609,82"/>
+<area shape="rect" id="Node000003" href="$TutorialConstraints_8h.html" title=" " alt="" coords="672,123,915,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="711,82,756,120,752,124,708,86"/>
+<area shape="rect" id="Node000004" href="$ChoiceTask_8cpp.html" title=" " alt="" coords="5,240,248,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="659,195,546,211,457,219,370,226,260,243,249,245,248,240,260,237,370,221,457,213,545,206,658,190"/>
+<area shape="rect" id="Node000005" href="$ControllerTask_8cpp.html" title=" " alt="" coords="272,240,515,309"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="664,198,511,242,509,237,663,193"/>
+<area shape="rect" id="Node000006" href="$FullTutorial_8cpp.html" title=" " alt="" coords="539,240,781,309"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="746,203,701,242,697,238,742,199"/>
+<area shape="rect" id="Node000007" href="$InfoTask_8cpp.html" title=" " alt="" coords="805,240,1048,309"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="844,199,889,238,886,242,841,203"/>
+<area shape="rect" id="Node000008" href="$Tutorial_8cpp.html" title=" " alt="" coords="1072,240,1315,309"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="924,193,1077,237,1076,242,922,198"/>
+<area shape="rect" id="Node000009" href="$TutorialTask_8cpp.html" title=" " alt="" coords="1339,240,1581,309"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="929,173,1118,201,1327,237,1339,240,1338,245,1326,243,1117,206,928,178"/>
+</map>

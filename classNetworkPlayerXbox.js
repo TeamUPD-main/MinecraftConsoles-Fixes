@@ -1,0 +1,28 @@
+var classNetworkPlayerXbox =
+[
+    [ "NetworkPlayerXbox", "classNetworkPlayerXbox.html#a68c88d5ae164c7c2226a790bd7462629", null ],
+    [ "GetCurrentRtt", "classNetworkPlayerXbox.html#a4720b1c3f85a72d6ce721c887d39e12b", null ],
+    [ "GetDisplayName", "classNetworkPlayerXbox.html#a08a9d37581545b60b5ff92ed9ccae808", null ],
+    [ "GetOnlineName", "classNetworkPlayerXbox.html#a785128f1aebe371a76339dfdc6238537", null ],
+    [ "GetOutstandingAckCount", "classNetworkPlayerXbox.html#ac80b676687f2256a70771cb4f258c5fe", null ],
+    [ "GetQNetPlayer", "classNetworkPlayerXbox.html#a0c3648955fc4c1505f670162d7e9ff14", null ],
+    [ "GetSendQueueSizeBytes", "classNetworkPlayerXbox.html#aa7133ac5430478c2ee3eef664761a1d4", null ],
+    [ "GetSendQueueSizeMessages", "classNetworkPlayerXbox.html#a6b5a3095fb21c6e53c8fab8b740d9d9e", null ],
+    [ "GetSessionIndex", "classNetworkPlayerXbox.html#a7a870effde0e34ea1a062fbd43e9fe02", null ],
+    [ "GetSmallId", "classNetworkPlayerXbox.html#ae74b314fb7a6d5f8f306a16619cd02e1", null ],
+    [ "GetSocket", "classNetworkPlayerXbox.html#a8e2e279a542ee52baea45b5fa8db0bb6", null ],
+    [ "GetTimeSinceLastChunkPacket_ms", "classNetworkPlayerXbox.html#a87b39a8ca8cdb6bd6e7b19ca1fccc671", null ],
+    [ "GetUID", "classNetworkPlayerXbox.html#a362457cbf4bf6668e22c3f49da2de49f", null ],
+    [ "GetUserIndex", "classNetworkPlayerXbox.html#a258926a04abb95aa5453526dd0691993", null ],
+    [ "HasCamera", "classNetworkPlayerXbox.html#a5699cf7aca03078922592e43f07fe7c6", null ],
+    [ "HasVoice", "classNetworkPlayerXbox.html#a8975bbc9692e575ac13b39b812bfe21d", null ],
+    [ "IsGuest", "classNetworkPlayerXbox.html#abf4ec17b1219c88bc34b8c015d433f38", null ],
+    [ "IsHost", "classNetworkPlayerXbox.html#a97234ca4e1d9877d6f0259b7d32616cf", null ],
+    [ "IsLocal", "classNetworkPlayerXbox.html#ada01270ceda751b83b84d35c0a1c4be0", null ],
+    [ "IsMutedByLocalUser", "classNetworkPlayerXbox.html#aea0e15f881b607914ed32e7067d09d4e", null ],
+    [ "IsSameSystem", "classNetworkPlayerXbox.html#a7800ca1cd82b3fe0f37170731a7f1060", null ],
+    [ "IsTalking", "classNetworkPlayerXbox.html#a67e429e6a88ad6a3b73b49ba3fa84072", null ],
+    [ "SendData", "classNetworkPlayerXbox.html#aec6f144ed8a011f3d9225b0dd7af730e", null ],
+    [ "SentChunkPacket", "classNetworkPlayerXbox.html#ab5addf96df96944949a84dbbfac94863", null ],
+    [ "SetSocket", "classNetworkPlayerXbox.html#a3266cd40064cec18f5eff9e6e04840af", null ]
+];

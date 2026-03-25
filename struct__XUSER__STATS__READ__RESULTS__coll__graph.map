@@ -1,0 +1,13 @@
+<map id="_XUSER_STATS_READ_RESULTS" name="_XUSER_STATS_READ_RESULTS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,445,232,471"/>
+<area shape="rect" id="Node000002" href="$struct__XUSER__STATS__VIEW.html" title=" " alt="" coords="39,357,199,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,397,121,445,116,445,116,397"/>
+<area shape="rect" id="Node000003" href="$struct__XUSER__STATS__ROW.html" title=" " alt="" coords="39,269,198,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,309,121,357,116,357,116,309"/>
+<area shape="rect" id="Node000004" href="$struct__XUSER__STATS__COLUMN.html" title=" " alt="" coords="27,181,211,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,221,121,269,116,269,116,221"/>
+<area shape="rect" id="Node000005" href="$structXUSER__DATA.html" title=" " alt="" coords="65,93,172,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,133,121,181,116,181,116,133"/>
+<area shape="rect" id="Node000006" href="$struct__FILETIME.html" title=" " alt="" coords="75,5,163,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="121,45,121,93,116,93,116,45"/>
+</map>

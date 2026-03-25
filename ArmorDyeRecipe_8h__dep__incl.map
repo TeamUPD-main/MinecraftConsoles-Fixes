@@ -1,0 +1,32 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ArmorDyeRecipe.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ArmorDyeRecipe.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="967,5,1259,60"/>
+<area shape="rect" id="Node000002" href="$ArmorDyeRecipe_8cpp.html" title=" " alt="" coords="5,218,312,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="982,66,278,221,276,215,981,60"/>
+<area shape="rect" id="Node000003" href="$net_8minecraft_8world_8item_8crafting_8h.html" title=" " alt="" coords="1709,108,2105,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1274,52,1709,106,1708,112,1273,57"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="1695,145,969,171,596,191,324,213,277,221,276,215,324,208,595,185,968,166,1695,140"/>
+<area shape="rect" id="Node000004" href="$ArmorSlot_8cpp.html" title=" " alt="" coords="337,218,599,273"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="1695,140,1470,146,1199,158,904,179,756,195,611,213,570,221,569,215,610,208,755,189,904,174,1198,152,1470,140,1695,135"/>
+<area shape="rect" id="Node000005" href="$CraftingMenu_8cpp.html" title=" " alt="" coords="623,218,907,273"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="1695,147,1331,169,1124,188,919,213,877,221,876,215,918,208,1124,183,1331,164,1695,141"/>
+<area shape="rect" id="Node000006" href="$FireworksMenu_8cpp.html" title=" " alt="" coords="931,218,1227,273"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="1695,158,1475,181,1239,213,1198,221,1197,215,1238,208,1474,176,1695,152"/>
+<area shape="rect" id="Node000007" href="$FurnaceResultSlot_8cpp.html" title=" " alt="" coords="1251,218,1565,273"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="1772,168,1530,221,1528,215,1771,163"/>
+<area shape="rect" id="Node000008" href="$FurnaceTileEntity_8cpp.html" title=" " alt="" coords="1590,218,1898,273"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="1857,173,1785,220,1782,215,1854,168"/>
+<area shape="rect" id="Node000009" href="$InventoryMenu_8cpp.html" title=" " alt="" coords="1922,218,2217,273"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="1960,168,2031,215,2028,220,1957,173"/>
+<area shape="rect" id="Node000010" href="$Minecraft_8World_8cpp.html" title=" " alt="" coords="2241,218,2540,273"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="2038,163,2274,215,2273,221,2037,168"/>
+<area shape="rect" id="Node000011" href="$MultiTextureTileItem_8cpp.html" title=" " alt="" coords="2564,211,2839,280"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="2118,153,2329,176,2552,208,2564,210,2563,215,2552,213,2328,181,2118,158"/>
+<area shape="rect" id="Node000012" href="$Recipes_8cpp.html" title=" " alt="" coords="2863,218,3111,273"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="2119,141,2463,163,2658,182,2851,208,2889,215,2888,221,2850,213,2658,187,2463,168,2118,146"/>
+<area shape="rect" id="Node000013" href="$Sheep_8cpp.html" title=" " alt="" coords="3135,218,3377,273"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="2118,135,2329,141,2581,153,2853,174,3123,208,3162,215,3161,221,3122,213,2852,180,2581,158,2329,146,2118,140"/>
+<area shape="rect" id="Node000014" href="$Slot_8cpp.html" title=" " alt="" coords="3401,218,3644,273"/>
+<area shape="poly" id="edge14_Node000003_Node000014" title=" " alt="" coords="2119,139,2796,164,3139,184,3281,195,3390,208,3429,215,3428,221,3389,213,3280,201,3139,189,2796,169,2119,145"/>
+<area shape="rect" id="Node000015" href="$Stats_8cpp.html" title=" " alt="" coords="3668,218,3911,273"/>
+<area shape="poly" id="edge15_Node000003_Node000015" title=" " alt="" coords="2118,138,2486,146,2928,160,3349,180,3523,193,3656,208,3696,215,3695,221,3656,213,3523,199,3349,186,2927,165,2486,151,2118,143"/>
+</map>

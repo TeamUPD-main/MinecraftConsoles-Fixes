@@ -1,0 +1,18 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/PortalTile.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/PortalTile.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,5,467,60"/>
+<area shape="rect" id="Node000002" href="$HalfTransparentTile_8h.html" title=" " alt="" coords="205,108,367,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,62,304,98,299,95,325,59"/>
+<area shape="rect" id="Node000007" href="$Definitions_8h.html" title=" " alt="" coords="359,255,463,280"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="361,59,381,107,399,179,410,240,405,241,394,180,375,109,356,61"/>
+<area shape="rect" id="Node000003" href="$Tile_8h.html" title=" " alt="" coords="250,181,309,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,134,284,168,279,168,282,133"/>
+<area shape="rect" id="Node000004" href="$Material_8h.html" title=" " alt="" coords="22,255,110,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,208,114,253,112,248,249,203"/>
+<area shape="rect" id="Node000006" href="$Vec3_8h.html" title=" " alt="" coords="135,255,200,280"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="263,209,199,249,196,245,260,204"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="302,204,379,246,377,250,299,209"/>
+<area shape="rect" id="Node000008" href="$SoundTypes_8h.html" title=" " alt="" coords="224,255,335,280"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="282,207,282,241,277,241,277,207"/>
+<area shape="rect" id="Node000005" href="$MaterialColor_8h.html" title=" " alt="" coords="5,328,127,353"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="69,280,69,314,63,314,63,280"/>
+</map>

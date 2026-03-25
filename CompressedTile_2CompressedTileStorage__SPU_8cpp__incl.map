@@ -1,0 +1,26 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/CompressedTile/CompressedTileStorage_SPU.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/CompressedTile/CompressedTileStorage_SPU.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="394,5,788,75"/>
+<area shape="rect" id="Node000002" href="$Minecraft_8Client_2PS3_2SPU__Tasks_2CompressedTile_2stdafx_8h.html" title=" " alt="" coords="107,130,182,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="400,77,298,99,196,125,186,128,185,123,194,120,297,94,399,72"/>
+<area shape="rect" id="Node000003" href="$CompressedTile_2CompressedTileStorage__SPU_8h.html" title=" " alt="" coords="206,123,384,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="493,77,364,121,362,116,491,72"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="408,123,580,163"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="560,77,524,114,520,111,556,73"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="604,123,776,163"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="626,73,663,111,659,114,622,77"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="800,123,972,163"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="690,72,818,116,817,121,689,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="996,130,1066,155"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="787,72,886,94,985,120,993,123,991,128,984,125,885,99,786,77"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="9,299,80,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,165,83,193,36,205,16,213,9,229,10,248,18,268,29,286,24,288,13,270,5,250,3,229,12,209,34,200,81,187,205,160"/>
+<area shape="rect" id="Node000005" href="$SparseLightStorage__SPU_8h.html" title=" " alt="" coords="26,211,174,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="253,165,156,208,154,203,251,160"/>
+<area shape="rect" id="Node000006" href="$SparseDataStorage__SPU_8h.html" title=" " alt="" coords="199,218,391,243"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="298,163,298,204,292,204,292,163"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="416,218,526,243"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="335,160,436,210,434,214,332,165"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="550,211,722,251"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="371,160,549,205,548,210,369,165"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="89,252,63,289,58,286,85,249"/>
+</map>

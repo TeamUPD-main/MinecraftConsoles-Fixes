@@ -1,0 +1,28 @@
+var classSQRVoiceConnection =
+[
+    [ "SQRVoiceConnection", "classSQRVoiceConnection.html#a9801b95962b0e91a04cbeb24d95e7e14", null ],
+    [ "~SQRVoiceConnection", "classSQRVoiceConnection.html#a1133a6dc163083f54a1ce160a87b16a2", null ],
+    [ "SQRVoiceConnection", "classSQRVoiceConnection.html#a9801b95962b0e91a04cbeb24d95e7e14", null ],
+    [ "~SQRVoiceConnection", "classSQRVoiceConnection.html#a1133a6dc163083f54a1ce160a87b16a2", null ],
+    [ "addPacket", "classSQRVoiceConnection.html#a61f00844ce997ad102bd8ddc1481e894", null ],
+    [ "addPacket", "classSQRVoiceConnection.html#a61f00844ce997ad102bd8ddc1481e894", null ],
+    [ "getNextPacket", "classSQRVoiceConnection.html#a22243672794810e5d36602505b939d51", null ],
+    [ "getNextPacket", "classSQRVoiceConnection.html#a22243672794810e5d36602505b939d51", null ],
+    [ "readRemoteData", "classSQRVoiceConnection.html#a9aaa59f9e85c8740d5a2d4e991f839f7", null ],
+    [ "readRemoteData", "classSQRVoiceConnection.html#a9aaa59f9e85c8740d5a2d4e991f839f7", null ],
+    [ "SendInternal", "classSQRVoiceConnection.html#ac1f0ac7c830716127f5b969c0fbffa9a", null ],
+    [ "SendInternal", "classSQRVoiceConnection.html#ac1f0ac7c830716127f5b969c0fbffa9a", null ],
+    [ "SendMoreInternal", "classSQRVoiceConnection.html#a2dfc62c5eb7dacfae9791bb89e23f9ae", null ],
+    [ "SendMoreInternal", "classSQRVoiceConnection.html#a2dfc62c5eb7dacfae9791bb89e23f9ae", null ],
+    [ "m_bConnected", "classSQRVoiceConnection.html#a0774e2dbbb7bd851afb069119f21f034", null ],
+    [ "m_bFlaggedForShutdown", "classSQRVoiceConnection.html#ac7d9a073290e881b99250dc29b28d6e9", null ],
+    [ "m_csPacketQueue", "classSQRVoiceConnection.html#ac0ec65e90970c810eed3c2d1a1ad6fe1", null ],
+    [ "m_headsetConnectionMask", "classSQRVoiceConnection.html#a6e135a5a97aa83dd3dcbbdda79a1f939", null ],
+    [ "m_nextExpectedFrameIndex", "classSQRVoiceConnection.html#a63f2d35183ec823bb5b933b49a91418f", null ],
+    [ "m_playRingBuffer", "classSQRVoiceConnection.html#ae43a41a7c4fd35cf924362596cf53f47", null ],
+    [ "m_receivedVoicePackets", "classSQRVoiceConnection.html#ad41fbf5667c8e9b15712571c794bad5f", null ],
+    [ "m_remotePlayerFlags", "classSQRVoiceConnection.html#a5f9f158a3412123aa5fad2eeb7842903", null ],
+    [ "m_remoteRoomMemberId", "classSQRVoiceConnection.html#a8d1674f4ca6c39cb4146911e089e11c7", null ],
+    [ "m_rudpCtx", "classSQRVoiceConnection.html#a3663774ab14197ba606b764edad5dd13", null ],
+    [ "m_voiceInPort", "classSQRVoiceConnection.html#a729d134d08494275ffa8de92a2454e71", null ]
+];

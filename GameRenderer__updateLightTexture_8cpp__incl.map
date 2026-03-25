@@ -1,0 +1,23 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/GameRenderer_updateLightTexture/GameRenderer_updateLightTexture.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks/GameRenderer_updateLightTexture/GameRenderer_updateLightTexture.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="395,5,694,89"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,145,76,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,73,246,101,88,140,80,142,79,137,87,135,245,96,395,68"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,145,171,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,83,290,109,183,140,176,142,174,137,181,135,289,104,394,78"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,145,265,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="419,92,279,140,272,142,271,137,277,135,417,87"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="290,145,413,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="472,92,385,140,383,136,470,87"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="437,145,533,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="524,91,500,134,495,132,519,89"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="557,145,655,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="571,89,595,132,590,134,566,91"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="679,145,770,170"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="615,87,695,135,692,140,612,92"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="795,145,961,170"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="672,87,831,138,829,143,670,92"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="986,145,1157,170"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="695,77,1002,139,1001,144,694,82"/>
+<area shape="rect" id="Node000011" href="$GameRenderer__updateLightTexture_8h.html" title=" " alt="" coords="1181,137,1385,177"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="695,66,1168,135,1167,140,694,72"/>
+</map>

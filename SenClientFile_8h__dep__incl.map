@@ -1,0 +1,24 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Xbox/Sentient/Include/SenClientFile.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Xbox/Sentient/Include/SenClientFile.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,5,304,75"/>
+<area shape="rect" id="Node000002" href="$SenClientCore_8h.html" title=" " alt="" coords="5,365,248,434"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,88,145,123,130,189,124,255,123,316,126,364,121,365,118,316,119,255,125,188,140,122,155,86"/>
+<area shape="rect" id="Node000004" href="$SenClientRawData_8h.html" title=" " alt="" coords="155,123,423,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,83,260,121,256,124,222,87"/>
+<area shape="rect" id="Node000003" href="$SentientManager_8cpp.html" title=" " alt="" coords="5,489,248,559"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,447,129,489,124,489,124,447"/>
+<area shape="poly" id="edge12_Node000004_Node000002" title=" " alt="" coords="197,201,173,220,154,241,139,271,131,304,127,364,121,364,126,303,134,269,150,239,170,216,193,197"/>
+<area shape="rect" id="Node000005" href="$SenClientAvatar_8h.html" title=" " alt="" coords="439,240,689,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="383,195,485,237,483,242,381,200"/>
+<area shape="rect" id="Node000008" href="$SenClientBoxArt_8h.html" title=" " alt="" coords="713,240,967,309"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="438,184,702,237,714,240,713,245,701,243,437,189"/>
+<area shape="rect" id="Node000010" href="$SenClientConfig_8h.html" title=" " alt="" coords="164,240,415,309"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="292,206,292,240,287,240,287,206"/>
+<area shape="rect" id="Node000006" href="$SenClientCultureBackCompat__SenSuperstars_8h.html" title=" " alt="" coords="311,357,638,441"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="534,322,507,359,502,356,530,319"/>
+<area shape="rect" id="Node000007" href="$SenClientSuperstars_8h.html" title=" " alt="" coords="662,365,941,434"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="642,313,737,362,735,367,640,318"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="828,323,815,365,809,363,823,321"/>
+<area shape="rect" id="Node000009" href="$SenClientCultureBackCompat__SenBoxArt_8h.html" title=" " alt="" coords="965,357,1291,441"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="932,312,1033,355,1031,360,930,317"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="235,320,173,366,170,362,232,315"/>
+</map>

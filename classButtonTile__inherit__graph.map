@@ -1,0 +1,9 @@
+<map id="ButtonTile" name="ButtonTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,79,188,104"/>
+<area shape="rect" id="Node000003" href="$classStoneButtonTile.html" title=" " alt="" coords="5,152,132,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,115,83,154,79,150,120,111"/>
+<area shape="rect" id="Node000004" href="$classWoodButtonTile.html" title=" " alt="" coords="157,152,282,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,111,209,150,205,154,164,115"/>
+<area shape="rect" id="Node000002" href="$classTile.html" title=" " alt="" coords="120,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,44,146,79,141,79,141,44"/>
+</map>

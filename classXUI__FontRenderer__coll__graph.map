@@ -1,0 +1,16 @@
+<map id="XUI_FontRenderer" name="XUI_FontRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,299,334,324"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,203,185,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,234,248,296,245,301,146,238"/>
+<area shape="rect" id="Node000003" href="$classXUI__FontData.html" title=" " alt="" coords="209,203,320,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,242,267,299,262,299,262,242"/>
+<area shape="rect" id="Node000004" href="$classCFontData.html" title=" " alt="" coords="219,108,310,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,147,267,203,262,203,262,147"/>
+<area shape="rect" id="Node000005" href="$structSFontData.html" title=" " alt="" coords="5,13,95,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,41,239,105,237,110,88,46"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="109,15,118,19,121,26,113,35,95,37,95,32,111,30,116,25,114,23,107,20"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="237,5,436,45"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="316,58,276,109,272,106,312,55"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="344,196,516,236"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="420,251,400,277,369,294,335,305,333,300,366,290,396,273,416,247"/>
+</map>

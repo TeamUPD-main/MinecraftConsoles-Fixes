@@ -1,0 +1,35 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Scene_CraftingPanel.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Scene_CraftingPanel.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1237,5,1480,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1237,47,973,56,643,72,324,95,192,109,93,125,82,128,80,123,91,120,192,104,323,89,643,66,973,51,1237,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,130,179,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1237,48,993,58,691,74,401,96,282,110,191,125,181,128,179,123,190,120,281,105,401,91,691,69,993,53,1237,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="203,130,410,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1237,52,872,79,647,100,422,125,385,130,385,125,421,120,646,95,871,74,1237,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="434,123,633,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1237,56,970,84,647,125,646,120,970,79,1237,51"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="657,123,909,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1238,65,904,123,903,118,1237,60"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="933,123,1163,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1256,77,1120,121,1118,116,1254,72"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1187,123,1347,163"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1329,77,1296,114,1292,110,1326,73"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1371,123,1533,163"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1392,73,1427,110,1423,114,1388,77"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1557,123,1715,163"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1452,72,1572,116,1571,121,1450,77"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1739,123,1896,163"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1481,65,1726,119,1725,124,1480,70"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1920,123,2077,163"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1480,55,1676,83,1907,120,1906,125,1675,88,1480,60"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="2102,130,2221,155"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1481,47,1760,73,1925,94,2090,120,2109,124,2108,129,2089,125,1925,99,1759,78,1480,52"/>
+<area shape="rect" id="Node000014" href="$XUI__Ctrl__CraftIngredientSlot_8h.html" title=" " alt="" coords="2245,123,2424,163"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1480,47,1815,74,2021,94,2232,120,2231,125,2020,100,1814,79,1480,52"/>
+<area shape="rect" id="Node000017" href="$XUI__Ctrl__SlotList_8h.html" title=" " alt="" coords="2449,130,2591,155"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1480,42,1666,50,1904,65,2170,87,2436,120,2462,125,2461,130,2436,125,2169,93,1904,70,1665,55,1480,47"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2259,211,2317,236"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="2326,164,2304,200,2300,197,2321,162"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="2341,211,2421,236"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="2348,162,2370,197,2365,200,2344,164"/>
+</map>

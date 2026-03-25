@@ -1,0 +1,23 @@
+<map id="WitherBoss" name="WitherBoss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,460,322,485"/>
+<area shape="rect" id="Node000002" href="$classMonster.html" title=" " alt="" coords="105,387,179,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,416,254,457,251,462,174,421"/>
+<area shape="rect" id="Node000003" href="$classPathfinderMob.html" title=" " alt="" coords="27,313,142,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,348,135,385,131,388,100,351"/>
+<area shape="rect" id="Node000004" href="$classMob.html" title=" " alt="" coords="59,240,110,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,279,87,313,82,313,82,279"/>
+<area shape="rect" id="Node000005" href="$classLivingEntity.html" title=" " alt="" coords="35,167,134,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,206,87,240,82,240,82,206"/>
+<area shape="rect" id="Node000006" href="$classEntity.html" title=" " alt="" coords="55,93,115,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,132,87,167,82,167,82,132"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+<area shape="rect" id="Node000008" href="$classEnemy.html" title=" " alt="" coords="166,313,233,339"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="184,351,153,388,149,385,179,348"/>
+<area shape="rect" id="Node000009" href="$classCreature.html" title=" " alt="" coords="160,240,239,265"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="202,279,202,313,197,313,197,279"/>
+<area shape="rect" id="Node000010" href="$classRangedAttackMob.html" title=" " alt="" coords="203,387,345,412"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="277,426,277,460,271,460,271,426"/>
+<area shape="rect" id="Node000011" href="$classBossMob.html" title=" " alt="" coords="369,387,451,412"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="378,421,297,462,295,457,375,416"/>
+</map>

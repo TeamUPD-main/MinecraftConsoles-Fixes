@@ -1,0 +1,25 @@
+var classNetworkPlayerDurango =
+[
+    [ "NetworkPlayerDurango", "classNetworkPlayerDurango.html#a7be5df649b990f6034a1e8ac2aa93196", null ],
+    [ "GetCurrentRtt", "classNetworkPlayerDurango.html#a870e0ea5e6773b35236048396d30896d", null ],
+    [ "GetDisplayName", "classNetworkPlayerDurango.html#a3f6b9e6d41c60409b399d76bf5ca451e", null ],
+    [ "GetOnlineName", "classNetworkPlayerDurango.html#a8e4fa160aed5056feaca22369046444a", null ],
+    [ "GetSendQueueSizeBytes", "classNetworkPlayerDurango.html#aab3b9cb7c37e1ad8f669e0e3465f094b", null ],
+    [ "GetSendQueueSizeMessages", "classNetworkPlayerDurango.html#ad6114681073a527ba7c99195394ca100", null ],
+    [ "GetSessionIndex", "classNetworkPlayerDurango.html#a189e4991afaae95d64bf7ce77868d828", null ],
+    [ "GetSmallId", "classNetworkPlayerDurango.html#a4abd394e36caed9afba23cfef187b5cc", null ],
+    [ "GetSocket", "classNetworkPlayerDurango.html#ad857d9aa8615bfa4bbb69abb09ac58d9", null ],
+    [ "GetUID", "classNetworkPlayerDurango.html#abb139bb68d47cbc2b6700b2cedc7257c", null ],
+    [ "GetUserIndex", "classNetworkPlayerDurango.html#a1261dde1d13e91ad559336c7b10bab6b", null ],
+    [ "HasCamera", "classNetworkPlayerDurango.html#a3930eedca9413c6308e6c84d199b4561", null ],
+    [ "HasVoice", "classNetworkPlayerDurango.html#a10109682abc5f67cdcc9d1dcf21a0ccd", null ],
+    [ "IsGuest", "classNetworkPlayerDurango.html#a71ee9f1407196b9ade718b02f3f4c446", null ],
+    [ "IsHost", "classNetworkPlayerDurango.html#a5df4f89e144b3883950ad47a61dac829", null ],
+    [ "IsLocal", "classNetworkPlayerDurango.html#a8efb2d10eb0fee998fa0e7805679a064", null ],
+    [ "IsMutedByLocalUser", "classNetworkPlayerDurango.html#a23e6c0c9c95eec973c997e39754d1570", null ],
+    [ "IsSameSystem", "classNetworkPlayerDurango.html#ac484ad0ef608e5b08f75c1524cd94703", null ],
+    [ "IsTalking", "classNetworkPlayerDurango.html#a29a3502228e7cc5c260990ce08e54389", null ],
+    [ "SendData", "classNetworkPlayerDurango.html#af5e700f584ecdf2767468f6cb1b60607", null ],
+    [ "SetSocket", "classNetworkPlayerDurango.html#a4de236f21c16417ec6f45c3b7b0eaab1", null ],
+    [ "SetUID", "classNetworkPlayerDurango.html#af51abd6816cb8d9fef9840347462e1fc", null ]
+];

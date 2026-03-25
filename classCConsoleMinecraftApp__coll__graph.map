@@ -1,0 +1,34 @@
+<map id="CConsoleMinecraftApp" name="CConsoleMinecraftApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="989,194,1159,219"/>
+<area shape="rect" id="Node000002" href="$classCMinecraftApp.html" title=" " alt="" coords="687,194,804,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,225,793,236,831,244,923,249,970,246,1012,240,1044,230,1065,218,1068,222,1047,235,1013,245,970,251,923,254,830,249,791,241,762,230"/>
+<area shape="poly" id="edge12_Node000001_Node000002" title=" " alt="" coords="777,220,841,229,922,231,1000,227,1056,217,1057,222,1000,232,922,236,841,234,776,226"/>
+<area shape="poly" id="edge13_Node000001_Node000002" title=" " alt="" coords="818,212,989,212,989,217,818,217"/>
+<area shape="poly" id="edge14_Node000001_Node000002" title=" " alt="" coords="818,196,989,196,989,201,818,202"/>
+<area shape="poly" id="edge15_Node000001_Node000002" title=" " alt="" coords="776,188,841,179,922,177,1000,181,1057,191,1056,197,1000,186,922,182,841,185,777,193"/>
+<area shape="poly" id="edge16_Node000001_Node000002" title=" " alt="" coords="762,183,791,172,830,164,923,159,970,162,1013,168,1047,178,1068,191,1065,196,1044,183,1012,173,970,167,923,164,831,169,793,177,764,188"/>
+<area shape="rect" id="Node000003" href="$classDLCManager.html" title=" " alt="" coords="363,14,469,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,17,525,17,571,21,617,33,660,54,694,86,718,125,734,164,744,193,738,195,729,165,713,128,690,89,657,58,616,38,570,26,524,22,482,22"/>
+<area shape="rect" id="Node000004" href="$classArchiveFile.html" title=" " alt="" coords="369,63,463,89"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="477,70,519,72,566,77,615,88,660,107,687,126,709,149,739,192,735,195,705,153,683,130,657,112,613,93,566,82,519,77,477,76"/>
+<area shape="rect" id="Node000005" href="$classFile.html" title=" " alt="" coords="79,35,124,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="138,48,369,69,368,75,137,54"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,85,197,125"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="211,93,309,84,368,78,369,83,310,89,211,98"/>
+<area shape="rect" id="Node000007" href="$classStringTable.html" title=" " alt="" coords="369,113,463,138"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="477,123,565,130,613,139,660,152,698,171,729,191,726,196,695,175,658,157,612,144,564,136,477,128"/>
+<area shape="rect" id="Node000008" href="$structTIPSTRUCT.html" title=" " alt="" coords="369,167,463,193"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="477,182,687,199,686,205,477,188"/>
+<area shape="rect" id="Node000009" href="$classRandom.html" title=" " alt="" coords="378,217,454,242"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="468,230,557,232,658,225,701,217,702,222,659,231,557,237,468,235"/>
+<area shape="rect" id="Node000010" href="$struct__XUSER__SIGNIN__INFO.html" title=" " alt="" coords="333,266,499,291"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="512,276,585,268,658,252,694,236,725,217,727,222,697,241,659,257,585,274,513,281"/>
+<area shape="rect" id="Node000011" href="$structBANNEDLIST.html" title=" " alt="" coords="363,315,469,341"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="482,329,524,328,569,323,614,313,657,296,690,264,731,218,735,221,694,268,660,301,616,318,569,329,524,333,483,335"/>
+<area shape="rect" id="Node000012" href="$classGameRuleManager.html" title=" " alt="" coords="343,365,489,390"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="503,386,543,386,583,380,622,368,657,347,669,332,672,315,673,296,680,275,704,243,728,218,731,222,708,246,685,277,678,297,677,316,674,334,660,351,625,373,585,385,543,391,504,392"/>
+<area shape="rect" id="Node000013" href="$classImageFileBuffer.html" title=" " alt="" coords="683,289,808,314"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="803,282,1028,217,1030,222,804,287"/>
+<area shape="rect" id="Node000014" href="$structTMS__FILE.html" title=" " alt="" coords="703,338,787,363"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="801,341,880,325,923,311,964,294,993,276,1019,256,1059,218,1063,222,1023,260,996,281,967,298,925,316,881,330,802,347"/>
+</map>

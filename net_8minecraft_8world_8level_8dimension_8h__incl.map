@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.dimension.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.dimension.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,423,60"/>
+<area shape="rect" id="Node000002" href="$Dimension_8h.html" title=" " alt="" coords="162,181,266,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,62,81,76,59,92,50,111,51,121,56,132,75,151,98,166,123,176,149,183,148,189,121,182,95,171,71,156,52,135,46,122,44,110,55,89,79,71,109,58"/>
+<area shape="rect" id="Node000007" href="$HellDimension_8h.html" title=" " alt="" coords="66,108,197,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="191,62,154,100,150,96,187,58"/>
+<area shape="rect" id="Node000008" href="$NormalDimension_8h.html" title=" " alt="" coords="221,108,373,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="241,58,278,96,274,100,237,62"/>
+<area shape="rect" id="Node000009" href="$TheEndDimension_8h.html" title=" " alt="" coords="397,108,549,133"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="294,58,426,101,425,106,292,63"/>
+<area shape="rect" id="Node000003" href="$Material_8h.html" title=" " alt="" coords="69,255,157,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,209,142,249,139,244,196,204"/>
+<area shape="rect" id="Node000005" href="$Vec3_8h.html" title=" " alt="" coords="181,255,247,280"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="217,207,217,241,211,241,211,207"/>
+<area shape="rect" id="Node000006" href="$Pos_8h.html" title=" " alt="" coords="271,255,328,280"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,205,277,244,273,248,226,209"/>
+<area shape="rect" id="Node000004" href="$MaterialColor_8h.html" title=" " alt="" coords="52,328,173,353"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,280,115,314,110,314,110,280"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="146,131,192,170,188,174,143,135"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="285,135,240,174,236,170,282,131"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="432,136,270,180,268,175,430,131"/>
+</map>

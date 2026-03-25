@@ -1,0 +1,9 @@
+<map id="LeaderboardReadListener" name="LeaderboardReadListener">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,5,363,31"/>
+<area shape="rect" id="Node000002" href="$classCScene__Leaderboards.html" title=" " alt="" coords="5,79,171,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,38,119,81,117,76,227,33"/>
+<area shape="rect" id="Node000003" href="$classDebugReadListener.html" title=" " alt="" coords="195,79,344,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,44,272,79,267,79,267,44"/>
+<area shape="rect" id="Node000004" href="$classUIScene__LeaderboardsMenu.html" title=" " alt="" coords="369,79,575,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,33,440,76,438,81,314,38"/>
+</map>

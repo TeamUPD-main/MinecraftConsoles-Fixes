@@ -1,0 +1,17 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.entity.ai.control.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.entity.ai.control.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,5,430,60"/>
+<area shape="rect" id="Node000002" href="$Control_8h.html" title=" " alt="" coords="182,181,263,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,63,39,75,16,91,10,100,8,109,10,120,17,132,40,148,78,162,169,182,168,187,77,167,37,153,13,135,5,122,3,109,6,98,13,88,36,71,69,58"/>
+<area shape="rect" id="Node000003" href="$BodyControl_8h.html" title=" " alt="" coords="27,108,141,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,62,116,103,113,98,179,58"/>
+<area shape="rect" id="Node000004" href="$JumpControl_8h.html" title=" " alt="" coords="165,108,280,133"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="225,60,225,94,220,94,220,60"/>
+<area shape="rect" id="Node000005" href="$LookControl_8h.html" title=" " alt="" coords="304,108,416,133"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="266,58,331,98,328,103,263,62"/>
+<area shape="rect" id="Node000006" href="$MoveControl_8h.html" title=" " alt="" coords="440,108,557,133"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="308,58,449,101,448,106,306,63"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="107,131,189,173,187,177,105,136"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="225,134,225,168,220,168,220,134"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="339,136,258,177,256,173,337,131"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="455,136,278,181,276,176,454,131"/>
+</map>

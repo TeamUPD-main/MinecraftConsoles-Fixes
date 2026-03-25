@@ -1,0 +1,18 @@
+<map id="ma_device_job_thread" name="ma_device_job_thread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,372,306,397"/>
+<area shape="rect" id="Node000002" href="$structma__job__queue.html" title=" " alt="" coords="163,284,280,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,323,224,371,219,371,219,323"/>
+<area shape="rect" id="Node000003" href="$structma__semaphore.html" title=" " alt="" coords="5,196,128,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,226,202,281,199,286,98,230"/>
+<area shape="rect" id="Node000004" href="$structma__slot__allocator.html" title=" " alt="" coords="152,196,291,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,235,224,283,219,283,219,235"/>
+<area shape="rect" id="Node000005" href="$structma__slot__allocator__group.html" title=" " alt="" coords="126,93,309,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,133,224,196,218,196,216,133"/>
+<area shape="rect" id="Node000006" href="$structma__job.html" title=" " alt="" coords="330,196,401,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="339,231,289,262,246,286,243,281,287,258,336,227"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="416,199,424,202,427,209,419,217,402,219,401,214,417,212,422,208,420,207,414,204"/>
+<area shape="rect" id="Node000007" href="$structma__fence.html" title=" " alt="" coords="333,93,419,119"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="376,133,369,196,364,196,371,132"/>
+<area shape="rect" id="Node000008" href="$structma__event.html" title=" " alt="" coords="333,5,419,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="379,45,379,93,373,93,373,45"/>
+</map>

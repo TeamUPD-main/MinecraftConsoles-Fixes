@@ -1,0 +1,28 @@
+var classBat =
+[
+    [ "Bat", "classBat.html#a085e9fba0e785dfea08a90d661109ded", null ],
+    [ "addAdditonalSaveData", "classBat.html#acd50daf038ff25cfe387bb79352d21c2", null ],
+    [ "canSpawn", "classBat.html#ade0fd9258297142a70e45790406194a4", null ],
+    [ "causeFallDamage", "classBat.html#a56e874599ab98cb7a1e257ad1fa97e64", null ],
+    [ "checkFallDamage", "classBat.html#adf3ae46f39d18bceb5be5c418f85ac8e", null ],
+    [ "defineSynchedData", "classBat.html#a9ddccad06d489ee6d13bad4719efb83e", null ],
+    [ "doPush", "classBat.html#aa5fa0eac1620fa7d1003e56a64013022", null ],
+    [ "getAmbientSound", "classBat.html#a2624acf510c0bab6c5d05747994e8542", null ],
+    [ "getDeathSound", "classBat.html#a1deb6bde6e337bd1445f681fbe69b36d", null ],
+    [ "getHurtSound", "classBat.html#a63b6e18fb29a9e5b48237e65558c1d73", null ],
+    [ "getSoundVolume", "classBat.html#aa6435efbf4979be8737d7a55af4b673d", null ],
+    [ "GetType", "classBat.html#a53a853d7356f702f40ca0c319ac3eb85", null ],
+    [ "getVoicePitch", "classBat.html#a1eeb5d49ed789178fa1e5882e7210f75", null ],
+    [ "hurt", "classBat.html#abe766aed6872abd46693d4313eb2fb90", null ],
+    [ "isIgnoringTileTriggers", "classBat.html#a4c3c2be0bf0b61a710aa79b55281e39c", null ],
+    [ "isPushable", "classBat.html#a75c95084dc78b433ce9e4ba11c568b0c", null ],
+    [ "isResting", "classBat.html#a7b910e12d9e3cc8efcea686b103a7e1d", null ],
+    [ "makeStepSound", "classBat.html#a6902eb3b83a1524782175f7d910c36e5", null ],
+    [ "newServerAiStep", "classBat.html#a3cb416373a09a19462926398414b52d6", null ],
+    [ "pushEntities", "classBat.html#a0341b2d114513b6c2610a533879a852f", null ],
+    [ "readAdditionalSaveData", "classBat.html#affb4673eae15b955384cafdeabd87b9f", null ],
+    [ "registerAttributes", "classBat.html#a4c22bf91ea4d3846fdce2b72485c98d3", null ],
+    [ "setResting", "classBat.html#ae00b46f98e6428b0dffd66665d95eb9a", null ],
+    [ "tick", "classBat.html#a6cd06f471ff74693f6c9d1f52828bf01", null ],
+    [ "useNewAi", "classBat.html#a48e414c93c2bea16b1984ba40982fe4d", null ]
+];

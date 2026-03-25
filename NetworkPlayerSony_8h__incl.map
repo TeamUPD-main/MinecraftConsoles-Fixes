@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Network/Sony/NetworkPlayerSony.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Network/Sony/NetworkPlayerSony.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,5,444,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="120,123,312,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,77,246,114,243,111,279,73"/>
+<area shape="rect" id="Node000003" href="$SQRNetworkPlayer_8h.html" title=" " alt="" coords="337,130,493,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,73,395,118,391,122,347,77"/>
+<area shape="rect" id="Node000004" href="$SQRNetworkManager_8h.html" title=" " alt="" coords="234,211,406,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="402,158,346,204,343,200,399,153"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="542,284,605,309"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="428,153,553,272,550,276,425,157"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,284,56,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="268,239,70,286,69,281,267,233"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="81,284,167,309"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="289,239,170,282,168,277,288,234"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="191,284,246,309"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="305,238,248,278,245,274,302,234"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="271,284,369,309"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="323,236,323,270,317,270,317,236"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="361,233,529,280,528,285,360,239"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="394,284,518,309"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="343,234,423,275,421,280,341,238"/>
+</map>

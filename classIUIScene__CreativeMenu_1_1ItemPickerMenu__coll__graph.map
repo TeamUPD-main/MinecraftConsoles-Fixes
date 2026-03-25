@@ -1,0 +1,9 @@
+<map id="IUIScene_CreativeMenu::ItemPickerMenu" name="IUIScene_CreativeMenu::ItemPickerMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,93,408,133"/>
+<area shape="rect" id="Node000002" href="$classAbstractContainerMenu.html" title=" " alt="" coords="5,5,180,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,33,275,91,273,96,132,38"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="205,5,434,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,44,322,93,317,93,317,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="459,5,641,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="517,40,447,72,381,96,379,91,445,67,515,35"/>
+</map>

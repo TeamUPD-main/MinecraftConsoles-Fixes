@@ -1,0 +1,31 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/DoorInfo.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/DoorInfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1586,5,1829,60"/>
+<area shape="rect" id="Node000002" href="$DoorInfo_8cpp.html" title=" " alt="" coords="1402,108,1655,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1650,69,1577,110,1574,105,1647,64"/>
+<area shape="rect" id="Node000003" href="$net_8minecraft_8world_8entity_8ai_8village_8h.html" title=" " alt="" coords="1679,108,2093,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1767,64,1840,105,1838,110,1765,69"/>
+<area shape="rect" id="Node000004" href="$DefendVillageTargetGoal_8cpp.html" title=" " alt="" coords="5,211,308,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1666,165,1461,178,1286,182,990,180,848,179,696,183,524,193,321,213,309,215,308,210,320,208,523,188,696,177,848,174,990,175,1286,177,1460,172,1665,160"/>
+<area shape="rect" id="Node000005" href="$Level_8cpp.html" title=" " alt="" coords="333,218,575,273"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1665,165,1501,176,1361,179,1123,178,1009,178,887,182,750,193,588,213,549,221,548,215,587,208,749,188,887,177,1009,173,1123,173,1361,174,1501,170,1665,160"/>
+<area shape="rect" id="Node000006" href="$MakeLoveGoal_8cpp.html" title=" " alt="" coords="599,218,893,273"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1665,165,1450,179,1283,184,1116,191,905,213,860,221,860,215,904,208,1116,186,1282,178,1450,174,1665,160"/>
+<area shape="rect" id="Node000007" href="$MoveIndoorsGoal_8cpp.html" title=" " alt="" coords="917,218,1228,273"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1666,166,1451,187,1241,213,1198,221,1197,215,1240,208,1451,181,1665,160"/>
+<area shape="rect" id="Node000008" href="$MoveThroughVillageGoal_8cpp.html" title=" " alt="" coords="1253,211,1557,280"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1756,168,1555,213,1554,208,1755,163"/>
+<area shape="rect" id="Node000009" href="$RestrictOpenDoorGoal_8cpp.html" title=" " alt="" coords="1581,211,1866,280"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1836,173,1776,213,1773,208,1833,168"/>
+<area shape="rect" id="Node000010" href="$SavedDataStorage_8cpp.html" title=" " alt="" coords="1889,218,2208,273"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1939,168,2010,215,2007,220,1936,173"/>
+<area shape="rect" id="Node000011" href="$Village_8cpp.html" title=" " alt="" coords="2233,218,2475,273"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="2021,163,2221,208,2252,215,2250,221,2220,213,2020,168"/>
+<area shape="rect" id="Node000012" href="$VillageSiege_8cpp.html" title=" " alt="" coords="2500,218,2779,273"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="2107,156,2293,179,2488,208,2527,215,2526,221,2487,213,2292,184,2106,161"/>
+<area shape="rect" id="Node000013" href="$Villager_8cpp.html" title=" " alt="" coords="2803,218,3049,273"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="2107,142,2431,164,2613,183,2792,208,2829,215,2828,221,2791,213,2612,188,2431,170,2106,147"/>
+<area shape="rect" id="Node000014" href="$VillagerGolem_8cpp.html" title=" " alt="" coords="3074,218,3365,273"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="2107,138,2309,146,2549,159,2807,179,3062,208,3107,215,3106,221,3062,213,2806,184,2549,164,2309,151,2107,144"/>
+<area shape="rect" id="Node000015" href="$Villages_8cpp.html" title=" " alt="" coords="3389,218,3639,273"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="2106,140,2785,165,3128,184,3268,196,3377,208,3417,215,3416,221,3376,213,3268,201,3127,190,2785,170,2106,145"/>
+</map>

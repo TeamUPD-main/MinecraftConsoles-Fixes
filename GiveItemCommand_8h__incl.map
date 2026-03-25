@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/GiveItemCommand.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/GiveItemCommand.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,315,60"/>
+<area shape="rect" id="Node000002" href="$Command_8h.html" title=" " alt="" coords="109,108,211,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,60,163,94,157,94,157,60"/>
+<area shape="rect" id="Node000003" href="$CommandsEnum_8h.html" title=" " alt="" coords="13,181,158,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,135,109,174,106,170,146,131"/>
+<area shape="rect" id="Node000004" href="$ChatPacket_8h.html" title=" " alt="" coords="183,181,289,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="174,131,215,170,212,174,170,135"/>
+<area shape="rect" id="Node000005" href="$Packet_8h.html" title=" " alt="" coords="198,255,274,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,207,239,241,233,241,233,207"/>
+</map>

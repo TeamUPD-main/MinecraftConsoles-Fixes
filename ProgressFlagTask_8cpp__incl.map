@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/ProgressFlagTask.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/ProgressFlagTask.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,248,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,123,97,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,76,79,113,74,110,100,73"/>
+<area shape="rect" id="Node000003" href="$ProgressFlagTask_8h.html" title=" " alt="" coords="121,123,268,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,73,180,110,176,113,149,76"/>
+<area shape="rect" id="Node000004" href="$Tutorial_8h.html" title=" " alt="" coords="196,196,279,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,147,226,183,221,186,199,150"/>
+<area shape="rect" id="Node000005" href="$TutorialTask_8h.html" title=" " alt="" coords="33,269,143,295"/>
+<area shape="poly" id="edge11_Node000003_Node000005" title=" " alt="" coords="188,150,107,260,103,257,184,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,224,126,266,124,261,212,219"/>
+<area shape="rect" id="Node000006" href="$TutorialEnum_8h.html" title=" " alt="" coords="122,343,241,368"/>
+<area shape="poly" id="edge10_Node000004_Node000006" title=" " alt="" coords="233,223,209,270,190,330,185,328,204,268,228,220"/>
+<area shape="rect" id="Node000007" href="$TutorialConstraint_8h.html" title=" " alt="" coords="219,269,368,295"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="249,220,278,257,274,260,244,223"/>
+<area shape="rect" id="Node000008" href="$TutorialHint_8h.html" title=" " alt="" coords="392,269,501,295"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="272,219,400,262,399,267,270,224"/>
+<area shape="rect" id="Node000009" href="$TutorialMessage_8h.html" title=" " alt="" coords="526,269,666,295"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="279,216,526,264,525,269,278,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="105,293,157,332,154,336,101,297"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="405,297,238,342,237,336,403,292"/>
+</map>

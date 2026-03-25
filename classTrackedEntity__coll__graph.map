@@ -1,0 +1,7 @@
+<map id="TrackedEntity" name="TrackedEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,37,444,63"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,26,335,41,334,46,212,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,55,233,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,66,310,58,334,55,335,60,311,63,248,71"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="StrongholdPieces::StairsDown" name="StrongholdPieces::StairsDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,257,221,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,168,219,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,222,116,257,111,257,111,222"/>
+<area shape="rect" id="Node000003" href="$classStructurePiece.html" title=" " alt="" coords="55,93,171,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,132,116,168,111,168,111,132"/>
+<area shape="rect" id="Node000004" href="$classBoundingBox.html" title=" " alt="" coords="59,5,167,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,45,116,93,111,93,111,45"/>
+</map>

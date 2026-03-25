@@ -1,0 +1,25 @@
+var classDispenserTile =
+[
+    [ "DispenserTile", "classDispenserTile.html#aef5c6382b2347b89a048f3acaf155ade", null ],
+    [ "dispenseFrom", "classDispenserTile.html#a653599655ed2317f3ed064e7bf057141", null ],
+    [ "getAnalogOutputSignal", "classDispenserTile.html#a4ddfee921cbba3412aeaf34a52bc5294", null ],
+    [ "getDispenseMethod", "classDispenserTile.html#a2df88341b0cca1d67837bdd0790d8fa3", null ],
+    [ "getTexture", "classDispenserTile.html#a3926918ca9aa30dacb4084ae2dbc8884", null ],
+    [ "getTickDelay", "classDispenserTile.html#a97c3d6918f30228d424a86064910fd2f", null ],
+    [ "hasAnalogOutputSignal", "classDispenserTile.html#a5ba462ba27c50f0ea78897618adaee1a", null ],
+    [ "neighborChanged", "classDispenserTile.html#a6651791aa27fea54464717442530b7db", null ],
+    [ "newTileEntity", "classDispenserTile.html#abc4617352df9a3e8b5e75c393a0fffc9", null ],
+    [ "onPlace", "classDispenserTile.html#a9ee19058caad8965a84bfeba5f1058aa", null ],
+    [ "onRemove", "classDispenserTile.html#a6361bdf834b61a7f2a7c92261a6a0949", null ],
+    [ "registerIcons", "classDispenserTile.html#a9d01d535ee482dc9619ce2c9a2dd6e73", null ],
+    [ "setPlacedBy", "classDispenserTile.html#aaedc14cfe0c76f244955847c2d19bd27", null ],
+    [ "TestUse", "classDispenserTile.html#af91cf6600f8361ebc187f9392971127a", null ],
+    [ "tick", "classDispenserTile.html#acb1b8047c33bbee7f03333c69bf87c0d", null ],
+    [ "use", "classDispenserTile.html#a138c567f15b0ffb0350ce9009a4106d6", null ],
+    [ "ChunkRebuildData", "classDispenserTile.html#aaa154d56c650ce85fa22c7d247f270ee", null ],
+    [ "Tile", "classDispenserTile.html#a8a6c6f6de547e6f39d3212d1f4d49a65", null ],
+    [ "iconFront", "classDispenserTile.html#a18710479daa82ffca0ac2a4c346d581d", null ],
+    [ "iconFrontVertical", "classDispenserTile.html#a607ca83355c917f3fb01657b54c006ca", null ],
+    [ "iconTop", "classDispenserTile.html#ad8d276c531d54b4713b7fdb46c1b3b10", null ],
+    [ "random", "classDispenserTile.html#a3e772128f24a418ae01570a800bab92a", null ]
+];

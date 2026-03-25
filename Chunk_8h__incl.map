@@ -1,0 +1,32 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Chunk.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Chunk.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,5,373,60"/>
+<area shape="rect" id="Node000002" href="$AllowAllCuller_8h.html" title=" " alt="" coords="11,108,135,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,62,111,104,108,100,196,58"/>
+<area shape="rect" id="Node000005" href="$Tesselator_8h.html" title=" " alt="" coords="160,108,259,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,61,224,97,219,94,237,59"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="264,357,411,397"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="261,59,273,107,332,343,327,344,268,109,256,61"/>
+<area shape="rect" id="Node000007" href="$LevelRenderer_8h.html" title=" " alt="" coords="758,108,885,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="374,50,745,105,744,110,373,55"/>
+<area shape="rect" id="Node000003" href="$Culler_8h.html" title=" " alt="" coords="38,189,109,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,134,76,175,71,175,71,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,269,141,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,214,76,255,71,255,71,214"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="333,181,469,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="758,135,483,184,482,179,757,129"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="493,181,629,221"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="784,136,638,180,636,175,783,131"/>
+<area shape="rect" id="Node000010" href="$OffsettedRenderList_8h.html" title=" " alt="" coords="653,189,816,214"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="810,135,760,181,756,177,807,132"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="840,181,976,221"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="836,132,879,170,875,174,832,135"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1000,181,1136,221"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="858,131,996,175,995,180,856,136"/>
+<area shape="rect" id="Node000013" href="$ResourceLocation_8h.html" title=" " alt="" coords="1160,189,1309,214"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="885,130,1149,179,1170,183,1169,188,1147,184,884,136"/>
+<area shape="rect" id="Node000015" href="$xmcore_8h.html" title=" " alt="" coords="1333,189,1416,214"/>
+<area shape="poly" id="edge15_Node000007_Node000015" title=" " alt="" coords="885,122,1081,139,1202,156,1322,179,1334,182,1332,187,1321,184,1201,161,1081,145,885,128"/>
+<area shape="rect" id="Node000014" href="$Textures_8h.html" title=" " alt="" coords="762,277,851,302"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1183,217,1149,224,865,280,864,274,1147,219,1182,211"/>
+<area shape="poly" id="edge14_Node000014_Node000006" title=" " alt="" coords="762,301,425,363,424,358,761,296"/>
+</map>

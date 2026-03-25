@@ -1,0 +1,12 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PistonPieceRenderer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PistonPieceRenderer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,321,60"/>
+<area shape="rect" id="Node000002" href="$TileEntityRenderer_8h.html" title=" " alt="" coords="86,108,241,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,60,166,94,161,94,161,60"/>
+<area shape="rect" id="Node000003" href="$Textures_8h.html" title=" " alt="" coords="119,255,208,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,135,145,156,135,182,134,197,137,213,149,242,145,244,132,215,129,198,130,181,140,154,153,132"/>
+<area shape="rect" id="Node000005" href="$ResourceLocation_8h.html" title=" " alt="" coords="145,181,294,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="175,132,204,169,200,172,170,135"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="90,328,237,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,280,166,314,161,314,161,280"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="212,209,183,245,179,242,208,205"/>
+</map>

@@ -1,0 +1,59 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/HealthBoostMobEffect.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/HealthBoostMobEffect.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3604,5,3931,60"/>
+<area shape="rect" id="Node000002" href="$HealthBoostMobEffect_8cpp.html" title=" " alt="" coords="3411,108,3753,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3709,69,3632,110,3629,105,3706,64"/>
+<area shape="rect" id="Node000003" href="$net_8minecraft_8world_8effect_8h.html" title=" " alt="" coords="3777,108,4128,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="3829,64,3905,105,3903,110,3826,69"/>
+<area shape="rect" id="Node000004" href="$AbsoptionMobEffect_8cpp.html" title=" " alt="" coords="5,218,332,273"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="3764,165,3605,174,3424,180,3006,186,2043,182,1550,179,1085,182,674,192,497,201,344,213,291,221,290,215,343,208,497,195,674,186,1085,176,1550,174,2043,177,3006,181,3424,175,3605,169,3763,160"/>
+<area shape="rect" id="Node000005" href="$BeaconTileEntity_8cpp.html" title=" " alt="" coords="356,218,661,273"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="3764,165,3456,179,3078,184,2208,181,1763,179,1343,182,972,192,812,201,673,213,623,221,623,215,672,208,811,196,971,187,1343,177,1763,174,2208,176,3078,179,3456,174,3764,160"/>
+<area shape="rect" id="Node000006" href="$CaveSpider_8cpp.html" title=" " alt="" coords="685,218,956,273"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="3764,165,3485,178,3142,182,2355,179,1952,178,1573,181,1237,192,1093,201,968,213,923,221,922,215,967,208,1092,196,1237,187,1573,176,1952,173,2355,174,3142,177,3484,172,3763,160"/>
+<area shape="rect" id="Node000007" href="$EntityHorse_8cpp.html" title=" " alt="" coords="980,218,1253,273"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="3764,165,3514,177,3208,181,2504,180,2144,180,1805,184,1506,194,1377,202,1265,213,1220,221,1219,215,1264,208,1376,197,1505,189,1805,179,2144,175,2504,175,3208,176,3514,172,3764,160"/>
+<area shape="rect" id="Node000008" href="$FoodItem_8cpp.html" title=" " alt="" coords="1277,218,1535,273"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="3764,165,3541,176,3269,180,2645,180,2326,181,2025,185,1760,195,1546,213,1504,221,1503,215,1546,208,1759,190,2025,180,2326,176,2645,175,3269,175,3541,170,3764,160"/>
+<area shape="rect" id="Node000009" href="$GoldenAppleItem_8cpp.html" title=" " alt="" coords="1559,218,1869,273"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="3764,165,3477,183,3233,188,3019,186,2820,180,2621,175,2408,176,2166,188,1882,213,1832,221,1832,215,1882,208,2166,182,2408,171,2621,170,2820,175,3019,180,3233,183,3477,178,3763,160"/>
+<area shape="rect" id="Node000010" href="$InstantenousMobEffect_8cpp.html" title=" " alt="" coords="1894,211,2177,280"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="3764,165,3524,180,3320,185,3140,183,2973,179,2806,176,2628,178,2426,189,2189,213,2177,215,2176,210,2188,208,2426,184,2628,173,2806,171,2973,174,3140,178,3320,180,3523,175,3763,160"/>
+<area shape="rect" id="Node000011" href="$Item_8cpp.html" title=" " alt="" coords="2201,218,2443,273"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="3764,165,3564,178,3394,182,3106,177,2967,176,2820,179,2652,190,2456,213,2416,221,2415,215,2455,208,2652,185,2819,173,2967,170,3106,172,3394,177,3564,173,3764,160"/>
+<area shape="rect" id="Node000012" href="$LivingEntity_8cpp.html" title=" " alt="" coords="2467,218,2739,273"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="3764,165,3609,177,3478,182,3255,182,3033,186,2904,196,2752,213,2709,221,2708,215,2751,208,2903,190,3033,181,3255,177,3478,176,3609,171,3763,160"/>
+<area shape="rect" id="Node000013" href="$Minecraft_8World_8cpp.html" title=" " alt="" coords="2763,218,3062,273"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="3764,165,3569,180,3416,185,3266,193,3074,213,3030,221,3029,215,3074,208,3265,187,3416,180,3568,175,3763,160"/>
+<area shape="rect" id="Node000014" href="$Mob_8cpp.html" title=" " alt="" coords="3086,218,3329,273"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="3764,165,3550,186,3457,195,3341,213,3306,221,3305,215,3340,208,3457,190,3549,180,3764,160"/>
+<area shape="rect" id="Node000015" href="$MobEffect_8cpp.html" title=" " alt="" coords="3353,218,3616,273"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="3826,168,3629,213,3598,221,3596,215,3628,208,3824,163"/>
+<area shape="rect" id="Node000016" href="$MobEffectInstance_8cpp.html" title=" " alt="" coords="3641,218,3958,273"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="3906,173,3839,220,3835,215,3903,168"/>
+<area shape="rect" id="Node000017" href="$Monster_8cpp.html" title=" " alt="" coords="3983,218,4232,273"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="4003,168,4071,215,4068,220,4000,173"/>
+<area shape="rect" id="Node000018" href="$Player_8cpp.html" title=" " alt="" coords="4257,218,4499,273"/>
+<area shape="poly" id="edge17_Node000003_Node000018" title=" " alt="" coords="4070,163,4275,215,4274,221,4069,169"/>
+<area shape="rect" id="Node000019" href="$PotionBrewing_8cpp.html" title=" " alt="" coords="4523,218,4814,273"/>
+<area shape="poly" id="edge18_Node000003_Node000019" title=" " alt="" coords="4142,155,4322,179,4512,208,4551,215,4550,221,4511,213,4321,184,4141,161"/>
+<area shape="rect" id="Node000020" href="$PotionItem_8cpp.html" title=" " alt="" coords="4839,218,5107,273"/>
+<area shape="poly" id="edge19_Node000003_Node000020" title=" " alt="" coords="4142,142,4463,165,4646,184,4826,208,4867,215,4866,221,4826,213,4645,189,4463,171,4142,148"/>
+<area shape="rect" id="Node000021" href="$RemoveMobEffectPacket_8cpp.html" title=" " alt="" coords="5131,211,5420,280"/>
+<area shape="poly" id="edge20_Node000003_Node000021" title=" " alt="" coords="4142,137,4344,144,4589,157,4855,178,5120,208,5131,210,5130,215,5119,213,4854,183,4589,163,4344,150,4142,143"/>
+<area shape="rect" id="Node000022" href="$Skeleton_8cpp.html" title=" " alt="" coords="5445,218,5698,273"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="4142,139,4824,164,5176,184,5322,195,5433,208,5473,215,5472,221,5432,213,5321,201,5176,189,4824,169,4142,144"/>
+<area shape="rect" id="Node000023" href="$Spider_8cpp.html" title=" " alt="" coords="5722,218,5965,273"/>
+<area shape="poly" id="edge22_Node000003_Node000023" title=" " alt="" coords="4142,137,4510,145,4961,159,5394,180,5573,193,5710,208,5750,215,5749,221,5710,213,5573,198,5394,185,4960,164,4510,151,4142,142"/>
+<area shape="rect" id="Node000024" href="$ThrownPotion_8cpp.html" title=" " alt="" coords="5989,218,6276,273"/>
+<area shape="poly" id="edge23_Node000003_Node000024" title=" " alt="" coords="4142,137,4562,145,5090,159,5603,179,5815,193,5977,208,6023,215,6022,221,5976,213,5815,198,5603,185,5090,164,4562,150,4142,142"/>
+<area shape="rect" id="Node000025" href="$UpdateMobEffectPacket_8cpp.html" title=" " alt="" coords="6301,211,6583,280"/>
+<area shape="poly" id="edge24_Node000003_Node000025" title=" " alt="" coords="4142,136,4621,142,5240,154,5846,176,6098,190,6289,208,6301,210,6300,215,6288,213,6097,196,5846,181,5240,160,4621,147,4142,141"/>
+<area shape="rect" id="Node000026" href="$Villager_8cpp.html" title=" " alt="" coords="6607,218,6853,273"/>
+<area shape="poly" id="edge25_Node000003_Node000026" title=" " alt="" coords="4142,134,4679,137,5387,147,5748,156,6085,169,6375,186,6596,208,6636,215,6635,221,6595,213,6375,192,6085,175,5748,162,5387,152,4679,142,4142,139"/>
+<area shape="rect" id="Node000027" href="$Witch_8cpp.html" title=" " alt="" coords="6878,218,7121,273"/>
+<area shape="poly" id="edge26_Node000003_Node000027" title=" " alt="" coords="4142,133,4729,135,5515,143,5919,153,6296,166,6620,184,6866,208,6907,215,6906,221,6866,213,6620,189,6296,171,5919,158,5515,149,4729,140,4142,139"/>
+<area shape="rect" id="Node000028" href="$WitherSkull_8cpp.html" title=" " alt="" coords="7145,218,7416,273"/>
+<area shape="poly" id="edge27_Node000003_Node000028" title=" " alt="" coords="4142,133,4777,135,5640,143,6086,153,6502,166,6861,184,7133,208,7178,215,7177,221,7132,213,6861,189,6502,171,6086,158,5640,149,4777,140,4142,139"/>
+<area shape="rect" id="Node000029" href="$Zombie_8cpp.html" title=" " alt="" coords="7440,218,7687,273"/>
+<area shape="poly" id="edge28_Node000003_Node000029" title=" " alt="" coords="4142,136,4896,143,5918,158,6873,179,7222,193,7429,208,7470,215,7469,221,7428,213,7222,198,6873,185,5918,163,4896,149,4142,141"/>
+</map>

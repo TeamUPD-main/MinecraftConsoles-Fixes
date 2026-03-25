@@ -1,0 +1,23 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/WeighedTreasure.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/WeighedTreasure.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1575,5,1868,60"/>
+<area shape="rect" id="Node000002" href="$BonusChestFeature_8cpp.html" title=" " alt="" coords="5,115,328,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1561,38,1323,44,1019,56,680,77,340,111,292,118,291,113,340,105,680,72,1018,50,1323,38,1561,33"/>
+<area shape="rect" id="Node000003" href="$EnchantedBookItem_8cpp.html" title=" " alt="" coords="352,115,680,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1561,42,1165,65,929,84,692,111,644,118,644,113,692,105,928,79,1165,60,1561,37"/>
+<area shape="rect" id="Node000004" href="$MineShaftPieces_8cpp.html" title=" " alt="" coords="704,115,1008,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1561,49,1307,74,1020,111,978,118,977,113,1020,105,1306,69,1561,44"/>
+<area shape="rect" id="Node000005" href="$MonsterRoomFeature_8cpp.html" title=" " alt="" coords="1033,115,1370,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1582,66,1328,118,1327,113,1581,60"/>
+<area shape="rect" id="Node000006" href="$NetherBridgePieces_8cpp.html" title=" " alt="" coords="1395,115,1720,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1671,70,1599,117,1596,113,1668,66"/>
+<area shape="rect" id="Node000007" href="$ScatteredFeaturePieces_8cpp.html" title=" " alt="" coords="1745,108,2026,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1775,66,1835,105,1832,110,1772,70"/>
+<area shape="rect" id="Node000008" href="$StrongholdPieces_8cpp.html" title=" " alt="" coords="2051,115,2360,170"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1853,60,2088,113,2087,118,1852,66"/>
+<area shape="rect" id="Node000009" href="$StructurePiece_8cpp.html" title=" " alt="" coords="2384,115,2675,170"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1882,45,2114,70,2372,105,2413,113,2412,118,2372,111,2114,75,1882,51"/>
+<area shape="rect" id="Node000010" href="$VillagePieces_8cpp.html" title=" " alt="" coords="2699,115,2983,170"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1882,37,2251,59,2470,79,2687,105,2730,113,2729,118,2686,111,2469,84,2251,64,1882,42"/>
+<area shape="rect" id="Node000011" href="$WeighedTreasure_8cpp.html" title=" " alt="" coords="3007,115,3315,170"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1882,33,2102,39,2380,52,2688,73,2996,105,3043,113,3042,118,2996,111,2688,78,2380,57,2102,45,1882,39"/>
+</map>

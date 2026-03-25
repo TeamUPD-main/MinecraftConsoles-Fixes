@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classMaterial.html" title=" " alt="" coords="5,104,81,129"/>
+<area shape="rect" id="Node000001" href="$classDecorationMaterial.html" title=" " alt="" coords="129,5,276,31"/>
+<area shape="poly" id="edge1255_Node000000_Node000001" title=" " alt="" coords="64,92,93,65,128,40,153,28,155,33,131,44,96,69,67,96"/>
+<area shape="rect" id="Node000002" href="$classGasMaterial.html" title=" " alt="" coords="152,55,253,80"/>
+<area shape="poly" id="edge1256_Node000000_Node000002" title=" " alt="" coords="93,98,160,77,162,83,95,104"/>
+<area shape="rect" id="Node000003" href="$classLiquidMaterial.html" title=" " alt="" coords="145,104,260,129"/>
+<area shape="poly" id="edge1257_Node000000_Node000003" title=" " alt="" coords="95,114,145,114,145,119,95,119"/>
+<area shape="rect" id="Node000004" href="$classPortalMaterial.html" title=" " alt="" coords="145,153,260,179"/>
+<area shape="poly" id="edge1258_Node000000_Node000004" title=" " alt="" coords="95,130,162,151,160,156,93,135"/>
+<area shape="rect" id="Node000005" href="$classWebMaterial.html" title=" " alt="" coords="151,203,255,228"/>
+<area shape="poly" id="edge1259_Node000000_Node000005" title=" " alt="" coords="68,137,97,163,131,188,158,200,156,205,128,192,93,168,64,141"/>
+</map>

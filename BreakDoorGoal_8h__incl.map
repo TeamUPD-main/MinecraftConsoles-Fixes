@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/BreakDoorGoal.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/BreakDoorGoal.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,5,303,60"/>
+<area shape="rect" id="Node000002" href="$DoorInteractGoal_8h.html" title=" " alt="" coords="5,108,151,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,62,101,100,97,96,134,58"/>
+<area shape="rect" id="Node000004" href="$SharedConstants_8h.html" title=" " alt="" coords="175,108,319,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,58,228,96,224,100,186,62"/>
+<area shape="rect" id="Node000003" href="$Goal_8h.html" title=" " alt="" coords="46,181,110,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,134,81,168,75,168,75,134"/>
+<area shape="rect" id="Node000005" href="$Class_8h.html" title=" " alt="" coords="213,181,282,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,134,250,168,245,168,245,134"/>
+</map>

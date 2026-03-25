@@ -1,0 +1,27 @@
+var PS3_2Media_2xuiscene__settings__options__small_8h =
+[
+    [ "IDC_Bot_L", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a03d2771b53adb5a072d302ddba1b8c94", null ],
+    [ "IDC_Bot_M", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a592cc97ae56947bf3acbb45f924ae70a", null ],
+    [ "IDC_Bot_R", "PS3_2Media_2xuiscene__settings__options__small_8h.html#aa256142ca05273ea4564a6d86a7ce094", null ],
+    [ "IDC_FocusSink", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a28bee62b66dbd66e479c1cf32fcf7f82", null ],
+    [ "IDC_FocusSink", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a28bee62b66dbd66e479c1cf32fcf7f82", null ],
+    [ "IDC_graphic_groupbackground", "PS3_2Media_2xuiscene__settings__options__small_8h.html#aa1e0c035a43ee2155484ea2d0b81d702", null ],
+    [ "IDC_Mid_L", "PS3_2Media_2xuiscene__settings__options__small_8h.html#aac28812a9299e61010f82c391873d9e7", null ],
+    [ "IDC_Mid_M", "PS3_2Media_2xuiscene__settings__options__small_8h.html#ab82825788a80136c442025c50c378d93", null ],
+    [ "IDC_Mid_R", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a8dd604ddccadb3d099b9cd80dc9c6730", null ],
+    [ "IDC_SceneSettingsOptions", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a21f90a161ea5d84e2c9af194cb8d090c", null ],
+    [ "IDC_Top_L", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a1ad55c85b7a6f9d0067bd43fa057d6d0", null ],
+    [ "IDC_Top_M", "PS3_2Media_2xuiscene__settings__options__small_8h.html#adf573c5cd4f2b9cff29b0774f2193b79", null ],
+    [ "IDC_Top_R", "PS3_2Media_2xuiscene__settings__options__small_8h.html#afb200547e3571c7027c0b6b62615ed8b", null ],
+    [ "IDC_XuiDifficultyText", "PS3_2Media_2xuiscene__settings__options__small_8h.html#af8c2284602356a5c57a7ce8f4cc40af6", null ],
+    [ "IDC_XuiInGameGamertags", "PS3_2Media_2xuiscene__settings__options__small_8h.html#afd7dc12e15b3bd301d0f94ce01d6d1d9", null ],
+    [ "IDC_XuiShowHints", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a8f5d377bcea0e4620d25bbbf11ea71a1", null ],
+    [ "IDC_XuiShowSplitscreenGamertags", "PS3_2Media_2xuiscene__settings__options__small_8h.html#ac68b51a0f4a1df12b7df17a88e508a18", null ],
+    [ "IDC_XuiShowTooltips", "PS3_2Media_2xuiscene__settings__options__small_8h.html#af5bbd38034a8f87b5702cb5e981c85c6", null ],
+    [ "IDC_XuiSlider", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a99ebd8862ffddcfd5da8f122fd7508dd", null ],
+    [ "IDC_XuiSlider", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a99ebd8862ffddcfd5da8f122fd7508dd", null ],
+    [ "IDC_XuiSliderAutosave", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a7fdcd08728b8af98a81c41cf572ba455", null ],
+    [ "IDC_XuiSliderDifficulty", "PS3_2Media_2xuiscene__settings__options__small_8h.html#a22d90ee8232ac219c38d79149944556a", null ],
+    [ "IDC_XuiSplitScreen", "PS3_2Media_2xuiscene__settings__options__small_8h.html#ae9aa00c68eea3299ddf22c9b86a41be7", null ],
+    [ "IDC_XuiViewBob", "PS3_2Media_2xuiscene__settings__options__small_8h.html#aef01e64d5d3aca74413b976755b538fb", null ]
+];

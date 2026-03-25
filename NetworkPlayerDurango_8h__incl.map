@@ -1,0 +1,16 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Durango/Network/NetworkPlayerDurango.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Durango/Network/NetworkPlayerDurango.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,5,325,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,123,197,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,77,132,114,128,111,166,73"/>
+<area shape="rect" id="Node000003" href="$DQRNetworkPlayer_8h.html" title=" " alt="" coords="222,130,381,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,73,282,118,278,122,233,77"/>
+<area shape="rect" id="Node000004" href="$DQRNetworkManager_8h.html" title=" " alt="" coords="214,211,389,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="297,156,296,197,290,197,292,155"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="413,211,475,236"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="324,153,412,202,410,206,321,158"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="305,210,307,169,312,169,311,211"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="163,284,299,324"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="293,238,259,276,255,272,289,234"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="323,291,421,317"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="314,234,354,279,350,283,310,238"/>
+</map>

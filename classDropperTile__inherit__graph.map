@@ -1,0 +1,11 @@
+<map id="DropperTile" name="DropperTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,225,122,251"/>
+<area shape="rect" id="Node000002" href="$classDispenserTile.html" title=" " alt="" coords="17,152,128,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,191,75,225,70,225,70,191"/>
+<area shape="rect" id="Node000003" href="$classBaseEntityTile.html" title=" " alt="" coords="15,79,131,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,118,75,152,70,152,70,118"/>
+<area shape="rect" id="Node000004" href="$classTile.html" title=" " alt="" coords="5,5,52,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="45,41,68,77,63,80,41,44"/>
+<area shape="rect" id="Node000005" href="$classEntityTile.html" title=" " alt="" coords="76,5,160,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="105,44,82,80,78,77,101,41"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Xbox/Sentient/Include/SenClientAvatar.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Xbox/Sentient/Include/SenClientAvatar.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="454,5,705,75"/>
+<area shape="rect" id="Node000002" href="$SenClientRawData_8h.html" title=" " alt="" coords="145,123,299,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,76,280,122,279,117,453,71"/>
+<area shape="rect" id="Node000008" href="$SenClientResource_8h.html" title=" " alt="" coords="321,196,477,221"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="545,77,424,189,420,185,541,73"/>
+<area shape="rect" id="Node000009" href="$SenClientSys_8h.html" title=" " alt="" coords="501,196,620,221"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="570,76,559,123,559,148,561,182,556,183,554,148,554,122,565,74"/>
+<area shape="rect" id="Node000010" href="$SenClientXML_8h.html" title=" " alt="" coords="568,123,692,148"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="600,74,619,109,615,112,595,76"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="716,123,808,148"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="646,72,729,114,726,119,644,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="832,123,913,148"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="686,72,824,116,823,121,684,77"/>
+<area shape="rect" id="Node000003" href="$SenClientFile_8h.html" title=" " alt="" coords="5,196,124,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,150,104,193,102,188,196,146"/>
+<area shape="rect" id="Node000007" href="$SenClientPackage_8h.html" title=" " alt="" coords="147,196,297,221"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="225,148,225,182,219,182,219,148"/>
+<area shape="rect" id="Node000004" href="$SenClientTypes_8h.html" title=" " alt="" coords="333,269,466,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,219,332,264,331,269,118,224"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="308,343,389,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,297,367,333,363,330,389,293"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="414,343,489,368"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="410,293,437,330,433,333,406,297"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="251,219,359,262,357,267,250,224"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="402,222,402,256,397,256,397,222"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="536,224,439,266,437,261,534,219"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="637,148,645,183,643,204,635,223,610,240,572,254,480,273,479,268,571,249,608,236,631,220,638,203,639,184,632,149"/>
+</map>

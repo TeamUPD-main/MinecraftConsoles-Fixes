@@ -1,0 +1,26 @@
+var classGameRuleDefinition =
+[
+    [ "GameRuleDefinition", "classGameRuleDefinition.html#a1850a2a63c2f18610f4fa0ca01d9cd52", null ],
+    [ "addAttribute", "classGameRuleDefinition.html#a8a6a6da766848d473adc78e67ef9d981", null ],
+    [ "addChild", "classGameRuleDefinition.html#ab82635f59722c9096c21f434ee209e55", null ],
+    [ "enumerate", "classGameRuleDefinition.html#afef6332833881140f88aad9298e0f3d6", null ],
+    [ "enumerateMap", "classGameRuleDefinition.html#a276fb204f6ca33791045ff7312c39b6f", null ],
+    [ "getActionType", "classGameRuleDefinition.html#aa6352b2f7d124676da2da810f172f7b8", null ],
+    [ "getAuxValue", "classGameRuleDefinition.html#a8843669ed127ce2668aa0226eb4dfec7", null ],
+    [ "getChildren", "classGameRuleDefinition.html#a542f3196f1ca234ec5158ea4ebef7702", null ],
+    [ "getComplete", "classGameRuleDefinition.html#abac18a3e1b7ab6d965e44092410de67e", null ],
+    [ "getGoal", "classGameRuleDefinition.html#ab9202c773252238d41a4ef0e496ca553", null ],
+    [ "getIcon", "classGameRuleDefinition.html#a1c78b963e09163db0f2211d24ef5c9e0", null ],
+    [ "getProgress", "classGameRuleDefinition.html#a8750582fc0cbd9fcb364bff8020bf267", null ],
+    [ "onCollectItem", "classGameRuleDefinition.html#a4a7f3c4ce03ce23c38341769a986a44a", null ],
+    [ "onUseTile", "classGameRuleDefinition.html#a76ec337878d536bf3055fa275785291d", null ],
+    [ "populateGameRule", "classGameRuleDefinition.html#a58624289b2e7feaafc34d45584fac40c", null ],
+    [ "postProcessPlayer", "classGameRuleDefinition.html#aa04707241642a63eb395b2fe198e0b6f", null ],
+    [ "setComplete", "classGameRuleDefinition.html#a530cf6a22ab7e1f77988a12c4e57104b", null ],
+    [ "setOwnerType", "classGameRuleDefinition.html#a26ad2ad203bf04f761124bdbdd64c93c", null ],
+    [ "write", "classGameRuleDefinition.html#a1641ed0c7b912f6ffcc21c30dc6f2f80", null ],
+    [ "writeAttributes", "classGameRuleDefinition.html#a769dc157b9603c87e8af6a4e603df05a", null ],
+    [ "m_4JDataValue", "classGameRuleDefinition.html#a36589037074ca7f9ad37e1141a3a28ae", null ],
+    [ "m_descriptionId", "classGameRuleDefinition.html#a5ccd30a3a36a18cb5b6e26a6dae80f68", null ],
+    [ "m_promptId", "classGameRuleDefinition.html#a326d280a0a833240e3f5d5460faa55cb", null ]
+];

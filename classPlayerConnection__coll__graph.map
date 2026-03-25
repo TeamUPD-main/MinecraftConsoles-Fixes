@@ -1,0 +1,11 @@
+<map id="PlayerConnection" name="PlayerConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,93,362,119"/>
+<area shape="rect" id="Node000002" href="$classPacketListener.html" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,33,264,91,262,96,106,38"/>
+<area shape="rect" id="Node000003" href="$classConsoleInputSource.html" title=" " alt="" coords="145,5,296,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,39,286,91,282,95,237,43"/>
+<area shape="rect" id="Node000004" href="$classConnection.html" title=" " alt="" coords="320,5,415,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,43,306,95,302,91,347,39"/>
+<area shape="rect" id="Node000005" href="$classOrbisCriticalSection.html" title=" " alt="" coords="439,5,589,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="483,40,416,72,342,96,340,91,414,67,481,35"/>
+</map>

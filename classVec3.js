@@ -1,0 +1,28 @@
+var classVec3 =
+[
+    [ "add", "classVec3.html#a2f1d156c5c3671c408a6fcbc67ba3789", null ],
+    [ "clipX", "classVec3.html#a8163ed8b994ac99c5cf7f917e7f9b85a", null ],
+    [ "clipY", "classVec3.html#af05d501015f638114fde85960277d0b5", null ],
+    [ "clipZ", "classVec3.html#ade40cc2249bf42a19352f35f4e21f393", null ],
+    [ "closestPointOnLine", "classVec3.html#ae09ded50809a521afc3706ed2a8d71f8", null ],
+    [ "cross", "classVec3.html#a4495a6989f3ed8d0bc487eb2a6b7bf2a", null ],
+    [ "distanceFromLine", "classVec3.html#a55b640654285752ea58707d510299585", null ],
+    [ "distanceTo", "classVec3.html#a17d69de306272f2b63745265ae1556d7", null ],
+    [ "distanceTo", "classVec3.html#a828f27c46c688495dd00a661af5e9f30", null ],
+    [ "distanceToSqr", "classVec3.html#a40c0427a32dca4734d40cd9894ff9dc8", null ],
+    [ "distanceToSqr", "classVec3.html#aab388a1898d669c142213b9edafa9e92", null ],
+    [ "dot", "classVec3.html#af2ebc013bfff82269e0fa121dfa86b8e", null ],
+    [ "interpolateTo", "classVec3.html#af0d14b5a5382c6eb9a5cb6183df40088", null ],
+    [ "length", "classVec3.html#adbcd22a0ffc4ecd9c6f74013bfa76949", null ],
+    [ "lerp", "classVec3.html#ad28bd7b5531db389afe94c5d5a64ca3f", null ],
+    [ "normalize", "classVec3.html#a7dad783156e7ee53c713bb7965b489e5", null ],
+    [ "scale", "classVec3.html#a56880553636f24604f44b5f8719452af", null ],
+    [ "toString", "classVec3.html#afcfddaf635c945d7ab7085e7c4964ae0", null ],
+    [ "vectorTo", "classVec3.html#a1b05a1aaf334d40df940c6d67bad6d12", null ],
+    [ "xRot", "classVec3.html#aa33100dada4805e45e3f130f671a4a09", null ],
+    [ "yRot", "classVec3.html#abbe33021a23fe0f771851c37a1617112", null ],
+    [ "zRot", "classVec3.html#a90ab6b0d5512650e1b57af9c883c3f84", null ],
+    [ "x", "classVec3.html#ad1de31784f9099476ea9fe389ce79dea", null ],
+    [ "y", "classVec3.html#a3f7a04fbd01d126678d0d243b3edd1bc", null ],
+    [ "z", "classVec3.html#a026f60dd196479ab2a26bb6408289f3a", null ]
+];

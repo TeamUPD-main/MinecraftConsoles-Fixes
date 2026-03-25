@@ -1,0 +1,11 @@
+<map id="OwnableEntity" name="OwnableEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,5,184,31"/>
+<area shape="rect" id="Node000002" href="$classTamableAnimal.html" title=" " alt="" coords="64,79,187,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,44,128,79,123,79,123,44"/>
+<area shape="rect" id="Node000003" href="$classOcelot.html" title=" " alt="" coords="5,152,69,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,115,53,154,50,150,99,110"/>
+<area shape="rect" id="Node000004" href="$classOzelot.html" title=" " alt="" coords="93,152,157,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="128,118,128,152,123,152,123,118"/>
+<area shape="rect" id="Node000005" href="$classWolf.html" title=" " alt="" coords="181,152,232,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="150,111,195,150,192,154,147,115"/>
+</map>

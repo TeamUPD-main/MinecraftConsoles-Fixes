@@ -1,0 +1,25 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/Access/Access.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/Access/Access.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,5,507,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,123,80,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,77,94,123,93,118,263,72"/>
+<area shape="rect" id="Node000003" href="$Access_8h.html" title=" " alt="" coords="105,123,183,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,77,188,120,186,115,297,72"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="207,123,385,148"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="355,77,319,114,315,111,351,73"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="409,123,540,148"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="420,73,456,111,452,114,416,77"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="564,123,641,148"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="465,72,564,115,562,120,463,77"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="665,123,729,148"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="499,72,653,118,651,123,497,77"/>
+<area shape="rect" id="Node000004" href="$BanManager_8h.html" title=" " alt="" coords="8,196,123,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,150,90,189,86,185,130,146"/>
+<area shape="rect" id="Node000007" href="$WhitelistManager_8h.html" title=" " alt="" coords="147,196,295,221"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="158,146,200,185,197,188,155,150"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="71,269,129,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="73,220,91,256,86,258,69,223"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="171,269,234,295"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="89,219,169,261,167,265,86,224"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="203,224,133,265,130,260,200,219"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="221,222,212,257,207,256,216,221"/>
+</map>

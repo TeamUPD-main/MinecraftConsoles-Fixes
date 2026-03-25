@@ -1,0 +1,9 @@
+<map id="Hopper" name="Hopper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,79,181,104"/>
+<area shape="rect" id="Node000003" href="$classHopperTileEntity.html" title=" " alt="" coords="5,152,136,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,115,85,154,81,150,123,111"/>
+<area shape="rect" id="Node000004" href="$classMinecartHopper.html" title=" " alt="" coords="161,152,287,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,111,213,150,210,154,167,115"/>
+<area shape="rect" id="Node000002" href="$classContainer.html" title=" " alt="" coords="104,5,189,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,44,149,79,144,79,144,44"/>
+</map>

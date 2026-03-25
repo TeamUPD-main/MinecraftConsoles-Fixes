@@ -1,0 +1,42 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/HorseChoiceTask.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/HorseChoiceTask.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="355,5,597,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="204,130,279,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,77,282,127,280,122,396,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="303,130,361,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,77,361,125,358,120,426,73"/>
+<area shape="rect" id="Node000004" href="$Minecraft_8h.html" title=" " alt="" coords="386,130,481,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="464,76,446,118,441,116,459,74"/>
+<area shape="rect" id="Node000011" href="$Tutorial_8h.html" title=" " alt="" coords="675,218,757,243"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="490,74,512,119,527,141,545,160,673,211,671,216,543,165,523,144,507,121,485,76"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="556,123,692,163"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="527,73,586,113,583,117,524,77"/>
+<area shape="rect" id="Node000018" href="$HorseChoiceTask_8h.html" title=" " alt="" coords="769,130,914,155"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="598,72,787,124,786,129,597,77"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="339,211,475,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="432,156,419,198,414,197,427,155"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="499,211,651,251"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="454,153,533,201,530,206,451,158"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,211,141,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="399,158,374,165,267,190,155,213,154,208,266,185,373,160,398,153"/>
+<area shape="rect" id="Node000008" href="$ResourceLocation_8h.html" title=" " alt="" coords="165,218,315,243"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="408,158,280,215,278,210,406,153"/>
+<area shape="rect" id="Node000009" href="$Textures_8h.html" title=" " alt="" coords="195,299,285,324"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="243,244,243,285,237,285,237,244"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="167,372,313,412"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="243,324,243,358,237,358,237,324"/>
+<area shape="rect" id="Node000012" href="$TutorialTask_8h.html" title=" " alt="" coords="847,299,958,324"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="744,241,864,291,862,296,742,246"/>
+<area shape="rect" id="Node000013" href="$TutorialEnum_8h.html" title=" " alt="" coords="750,379,869,405"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="733,242,760,265,785,297,800,332,808,365,803,366,795,334,780,300,756,269,730,246"/>
+<area shape="rect" id="Node000014" href="$TutorialConstraint_8h.html" title=" " alt="" coords="324,299,473,324"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="686,246,663,253,564,279,472,299,471,293,563,274,662,248,684,241"/>
+<area shape="rect" id="Node000015" href="$TutorialHint_8h.html" title=" " alt="" coords="497,299,607,324"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="693,246,589,295,587,290,691,241"/>
+<area shape="rect" id="Node000016" href="$TutorialMessage_8h.html" title=" " alt="" coords="631,299,771,324"/>
+<area shape="poly" id="edge16_Node000011_Node000016" title=" " alt="" coords="716,244,709,286,703,285,711,243"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="891,326,835,372,832,368,887,322"/>
+<area shape="poly" id="edge15_Node000015_Node000013" title=" " alt="" coords="590,321,759,373,758,378,589,327"/>
+<area shape="rect" id="Node000019" href="$ChoiceTask_8h.html" title=" " alt="" coords="815,218,921,243"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="847,155,863,204,858,205,842,156"/>
+<area shape="poly" id="edge21_Node000019_Node000012" title=" " alt="" coords="876,242,894,285,890,287,871,245"/>
+</map>

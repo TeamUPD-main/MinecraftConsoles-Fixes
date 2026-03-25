@@ -1,0 +1,13 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/WorldManager.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/WorldManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,285,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="160,255,219,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,62,94,95,89,114,91,133,106,165,126,196,168,244,164,247,122,199,101,168,85,134,83,113,89,93,113,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,108,191,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,60,148,94,143,94,143,60"/>
+<area shape="rect" id="Node000004" href="$ServerProperties_8h.html" title=" " alt="" coords="215,108,358,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,58,257,98,254,103,187,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="268,136,241,156,217,183,203,212,195,242,190,240,198,210,212,180,238,152,265,132"/>
+<area shape="rect" id="Node000005" href="$ServerLogger_8h.html" title=" " alt="" coords="227,181,346,207"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="289,134,289,168,284,168,284,134"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="273,209,218,248,215,244,269,205"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_AILMIXINFO" name="_AILMIXINFO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,93,202,119"/>
+<area shape="rect" id="Node000002" href="$struct__AILSOUNDINFO.html" title=" " alt="" coords="5,5,135,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,39,140,91,136,95,88,43"/>
+<area shape="rect" id="Node000003" href="$struct__ADPCMDATATAG.html" title=" " alt="" coords="159,5,295,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,43,162,95,158,91,206,39"/>
+</map>

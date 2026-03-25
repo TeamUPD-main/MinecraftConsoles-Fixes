@@ -1,0 +1,28 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/QuadrupedModel.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/QuadrupedModel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="898,5,1193,60"/>
+<area shape="rect" id="Node000002" href="$CowModel_8h.html" title=" " alt="" coords="215,108,465,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="885,55,690,80,478,111,466,113,465,107,477,105,689,75,884,50"/>
+<area shape="rect" id="Node000005" href="$MushroomCowRenderer_8cpp.html" title=" " alt="" coords="1350,108,1703,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1184,60,1402,105,1401,111,1183,65"/>
+<area shape="rect" id="Node000006" href="$PigModel_8h.html" title=" " alt="" coords="489,108,732,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="919,66,725,111,723,105,918,60"/>
+<area shape="rect" id="Node000008" href="$QuadrupedModel_8cpp.html" title=" " alt="" coords="1728,108,2037,163"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1206,47,1447,73,1716,105,1728,107,1728,112,1716,111,1447,78,1206,52"/>
+<area shape="rect" id="Node000009" href="$SheepFurModel_8h.html" title=" " alt="" coords="756,108,1039,163"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="997,70,938,110,935,106,994,65"/>
+<area shape="rect" id="Node000011" href="$SheepModel_8h.html" title=" " alt="" coords="1063,108,1326,163"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1097,65,1157,106,1154,110,1094,70"/>
+<area shape="rect" id="Node000003" href="$CowModel_8cpp.html" title=" " alt="" coords="5,211,272,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,171,192,213,190,208,274,166"/>
+<area shape="rect" id="Node000004" href="$EntityRenderDispatcher_8cpp.html" title=" " alt="" coords="579,211,930,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,163,647,208,646,213,460,168"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="661,168,718,208,715,213,658,173"/>
+<area shape="rect" id="Node000007" href="$PigModel_8cpp.html" title=" " alt="" coords="296,211,555,265"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="552,171,475,213,473,208,549,167"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="851,173,794,213,791,208,847,168"/>
+<area shape="rect" id="Node000010" href="$SheepFurModel_8cpp.html" title=" " alt="" coords="955,211,1253,265"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="964,166,1051,208,1049,213,962,171"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="1068,168,870,213,869,208,1066,163"/>
+<area shape="rect" id="Node000012" href="$SheepModel_8cpp.html" title=" " alt="" coords="1278,211,1557,265"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1266,166,1360,208,1358,213,1264,171"/>
+</map>

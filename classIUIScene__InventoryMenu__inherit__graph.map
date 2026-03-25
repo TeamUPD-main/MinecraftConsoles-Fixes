@@ -1,0 +1,9 @@
+<map id="IUIScene_InventoryMenu" name="IUIScene_InventoryMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,79,269,104"/>
+<area shape="rect" id="Node000003" href="$classCXuiSceneInventory.html" title=" " alt="" coords="5,152,159,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,114,99,154,96,150,149,110"/>
+<area shape="rect" id="Node000004" href="$classUIScene__InventoryMenu.html" title=" " alt="" coords="183,152,363,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,110,259,150,255,154,202,114"/>
+<area shape="rect" id="Node000002" href="$classIUIScene__AbstractContainerMenu.html" title=" " alt="" coords="57,5,296,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,44,179,79,174,79,174,44"/>
+</map>

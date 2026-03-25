@@ -1,0 +1,30 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/GameRules/AddEnchantmentRuleDefinition.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/GameRules/AddEnchantmentRuleDefinition.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,5,555,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,77,93,125,85,128,84,123,91,120,255,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,123,264,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="321,77,236,119,233,114,318,73"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="289,123,487,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="391,75,391,108,385,108,385,75"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="511,123,801,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="479,72,594,115,592,120,477,77"/>
+<area shape="rect" id="Node000006" href="$AddEnchantmentRuleDefinition_8h.html" title=" " alt="" coords="825,130,1063,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="556,69,868,125,867,130,555,74"/>
+<area shape="rect" id="Node000007" href="$GameRuleDefinition_8h.html" title=" " alt="" coords="861,211,1027,236"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="947,156,947,197,941,197,941,156"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1001,445,1125,471"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="862,235,811,252,789,267,772,285,765,304,772,323,792,348,815,370,871,405,931,429,988,443,987,448,930,434,869,410,812,374,788,352,767,325,759,304,767,283,786,262,809,247,860,229"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="781,291,840,317"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="926,238,843,287,841,282,923,234"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="864,284,1024,324"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="947,236,947,270,941,270,941,236"/>
+<area shape="rect" id="Node000011" href="$ConsoleGameRulesConstants_8h.html" title=" " alt="" coords="1048,291,1275,317"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="977,233,1118,284,1116,289,975,239"/>
+<area shape="rect" id="Node000012" href="$GameRulesInstance_8h.html" title=" " alt="" coords="1299,291,1463,317"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="1013,233,1287,281,1312,286,1311,291,1286,287,1012,239"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1243,372,1306,397"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1367,319,1303,366,1300,362,1364,315"/>
+<area shape="rect" id="Node000014" href="$GameRule_8h.html" title=" " alt="" coords="1330,372,1433,397"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1384,317,1384,358,1379,358,1379,317"/>
+<area shape="poly" id="edge14_Node000014_Node000008" title=" " alt="" coords="1331,400,1128,445,1127,440,1330,395"/>
+</map>

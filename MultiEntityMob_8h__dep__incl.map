@@ -1,0 +1,27 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/MultiEntityMob.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/MultiEntityMob.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1317,5,1599,60"/>
+<area shape="rect" id="Node000002" href="$EnderDragon_8h.html" title=" " alt="" coords="1006,108,1273,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1363,67,1223,110,1222,105,1361,62"/>
+<area shape="rect" id="Node000010" href="$MultiEntityMobPart_8cpp.html" title=" " alt="" coords="1297,108,1619,163"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1461,74,1461,108,1455,108,1455,74"/>
+<area shape="rect" id="Node000011" href="$net_8minecraft_8world_8entity_8boss_8h.html" title=" " alt="" coords="1643,108,2025,163"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1569,61,1737,105,1735,111,1568,66"/>
+<area shape="rect" id="Node000003" href="$EnderDragon_8cpp.html" title=" " alt="" coords="1607,313,1888,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1231,164,1670,311,1668,316,1229,169"/>
+<area shape="rect" id="Node000004" href="$net_8minecraft_8world_8entity_8boss_8enderdragon_8h.html" title=" " alt="" coords="833,211,1302,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1115,175,1088,212,1084,209,1110,172"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="1276,265,1594,311,1607,313,1606,318,1594,316,1275,270"/>
+<area shape="rect" id="Node000005" href="$EndPodiumFeature_8cpp.html" title=" " alt="" coords="5,313,324,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="819,264,585,287,337,316,325,318,324,312,336,311,585,282,819,259"/>
+<area shape="rect" id="Node000006" href="$EnderCrystal_8cpp.html" title=" " alt="" coords="349,313,629,368"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="904,270,629,318,629,312,903,265"/>
+<area shape="rect" id="Node000007" href="$EntityIO_8cpp.html" title=" " alt="" coords="653,313,903,368"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="980,272,854,316,853,311,978,267"/>
+<area shape="rect" id="Node000008" href="$SpikeFeature_8cpp.html" title=" " alt="" coords="927,313,1208,368"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="1070,279,1070,313,1065,313,1065,279"/>
+<area shape="rect" id="Node000009" href="$TheEndBiomeDecorator_8cpp.html" title=" " alt="" coords="1232,313,1583,368"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="1170,267,1319,311,1318,316,1168,272"/>
+<area shape="poly" id="edge12_Node000011_Node000003" title=" " alt="" coords="1800,175,1775,212,1758,265,1751,313,1746,313,1753,264,1770,210,1796,172"/>
+<area shape="rect" id="Node000012" href="$Player_8cpp.html" title=" " alt="" coords="1785,211,2027,265"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1863,172,1889,209,1885,212,1859,175"/>
+</map>

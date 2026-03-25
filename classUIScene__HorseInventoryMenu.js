@@ -1,0 +1,25 @@
+var classUIScene__HorseInventoryMenu =
+[
+    [ "UIScene_HorseInventoryMenu", "classUIScene__HorseInventoryMenu.html#ac85fbaea05d091fffa1dfb5c57c14fe5", null ],
+    [ "customDraw", "classUIScene__HorseInventoryMenu.html#a7c511836485d7c18a1d71e15465cbd80", null ],
+    [ "GetItemScreenData", "classUIScene__HorseInventoryMenu.html#a97625bfdbab3f9bb491262b658ceed22", null ],
+    [ "getMoviePath", "classUIScene__HorseInventoryMenu.html#acfbfa0fd0a68b00651279194a31a4f93", null ],
+    [ "GetPositionOfSection", "classUIScene__HorseInventoryMenu.html#a7a8c889c75fb3080370c06e716d1ddca", null ],
+    [ "getSceneType", "classUIScene__HorseInventoryMenu.html#aef08c4a84a811cfb63b51d531be160bc", null ],
+    [ "getSection", "classUIScene__HorseInventoryMenu.html#a90f8e2feb27040394687afa1a9cdd402", null ],
+    [ "getSectionColumns", "classUIScene__HorseInventoryMenu.html#aaddc440715b3c3bcdab759140f4de3d8", null ],
+    [ "getSectionRows", "classUIScene__HorseInventoryMenu.html#a225c172f058d06a760d06ce76bd2742e", null ],
+    [ "handleReload", "classUIScene__HorseInventoryMenu.html#ab41412dc1a98df84fe98ac6e58aa4c9d", null ],
+    [ "handleSectionClick", "classUIScene__HorseInventoryMenu.html#a4abd71575c74c540bf1238cf7158bf45", null ],
+    [ "SetHasInventory", "classUIScene__HorseInventoryMenu.html#a5a023b10c663460b3d82a69c3546f794", null ],
+    [ "SetIsDonkey", "classUIScene__HorseInventoryMenu.html#ae0b3d064eee275e0f533ec41003af2be", null ],
+    [ "setSectionSelectedSlot", "classUIScene__HorseInventoryMenu.html#a65e0f4114c5285bed301a98ed2640d76", null ],
+    [ "UIControl_MinecraftHorse", "classUIScene__HorseInventoryMenu.html#a2ef0ae1167f522fdc80039c2d7134659", null ],
+    [ "m_funcSetHasInventory", "classUIScene__HorseInventoryMenu.html#a5567124f8915cf8b8fe5ef20fe22c850", null ],
+    [ "m_funcSetIsDonkey", "classUIScene__HorseInventoryMenu.html#a43f63984ca176a19ff83fd59efaec4ec", null ],
+    [ "m_horsePreview", "classUIScene__HorseInventoryMenu.html#acfef7667416f8d2df56daa9c6892e8d6", null ],
+    [ "m_labelHorse", "classUIScene__HorseInventoryMenu.html#a02397b62a78a503fb728cfd1bdfb0809", null ],
+    [ "m_slotArmor", "classUIScene__HorseInventoryMenu.html#aa1c54de0f41fbef1eac234450783e08a", null ],
+    [ "m_slotListChest", "classUIScene__HorseInventoryMenu.html#a8a254d482144180745956cb49c87bee8", null ],
+    [ "m_slotSaddle", "classUIScene__HorseInventoryMenu.html#ac18fb38fd70d19df8e3b66dca3182739", null ]
+];

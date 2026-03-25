@@ -1,0 +1,29 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.chunk.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.level.chunk.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1804,5,2192,60"/>
+<area shape="rect" id="Node000002" href="$ChunkTilesUpdatePacket_8cpp.html" title=" " alt="" coords="5,108,295,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1790,41,1009,66,603,86,436,98,308,111,295,112,294,107,307,105,436,93,603,81,1009,61,1790,36"/>
+<area shape="rect" id="Node000003" href="$FishingRodItem_8cpp.html" title=" " alt="" coords="319,115,618,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1790,38,1553,44,1263,56,946,78,630,111,585,118,584,113,630,105,946,72,1262,51,1553,39,1790,33"/>
+<area shape="rect" id="Node000004" href="$Level_8cpp.html" title=" " alt="" coords="642,115,885,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1790,40,1600,46,1376,59,1136,80,897,111,859,118,858,113,896,105,1135,75,1376,54,1600,41,1790,34"/>
+<area shape="rect" id="Node000005" href="$LivingEntity_8cpp.html" title=" " alt="" coords="909,115,1181,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1791,48,1506,72,1349,89,1193,111,1153,118,1152,113,1192,105,1348,84,1506,66,1790,43"/>
+<area shape="rect" id="Node000006" href="$MapItem_8cpp.html" title=" " alt="" coords="1205,115,1460,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1790,61,1634,83,1472,111,1437,118,1436,113,1471,105,1633,78,1789,56"/>
+<area shape="rect" id="Node000007" href="$McRegionLevelStorageSource_8cpp.html" title=" " alt="" coords="1484,108,1803,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1899,67,1754,111,1753,105,1898,62"/>
+<area shape="rect" id="Node000008" href="$MemoryChunkStorage_8cpp.html" title=" " alt="" coords="1827,115,2169,170"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2001,74,2001,115,1995,115,1995,74"/>
+<area shape="rect" id="Node000009" href="$Minecraft_8World_8cpp.html" title=" " alt="" coords="2194,115,2493,170"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2096,62,2260,113,2259,118,2094,67"/>
+<area shape="rect" id="Node000010" href="$OldChunkStorage_8cpp.html" title=" " alt="" coords="2517,115,2828,170"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2206,59,2505,105,2545,113,2544,118,2504,111,2205,65"/>
+<area shape="rect" id="Node000011" href="$Player_8cpp.html" title=" " alt="" coords="2853,115,3095,170"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2206,40,2507,63,2675,81,2841,105,2878,113,2877,118,2840,111,2675,87,2507,68,2206,46"/>
+<area shape="rect" id="Node000012" href="$Region_8cpp.html" title=" " alt="" coords="3119,115,3362,170"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2206,34,2397,41,2624,53,2867,74,3108,105,3146,113,3145,118,3107,111,2866,80,2623,59,2397,46,2205,39"/>
+<area shape="rect" id="Node000013" href="$Slime_8cpp.html" title=" " alt="" coords="3386,115,3629,170"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2206,30,2445,34,2737,45,3056,68,3217,84,3374,105,3413,113,3412,118,3374,111,3217,90,3056,73,2737,50,2445,39,2206,36"/>
+<area shape="rect" id="Node000014" href="$ZonedChunkStorage_8cpp.html" title=" " alt="" coords="3653,115,3983,170"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2206,31,2490,35,2848,47,3244,69,3445,85,3641,105,3692,113,3691,118,3640,111,3444,90,3244,74,2848,52,2490,41,2206,37"/>
+</map>

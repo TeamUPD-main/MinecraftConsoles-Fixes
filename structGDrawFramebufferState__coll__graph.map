@@ -1,0 +1,16 @@
+<map id="GDrawFramebufferState" name="GDrawFramebufferState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,288,385,313"/>
+<area shape="rect" id="Node000002" href="$structGDrawHandle.html" title=" " alt="" coords="175,183,287,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,218,264,233,293,287,288,289,259,236,248,221"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="302,187,313,196,305,204,287,207,286,202,303,199,308,196,299,191"/>
+<area shape="rect" id="Node000005" href="$structGDrawHandleCache.html" title=" " alt="" coords="31,288,183,313"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="165,215,136,225,118,237,111,248,108,262,108,288,102,288,103,261,106,246,114,233,134,220,164,210"/>
+<area shape="rect" id="Node000003" href="$unionGDrawNativeHandle.html" title=" " alt="" coords="153,93,308,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,132,233,183,228,183,228,132"/>
+<area shape="rect" id="Node000004" href="$structGcmTexture.html" title=" " alt="" coords="181,5,281,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="233,45,233,93,228,93,228,45"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="143,279,169,262,198,234,220,207,224,210,202,237,172,266,146,284"/>
+<area shape="rect" id="Node000006" href="$structGDrawFence.html" title=" " alt="" coords="5,93,109,119"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="93,123,209,181,207,186,91,127"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="53,133,48,170,52,210,61,232,73,253,98,286,94,289,69,256,56,235,47,211,43,170,48,132"/>
+</map>

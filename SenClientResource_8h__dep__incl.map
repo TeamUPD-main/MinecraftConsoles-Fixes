@@ -1,0 +1,21 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Xbox/Sentient/Include/SenClientResource.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Xbox/Sentient/Include/SenClientResource.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="754,5,1023,75"/>
+<area shape="rect" id="Node000002" href="$SenClientAvatar_8h.html" title=" " alt="" coords="350,123,601,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="756,81,597,125,595,120,754,76"/>
+<area shape="rect" id="Node000005" href="$SenClientBoxArt_8h.html" title=" " alt="" coords="625,123,878,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="840,86,793,124,790,120,837,81"/>
+<area shape="rect" id="Node000007" href="$SenClientConfig_8h.html" title=" " alt="" coords="902,123,1153,192"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="941,81,988,120,985,124,938,86"/>
+<area shape="rect" id="Node000008" href="$SenClientCore_8h.html" title=" " alt="" coords="1049,247,1291,317"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1038,66,1116,90,1147,105,1167,121,1182,151,1188,185,1187,218,1182,248,1177,247,1181,218,1182,185,1177,153,1163,124,1144,109,1114,95,1036,71"/>
+<area shape="rect" id="Node000003" href="$SenClientCultureBackCompat__SenSuperstars_8h.html" title=" " alt="" coords="5,240,332,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,199,272,242,270,238,378,194"/>
+<area shape="rect" id="Node000004" href="$SenClientSuperstars_8h.html" title=" " alt="" coords="356,247,635,317"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="486,205,492,247,487,247,480,206"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="670,200,567,250,564,245,668,195"/>
+<area shape="rect" id="Node000006" href="$SenClientCultureBackCompat__SenBoxArt_8h.html" title=" " alt="" coords="659,240,985,324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="780,202,801,239,796,241,775,205"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1078,199,1132,245,1129,249,1075,203"/>
+<area shape="rect" id="Node000009" href="$SentientManager_8cpp.html" title=" " alt="" coords="1049,372,1291,441"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1173,330,1173,372,1167,372,1167,330"/>
+</map>

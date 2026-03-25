@@ -1,0 +1,21 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ComparatorTile.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ComparatorTile.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="141,5,423,60"/>
+<area shape="rect" id="Node000002" href="$DiodeTile_8h.html" title=" " alt="" coords="174,108,270,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,62,240,98,236,95,261,59"/>
+<area shape="rect" id="Node000010" href="$EntityTile_8h.html" title=" " alt="" coords="294,108,390,133"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="303,59,328,95,324,98,298,62"/>
+<area shape="rect" id="Node000003" href="$DirectionalTile_8h.html" title=" " alt="" coords="157,181,287,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,134,225,168,219,168,219,134"/>
+<area shape="rect" id="Node000004" href="$Tile_8h.html" title=" " alt="" coords="193,255,251,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,207,225,241,219,241,219,207"/>
+<area shape="rect" id="Node000005" href="$Material_8h.html" title=" " alt="" coords="22,328,110,353"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,282,105,325,103,320,196,278"/>
+<area shape="rect" id="Node000007" href="$Vec3_8h.html" title=" " alt="" coords="135,328,200,353"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="215,282,187,319,182,316,211,279"/>
+<area shape="rect" id="Node000008" href="$Definitions_8h.html" title=" " alt="" coords="225,328,329,353"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="233,279,262,316,257,319,229,282"/>
+<area shape="rect" id="Node000009" href="$SoundTypes_8h.html" title=" " alt="" coords="353,328,464,353"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="253,277,367,321,365,326,251,282"/>
+<area shape="rect" id="Node000006" href="$MaterialColor_8h.html" title=" " alt="" coords="5,401,127,427"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="69,354,69,388,63,388,63,354"/>
+</map>

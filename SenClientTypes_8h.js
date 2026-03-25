@@ -1,0 +1,47 @@
+var SenClientTypes_8h =
+[
+    [ "NOD3D", "SenClientTypes_8h.html#a6964272fe4a2c0ac9c7fc0e30b7beea9", null ],
+    [ "SenContentDeviceID_Any", "SenClientTypes_8h.html#a7eab5c87bb3fee5b80f5dd057068b02f", null ],
+    [ "SENTIENT_E_FIRST_ERROR", "SenClientTypes_8h.html#ada32ba1fb18849c23312e40b4a2658fc", null ],
+    [ "SENTIENT_FACILITY", "SenClientTypes_8h.html#a94cf9b4ac38e70bf2b166fa4607dc8f5", null ],
+    [ "SENTIENT_S_FIRST_STATUS", "SenClientTypes_8h.html#aa3ea9118a72b3e66b562c99ec399fec2", null ],
+    [ "WIN32_LEAN_AND_MEAN", "SenClientTypes_8h.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
+    [ "SenContentDeviceID", "SenClientTypes_8h.html#a9101e175dfaeb7740209f9a8991083f4", null ],
+    [ "SenHandle", "SenClientTypes_8h.html#ac66cb719400b7a7edaa3a258c1ce6a3a", null ],
+    [ "SenSysDateTime", "SenClientTypes_8h.html#aa799566f8aa53f71a11d9de537e9b877", null ],
+    [ "SenSysFileSize", "SenClientTypes_8h.html#a86393a6d9173359826b7cf19254e29c2", null ],
+    [ "SenUGCID", "SenClientTypes_8h.html#a3d742f59f51c88dd3e8a9e93217e7eb8", null ],
+    [ "SenSysOfferID", "SenClientTypes_8h.html#a6de9084c29c90522df53a7d9f07ffa29", [
+      [ "SenSysOfferID_Invalid", "SenClientTypes_8h.html#a6de9084c29c90522df53a7d9f07ffa29a7ba44a0b5f8b0903e3328a5fe40e42a4", null ]
+    ] ],
+    [ "SenSysTitleID", "SenClientTypes_8h.html#ac98e2af67a61c3eb8bd46281e1c9d884", [
+      [ "SenSysTitleID_This", "SenClientTypes_8h.html#ac98e2af67a61c3eb8bd46281e1c9d884a85a1a9e2b3362cb156048e360c030d42", null ],
+      [ "SenSysTitleID_Shared", "SenClientTypes_8h.html#ac98e2af67a61c3eb8bd46281e1c9d884a3cbe3849d3ee9aa10d1fa4f3c4d31a66", null ]
+    ] ],
+    [ "SENTIENT_E_ALREADY_INITIALIZED", "SenClientTypes_8h.html#a0f6d7ac967f76296b99841fd0c399607", null ],
+    [ "SENTIENT_E_BUFFER_EXHAUSTED", "SenClientTypes_8h.html#a97ea00e0dd07cd3f0a4f5e9b776f08d6", null ],
+    [ "SENTIENT_E_CANCELED", "SenClientTypes_8h.html#ac0b576172dd795dab36fca91f967b511", null ],
+    [ "SENTIENT_E_FORBIDDEN", "SenClientTypes_8h.html#a8d336a0fce502666e1400ec7d18676fd", null ],
+    [ "SENTIENT_E_GUEST_ACCESS_VIOLATION", "SenClientTypes_8h.html#ac13ed0cb9d4d39a150a3265a663de101", null ],
+    [ "SENTIENT_E_INVALID_UGC_PUBLISH_STATE", "SenClientTypes_8h.html#a1282c17da1e290a57a56580fe7d00647", null ],
+    [ "SENTIENT_E_NO_UGC_DOWNLOAD_PRIVILEGE", "SenClientTypes_8h.html#aafe100de41f905e7eac9776849d3514a", null ],
+    [ "SENTIENT_E_NO_UGC_PUBLISH_PRIVILEGE", "SenClientTypes_8h.html#aa79ea55e8923606967e9f88474544ff3", null ],
+    [ "SENTIENT_E_NO_UGC_USE_PRIVILEGE", "SenClientTypes_8h.html#ac3fc7a44ea8bdd9870113384ed28f349", null ],
+    [ "SENTIENT_E_NOT_INITIALIZED", "SenClientTypes_8h.html#ada1c851211553b4ae04d13519b6ceb9f", null ],
+    [ "SENTIENT_E_RETRY_INVALID_DATA", "SenClientTypes_8h.html#a2fdafa68620ede8b9328cfb64ba54598", null ],
+    [ "SENTIENT_E_RETRY_OVERLOADED", "SenClientTypes_8h.html#a644af0923cd8c2df0f3bfdc667ad41f2", null ],
+    [ "SENTIENT_E_SERVER_ERROR", "SenClientTypes_8h.html#a586aeb392140c2384f6502307608ca32", null ],
+    [ "SENTIENT_E_TIME_OUT", "SenClientTypes_8h.html#a4ea1e30b6adac4d54d28f0c90da578b9", null ],
+    [ "SENTIENT_E_TOO_MANY_CALLS", "SenClientTypes_8h.html#afe67a333ec6dc12ffd0e7ab296eec3eb", null ],
+    [ "SENTIENT_E_UGC_DOESNT_EXIST", "SenClientTypes_8h.html#a5f38cd6e4c14bd8f93c1c91ef403b2c9", null ],
+    [ "SENTIENT_E_UNREACHABLE", "SenClientTypes_8h.html#a6181d14479d284f407cbfab0a741491e", null ],
+    [ "SENTIENT_E_USERINDEX_IS_ANY", "SenClientTypes_8h.html#af899c74b336b405554fb2380335695d4", null ],
+    [ "SENTIENT_E_USERINDEX_IS_FOCUS", "SenClientTypes_8h.html#ab7fb63051b0fe27486192b481b872794", null ],
+    [ "SENTIENT_E_USERINDEX_IS_INVALID", "SenClientTypes_8h.html#a8079bc41edb698cd1460d496082f6be0", null ],
+    [ "SENTIENT_E_USERINDEX_IS_NONE", "SenClientTypes_8h.html#aba7ed19b34475b9e9143e3319f4910c2", null ],
+    [ "SENTIENT_S_INITIALIZING_CONNECTION", "SenClientTypes_8h.html#a53e5189f26f321645c0bd7106ce59b6f", null ],
+    [ "SENTIENT_S_NEWER_BLOB_EXISTS", "SenClientTypes_8h.html#aac4838c98fe4c25f86af777b60730419", null ],
+    [ "SENTIENT_S_NOT_SIGNED_IN_TO_LIVE", "SenClientTypes_8h.html#a1242769cfedaa8003a4004c98db3e787", null ],
+    [ "SENTIENT_S_OPERATION_IN_PROGRESS", "SenClientTypes_8h.html#a24a11cf2123aaa0823d55cbc95cf420d", null ],
+    [ "SENTIENT_S_SERVER_CONNECTION_FAILED", "SenClientTypes_8h.html#a98ea22a9f6f519dee20819517d8cfda3", null ]
+];

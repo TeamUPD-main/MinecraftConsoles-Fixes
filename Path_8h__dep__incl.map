@@ -1,0 +1,33 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/Path.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/Path.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1355,5,1597,60"/>
+<area shape="rect" id="Node000002" href="$MoveThroughVillageGoal_8cpp.html" title=" " alt="" coords="1016,108,1320,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1389,67,1265,110,1263,105,1387,62"/>
+<area shape="rect" id="Node000003" href="$PathFinder_8cpp.html" title=" " alt="" coords="1344,115,1608,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1479,74,1479,115,1473,115,1473,74"/>
+<area shape="rect" id="Node000004" href="$net_8minecraft_8world_8level_8pathfinder_8h.html" title=" " alt="" coords="1633,115,2047,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1578,61,1752,113,1751,118,1577,66"/>
+<area shape="rect" id="Node000005" href="$AvoidPlayerGoal_8cpp.html" title=" " alt="" coords="5,233,309,287"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1670,174,1620,180,1423,195,1255,201,970,199,833,197,685,199,518,209,322,228,274,235,273,230,321,223,518,203,685,194,833,192,970,193,1255,195,1422,189,1620,175,1669,169"/>
+<area shape="rect" id="Node000006" href="$ControlledByPlayerGoal_8cpp.html" title=" " alt="" coords="334,225,629,295"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1668,174,1620,180,1471,192,1345,198,1130,199,915,203,789,212,640,228,629,229,629,224,640,223,788,206,914,198,1129,194,1345,193,1471,187,1620,175,1667,169"/>
+<area shape="rect" id="Node000007" href="$DoorInteractGoal_8cpp.html" title=" " alt="" coords="653,233,961,287"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1664,175,1620,180,1438,196,1296,201,1154,208,972,228,927,235,926,230,972,223,1153,203,1296,196,1438,190,1620,175,1663,169"/>
+<area shape="rect" id="Node000008" href="$EnderDragon_8cpp.html" title=" " alt="" coords="985,233,1266,287"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="1657,175,1620,180,1449,202,1279,228,1241,235,1240,230,1278,223,1449,197,1620,175,1656,169"/>
+<area shape="rect" id="Node000009" href="$Level_8cpp.html" title=" " alt="" coords="1291,233,1533,287"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1731,176,1510,235,1508,230,1729,171"/>
+<area shape="rect" id="Node000010" href="$MobSpawner_8cpp.html" title=" " alt="" coords="1557,233,1837,287"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="1799,181,1732,234,1728,230,1795,177"/>
+<area shape="rect" id="Node000011" href="$Node_8cpp.html" title=" " alt="" coords="1861,233,2104,287"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="1885,177,1952,230,1948,234,1881,181"/>
+<area shape="rect" id="Node000012" href="$Path_8cpp.html" title=" " alt="" coords="2128,233,2371,287"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="1947,171,2157,230,2156,235,1945,176"/>
+<area shape="rect" id="Node000013" href="$PathNavigation_8cpp.html" title=" " alt="" coords="2395,233,2691,287"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="2046,169,2383,223,2422,230,2421,235,2382,228,2045,175"/>
+<area shape="rect" id="Node000014" href="$PathfinderMob_8cpp.html" title=" " alt="" coords="2715,233,3005,287"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="2061,155,2366,181,2536,200,2703,223,2745,230,2744,235,2702,228,2535,205,2366,187,2061,160"/>
+<area shape="rect" id="Node000015" href="$TargetGoal_8cpp.html" title=" " alt="" coords="3029,233,3296,287"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="2061,146,2264,155,2504,169,2762,191,3018,223,3059,230,3058,235,3017,228,2761,196,2504,174,2264,160,2061,152"/>
+<area shape="rect" id="Node000016" href="$Wolf_8cpp.html" title=" " alt="" coords="3320,233,3563,287"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="2062,141,2316,145,2629,157,2969,182,3141,200,3308,223,3347,230,3346,235,3308,228,3140,205,2969,187,2628,163,2316,150,2061,146"/>
+</map>

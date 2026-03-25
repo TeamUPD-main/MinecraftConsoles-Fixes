@@ -1,0 +1,20 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/McRegionLevelStorage.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/McRegionLevelStorage.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,5,456,60"/>
+<area shape="rect" id="Node000002" href="$DirectoryLevelStorage_8h.html" title=" " alt="" coords="201,108,380,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,60,293,94,288,94,288,60"/>
+<area shape="rect" id="Node000003" href="$File_8h.html" title=" " alt="" coords="101,181,158,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,136,169,178,167,173,264,131"/>
+<area shape="rect" id="Node000007" href="$LevelStorage_8h.html" title=" " alt="" coords="183,181,302,207"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="285,135,260,172,256,169,281,132"/>
+<area shape="rect" id="Node000008" href="$ConsoleSavePath_8h.html" title=" " alt="" coords="267,255,413,280"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="298,133,316,180,335,240,330,242,311,182,293,135"/>
+<area shape="rect" id="Node000009" href="$PlayerIO_8h.html" title=" " alt="" coords="378,181,467,207"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="313,131,390,172,388,177,311,136"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,255,72,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,209,66,248,63,244,113,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="97,255,159,280"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="132,207,131,241,126,241,126,207"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="184,255,243,280"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="145,205,191,243,187,248,141,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="260,205,314,244,311,248,257,209"/>
+</map>

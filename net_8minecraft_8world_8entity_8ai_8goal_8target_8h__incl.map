@@ -1,0 +1,27 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.entity.ai.goal.target.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.entity.ai.goal.target.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="265,5,705,60"/>
+<area shape="rect" id="Node000002" href="$TargetGoal_8h.html" title=" " alt="" coords="386,255,490,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,62,401,83,380,109,378,119,379,133,391,169,427,241,422,244,386,171,374,134,373,119,376,107,397,79,425,58"/>
+<area shape="rect" id="Node000004" href="$DefendVillageTargetGoal_8h.html" title=" " alt="" coords="5,181,201,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="423,62,144,179,142,174,421,58"/>
+<area shape="rect" id="Node000005" href="$HurtByTargetGoal_8h.html" title=" " alt="" coords="226,181,375,207"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="405,62,367,83,335,110,317,138,308,168,302,167,312,136,331,106,364,78,402,58"/>
+<area shape="rect" id="Node000006" href="$NearestAttackableTargetGoal_8h.html" title=" " alt="" coords="801,181,1025,207"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="705,47,915,72,994,87,1020,96,1036,106,1043,118,1043,130,1029,150,1002,166,969,179,967,175,999,162,1025,146,1038,128,1038,120,1032,110,1018,101,993,93,914,77,705,53"/>
+<area shape="rect" id="Node000008" href="$NonTameRandomTargetGoal_8h.html" title=" " alt="" coords="803,108,1022,133"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="616,57,843,103,842,108,615,63"/>
+<area shape="rect" id="Node000009" href="$OwnerHurtByTargetGoal_8h.html" title=" " alt="" coords="389,108,580,133"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="487,60,487,94,482,94,482,60"/>
+<area shape="rect" id="Node000010" href="$OwnerHurtTargetGoal_8h.html" title=" " alt="" coords="604,108,779,133"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="549,58,652,100,650,105,547,63"/>
+<area shape="rect" id="Node000003" href="$Goal_8h.html" title=" " alt="" coords="406,328,470,353"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,280,441,314,435,314,435,280"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="158,204,373,249,372,255,157,209"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="324,204,405,246,402,251,322,209"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="837,209,504,259,503,254,836,204"/>
+<area shape="rect" id="Node000007" href="$EntitySelector_8h.html" title=" " alt="" coords="851,255,975,280"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="915,207,915,241,910,241,910,207"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="915,134,915,168,910,168,910,134"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="483,135,449,242,443,241,478,133"/>
+<area shape="poly" id="edge15_Node000010_Node000002" title=" " alt="" coords="672,136,471,250,468,246,670,131"/>
+</map>

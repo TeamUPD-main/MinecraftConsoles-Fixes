@@ -1,0 +1,17 @@
+<map id="ma_splitter_node" name="ma_splitter_node">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,303,443,328"/>
+<area shape="rect" id="Node000002" href="$structma__node__base.html" title=" " alt="" coords="200,200,320,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,229,340,247,362,275,374,301,370,304,357,278,337,251,309,233"/>
+<area shape="rect" id="Node000003" href="$structma__node__graph.html" title=" " alt="" coords="109,303,235,328"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="190,233,170,251,165,263,164,276,170,302,165,303,159,277,160,262,166,248,186,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,294,229,277,245,250,255,225,260,227,250,253,233,280,212,298"/>
+<area shape="rect" id="Node000004" href="$structma__stack.html" title=" " alt="" coords="5,200,91,225"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="51,239,56,259,66,277,86,292,109,302,107,307,83,297,62,280,51,261,46,240"/>
+<area shape="rect" id="Node000005" href="$structma__node__vtable.html" title=" " alt="" coords="81,95,212,121"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="162,131,178,153,198,174,235,198,232,202,194,178,174,156,158,134"/>
+<area shape="rect" id="Node000006" href="$structma__node__input__bus.html" title=" " alt="" coords="377,95,529,121"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="421,129,283,202,281,197,418,125"/>
+<area shape="rect" id="Node000007" href="$structma__node__output__bus.html" title=" " alt="" coords="201,5,362,31"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="281,44,275,94,264,200,258,200,269,93,275,44"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="317,35,432,93,430,98,315,39"/>
+</map>

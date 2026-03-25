@@ -1,0 +1,13 @@
+<map id="ContainerClickPacket" name="ContainerClickPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="663,114,821,139"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="445,50,509,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="523,70,581,84,691,111,690,117,579,89,521,75"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="7,5,167,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,32,445,57,444,62,180,37"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,87,168,113"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="182,109,264,109,307,106,348,97,360,92,372,84,444,65,445,70,374,89,363,96,350,103,308,111,264,115,182,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="376,99,577,154"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="591,124,662,124,662,129,591,129"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="373,178,580,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="545,172,579,164,690,137,691,142,581,169,546,177"/>
+</map>

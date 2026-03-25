@@ -1,0 +1,15 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIControl_EnchantmentButton.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIControl_EnchantmentButton.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,259,75"/>
+<area shape="rect" id="Node000002" href="$UIControl__Button_8h.html" title=" " alt="" coords="59,123,205,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,75,135,109,129,109,129,75"/>
+<area shape="rect" id="Node000003" href="$UIControl__Base_8h.html" title=" " alt="" coords="65,196,199,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,148,135,182,129,182,129,148"/>
+<area shape="rect" id="Node000004" href="$UIControl_8h.html" title=" " alt="" coords="27,269,122,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,223,95,260,91,257,120,220"/>
+<area shape="rect" id="Node000005" href="$UIString_8h.html" title=" " alt="" coords="146,269,233,295"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="144,220,173,257,169,260,139,223"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="123,343,165,368"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="184,296,161,333,156,330,180,294"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="190,343,277,368"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="199,294,221,330,217,332,194,296"/>
+</map>

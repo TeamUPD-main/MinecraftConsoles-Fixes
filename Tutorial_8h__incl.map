@@ -1,0 +1,15 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/Tutorial.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/Tutorial/Tutorial.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,5,387,75"/>
+<area shape="rect" id="Node000002" href="$TutorialTask_8h.html" title=" " alt="" coords="5,123,116,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,77,100,119,97,114,191,72"/>
+<area shape="rect" id="Node000003" href="$TutorialEnum_8h.html" title=" " alt="" coords="95,196,213,221"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="224,77,201,99,182,124,168,154,160,183,155,182,163,152,177,121,197,95,220,73"/>
+<area shape="rect" id="Node000004" href="$TutorialConstraint_8h.html" title=" " alt="" coords="191,123,341,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,75,269,109,263,109,263,75"/>
+<area shape="rect" id="Node000005" href="$TutorialHint_8h.html" title=" " alt="" coords="365,123,474,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="323,73,390,113,387,118,320,77"/>
+<area shape="rect" id="Node000006" href="$TutorialMessage_8h.html" title=" " alt="" coords="499,123,639,148"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="376,72,519,116,518,121,374,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,146,130,185,126,190,74,150"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="377,151,211,195,210,190,376,145"/>
+</map>

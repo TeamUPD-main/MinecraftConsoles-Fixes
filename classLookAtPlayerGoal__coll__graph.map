@@ -1,0 +1,7 @@
+<map id="LookAtPlayerGoal" name="LookAtPlayerGoal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,93,163,119"/>
+<area shape="rect" id="Node000002" href="$classGoal.html" title=" " alt="" coords="5,5,57,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,40,87,91,83,94,46,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="81,5,232,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,43,105,94,101,91,138,40"/>
+</map>

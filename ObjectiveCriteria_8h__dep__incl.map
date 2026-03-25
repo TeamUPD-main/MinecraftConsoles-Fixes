@@ -1,0 +1,22 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ObjectiveCriteria.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/ObjectiveCriteria.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="543,5,835,60"/>
+<area shape="rect" id="Node000002" href="$DummyCriteria_8h.html" title=" " alt="" coords="346,108,629,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="625,68,541,110,539,106,623,64"/>
+<area shape="rect" id="Node000006" href="$net_8minecraft_8world_8scores_8criteria_8h.html" title=" " alt="" coords="435,313,841,368"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="685,74,645,313,640,312,680,73"/>
+<area shape="rect" id="Node000007" href="$ObjectiveCriteria_8cpp.html" title=" " alt="" coords="769,416,1075,471"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="714,70,855,312,911,414,906,417,850,315,709,73"/>
+<area shape="rect" id="Node000003" href="$DummyCriteria_8cpp.html" title=" " alt="" coords="5,211,303,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,169,242,213,240,208,387,164"/>
+<area shape="rect" id="Node000004" href="$HealthCriteria_8h.html" title=" " alt="" coords="327,211,600,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="480,177,472,211,467,210,475,175"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="568,167,593,186,615,209,628,235,636,262,642,313,636,314,631,263,623,237,610,212,590,190,565,172"/>
+<area shape="rect" id="Node000005" href="$HealthCriteria_8cpp.html" title=" " alt="" coords="123,313,411,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,274,320,316,317,311,399,269"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="522,270,594,311,591,315,519,274"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="726,370,849,413,847,418,724,375"/>
+<area shape="rect" id="Node000008" href="$Player_8cpp.html" title=" " alt="" coords="235,416,478,471"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="553,375,431,418,429,413,551,370"/>
+<area shape="rect" id="Node000009" href="$Score_8cpp.html" title=" " alt="" coords="502,416,745,471"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="635,382,630,416,625,416,630,381"/>
+</map>

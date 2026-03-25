@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classSynth.html" title=" " alt="" coords="5,153,64,179"/>
+<area shape="rect" id="Node000001" href="$classDistort.html" title=" " alt="" coords="153,5,220,31"/>
+<area shape="poly" id="edge1460_Node000000_Node000001" title=" " alt="" coords="43,139,68,89,87,63,110,40,131,28,152,21,154,26,133,33,114,44,91,66,73,92,48,142"/>
+<area shape="rect" id="Node000002" href="$classEmboss.html" title=" " alt="" coords="150,55,223,80"/>
+<area shape="poly" id="edge1461_Node000000_Node000002" title=" " alt="" coords="53,141,78,114,111,89,149,73,151,78,113,94,82,118,57,145"/>
+<area shape="rect" id="Node000003" href="$classImprovedNoise.html" title=" " alt="" coords="126,104,247,129"/>
+<area shape="poly" id="edge1462_Node000000_Node000003" title=" " alt="" coords="76,150,111,138,145,127,147,132,113,143,78,155"/>
+<area shape="rect" id="Node000004" href="$classPerlinNoise.html" title=" " alt="" coords="139,153,235,179"/>
+<area shape="poly" id="edge1463_Node000000_Node000004" title=" " alt="" coords="78,163,139,163,139,169,78,169"/>
+<area shape="rect" id="Node000005" href="$classPerlinSimplexNoise.html" title=" " alt="" coords="112,203,261,228"/>
+<area shape="poly" id="edge1464_Node000000_Node000005" title=" " alt="" coords="78,177,148,200,146,205,76,182"/>
+<area shape="rect" id="Node000006" href="$classRotate.html" title=" " alt="" coords="154,252,219,277"/>
+<area shape="poly" id="edge1465_Node000000_Node000006" title=" " alt="" coords="57,187,83,213,113,237,155,255,153,259,111,242,79,217,53,191"/>
+<area shape="rect" id="Node000007" href="$classScale.html" title=" " alt="" coords="158,301,215,327"/>
+<area shape="poly" id="edge1466_Node000000_Node000007" title=" " alt="" coords="48,190,73,239,92,265,114,287,135,299,159,307,157,312,133,304,110,291,88,268,69,242,43,192"/>
+</map>

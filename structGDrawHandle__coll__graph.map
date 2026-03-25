@@ -1,0 +1,14 @@
+<map id="GDrawHandle" name="GDrawHandle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,183,287,209"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="302,187,313,196,305,204,287,207,286,202,303,199,308,196,299,191"/>
+<area shape="rect" id="Node000004" href="$structGDrawHandleCache.html" title=" " alt="" coords="81,288,233,313"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="225,223,216,245,203,266,177,290,174,286,199,262,212,242,221,221"/>
+<area shape="rect" id="Node000002" href="$unionGDrawNativeHandle.html" title=" " alt="" coords="153,93,308,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,132,233,183,228,183,228,132"/>
+<area shape="rect" id="Node000003" href="$structGcmTexture.html" title=" " alt="" coords="181,5,281,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,45,233,93,228,93,228,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,274,150,254,156,233,171,217,190,206,193,211,175,221,161,236,155,255,155,274"/>
+<area shape="rect" id="Node000005" href="$structGDrawFence.html" title=" " alt="" coords="5,93,109,119"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="93,123,209,181,207,186,91,127"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="51,133,45,170,46,191,52,210,68,235,90,256,135,286,132,290,86,260,64,238,47,212,41,191,40,170,46,132"/>
+</map>

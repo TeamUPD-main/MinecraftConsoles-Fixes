@@ -1,0 +1,37 @@
+<map id="UIScene_TradingMenu" name="UIScene_TradingMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="324,607,489,632"/>
+<area shape="rect" id="Node000002" href="$classUIScene.html" title=" " alt="" coords="185,189,260,214"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,206,119,211,65,226,43,238,24,253,12,272,8,296,8,474,10,486,17,497,41,519,79,538,125,556,231,585,331,604,330,609,230,590,124,561,77,543,38,523,12,500,5,487,3,474,3,295,7,270,20,249,40,233,64,221,118,206,172,200"/>
+<area shape="rect" id="Node000010" href="$classUIControl.html" title=" " alt="" coords="360,284,443,309"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="241,223,258,242,279,258,319,276,360,287,359,292,317,281,276,262,254,245,237,227"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="295,93,409,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,129,240,191,237,186,324,124"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="424,97,436,106,428,114,410,116,409,111,425,109,431,106,422,102"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="377,128,385,142,398,181,404,221,405,284,399,284,398,222,392,182,380,144,372,131"/>
+<area shape="rect" id="Node000004" href="$classUILayer.html" title=" " alt="" coords="133,93,205,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="169,132,173,156,186,173,203,186,199,190,182,177,168,158,163,133"/>
+<area shape="rect" id="Node000005" href="$classUIGroup.html" title=" " alt="" coords="132,5,207,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="172,45,172,93,167,93,167,45"/>
+<area shape="rect" id="Node000006" href="$classIUIScene__TradingMenu.html" title=" " alt="" coords="193,460,362,485"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="299,494,398,605,394,608,295,498"/>
+<area shape="rect" id="Node000007" href="$classMerchantMenu.html" title=" " alt="" coords="43,372,162,397"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="140,401,255,457,252,462,137,406"/>
+<area shape="rect" id="Node000008" href="$classAbstractContainerMenu.html" title=" " alt="" coords="43,284,218,309"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="125,323,109,372,104,371,120,321"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="186,372,369,397"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="280,411,280,459,275,459,275,411"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="404,323,409,606,404,606,399,323"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="457,287,465,290,469,297,461,305,443,307,442,302,459,300,464,296,462,295,455,292"/>
+<area shape="rect" id="Node000012" href="$classUIControl__Base.html" title=" " alt="" coords="532,372,655,397"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="441,313,568,369,566,374,439,318"/>
+<area shape="rect" id="Node000011" href="$classUIControl__SlotList.html" title=" " alt="" coords="593,460,732,485"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="658,500,639,544,624,566,604,585,585,594,557,602,490,613,489,608,556,597,583,589,601,580,620,563,635,541,654,497"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="614,407,655,458,651,461,609,410"/>
+<area shape="rect" id="Node000015" href="$classUIControl__Label.html" title=" " alt="" coords="444,460,569,485"/>
+<area shape="poly" id="edge20_Node000015_Node000012" title=" " alt="" coords="577,410,551,438,524,462,520,458,547,434,573,406"/>
+<area shape="rect" id="Node000013" href="$classUIString.html" title=" " alt="" coords="600,284,675,309"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="627,323,602,373,597,370,623,321"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="558,181,717,221"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="640,235,640,284,635,284,635,235"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="493,498,417,608,412,605,489,495"/>
+</map>

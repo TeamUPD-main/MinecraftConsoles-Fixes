@@ -1,0 +1,35 @@
+<map id="ma_decoder" name="ma_decoder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1935,89,2037,114"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="1958,74,1966,66,1986,62,2002,64,2012,71,2015,80,2010,90,2005,87,2010,80,2008,74,2001,69,1986,67,1969,70,1962,78"/>
+<area shape="rect" id="Node000002" href="$structma__data__source__base.html" title=" " alt="" coords="1580,7,1747,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1761,30,1835,44,1912,64,1962,86,1960,91,1910,69,1834,49,1760,35"/>
+<area shape="rect" id="Node000003" href="$structma__data__source__vtable.html" title=" " alt="" coords="1227,7,1404,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1418,17,1580,17,1580,23,1418,23"/>
+<area shape="rect" id="Node000004" href="$structma__decoding__backend__vtable.html" title=" " alt="" coords="1578,57,1749,97"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1762,82,1935,95,1934,100,1762,87"/>
+<area shape="rect" id="Node000005" href="$structma__data__converter.html" title=" " alt="" coords="1589,122,1737,147"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1751,128,1910,113,1934,109,1935,115,1911,119,1751,133"/>
+<area shape="rect" id="Node000006" href="$structma__channel__converter.html" title=" " alt="" coords="1230,99,1401,125"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1414,116,1589,127,1589,133,1414,121"/>
+<area shape="rect" id="Node000007" href="$structma__resampler.html" title=" " alt="" coords="1257,149,1373,174"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="1387,156,1548,145,1589,141,1589,146,1548,151,1388,161"/>
+<area shape="rect" id="Node000008" href="$structma__resampling__backend__vtable.html" title=" " alt="" coords="884,113,1068,153"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1082,139,1257,154,1257,159,1082,145"/>
+<area shape="rect" id="Node000009" href="$structma__linear__resampler.html" title=" " alt="" coords="896,178,1056,203"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1069,181,1202,169,1257,164,1257,170,1203,175,1070,186"/>
+<area shape="rect" id="Node000010" href="$structma__linear__resampler__config.html" title=" " alt="" coords="632,143,792,183"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="806,170,896,180,895,185,805,175"/>
+<area shape="rect" id="Node000011" href="$structma__lpf.html" title=" " alt="" coords="679,207,745,233"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="759,212,895,197,896,202,759,218"/>
+<area shape="rect" id="Node000012" href="$structma__lpf1.html" title=" " alt="" coords="367,179,441,205"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="455,194,679,214,678,220,455,199"/>
+<area shape="rect" id="Node000013" href="$unionma__biquad__coefficient.html" title=" " alt="" coords="5,237,175,262"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="134,229,198,209,289,196,366,190,367,196,289,201,199,215,135,234"/>
+<area shape="rect" id="Node000015" href="$structma__biquad.html" title=" " alt="" coords="248,301,343,326"/>
+<area shape="poly" id="edge16_Node000015_Node000013" title=" " alt="" coords="119,269,156,293,199,312,223,316,248,317,248,322,223,321,198,317,153,298,116,273"/>
+<area shape="rect" id="Node000014" href="$structma__lpf2.html" title=" " alt="" coords="465,247,540,273"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="554,248,678,224,679,229,555,253"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="356,295,465,267,466,272,357,300"/>
+<area shape="rect" id="Node000016" href="$structma__allocation__callbacks.html" title=" " alt="" coords="1572,171,1755,197"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="1768,177,1839,166,1910,147,1942,131,1968,112,1971,116,1944,135,1912,152,1840,172,1769,182"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="EnchantmentInstance" name="EnchantmentInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,424,189,449"/>
+<area shape="rect" id="Node000002" href="$classWeighedRandomItem.html" title=" " alt="" coords="5,268,168,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,307,109,423,104,424,88,307"/>
+<area shape="rect" id="Node000003" href="$classEnchantment.html" title=" " alt="" coords="193,268,301,293"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,306,182,363,122,425,118,422,178,360,227,302"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="276,260,294,257,310,259,323,267,327,281,321,296,305,304,284,303,263,296,264,291,285,298,304,298,317,292,322,281,318,270,309,264,294,262,277,265"/>
+<area shape="rect" id="Node000004" href="$classarrayWithLength.html" title=" " alt="" coords="83,59,251,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,96,202,175,243,266,238,269,198,177,171,98"/>
+<area shape="rect" id="Node000005" href="$classEnchantmentCategory.html" title=" " alt="" coords="275,59,442,84"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="348,98,255,269,251,266,343,95"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="401,53,425,51,446,53,462,59,469,71,460,85,441,91,415,92,387,87,388,81,415,86,440,86,457,80,463,71,459,63,445,58,425,56,401,58"/>
+</map>

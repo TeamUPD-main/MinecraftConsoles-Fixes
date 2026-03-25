@@ -1,0 +1,15 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/MapItemSavedData.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/MapItemSavedData.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,5,562,60"/>
+<area shape="rect" id="Node000002" href="$MapItemSavedData_8cpp.html" title=" " alt="" coords="46,108,373,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,68,262,110,260,106,342,64"/>
+<area shape="rect" id="Node000003" href="$net_8minecraft_8world_8level_8saveddata_8h.html" title=" " alt="" coords="397,108,814,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,64,555,106,552,110,469,68"/>
+<area shape="rect" id="Node000004" href="$FishingRodItem_8cpp.html" title=" " alt="" coords="5,211,304,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,168,273,213,272,208,474,163"/>
+<area shape="rect" id="Node000005" href="$ItemFrame_8cpp.html" title=" " alt="" coords="329,211,597,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="559,173,502,213,499,208,555,168"/>
+<area shape="rect" id="Node000006" href="$MapItem_8cpp.html" title=" " alt="" coords="621,211,875,265"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="655,168,712,208,709,213,652,173"/>
+<area shape="rect" id="Node000007" href="$SavedDataStorage_8cpp.html" title=" " alt="" coords="899,211,1218,265"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="737,163,941,208,940,213,736,168"/>
+</map>

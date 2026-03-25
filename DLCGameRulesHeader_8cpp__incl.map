@@ -1,0 +1,27 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/DLC/DLCGameRulesHeader.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/DLC/DLCGameRulesHeader.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,5,572,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,67,214,93,93,125,84,128,82,123,91,120,213,88,329,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,130,163,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,76,176,125,171,127,169,122,174,120,328,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="187,123,347,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="390,77,315,118,312,114,388,73"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="371,123,531,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="453,75,453,108,448,108,448,75"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="555,123,717,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="514,73,590,114,588,118,512,77"/>
+<area shape="rect" id="Node000007" href="$DLCManager_8h.html" title=" " alt="" coords="735,372,851,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="573,47,615,57,657,71,697,92,732,121,757,217,790,358,785,359,752,219,727,124,694,97,655,76,613,62,572,52"/>
+<area shape="rect" id="Node000009" href="$DLCGameRulesHeader_8h.html" title=" " alt="" coords="797,130,979,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="573,67,826,124,825,130,572,72"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="762,445,825,471"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="796,398,796,432,791,432,791,398"/>
+<area shape="rect" id="Node000010" href="$DLCGameRules_8h.html" title=" " alt="" coords="821,211,955,236"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="891,156,891,197,885,197,885,156"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="899,284,1119,324"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="908,153,939,177,970,209,989,239,1002,270,997,272,984,242,966,212,935,181,904,158"/>
+<area shape="rect" id="Node000011" href="$DLCFile_8h.html" title=" " alt="" coords="792,291,875,317"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="882,238,851,282,847,279,878,235"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="907,234,970,274,967,279,904,238"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="830,318,808,361,803,359,825,316"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="EVENT_STEP_INFO" name="EVENT_STEP_INFO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,240,148,265"/>
+<area shape="rect" id="Node000002" href="$struct__MSSSTRINGC.html" title="Represents an immutable string that is not null terminated, and shouldn&#39;t be deleted." alt="" coords="19,5,134,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,45,79,240,74,240,74,45"/>
+</map>

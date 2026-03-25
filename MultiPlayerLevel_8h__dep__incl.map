@@ -1,0 +1,31 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/MultiPlayerLevel.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/MultiPlayerLevel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1994,5,2286,60"/>
+<area shape="rect" id="Node000002" href="$ClientConnection_8cpp.html" title=" " alt="" coords="5,115,315,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1980,40,1129,64,665,85,473,97,327,111,279,118,278,113,326,105,473,92,665,79,1129,59,1980,35"/>
+<area shape="rect" id="Node000003" href="$UIComponent__Panorama_8cpp.html" title=" " alt="" coords="339,108,581,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1980,40,1657,49,1258,64,874,84,715,97,594,111,582,113,581,107,593,105,714,92,873,79,1258,59,1657,44,1980,35"/>
+<area shape="rect" id="Node000004" href="$GameRenderer_8cpp.html" title=" " alt="" coords="606,115,901,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1981,39,1768,45,1502,58,1208,79,914,111,869,118,868,113,913,105,1207,73,1502,52,1768,40,1980,34"/>
+<area shape="rect" id="Node000005" href="$Gui_8cpp.html" title=" " alt="" coords="925,115,1168,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1981,41,1814,48,1613,61,1396,82,1180,111,1143,118,1142,113,1180,105,1396,76,1613,56,1814,43,1980,35"/>
+<area shape="rect" id="Node000006" href="$ItemInHandRenderer_8cpp.html" title=" " alt="" coords="1193,115,1525,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1980,54,1770,78,1538,111,1494,118,1493,113,1537,105,1769,73,1980,48"/>
+<area shape="rect" id="Node000007" href="$LevelRenderer_8cpp.html" title=" " alt="" coords="1549,115,1840,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2019,66,1803,118,1802,113,2018,61"/>
+<area shape="rect" id="Node000008" href="$Minecraft_8cpp.html" title=" " alt="" coords="1864,115,2123,170"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2095,71,2031,117,2028,113,2091,66"/>
+<area shape="rect" id="Node000009" href="$MultiPlayerGameMode_8cpp.html" title=" " alt="" coords="2146,108,2430,177"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2189,66,2243,105,2240,110,2186,70"/>
+<area shape="rect" id="Node000010" href="$MultiPlayerLevel_8cpp.html" title=" " alt="" coords="2453,115,2760,170"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2267,61,2494,113,2493,118,2266,66"/>
+<area shape="rect" id="Node000011" href="$PauseScreen_8cpp.html" title=" " alt="" coords="2784,115,3064,170"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2300,46,2524,70,2772,105,2812,113,2811,118,2772,111,2524,75,2299,51"/>
+<area shape="rect" id="Node000012" href="$ServerConnection_8cpp.html" title=" " alt="" coords="3089,115,3402,170"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2300,38,2656,61,2867,80,3076,105,3122,113,3121,118,3076,111,2866,86,2656,67,2300,44"/>
+<area shape="rect" id="Node000013" href="$ServerPlayer_8cpp.html" title=" " alt="" coords="3427,115,3707,170"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2300,33,2520,38,2799,50,3106,71,3262,87,3415,105,3458,113,3457,118,3414,111,3262,92,3106,77,2798,55,2520,43,2299,38"/>
+<area shape="rect" id="Node000014" href="$ServerPlayerGameMode_8cpp.html" title=" " alt="" coords="3731,108,4024,177"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2300,30,2570,33,2923,43,3320,66,3522,83,3719,105,3731,107,3730,112,3718,111,3521,89,3319,71,2923,49,2570,38,2300,36"/>
+<area shape="rect" id="Node000015" href="$TextEditScreen_8cpp.html" title=" " alt="" coords="4049,115,4343,170"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2300,34,2691,43,3191,57,3679,78,3882,91,4036,105,4083,113,4082,118,4036,111,3881,96,3679,83,3190,63,2690,48,2300,39"/>
+</map>

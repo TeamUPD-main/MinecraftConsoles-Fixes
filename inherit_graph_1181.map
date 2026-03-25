@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classTutorialHint.html" title=" " alt="" coords="5,104,103,129"/>
+<area shape="rect" id="Node000001" href="$classAreaHint.html" title=" " alt="" coords="177,5,256,31"/>
+<area shape="poly" id="edge1585_Node000000_Node000001" title=" " alt="" coords="78,92,111,65,149,40,176,28,178,32,152,44,114,70,81,96"/>
+<area shape="rect" id="Node000002" href="$classDiggerItemHint.html" title=" " alt="" coords="155,55,278,80"/>
+<area shape="poly" id="edge1586_Node000000_Node000002" title=" " alt="" coords="109,97,173,78,174,83,111,102"/>
+<area shape="rect" id="Node000003" href="$classLookAtEntityHint.html" title=" " alt="" coords="151,104,283,129"/>
+<area shape="poly" id="edge1587_Node000000_Node000003" title=" " alt="" coords="117,114,150,114,150,119,117,119"/>
+<area shape="rect" id="Node000004" href="$classLookAtTileHint.html" title=" " alt="" coords="157,153,276,179"/>
+<area shape="poly" id="edge1588_Node000000_Node000004" title=" " alt="" coords="111,131,174,151,173,156,109,136"/>
+<area shape="rect" id="Node000005" href="$classTakeItemHint.html" title=" " alt="" coords="163,203,271,228"/>
+<area shape="poly" id="edge1589_Node000000_Node000005" title=" " alt="" coords="81,136,114,163,152,188,179,200,176,205,149,192,111,167,78,141"/>
+</map>

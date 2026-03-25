@@ -1,0 +1,55 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Scene_AbstractContainer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Scene_AbstractContainer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2106,5,2363,75"/>
+<area shape="rect" id="Node000002" href="$XUI__Ctrl__MinecraftPlayer_8cpp.html" title=" " alt="" coords="5,240,248,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2092,44,1729,47,1261,58,1024,68,804,83,615,101,473,125,393,149,315,179,187,242,184,237,313,174,391,144,471,120,614,96,803,77,1024,63,1261,53,1729,42,2092,39"/>
+<area shape="rect" id="Node000003" href="$XUI__Ctrl__MinecraftSkinPreview_8cpp.html" title=" " alt="" coords="272,240,552,309"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2092,45,1713,51,1238,64,1008,74,808,88,654,105,600,114,565,125,525,149,490,179,460,211,436,241,432,238,456,208,486,175,522,144,563,120,599,109,653,99,807,82,1008,69,1238,59,1713,45,2092,40"/>
+<area shape="rect" id="Node000004" href="$XUI__Scene__AbstractContainer_8cpp.html" title=" " alt="" coords="1684,123,1956,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2101,81,1942,125,1940,120,2100,76"/>
+<area shape="rect" id="Node000005" href="$XUI__Scene__Anvil_8h.html" title=" " alt="" coords="1980,123,2223,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2187,86,2142,124,2139,120,2184,82"/>
+<area shape="rect" id="Node000007" href="$XUI__Scene__BrewingStand_8h.html" title=" " alt="" coords="2247,123,2489,192"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2286,82,2331,120,2327,124,2282,86"/>
+<area shape="rect" id="Node000009" href="$XUI__Scene__Container_8h.html" title=" " alt="" coords="2513,123,2756,192"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2365,76,2519,120,2517,125,2364,81"/>
+<area shape="rect" id="Node000011" href="$XUI__Scene__Enchant_8h.html" title=" " alt="" coords="1384,123,1627,192"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2093,62,1893,90,1672,125,1627,134,1626,128,1672,120,1893,85,2092,57"/>
+<area shape="rect" id="Node000016" href="$XUI__Scene__Furnace_8h.html" title=" " alt="" coords="2780,123,3023,192"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="2377,57,2564,84,2769,120,2780,122,2779,128,2767,125,2563,89,2377,62"/>
+<area shape="rect" id="Node000020" href="$XUI__Scene__Inventory_8h.html" title=" " alt="" coords="576,123,819,192"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="2092,55,819,150,819,144,2092,49"/>
+<area shape="rect" id="Node000022" href="$XUI__Scene__Inventory__Creative_8cpp.html" title=" " alt="" coords="3047,123,3327,192"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="2377,48,2681,75,2858,95,3035,120,3047,122,3046,127,3034,125,2858,100,2680,80,2377,54"/>
+<area shape="rect" id="Node000023" href="$XUI__Scene__Inventory__Creative_8h.html" title=" " alt="" coords="3351,123,3617,192"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="2377,42,2569,50,2809,64,3074,87,3339,120,3352,122,3351,127,3338,125,3073,92,2808,70,2568,55,2377,48"/>
+<area shape="rect" id="Node000024" href="$XUI__Scene__Trap_8h.html" title=" " alt="" coords="3641,123,3884,192"/>
+<area shape="poly" id="edge27_Node000001_Node000024" title=" " alt="" coords="2377,38,2616,42,2928,54,3278,78,3456,97,3630,120,3642,122,3641,127,3629,125,3455,102,3278,83,2928,59,2616,47,2377,44"/>
+<area shape="rect" id="Node000006" href="$XUI__Scene__Anvil_8cpp.html" title=" " alt="" coords="1979,240,2221,309"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="2103,206,2103,240,2098,240,2098,206"/>
+<area shape="rect" id="Node000008" href="$XUI__Scene__BrewingStand_8cpp.html" title=" " alt="" coords="2246,240,2493,309"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="2371,206,2372,240,2366,240,2366,206"/>
+<area shape="rect" id="Node000010" href="$XUI__Scene__Container_8cpp.html" title=" " alt="" coords="2517,240,2760,309"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="2639,206,2640,240,2635,240,2634,206"/>
+<area shape="poly" id="edge15_Node000011_Node000011" title=" " alt="" coords="1641,141,1650,148,1653,158,1646,171,1628,179,1626,174,1642,167,1648,157,1646,151,1638,145"/>
+<area shape="rect" id="Node000012" href="$XUI__Ctrl__EnchantButton_8cpp.html" title=" " alt="" coords="1109,240,1352,309"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1414,200,1312,242,1310,237,1412,195"/>
+<area shape="rect" id="Node000013" href="$XUI__Ctrl__EnchantmentBook_8cpp.html" title=" " alt="" coords="1376,240,1635,309"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="1508,206,1508,240,1503,240,1503,206"/>
+<area shape="rect" id="Node000014" href="$XUI__Ctrl__EnchantmentButtonText_8cpp.html" title=" " alt="" coords="1659,240,1955,309"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="1607,194,1720,237,1718,242,1605,199"/>
+<area shape="rect" id="Node000015" href="$XUI__Scene__Enchant_8cpp.html" title=" " alt="" coords="843,240,1085,309"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="1371,187,1098,243,1086,245,1085,240,1097,237,1369,181"/>
+<area shape="rect" id="Node000017" href="$XUI__Ctrl__BurnProgress_8cpp.html" title=" " alt="" coords="2784,240,3027,309"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="2906,206,2907,240,2901,240,2900,206"/>
+<area shape="rect" id="Node000018" href="$XUI__Ctrl__FireProgress_8cpp.html" title=" " alt="" coords="3051,240,3293,309"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="2994,195,3094,237,3092,242,2992,200"/>
+<area shape="rect" id="Node000019" href="$XUI__Scene__Furnace_8cpp.html" title=" " alt="" coords="3317,240,3560,309"/>
+<area shape="poly" id="edge19_Node000016_Node000019" title=" " alt="" coords="3037,190,3173,214,3306,237,3318,240,3316,245,3305,243,3172,219,3036,195"/>
+<area shape="poly" id="edge21_Node000020_Node000002" title=" " alt="" coords="563,184,261,243,249,245,248,240,259,237,562,179"/>
+<area shape="poly" id="edge22_Node000020_Node000003" title=" " alt="" coords="603,200,496,242,494,237,601,195"/>
+<area shape="poly" id="edge23_Node000020_Node000015" title=" " alt="" coords="789,195,887,237,885,242,787,200"/>
+<area shape="rect" id="Node000021" href="$XUI__Scene__Inventory_8cpp.html" title=" " alt="" coords="576,240,819,309"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="700,206,700,240,695,240,695,206"/>
+<area shape="rect" id="Node000025" href="$XUI__Scene__Trap_8cpp.html" title=" " alt="" coords="3641,240,3884,309"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="3765,206,3765,240,3760,240,3760,206"/>
+</map>

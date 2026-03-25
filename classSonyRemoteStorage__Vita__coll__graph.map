@@ -1,0 +1,15 @@
+<map id="SonyRemoteStorage_Vita" name="SonyRemoteStorage_Vita">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,285,443,311"/>
+<area shape="rect" id="Node000002" href="$classSonyRemoteStorage.html" title=" " alt="" coords="271,211,426,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,250,351,285,346,285,346,250"/>
+<area shape="rect" id="Node000003" href="$structSAVE__INFO.html" title=" " alt="" coords="45,101,140,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,138,115,163,134,185,157,195,191,203,271,214,271,219,190,208,155,200,131,189,110,166,97,140"/>
+<area shape="rect" id="Node000004" href="$structCONTAINER__METADATA.html" title=" " alt="" coords="5,5,180,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,44,95,101,90,101,90,44"/>
+<area shape="rect" id="Node000005" href="$structSceRemoteStorageData.html" title=" " alt="" coords="165,101,343,126"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="265,138,277,162,293,185,325,208,322,213,289,189,272,165,260,140"/>
+<area shape="rect" id="Node000006" href="$classSonyRemoteStorage_1_1DescriptionDataParsed.html" title=" " alt="" coords="367,93,538,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="442,147,429,169,413,189,378,213,375,208,410,185,425,166,437,145"/>
+<area shape="rect" id="Node000007" href="$classC4JThread.html" title=" " alt="" coords="574,101,662,126"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="615,140,605,166,586,189,559,201,519,210,426,221,426,216,518,205,557,196,583,185,600,163,610,138"/>
+</map>

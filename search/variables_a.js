@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['jack_0',['jack',['../structma__context__config.html#a2bd51d9a816f12fff4de428d9a9529b7',1,'ma_context_config::jack'],['../unionma__device__id.html#ab1fa36793b04e2c0224f7969272368cb',1,'ma_device_id::jack']]],
+  ['jobqueue_1',['jobqueue',['../structma__device__job__thread.html#a4488a09e1b3ba811aee95b29c324a452',1,'ma_device_job_thread::jobQueue'],['../structma__resource__manager.html#ae6842167e3db641f9a22da153c5fec5d',1,'ma_resource_manager::jobQueue']]],
+  ['jobqueuecapacity_2',['jobqueuecapacity',['../structma__device__job__thread__config.html#a00c86a14ef83900d7473b8dfcad1a27d',1,'ma_device_job_thread_config::jobQueueCapacity'],['../structma__resource__manager__config.html#ad5722850ea9c43d22937eb1420cdec34',1,'ma_resource_manager_config::jobQueueCapacity']]],
+  ['jobqueueflags_3',['jobQueueFlags',['../structma__device__job__thread__config.html#adae694dab33cff4a123b542e9cb6f156',1,'ma_device_job_thread_config']]],
+  ['jobthreadcount_4',['jobThreadCount',['../structma__resource__manager__config.html#a66d6c0ac5b53deec46b478c606aa8877',1,'ma_resource_manager_config']]],
+  ['jobthreads_5',['jobThreads',['../structma__resource__manager.html#ac5353a21e5c1474602c96575fb5508c2',1,'ma_resource_manager']]],
+  ['jobthreadstacksize_6',['jobThreadStackSize',['../structma__resource__manager__config.html#a8c0ae46c21a801dd8160dd013c2f5175',1,'ma_resource_manager_config']]],
+  ['join_5fcreate_5fsession_5fmax_5fattempts_7',['JOIN_CREATE_SESSION_MAX_ATTEMPTS',['../classDQRNetworkManager.html#a6e56255a335905c3702fa1626983c2f4',1,'DQRNetworkManager']]],
+  ['join_5fpacket_5fresend_5fdelay_5fms_8',['JOIN_PACKET_RESEND_DELAY_MS',['../classDQRNetworkManager.html#aa2f5c4ea276f8b6e0a36b9a291e6cb50',1,'DQRNetworkManager']]],
+  ['join_5fpacket_5fresend_5ftimeout_5fms_9',['JOIN_PACKET_RESEND_TIMEOUT_MS',['../classDQRNetworkManager.html#aadeb4bafc8cf4aef28aabe7a9cfc85ec',1,'DQRNetworkManager']]],
+  ['join_5freservation_5fwait_5ftime_10',['JOIN_RESERVATION_WAIT_TIME',['../classDQRNetworkManager.html#a3b8f94ff09b2dcccec9b3a2a88cdc4fe',1,'DQRNetworkManager']]],
+  ['joingame_11',['joinGame',['../structDiscordEventHandlers.html#a45689c363700098ca5abce8d11281417',1,'DiscordEventHandlers']]],
+  ['joinrequest_12',['joinRequest',['../structDiscordEventHandlers.html#aa8fb2b65e082073572ee191b072baf4b',1,'DiscordEventHandlers']]],
+  ['joinsecret_13',['joinSecret',['../structDiscordRichPresence.html#a907aea598d1aaeceef4a7c7d17df3008',1,'DiscordRichPresence']]],
+  ['jukebox_14',['jukebox',['../classTile.html#aa21572b1a7e124c59d1e024dc443afb4',1,'Tile']]],
+  ['jukebox_5fid_15',['jukebox_Id',['../classTile.html#afdbed98e927208b5da02e2505d97cc85',1,'Tile']]],
+  ['jump_16',['jump',['../classMobEffect.html#a7b46781b5eb12380d5b9df5cfe34fb18',1,'MobEffect::jump'],['../classEntityEvent.html#a0ab227efe4fcf6b6582299b3c7789d7a',1,'EntityEvent::JUMP']]],
+  ['jumpcontrolflag_17',['JumpControlFlag',['../classControl.html#a723a1670b64cbb7d7905551111105dbc',1,'Control']]],
+  ['jumping_18',['jumping',['../classInput.html#a7f1435025de170c74ee4844b022e5b05',1,'Input::jumping'],['../classLivingEntity.html#a9b26c9f21e502b67b82a3d5dc7c522f5',1,'LivingEntity::jumping']]],
+  ['jumptriggertime_19',['jumpTriggerTime',['../classPlayer.html#a3ff59d1157b725c31db740e1585702be',1,'Player']]],
+  ['jungle_20',['jungle',['../classBiome.html#a512c7127561cc784d8483ab05a3f4535',1,'Biome']]],
+  ['jungle_5fleaf_21',['jungle_leaf',['../classLeafTile__SPU.html#ac3ee80a194e7bebf86d185bd27d48c68',1,'LeafTile_SPU::JUNGLE_LEAF'],['../classLeafTile.html#afbe3380012c27024571db0b51aec42bc',1,'LeafTile::JUNGLE_LEAF']]],
+  ['jungle_5ftrunk_22',['jungle_trunk',['../classTreeTile__SPU.html#a07c000b1e506b0fc9ed348fcb706940f',1,'TreeTile_SPU::JUNGLE_TRUNK'],['../classTreeTile.html#aabc9f548a9437e5213bfad6204bc9e04',1,'TreeTile::JUNGLE_TRUNK']]],
+  ['junglehills_23',['jungleHills',['../classBiome.html#ac126112477a5c22546568bd18bad3e69',1,'Biome']]],
+  ['junk_24',['junk',['../structgz__state.html#a0faa16b2b4592810f4367472aa6e1f6a',1,'gz_state']]]
+];

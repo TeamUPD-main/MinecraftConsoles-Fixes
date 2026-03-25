@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.scores.criteria.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/net.minecraft.world.scores.criteria.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,411,60"/>
+<area shape="rect" id="Node000002" href="$DummyCriteria_8h.html" title=" " alt="" coords="135,181,270,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,62,152,84,136,109,134,127,141,143,155,159,172,172,168,176,151,162,137,146,129,127,131,107,147,80,169,58"/>
+<area shape="rect" id="Node000003" href="$ObjectiveCriteria_8h.html" title=" " alt="" coords="183,255,327,280"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="247,58,269,80,285,107,291,142,290,172,284,207,270,244,265,242,279,206,284,171,285,143,280,109,264,84,243,62"/>
+<area shape="rect" id="Node000004" href="$HealthCriteria_8h.html" title=" " alt="" coords="145,108,271,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,60,211,94,205,94,205,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,205,240,242,236,245,209,209"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="210,134,207,168,202,168,204,133"/>
+</map>

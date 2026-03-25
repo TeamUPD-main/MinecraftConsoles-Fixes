@@ -1,0 +1,32 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Durango/Network/DQRNetworkManager_Log.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Durango/Network/DQRNetworkManager_Log.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="446,5,729,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="70,130,145,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,64,306,90,157,125,149,128,147,123,156,120,305,85,445,59"/>
+<area shape="rect" id="Node000003" href="$DQRNetworkManager_8h.html" title=" " alt="" coords="169,130,344,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="478,77,308,128,307,123,476,72"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="349,218,447,243"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="467,77,435,97,410,124,400,143,396,164,396,204,391,204,390,163,395,141,405,121,432,93,465,73"/>
+<area shape="rect" id="Node000008" href="$PartyController_8h.html" title=" " alt="" coords="419,130,550,155"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="554,77,508,122,505,118,551,73"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="507,218,596,243"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="584,75,559,205,553,204,578,74"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="625,130,717,155"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="618,73,655,118,651,121,614,77"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="742,123,878,163"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="663,72,757,115,755,119,661,77"/>
+<area shape="rect" id="Node000012" href="$Durango_2Network_2base64_8h.html" title=" " alt="" coords="903,130,984,155"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="721,72,891,120,900,123,898,128,889,125,719,77"/>
+<area shape="rect" id="Node000014" href="$ChatIntegrationLayer_8h.html" title=" " alt="" coords="1009,130,1179,155"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="729,67,1024,125,1023,130,728,72"/>
+<area shape="rect" id="Node000004" href="$DQRNetworkPlayer_8h.html" title=" " alt="" coords="5,218,164,243"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,158,115,214,112,209,226,153"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="189,211,325,251"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="259,156,259,197,254,197,254,156"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="277,153,369,209,366,213,274,158"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="113,215,227,160,229,164,116,220"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="53,299,116,324"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="87,244,87,285,82,285,82,244"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="496,154,536,205,531,208,492,157"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="914,218,973,243"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="946,156,946,204,941,204,941,156"/>
+</map>

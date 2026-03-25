@@ -1,0 +1,18 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/StainedGlassPaneBlock.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/StainedGlassPaneBlock.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="169,5,456,75"/>
+<area shape="rect" id="Node000002" href="$ThinFenceTile_8h.html" title=" " alt="" coords="251,123,375,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,75,315,109,310,109,310,75"/>
+<area shape="rect" id="Node000003" href="$Tile_8h.html" title=" " alt="" coords="250,196,309,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,149,293,185,288,183,305,147"/>
+<area shape="rect" id="Node000007" href="$Definitions_8h.html" title=" " alt="" coords="359,269,463,295"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="323,147,398,256,393,259,319,150"/>
+<area shape="rect" id="Node000004" href="$Material_8h.html" title=" " alt="" coords="22,269,110,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,222,114,268,112,262,249,217"/>
+<area shape="rect" id="Node000006" href="$Vec3_8h.html" title=" " alt="" coords="135,269,200,295"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="263,224,199,264,196,259,260,219"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="302,219,379,260,377,265,299,224"/>
+<area shape="rect" id="Node000008" href="$SoundTypes_8h.html" title=" " alt="" coords="224,269,335,295"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="282,222,282,256,277,256,277,222"/>
+<area shape="rect" id="Node000005" href="$MaterialColor_8h.html" title=" " alt="" coords="5,343,127,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="69,295,69,329,63,329,63,295"/>
+</map>

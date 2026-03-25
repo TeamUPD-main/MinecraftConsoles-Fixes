@@ -1,0 +1,24 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/GlobalEntity.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/GlobalEntity.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="587,5,847,60"/>
+<area shape="rect" id="Node000002" href="$GlobalEntity_8cpp.html" title=" " alt="" coords="284,108,559,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,67,499,110,498,105,626,62"/>
+<area shape="rect" id="Node000003" href="$LightningBolt_8h.html" title=" " alt="" coords="583,108,851,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="720,74,720,108,715,108,715,74"/>
+<area shape="rect" id="Node000005" href="$net_8minecraft_8world_8entity_8global_8h.html" title=" " alt="" coords="693,211,1086,265"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="813,64,841,83,865,106,879,132,887,159,893,210,888,211,882,160,874,134,861,110,838,87,810,69"/>
+<area shape="rect" id="Node000004" href="$LightningBolt_8cpp.html" title=" " alt="" coords="385,211,668,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="657,171,578,213,575,208,655,167"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="775,167,846,208,843,213,772,172"/>
+<area shape="rect" id="Node000006" href="$AddGlobalEntityPacket_8cpp.html" title=" " alt="" coords="5,313,280,383"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="679,268,483,289,399,299,292,316,281,318,280,313,292,311,398,294,483,284,679,263"/>
+<area shape="rect" id="Node000007" href="$DyePowderItem_8cpp.html" title=" " alt="" coords="304,321,605,375"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="771,271,561,323,560,318,770,266"/>
+<area shape="rect" id="Node000008" href="$EggItem_8cpp.html" title=" " alt="" coords="629,321,880,375"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="847,276,789,322,786,318,844,272"/>
+<area shape="rect" id="Node000009" href="$Level_8cpp.html" title=" " alt="" coords="904,321,1147,375"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="935,272,994,318,990,322,932,276"/>
+<area shape="rect" id="Node000010" href="$Pig_8cpp.html" title=" " alt="" coords="1171,321,1413,375"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="1001,266,1195,318,1194,323,1000,272"/>
+<area shape="rect" id="Node000011" href="$Sheep_8cpp.html" title=" " alt="" coords="1437,321,1680,375"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="1100,260,1260,282,1426,311,1460,318,1459,323,1425,316,1259,288,1099,266"/>
+</map>

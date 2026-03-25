@@ -1,0 +1,16 @@
+<map id="UIControl_EnchantmentBook" name="UIControl_EnchantmentBook">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,344,215,369"/>
+<area shape="rect" id="Node000002" href="$classUIControl.html" title=" " alt="" coords="69,269,151,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,309,113,344,107,344,107,309"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="166,274,178,282,169,290,152,292,151,286,167,285,173,282,164,278"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="31,93,146,119"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="94,132,103,206,111,269,106,269,98,207,89,133"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="161,97,173,106,164,114,146,116,146,111,162,109,167,106,158,102"/>
+<area shape="rect" id="Node000004" href="$classUIScene.html" title=" " alt="" coords="194,181,269,207"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="118,124,167,155,211,179,208,184,165,160,115,129"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="205,217,128,271,125,267,202,213"/>
+<area shape="rect" id="Node000005" href="$classUILayer.html" title=" " alt="" coords="241,93,313,119"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="266,132,240,182,235,180,262,130"/>
+<area shape="rect" id="Node000006" href="$classUIGroup.html" title=" " alt="" coords="239,5,314,31"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="279,45,279,93,274,93,274,45"/>
+</map>

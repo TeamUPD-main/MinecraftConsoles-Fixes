@@ -1,0 +1,102 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/TaigaBiome.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.World/TaigaBiome.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3622,5,3881,60"/>
+<area shape="rect" id="Node000002" href="$TaigaBiome_8cpp.html" title=" " alt="" coords="5,218,279,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3608,41,2943,62,1983,99,1479,123,1006,151,598,181,290,213,248,221,247,215,290,208,598,175,1006,145,1479,118,1983,94,2943,57,3608,35"/>
+<area shape="rect" id="Node000003" href="$net_8minecraft_8world_8level_8biome_8h.html" title=" " alt="" coords="7167,108,7557,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="3894,35,7166,126,7166,131,3894,41"/>
+<area shape="poly" id="edge44_Node000003_Node000002" title=" " alt="" coords="7153,141,3355,173,1274,195,588,205,290,213,245,221,244,215,290,208,588,199,1274,189,3355,167,7153,136"/>
+<area shape="rect" id="Node000004" href="$AddIslandLayer_8cpp.html" title=" " alt="" coords="302,218,598,273"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="7153,141,3524,174,1545,196,893,205,610,213,561,221,561,215,610,208,893,200,1545,190,3524,169,7153,136"/>
+<area shape="rect" id="Node000005" href="$AddMushroomIslandLayer_8cpp.html" title=" " alt="" coords="623,211,925,280"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="7153,141,3762,167,1891,189,1251,201,937,213,926,215,925,209,936,208,1250,195,1890,183,3762,161,7153,135"/>
+<area shape="rect" id="Node000006" href="$AddSnowLayer_8cpp.html" title=" " alt="" coords="949,218,1241,273"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="7153,141,3927,167,2156,189,1551,201,1254,213,1206,221,1205,215,1254,208,1551,196,2156,184,3926,162,7153,135"/>
+<area shape="rect" id="Node000007" href="$Biome_8cpp.html" title=" " alt="" coords="1266,218,1509,273"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="7153,141,5886,150,4064,166,2379,187,1803,200,1620,207,1521,213,1480,221,1479,215,1520,208,1620,201,1803,195,2378,182,4064,160,5886,144,7153,135"/>
+<area shape="rect" id="Node000008" href="$BiomeDecorator_8cpp.html" title=" " alt="" coords="1533,218,1836,273"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="7153,141,4235,169,2652,191,2112,202,1848,213,1798,221,1798,215,1847,208,2112,197,2652,186,4235,164,7153,136"/>
+<area shape="rect" id="Node000009" href="$BiomeInitLayer_8cpp.html" title=" " alt="" coords="1860,218,2155,273"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="7153,140,6061,145,4507,157,3725,167,3030,179,2488,194,2296,203,2168,213,2119,221,2118,215,2167,208,2296,198,2488,189,3030,174,3725,161,4507,152,6061,140,7153,135"/>
+<area shape="rect" id="Node000010" href="$BiomeOverrideLayer_8cpp.html" title=" " alt="" coords="2179,218,2510,273"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="7153,140,6128,147,4686,161,3319,183,2819,197,2522,213,2469,221,2468,215,2522,208,2818,192,3319,178,4685,156,6128,142,7153,135"/>
+<area shape="rect" id="Node000011" href="$BiomeSource_8cpp.html" title=" " alt="" coords="2534,218,2817,273"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="7153,140,6186,146,4839,159,4166,169,3568,181,3103,196,2938,204,2828,213,2782,221,2781,215,2827,208,2938,199,3103,191,3568,176,4166,164,4839,154,6186,141,7153,135"/>
+<area shape="rect" id="Node000012" href="$CanyonFeature_8cpp.html" title=" " alt="" coords="2840,218,3135,273"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="7153,141,6247,148,5000,162,3828,184,3400,198,3146,213,3098,221,3097,215,3146,208,3400,192,3828,178,5000,157,6247,143,7152,135"/>
+<area shape="rect" id="Node000013" href="$CustomLevelSource_8cpp.html" title=" " alt="" coords="3159,218,3485,273"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="7153,139,6389,139,5333,148,4786,157,4274,170,3833,189,3650,200,3498,213,3446,221,3445,215,3498,208,3649,195,3832,183,4274,165,4786,151,5333,142,6389,134,7153,133"/>
+<area shape="rect" id="Node000014" href="$DesertBiome_8cpp.html" title=" " alt="" coords="3510,218,3793,273"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="7153,141,6376,150,5336,165,4367,187,4015,199,3805,213,3759,221,3758,215,3804,208,4014,194,4367,181,5336,160,6376,145,7153,136"/>
+<area shape="rect" id="Node000015" href="$DownfallLayer_8cpp.html" title=" " alt="" coords="3817,218,4107,273"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="7153,139,6501,141,5625,150,5175,160,4755,173,4394,190,4120,213,4072,221,4072,215,4119,208,4394,185,4755,167,5175,154,5625,145,6500,136,7153,134"/>
+<area shape="rect" id="Node000016" href="$DownfallMixerLayer_8cpp.html" title=" " alt="" coords="4132,218,4459,273"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="7153,140,6565,145,5792,157,5028,179,4711,194,4470,213,4418,221,4418,215,4470,208,4711,189,5028,173,5791,152,6565,140,7153,135"/>
+<area shape="rect" id="Node000017" href="$ForestBiome_8cpp.html" title=" " alt="" coords="4483,218,4761,273"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="7153,140,6622,145,5936,157,5588,166,5265,179,4986,194,4774,213,4729,221,4728,215,4774,208,4986,189,5264,173,5588,161,5936,152,6622,140,7153,135"/>
+<area shape="rect" id="Node000018" href="$GrassTile_8cpp.html" title=" " alt="" coords="4786,218,5045,273"/>
+<area shape="poly" id="edge17_Node000003_Node000018" title=" " alt="" coords="7153,141,6675,146,6072,159,5485,180,5242,195,5057,213,5015,221,5014,215,5056,208,5242,190,5485,175,6072,153,6675,141,7153,135"/>
+<area shape="rect" id="Node000019" href="$GrowMushroomIslandLayer_8cpp.html" title=" " alt="" coords="5069,211,5381,280"/>
+<area shape="poly" id="edge18_Node000003_Node000019" title=" " alt="" coords="7153,143,6742,152,6236,167,5748,187,5547,199,5393,213,5381,215,5381,209,5392,208,5547,194,5748,182,6236,161,6742,147,7153,138"/>
+<area shape="rect" id="Node000020" href="$HalfSlabTile_8cpp.html" title=" " alt="" coords="5405,218,5681,273"/>
+<area shape="poly" id="edge19_Node000003_Node000020" title=" " alt="" coords="7153,144,6383,169,5985,189,5820,200,5694,213,5651,221,5650,215,5694,208,5820,195,5984,183,6383,163,7153,139"/>
+<area shape="rect" id="Node000021" href="$HellDimension_8cpp.html" title=" " alt="" coords="5706,218,5999,273"/>
+<area shape="poly" id="edge20_Node000003_Node000021" title=" " alt="" coords="7153,141,6919,147,6633,159,6322,180,6012,213,5967,221,5966,215,6011,208,6321,175,6633,154,6919,141,7153,136"/>
+<area shape="rect" id="Node000022" href="$JungleBiome_8cpp.html" title=" " alt="" coords="6024,218,6303,273"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="7153,145,6973,153,6762,166,6537,186,6314,213,6272,221,6272,215,6314,208,6537,181,6762,161,6973,148,7153,140"/>
+<area shape="rect" id="Node000023" href="$LakeFeature_8cpp.html" title=" " alt="" coords="6327,218,6603,273"/>
+<area shape="poly" id="edge22_Node000003_Node000023" title=" " alt="" coords="7153,153,6896,177,6616,213,6576,221,6575,215,6615,208,6895,172,7153,148"/>
+<area shape="rect" id="Node000024" href="$LargeCaveFeature_8cpp.html" title=" " alt="" coords="6627,218,6942,273"/>
+<area shape="poly" id="edge23_Node000003_Node000024" title=" " alt="" coords="7203,168,6954,213,6916,221,6915,215,6954,208,7202,162"/>
+<area shape="rect" id="Node000025" href="$LeafTile_8cpp.html" title=" " alt="" coords="6967,218,7216,273"/>
+<area shape="poly" id="edge24_Node000003_Node000025" title=" " alt="" coords="7284,170,7158,220,7156,215,7282,165"/>
+<area shape="rect" id="Node000026" href="$Level_8cpp.html" title=" " alt="" coords="7241,218,7483,273"/>
+<area shape="poly" id="edge25_Node000003_Node000026" title=" " alt="" coords="7365,177,7365,218,7359,218,7359,177"/>
+<area shape="rect" id="Node000027" href="$LevelChunk_8cpp.html" title=" " alt="" coords="7508,218,7781,273"/>
+<area shape="poly" id="edge26_Node000003_Node000027" title=" " alt="" coords="7444,165,7577,215,7575,220,7443,170"/>
+<area shape="rect" id="Node000028" href="$LiquidTile_8cpp.html" title=" " alt="" coords="7805,218,8065,273"/>
+<area shape="poly" id="edge27_Node000003_Node000028" title=" " alt="" coords="7542,162,7795,208,7828,215,7827,221,7793,213,7541,168"/>
+<area shape="rect" id="Node000029" href="$MobSpawner_8cpp.html" title=" " alt="" coords="8090,218,8370,273"/>
+<area shape="poly" id="edge28_Node000003_Node000029" title=" " alt="" coords="7572,149,7815,173,8078,208,8119,215,8118,221,8078,213,7814,178,7571,155"/>
+<area shape="rect" id="Node000030" href="$NetherStalkTile_8cpp.html" title=" " alt="" coords="8394,218,8693,273"/>
+<area shape="poly" id="edge29_Node000003_Node000030" title=" " alt="" coords="7571,141,7949,163,8167,182,8382,208,8427,215,8426,221,8382,213,8166,188,7949,169,7571,146"/>
+<area shape="rect" id="Node000031" href="$NetherWartTile_8cpp.html" title=" " alt="" coords="8717,218,9012,273"/>
+<area shape="poly" id="edge30_Node000003_Node000031" title=" " alt="" coords="7571,136,7804,142,8088,154,8397,175,8705,208,8751,215,8750,221,8704,213,8396,181,8087,159,7804,147,7571,141"/>
+<area shape="rect" id="Node000032" href="$PlainsBiome_8cpp.html" title=" " alt="" coords="9036,218,9315,273"/>
+<area shape="poly" id="edge31_Node000003_Node000032" title=" " alt="" coords="7571,139,8338,163,8735,183,8899,195,9025,208,9069,215,9068,221,9024,213,8899,200,8735,189,8338,169,7571,144"/>
+<area shape="rect" id="Node000033" href="$RandomLevelSource_8cpp.html" title=" " alt="" coords="9339,218,9670,273"/>
+<area shape="poly" id="edge32_Node000003_Node000033" title=" " alt="" coords="7572,138,8487,162,8973,182,9174,195,9328,208,9379,215,9378,221,9327,213,9173,200,8973,188,8487,168,7571,143"/>
+<area shape="rect" id="Node000034" href="$RandomScatteredLargeFeature_8cpp.html" title=" " alt="" coords="9695,211,9981,280"/>
+<area shape="poly" id="edge33_Node000003_Node000034" title=" " alt="" coords="7571,136,8051,142,8659,155,9251,177,9495,191,9682,208,9695,210,9694,215,9682,213,9495,196,9250,182,8659,161,8051,148,7571,141"/>
+<area shape="rect" id="Node000035" href="$Region_8cpp.html" title=" " alt="" coords="10006,218,10249,273"/>
+<area shape="poly" id="edge34_Node000003_Node000035" title=" " alt="" coords="7571,134,8111,137,8809,147,9164,157,9494,170,9778,186,9994,208,10034,215,10033,221,9994,213,9778,192,9494,175,9164,162,8809,153,8111,142,7571,139"/>
+<area shape="rect" id="Node000036" href="$RegionHillsLayer_8cpp.html" title=" " alt="" coords="10273,218,10579,273"/>
+<area shape="poly" id="edge35_Node000003_Node000036" title=" " alt="" coords="7571,135,8160,139,8936,150,9332,160,9701,172,10019,188,10261,208,10310,215,10309,221,10260,213,10019,193,9701,177,9332,165,8936,156,8160,144,7571,140"/>
+<area shape="rect" id="Node000037" href="$RiverLayer_8cpp.html" title=" " alt="" coords="10603,218,10870,273"/>
+<area shape="poly" id="edge36_Node000003_Node000037" title=" " alt="" coords="7571,133,8222,134,9093,143,9541,152,9959,165,10319,184,10592,208,10636,215,10635,221,10591,213,10318,189,9959,171,9541,157,9093,148,8222,139,7571,139"/>
+<area shape="rect" id="Node000038" href="$RiverMixerLayer_8cpp.html" title=" " alt="" coords="10895,218,11197,273"/>
+<area shape="poly" id="edge37_Node000003_Node000038" title=" " alt="" coords="7571,133,8274,135,9229,143,9723,153,10184,166,10581,184,10882,208,10932,215,10931,221,10882,213,10581,189,10184,171,9723,158,9229,149,8274,140,7571,139"/>
+<area shape="rect" id="Node000039" href="$ShoreLayer_8cpp.html" title=" " alt="" coords="11222,218,11491,273"/>
+<area shape="poly" id="edge38_Node000003_Node000039" title=" " alt="" coords="7571,136,8406,143,9537,157,10595,179,10981,192,11210,208,11255,215,11254,221,11210,213,10981,198,10595,184,9537,163,8406,148,7571,141"/>
+<area shape="rect" id="Node000040" href="$SkyIslandDimension_8cpp.html" title=" " alt="" coords="11516,218,11845,273"/>
+<area shape="poly" id="edge39_Node000003_Node000040" title=" " alt="" coords="7571,136,8462,144,9685,159,10834,181,11254,194,11504,208,11557,215,11556,221,11503,213,11254,199,10834,186,9685,165,8462,149,7571,141"/>
+<area shape="rect" id="Node000041" href="$SnowMan_8cpp.html" title=" " alt="" coords="11869,218,12129,273"/>
+<area shape="poly" id="edge40_Node000003_Node000041" title=" " alt="" coords="7571,135,8531,140,9865,153,10533,162,11125,175,11585,190,11749,198,11858,208,11901,215,11901,221,11858,213,11748,204,11585,195,11124,180,10532,168,9865,158,8531,146,7571,140"/>
+<area shape="rect" id="Node000042" href="$StrongholdFeature_8cpp.html" title=" " alt="" coords="12153,218,12469,273"/>
+<area shape="poly" id="edge41_Node000003_Node000042" title=" " alt="" coords="7571,135,8585,142,10008,155,11356,177,11850,191,12025,199,12142,208,12194,215,12193,221,12142,213,12025,205,11849,197,11356,182,10008,160,8585,147,7571,140"/>
+<area shape="rect" id="Node000043" href="$SwampBiome_8cpp.html" title=" " alt="" coords="12493,218,12780,273"/>
+<area shape="poly" id="edge42_Node000003_Node000043" title=" " alt="" coords="7571,135,8649,139,10179,151,10949,161,11634,173,12167,189,12356,198,12482,208,12529,215,12529,221,12482,213,12355,203,12166,194,11633,179,10949,166,10179,157,8649,145,7571,140"/>
+<area shape="rect" id="Node000044" href="$SwampRiversLayer_8cpp.html" title=" " alt="" coords="12804,218,13125,273"/>
+<area shape="poly" id="edge43_Node000003_Node000044" title=" " alt="" coords="7571,135,8707,140,10335,152,11156,162,11887,174,12456,189,12658,198,12793,208,12845,215,12844,221,12792,213,12658,204,12456,195,11886,180,11156,167,10335,158,8707,145,7571,140"/>
+<area shape="rect" id="Node000045" href="$TallGrass_8cpp.html" title=" " alt="" coords="13150,218,13406,273"/>
+<area shape="poly" id="edge45_Node000003_Node000045" title=" " alt="" coords="7571,134,8771,136,10508,145,11386,154,12168,167,12778,185,12994,196,13138,208,13181,215,13181,221,13138,213,12994,201,12778,190,12168,173,11386,159,10508,150,8771,141,7571,139"/>
+<area shape="rect" id="Node000046" href="$TemperatureLayer_8cpp.html" title=" " alt="" coords="13430,218,13745,273"/>
+<area shape="poly" id="edge46_Node000003_Node000046" title=" " alt="" coords="7571,134,8823,138,10647,149,11572,158,12396,171,13038,187,13266,197,13418,208,13470,215,13469,221,13418,213,13266,202,13038,193,12396,176,11572,164,10647,154,8823,143,7571,140"/>
+<area shape="rect" id="Node000047" href="$TemperatureMixerLayer_8cpp.html" title=" " alt="" coords="13769,211,14057,280"/>
+<area shape="poly" id="edge47_Node000003_Node000047" title=" " alt="" coords="7571,134,8885,136,10816,145,11797,154,12672,167,13354,185,13596,196,13757,208,13769,209,13768,215,13756,213,13595,201,13354,190,12672,172,11797,159,10816,150,8885,141,7571,139"/>
+<area shape="rect" id="Node000048" href="$TheEndLevelRandomLevelSource_8cpp.html" title=" " alt="" coords="14081,211,14387,280"/>
+<area shape="poly" id="edge48_Node000003_Node000048" title=" " alt="" coords="7571,134,8942,136,10972,145,12004,154,12925,167,13644,185,13899,196,14069,208,14081,209,14080,215,14068,213,13899,201,13644,190,12925,173,12004,159,10972,150,8942,141,7571,139"/>
+<area shape="rect" id="Node000049" href="$VillageFeature_8cpp.html" title=" " alt="" coords="14411,218,14702,273"/>
+<area shape="poly" id="edge49_Node000003_Node000049" title=" " alt="" coords="7571,134,9002,134,11136,142,12223,151,13194,164,13952,183,14221,195,14400,208,14448,215,14447,221,14399,213,14220,200,13952,188,13194,169,12223,156,11136,147,9002,139,7571,139"/>
+<area shape="rect" id="Node000050" href="$VineTile_8cpp.html" title=" " alt="" coords="14726,218,14977,273"/>
+<area shape="poly" id="edge50_Node000003_Node000050" title=" " alt="" coords="7571,135,9126,142,11442,156,13608,178,14350,192,14587,200,14714,208,14757,215,14756,221,14714,213,14587,205,14350,197,13608,183,11442,161,9126,147,7571,140"/>
+</map>

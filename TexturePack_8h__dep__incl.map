@@ -1,0 +1,60 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/TexturePack.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/TexturePack.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2319,5,2580,60"/>
+<area shape="rect" id="Node000002" href="$AbstractTexturePack_8h.html" title=" " alt="" coords="783,108,1097,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2305,46,1098,126,1098,121,2304,41"/>
+<area shape="rect" id="Node000016" href="$IUIScene__StartGame_8cpp.html" title=" " alt="" coords="1583,211,1825,280"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="2341,66,2179,111,1820,213,1818,208,2178,105,2339,61"/>
+<area shape="rect" id="Node000017" href="$GameRenderer_8cpp.html" title=" " alt="" coords="1850,218,2145,273"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="2382,68,2054,220,2052,216,2380,63"/>
+<area shape="rect" id="Node000018" href="$PreStitchedTextureMap_8cpp.html" title=" " alt="" coords="2169,211,2463,280"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="2428,73,2339,212,2335,209,2423,70"/>
+<area shape="rect" id="Node000019" href="$TextureManager_8cpp.html" title=" " alt="" coords="2487,218,2790,273"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="2451,74,2457,119,2465,141,2477,161,2511,193,2552,216,2550,220,2508,197,2473,164,2460,143,2452,120,2446,74"/>
+<area shape="rect" id="Node000020" href="$TextureMap_8cpp.html" title=" " alt="" coords="3017,218,3292,273"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="2594,38,2751,48,2917,62,3055,81,3103,93,3130,106,3148,131,3158,161,3161,191,3161,218,3155,218,3156,191,3152,162,3143,134,3126,110,3101,98,3054,87,2917,68,2751,53,2594,43"/>
+<area shape="rect" id="Node000021" href="$TexturePack_8cpp.html" title=" " alt="" coords="2841,108,3117,163"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="2594,59,2842,105,2841,111,2593,64"/>
+<area shape="rect" id="Node000022" href="$TexturePackRepository_8h.html" title=" " alt="" coords="2487,108,2817,163"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="2516,64,2600,106,2598,110,2513,68"/>
+<area shape="rect" id="Node000023" href="$Textures_8cpp.html" title=" " alt="" coords="3316,218,3569,273"/>
+<area shape="poly" id="edge35_Node000001_Node000023" title=" " alt="" coords="2594,32,2717,37,2860,50,3012,72,3161,105,3229,129,3295,158,3402,216,3399,220,3293,163,3227,134,3159,111,3011,77,2859,55,2716,43,2593,37"/>
+<area shape="rect" id="Node000003" href="$AbstractTexturePack_8cpp.html" title=" " alt="" coords="647,211,921,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="892,173,834,212,831,208,889,168"/>
+<area shape="rect" id="Node000004" href="$DLCTexturePack_8h.html" title=" " alt="" coords="1271,218,1558,273"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1069,163,1300,215,1299,221,1068,168"/>
+<area shape="rect" id="Node000010" href="$DefaultTexturePack_8h.html" title=" " alt="" coords="5,218,315,273"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="770,156,558,181,327,213,285,221,284,215,326,208,557,176,769,151"/>
+<area shape="rect" id="Node000012" href="$FileTexturePack_8h.html" title=" " alt="" coords="339,218,623,273"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="816,168,593,221,592,215,815,163"/>
+<area shape="rect" id="Node000014" href="$FolderTexturePack_8h.html" title=" " alt="" coords="945,218,1247,273"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="991,168,1059,215,1056,220,988,173"/>
+<area shape="rect" id="Node000005" href="$ClientConnection_8cpp.html" title=" " alt="" coords="2755,335,3064,390"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1539,272,1571,277,1738,295,1880,305,2005,308,2121,308,2363,308,2506,313,2674,325,2754,335,2754,340,2673,331,2506,318,2363,313,2121,313,2005,313,1879,310,1737,301,1570,283,1538,278"/>
+<area shape="rect" id="Node000006" href="$DLCTexturePack_8cpp.html" title=" " alt="" coords="1357,335,1659,390"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1447,282,1489,333,1485,337,1442,285"/>
+<area shape="rect" id="Node000007" href="$Minecraft_8cpp.html" title=" " alt="" coords="1964,335,2223,390"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1547,273,1571,277,1778,312,1964,341,1963,346,1777,318,1570,283,1546,278"/>
+<area shape="rect" id="Node000008" href="$ServerLevel_8cpp.html" title=" " alt="" coords="2387,335,2661,390"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="1541,273,1571,277,1757,299,1902,307,2048,312,2235,325,2387,342,2386,347,2234,331,2048,317,1902,312,1756,304,1570,283,1540,278"/>
+<area shape="rect" id="Node000009" href="$TexturePackRepository_8cpp.html" title=" " alt="" coords="988,335,1332,390"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1345,281,1219,338,1217,333,1343,276"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="295,272,327,277,509,296,651,302,793,308,975,325,1025,333,1024,338,974,331,793,313,650,308,508,302,326,283,294,278"/>
+<area shape="rect" id="Node000011" href="$DefaultTexturePack_8cpp.html" title=" " alt="" coords="27,328,293,397"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="163,286,163,328,157,328,157,286"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="610,273,635,277,805,302,975,325,1019,333,1018,338,974,331,804,308,634,283,609,278"/>
+<area shape="rect" id="Node000013" href="$FileTexturePack_8cpp.html" title=" " alt="" coords="324,335,623,390"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="481,286,478,335,473,335,476,286"/>
+<area shape="poly" id="edge17_Node000014_Node000009" title=" " alt="" coords="1120,283,1148,334,1143,336,1115,286"/>
+<area shape="rect" id="Node000015" href="$FolderTexturePack_8cpp.html" title=" " alt="" coords="647,335,963,390"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1018,280,873,338,871,333,1017,275"/>
+<area shape="poly" id="edge25_Node000022_Node000005" title=" " alt="" coords="2824,163,2887,183,2910,195,2926,209,2935,224,2940,240,2941,274,2934,307,2924,336,2919,334,2929,306,2936,274,2935,241,2930,226,2922,212,2907,200,2885,188,2822,168"/>
+<area shape="poly" id="edge28_Node000022_Node000007" title=" " alt="" coords="2799,167,2826,185,2849,209,2859,228,2864,246,2860,264,2848,282,2819,296,2766,306,2617,319,2375,331,2223,348,2223,343,2374,325,2617,314,2765,301,2818,291,2845,278,2855,262,2858,246,2854,230,2845,212,2823,189,2796,171"/>
+<area shape="poly" id="edge30_Node000022_Node000008" title=" " alt="" coords="2802,164,2862,184,2884,196,2899,209,2910,228,2914,246,2911,263,2899,282,2869,297,2812,313,2662,343,2661,337,2811,308,2867,292,2896,278,2906,262,2909,246,2905,230,2895,212,2881,200,2860,189,2800,169"/>
+<area shape="poly" id="edge33_Node000022_Node000009" title=" " alt="" coords="2757,167,2783,185,2804,209,2814,228,2818,247,2815,265,2803,282,2777,293,2726,301,2561,314,2337,321,2082,325,1598,328,1344,331,1291,338,1290,333,1344,325,1598,322,2082,320,2337,316,2561,308,2726,296,2776,287,2800,278,2810,263,2813,247,2809,230,2799,212,2779,189,2754,171"/>
+<area shape="poly" id="edge26_Node000022_Node000016" title=" " alt="" coords="2474,148,2175,170,2005,189,1838,213,1826,215,1825,210,1837,208,2005,184,2174,165,2473,142"/>
+<area shape="poly" id="edge27_Node000022_Node000017" title=" " alt="" coords="2474,163,2158,213,2119,221,2118,215,2157,208,2473,158"/>
+<area shape="poly" id="edge29_Node000022_Node000018" title=" " alt="" coords="2558,169,2421,213,2420,208,2556,164"/>
+<area shape="poly" id="edge31_Node000022_Node000019" title=" " alt="" coords="2650,177,2645,218,2639,217,2644,177"/>
+<area shape="poly" id="edge32_Node000022_Node000020" title=" " alt="" coords="2788,163,2999,208,3033,215,3032,221,2998,213,2786,168"/>
+<area shape="poly" id="edge34_Node000022_Node000023" title=" " alt="" coords="2831,160,2965,174,3069,181,3173,189,3304,208,3342,215,3341,221,3304,213,3173,195,3069,186,2964,179,2830,166"/>
+</map>

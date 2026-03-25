@@ -1,0 +1,7 @@
+<map id="CTelemetryManager" name="CTelemetryManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,5,286,31"/>
+<area shape="rect" id="Node000002" href="$classCDurangoTelemetryManager.html" title=" " alt="" coords="5,79,213,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,41,127,81,124,76,181,36"/>
+<area shape="rect" id="Node000003" href="$classCSentientManager.html" title=" " alt="" coords="238,79,381,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,36,295,76,291,81,235,41"/>
+</map>

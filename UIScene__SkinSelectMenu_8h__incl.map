@@ -1,0 +1,27 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIScene_SkinSelectMenu.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/UIScene_SkinSelectMenu.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,5,355,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,123,165,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,77,126,117,123,113,182,73"/>
+<area shape="rect" id="Node000003" href="$UIScene_8h.html" title=" " alt="" coords="190,130,277,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,75,236,116,231,116,231,75"/>
+<area shape="rect" id="Node000011" href="$UIControl__PlayerSkinPreview_8h.html" title=" " alt="" coords="330,130,553,155"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="304,73,406,122,404,126,302,77"/>
+<area shape="rect" id="Node000004" href="$UIEnums_8h.html" title=" " alt="" coords="74,211,166,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="218,158,149,205,146,201,215,153"/>
+<area shape="rect" id="Node000005" href="$UIControl__Base_8h.html" title=" " alt="" coords="255,284,390,309"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="232,156,224,193,225,215,232,235,252,259,279,276,276,280,249,263,227,237,220,216,219,193,227,155"/>
+<area shape="rect" id="Node000010" href="$UIControl__TextInput_8h.html" title=" " alt="" coords="241,211,404,236"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="248,154,301,200,298,204,245,158"/>
+<area shape="rect" id="Node000006" href="$UIControl_8h.html" title=" " alt="" coords="393,357,487,383"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="343,307,410,348,408,352,340,312"/>
+<area shape="rect" id="Node000007" href="$UIString_8h.html" title=" " alt="" coords="279,357,366,383"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="325,310,325,344,320,344,320,310"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="257,431,300,456"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="318,384,295,420,291,418,313,382"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="325,431,411,456"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="332,382,356,418,351,421,328,384"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="325,236,325,270,320,270,320,236"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="444,155,443,343,437,343,439,155"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="479,211,593,236"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="457,153,513,200,510,204,454,158"/>
+</map>

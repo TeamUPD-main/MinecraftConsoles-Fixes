@@ -1,0 +1,28 @@
+var classUIScene__BeaconMenu =
+[
+    [ "UIScene_BeaconMenu", "classUIScene__BeaconMenu.html#abc801f1f28a86c5fc1820b93af43d4af", null ],
+    [ "AddPowerButton", "classUIScene__BeaconMenu.html#acd652b2d2d12051f552188ec97129e12", null ],
+    [ "customDraw", "classUIScene__BeaconMenu.html#a5f54223bfee4ef752b33c8cff7bce3ad", null ],
+    [ "GetBaseSlotCount", "classUIScene__BeaconMenu.html#abd520949cdffd455a841a32d2d2a6ac3", null ],
+    [ "GetItemScreenData", "classUIScene__BeaconMenu.html#a514002eaa969ac55629f47feb8f6dfa5", null ],
+    [ "getMoviePath", "classUIScene__BeaconMenu.html#a9bb5d86c607a18d485805c50457e1ffb", null ],
+    [ "GetPositionOfSection", "classUIScene__BeaconMenu.html#a1e390aa68e73d1ef9334f76a554e6f07", null ],
+    [ "GetPowerButtonId", "classUIScene__BeaconMenu.html#a07ac886fa1cee58e791e31cb5147b0ba", null ],
+    [ "getSceneType", "classUIScene__BeaconMenu.html#a44b4e6b54d8ca867c8d8f9e79d0317bb", null ],
+    [ "getSection", "classUIScene__BeaconMenu.html#a707986d074c9ec6c5496869b2f641e8b", null ],
+    [ "getSectionColumns", "classUIScene__BeaconMenu.html#a09dbf437fcad706680cb33c182c488cb", null ],
+    [ "getSectionRows", "classUIScene__BeaconMenu.html#a8f857a6cfb6ded34f128b20d363c5886", null ],
+    [ "handleReload", "classUIScene__BeaconMenu.html#a0d207f7c7ed617d073b9af72c07f19ca", null ],
+    [ "handleSectionClick", "classUIScene__BeaconMenu.html#a20019f3152f8c2cb4d4849863627c047", null ],
+    [ "IsPowerButtonSelected", "classUIScene__BeaconMenu.html#aa33ced81165562525515ec40d7a53c7d", null ],
+    [ "SetConfirmButtonEnabled", "classUIScene__BeaconMenu.html#aaba53699666587368ae9f4b920d1b054", null ],
+    [ "SetPowerButtonSelected", "classUIScene__BeaconMenu.html#abd17c4a3560a36c1e8e9d389bae8652d", null ],
+    [ "setSectionSelectedSlot", "classUIScene__BeaconMenu.html#abe2805812c5a010d04690e61a3273a85", null ],
+    [ "tick", "classUIScene__BeaconMenu.html#a0a8448d286da6b76328bacd8e6bf4288", null ],
+    [ "m_buttonConfirm", "classUIScene__BeaconMenu.html#a9435e538ad6cbc6f29273b063dd9b48e", null ],
+    [ "m_buttonsPowers", "classUIScene__BeaconMenu.html#a62d07a017773cb73060af51b82a7fe84", null ],
+    [ "m_labelPrimary", "classUIScene__BeaconMenu.html#aa2cc8c32b6d1141fea6e62f06e8c3188", null ],
+    [ "m_labelSecondary", "classUIScene__BeaconMenu.html#aaedde225e83f33a2765e698a9e356d18", null ],
+    [ "m_slotListActivator", "classUIScene__BeaconMenu.html#ae63498226a62d872b5957e68b3179acd", null ],
+    [ "m_slotListActivatorIcons", "classUIScene__BeaconMenu.html#a37fddabe6d3f58806308fcc0ed25ea8f", null ]
+];

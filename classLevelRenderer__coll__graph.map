@@ -1,0 +1,11 @@
+<map id="LevelRenderer" name="LevelRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="421,84,537,109"/>
+<area shape="rect" id="Node000002" href="$classLevelListener.html" title=" " alt="" coords="46,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,18,278,30,339,41,398,55,430,68,457,82,455,86,428,72,397,61,338,46,277,35,169,24"/>
+<area shape="rect" id="Node000003" href="$classOrbisCriticalSection.html" title=" " alt="" coords="25,55,176,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,72,421,90,421,95,190,77"/>
+<area shape="rect" id="Node000004" href="$classLevelRenderer_1_1DestroyedTileManager.html" title=" " alt="" coords="5,105,196,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,121,301,117,397,109,421,105,422,111,398,114,301,122,210,126"/>
+<area shape="rect" id="Node000005" href="$classXLockFreeStack.html" title=" " alt="" coords="15,169,187,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,176,296,165,347,155,396,141,430,125,459,107,462,112,433,130,398,146,349,160,297,170,200,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TileEntityDataPacket" name="TileEntityDataPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,108,193,133"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,20,69,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,54,106,106,102,109,55,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,291,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,72,127,109,123,106,157,68"/>
+</map>

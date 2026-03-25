@@ -1,0 +1,19 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/Network/SonyRemoteStorage_PS3.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/Network/SonyRemoteStorage_PS3.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,5,486,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,123,80,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,77,94,122,92,117,244,72"/>
+<area shape="rect" id="Node000003" href="$SonyRemoteStorage__PS3_8h.html" title=" " alt="" coords="103,123,302,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,77,235,118,233,113,301,72"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="325,123,392,148"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="361,75,361,109,356,109,356,75"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="416,123,475,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="392,73,427,111,423,114,388,77"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="499,123,570,148"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="423,72,502,114,499,118,421,77"/>
+<area shape="rect" id="Node000004" href="$sceRemoteStorage_8h.html" title=" " alt="" coords="103,196,302,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,148,205,182,200,182,200,148"/>
+<area shape="rect" id="Node000005" href="$sceRemoteStorageDefines_8h.html" title=" " alt="" coords="99,299,306,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,251,205,285,200,285,200,251"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="167,372,238,397"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,324,205,358,200,358,200,324"/>
+</map>

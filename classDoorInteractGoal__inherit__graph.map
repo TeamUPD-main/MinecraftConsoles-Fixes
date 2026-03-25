@@ -1,0 +1,9 @@
+<map id="DoorInteractGoal" name="DoorInteractGoal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,79,205,104"/>
+<area shape="rect" id="Node000003" href="$classBreakDoorGoal.html" title=" " alt="" coords="5,152,127,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,116,80,154,76,150,114,112"/>
+<area shape="rect" id="Node000004" href="$classOpenDoorGoal.html" title=" " alt="" coords="151,152,269,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,112,200,150,196,154,158,116"/>
+<area shape="rect" id="Node000002" href="$classGoal.html" title=" " alt="" coords="112,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,44,141,79,135,79,135,44"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/ChestModel.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/ChestModel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,5,727,60"/>
+<area shape="rect" id="Node000002" href="$ChestModel_8cpp.html" title=" " alt="" coords="44,108,319,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,66,290,111,289,105,475,61"/>
+<area shape="rect" id="Node000003" href="$ChestRenderer_8cpp.html" title=" " alt="" coords="664,218,957,273"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="635,68,671,106,722,161,782,216,778,220,718,165,667,110,631,72"/>
+<area shape="rect" id="Node000004" href="$EnderChestRenderer_8h.html" title=" " alt="" coords="343,108,657,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="564,72,527,110,523,106,560,68"/>
+<area shape="rect" id="Node000007" href="$LargeChestModel_8h.html" title=" " alt="" coords="732,108,1028,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="685,62,807,105,805,110,683,67"/>
+<area shape="rect" id="Node000005" href="$EnderChestRenderer_8cpp.html" title=" " alt="" coords="5,218,336,273"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="408,170,251,220,250,215,406,164"/>
+<area shape="rect" id="Node000006" href="$TileEntityRenderDispatcher_8cpp.html" title=" " alt="" coords="361,211,639,280"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="503,177,503,210,497,210,497,177"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="858,176,830,219,825,216,853,173"/>
+<area shape="rect" id="Node000008" href="$LargeChestModel_8cpp.html" title=" " alt="" coords="982,218,1293,273"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="957,166,1076,215,1074,220,954,171"/>
+</map>

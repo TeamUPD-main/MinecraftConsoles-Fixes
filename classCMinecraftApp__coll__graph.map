@@ -1,0 +1,23 @@
+<map id="CMinecraftApp" name="CMinecraftApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="683,194,800,219"/>
+<area shape="rect" id="Node000002" href="$classDLCManager.html" title=" " alt="" coords="363,14,469,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,16,525,16,571,21,618,32,660,54,693,86,716,125,732,164,740,193,735,195,726,165,712,128,689,89,657,58,616,37,570,26,524,21,482,22"/>
+<area shape="rect" id="Node000003" href="$classArchiveFile.html" title=" " alt="" coords="369,63,463,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="477,70,520,71,567,77,615,88,660,107,686,126,707,149,736,192,731,195,703,153,682,130,657,112,613,93,566,82,519,77,477,75"/>
+<area shape="rect" id="Node000004" href="$classFile.html" title=" " alt="" coords="79,35,124,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,48,369,69,368,75,137,54"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,85,197,125"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="211,93,309,84,368,78,369,83,310,89,211,98"/>
+<area shape="rect" id="Node000006" href="$classStringTable.html" title=" " alt="" coords="369,113,463,138"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="477,123,565,131,613,140,660,154,696,172,726,192,723,196,694,176,658,158,612,145,564,136,477,129"/>
+<area shape="rect" id="Node000007" href="$structTIPSTRUCT.html" title=" " alt="" coords="369,167,463,193"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="477,182,683,199,682,205,477,188"/>
+<area shape="rect" id="Node000008" href="$classRandom.html" title=" " alt="" coords="378,217,454,242"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="468,230,557,232,658,225,699,217,700,222,659,231,557,237,468,235"/>
+<area shape="rect" id="Node000009" href="$struct__XUSER__SIGNIN__INFO.html" title=" " alt="" coords="333,266,499,291"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="512,276,585,269,658,252,693,236,722,217,724,222,695,241,660,257,586,274,513,281"/>
+<area shape="rect" id="Node000010" href="$structBANNEDLIST.html" title=" " alt="" coords="363,315,469,341"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="483,330,524,329,569,324,615,314,657,296,682,279,702,258,731,218,735,221,706,262,685,283,660,301,616,319,570,329,524,334,483,335"/>
+<area shape="rect" id="Node000011" href="$classGameRuleManager.html" title=" " alt="" coords="343,365,489,390"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="503,384,542,383,582,378,621,368,657,350,688,320,711,283,726,247,735,219,740,220,731,249,716,286,692,324,660,354,623,373,583,384,542,389,503,390"/>
+</map>

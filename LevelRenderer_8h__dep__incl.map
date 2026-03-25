@@ -1,0 +1,41 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/LevelRenderer.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/LevelRenderer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1965,5,2241,60"/>
+<area shape="rect" id="Node000002" href="$Chunk_8cpp.html" title=" " alt="" coords="5,225,248,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1951,40,1743,47,1481,61,1190,81,899,111,719,136,539,168,243,228,242,223,538,162,718,131,898,105,1190,76,1480,55,1743,42,1951,35"/>
+<area shape="rect" id="Node000003" href="$Chunk_8h.html" title=" " alt="" coords="911,115,1153,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1951,42,1789,50,1594,63,1383,83,1172,111,1134,118,1133,113,1172,105,1382,77,1594,58,1789,44,1951,36"/>
+<area shape="rect" id="Node000006" href="$GameRenderer_8cpp.html" title=" " alt="" coords="965,225,1259,280"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="1951,39,1775,45,1581,58,1403,79,1331,93,1277,110,1233,135,1194,166,1135,227,1131,223,1190,162,1230,130,1275,106,1330,88,1402,74,1580,53,1775,40,1950,34"/>
+<area shape="rect" id="Node000007" href="$LevelRenderer_8cpp.html" title=" " alt="" coords="1284,225,1575,280"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="1951,40,1761,47,1557,60,1464,69,1386,80,1328,94,1309,102,1298,110,1288,126,1285,141,1289,158,1298,176,1322,203,1352,223,1349,227,1318,207,1294,179,1284,159,1280,141,1283,124,1294,106,1307,97,1327,89,1385,75,1463,64,1556,54,1761,41,1951,34"/>
+<area shape="rect" id="Node000008" href="$Minecraft_8cpp.html" title=" " alt="" coords="1599,225,1857,280"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="1951,40,1767,48,1569,61,1479,70,1404,81,1349,95,1319,110,1308,126,1305,142,1309,159,1319,176,1339,190,1368,200,1444,212,1525,217,1587,223,1599,225,1598,230,1586,228,1525,222,1444,217,1367,206,1336,195,1315,179,1304,161,1299,142,1303,124,1316,106,1347,90,1403,76,1479,65,1568,55,1766,42,1951,35"/>
+<area shape="rect" id="Node000009" href="$ClientConnection_8cpp.html" title=" " alt="" coords="1329,115,1639,170"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1952,60,1652,111,1613,118,1612,113,1652,105,1951,55"/>
+<area shape="rect" id="Node000010" href="$GameMode_8cpp.html" title=" " alt="" coords="1663,115,1937,170"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="2017,67,1874,118,1873,113,2015,62"/>
+<area shape="rect" id="Node000011" href="$MultiPlayerGameMode_8cpp.html" title=" " alt="" coords="1961,108,2245,177"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="2105,74,2105,108,2100,108,2100,74"/>
+<area shape="rect" id="Node000012" href="$MultiPlayerLocalPlayer_8cpp.html" title=" " alt="" coords="2269,108,2547,177"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="2191,62,2314,105,2312,110,2189,67"/>
+<area shape="rect" id="Node000013" href="$Options_8cpp.html" title=" " alt="" coords="2572,115,2820,170"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="2255,53,2403,76,2561,105,2594,113,2593,118,2559,111,2402,82,2254,58"/>
+<area shape="rect" id="Node000014" href="$PreStitchedTextureMap_8cpp.html" title=" " alt="" coords="2844,108,3137,177"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="2255,42,2524,66,2679,84,2832,105,2844,107,2843,113,2832,111,2678,89,2524,72,2254,47"/>
+<area shape="rect" id="Node000015" href="$ServerPlayer_8cpp.html" title=" " alt="" coords="3161,115,3441,170"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="2255,35,2436,43,2660,56,2905,76,3150,105,3192,113,3191,118,3149,111,2905,81,2660,61,2436,48,2255,40"/>
+<area shape="rect" id="Node000016" href="$ServerPlayerGameMode_8cpp.html" title=" " alt="" coords="3465,108,3759,177"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="2254,32,2487,37,2786,49,3119,70,3288,86,3454,105,3466,107,3465,112,3453,111,3288,91,3119,76,2786,54,2487,42,2254,37"/>
+<area shape="rect" id="Node000017" href="$SurvivalMode_8cpp.html" title=" " alt="" coords="3783,115,4070,170"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="2255,35,3036,59,3461,80,3637,92,3771,105,3816,113,3815,118,3770,111,3636,97,3461,85,3036,65,2254,40"/>
+<area shape="rect" id="Node000018" href="$TextureMap_8cpp.html" title=" " alt="" coords="4095,115,4369,170"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="2254,33,2659,41,3186,55,3704,76,3919,89,4083,105,4127,113,4126,118,4082,111,3919,95,3704,81,3186,60,2659,46,2254,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="897,157,604,185,432,205,260,228,249,230,248,225,260,223,431,199,604,180,897,152"/>
+<area shape="rect" id="Node000004" href="$DirtyChunkSorter_8cpp.html" title=" " alt="" coords="272,225,581,280"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="898,171,574,228,573,223,897,165"/>
+<area shape="rect" id="Node000005" href="$DistanceChunkSorter_8cpp.html" title=" " alt="" coords="606,225,941,280"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="957,178,837,228,835,223,955,173"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="1062,180,1095,224,1090,227,1058,183"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="1142,171,1334,223,1332,228,1141,176"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="1167,160,1587,223,1599,225,1598,230,1586,228,1166,165"/>
+</map>

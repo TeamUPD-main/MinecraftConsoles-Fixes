@@ -1,0 +1,7 @@
+<map id="Merchant" name="Merchant">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,188,31"/>
+<area shape="rect" id="Node000002" href="$classClientSideMerchant.html" title=" " alt="" coords="5,79,155,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,43,93,80,89,77,124,39"/>
+<area shape="rect" id="Node000003" href="$classVillager.html" title=" " alt="" coords="179,79,251,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,39,206,77,202,80,165,42"/>
+</map>

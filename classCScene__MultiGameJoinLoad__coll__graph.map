@@ -1,0 +1,11 @@
+<map id="CScene_MultiGameJoinLoad" name="CScene_MultiGameJoinLoad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,196,209,221"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,93,146,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,131,108,195,102,197,89,133"/>
+<area shape="rect" id="Node000003" href="$classCXuiCtrl4JList.html" title=" " alt="" coords="171,93,281,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,129,123,198,119,194,200,125"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,5,202,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,39,217,91,213,95,167,43"/>
+<area shape="rect" id="Node000005" href="$classOrbisCriticalSection.html" title=" " alt="" coords="227,5,377,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="285,43,239,95,235,91,281,39"/>
+</map>

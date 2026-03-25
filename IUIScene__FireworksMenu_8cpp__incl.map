@@ -1,0 +1,11 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/IUIScene_FireworksMenu.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/UI/IUIScene_FireworksMenu.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,324,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,77,74,125,71,120,148,73"/>
+<area shape="rect" id="Node000003" href="$IUIScene__FireworksMenu_8h.html" title=" " alt="" coords="104,130,301,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,75,205,116,200,116,200,75"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="325,123,555,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="283,72,384,115,382,120,281,77"/>
+<area shape="rect" id="Node000004" href="$IUIScene__AbstractContainerMenu_8h.html" title=" " alt="" coords="101,211,304,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,156,205,197,200,197,200,156"/>
+</map>

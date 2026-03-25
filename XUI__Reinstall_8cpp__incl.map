@@ -1,0 +1,33 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Reinstall.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Reinstall.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1085,5,1328,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1085,48,851,59,565,75,291,97,178,111,93,125,82,128,81,123,91,120,178,105,291,92,565,70,851,53,1085,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,130,179,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1085,43,909,46,685,58,437,82,313,101,191,125,181,128,180,123,190,120,312,96,437,77,684,52,909,41,1085,37"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="203,130,363,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1086,52,764,79,569,100,375,125,348,130,347,125,374,120,569,94,763,74,1085,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="387,123,547,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1085,56,847,84,561,125,560,120,846,79,1085,51"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="571,123,731,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1085,64,744,125,744,120,1084,59"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="755,123,917,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1086,77,920,121,918,116,1085,72"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="941,123,1102,163"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1146,77,1070,118,1067,114,1143,73"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1127,123,1287,163"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1209,75,1209,108,1204,108,1204,75"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1311,123,1471,163"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1270,73,1345,114,1343,118,1267,77"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1495,123,1657,163"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1329,72,1494,116,1493,122,1327,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1681,130,1841,155"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1329,59,1670,120,1694,125,1693,130,1669,125,1328,64"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1866,130,2038,155"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1329,52,1572,81,1854,120,1882,125,1881,130,1853,125,1571,86,1328,57"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="2063,123,2223,163"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1328,46,1650,73,1848,94,2049,120,2049,125,1847,99,1650,78,1328,52"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2247,130,2366,155"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1328,41,1506,49,1732,62,1984,86,2235,120,2255,124,2254,129,2234,125,1983,91,1732,68,1506,54,1328,47"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="2390,130,2498,155"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1328,39,1529,43,1792,55,2085,80,2234,98,2379,120,2397,124,2396,129,2378,125,2233,103,2084,85,1791,61,1529,48,1328,44"/>
+</map>

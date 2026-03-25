@@ -1,0 +1,12 @@
+<map id="UIComponent_Logo" name="UIComponent_Logo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,256,231,281"/>
+<area shape="rect" id="Node000002" href="$classUIScene.html" title=" " alt="" coords="119,181,193,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,221,159,256,153,256,153,221"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="5,93,120,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,126,145,179,141,183,84,130"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="135,97,147,106,138,114,120,116,120,111,136,109,141,106,132,102"/>
+<area shape="rect" id="Node000004" href="$classUILayer.html" title=" " alt="" coords="215,93,287,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="231,130,200,159,172,183,169,179,197,155,228,127"/>
+<area shape="rect" id="Node000005" href="$classUIGroup.html" title=" " alt="" coords="213,5,288,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="253,45,253,93,248,93,248,45"/>
+</map>

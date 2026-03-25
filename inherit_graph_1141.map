@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classTexturePack.html" title=" " alt="" coords="5,80,105,105"/>
+<area shape="rect" id="Node000001" href="$classAbstractTexturePack.html" title=" " alt="" coords="153,80,308,105"/>
+<area shape="poly" id="edge1481_Node000000_Node000001" title=" " alt="" coords="119,90,153,90,153,95,119,95"/>
+<area shape="rect" id="Node000002" href="$classDLCTexturePack.html" title=" " alt="" coords="367,5,493,31"/>
+<area shape="poly" id="edge1482_Node000001_Node000002" title=" " alt="" coords="273,72,355,40,388,28,389,33,357,44,275,77"/>
+<area shape="rect" id="Node000003" href="$classDefaultTexturePack.html" title=" " alt="" coords="356,55,504,80"/>
+<area shape="poly" id="edge1483_Node000001_Node000003" title=" " alt="" coords="321,79,355,74,356,79,322,84"/>
+<area shape="rect" id="Node000004" href="$classFileTexturePack.html" title=" " alt="" coords="369,104,491,129"/>
+<area shape="poly" id="edge1484_Node000001_Node000004" title=" " alt="" coords="322,101,368,107,368,112,321,106"/>
+<area shape="rect" id="Node000005" href="$classFolderTexturePack.html" title=" " alt="" coords="360,153,500,179"/>
+<area shape="poly" id="edge1485_Node000001_Node000005" title=" " alt="" coords="277,108,357,138,392,151,390,156,355,143,275,113"/>
+</map>

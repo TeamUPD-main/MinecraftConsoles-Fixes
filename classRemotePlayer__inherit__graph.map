@@ -1,0 +1,15 @@
+<map id="RemotePlayer" name="RemotePlayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="169,313,283,339"/>
+<area shape="rect" id="Node000002" href="$classPlayer.html" title=" " alt="" coords="195,240,257,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,279,229,313,223,313,223,279"/>
+<area shape="rect" id="Node000003" href="$classLivingEntity.html" title=" " alt="" coords="35,167,134,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,196,204,237,202,242,118,200"/>
+<area shape="rect" id="Node000004" href="$classEntity.html" title=" " alt="" coords="55,93,115,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,132,87,167,82,167,82,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+<area shape="rect" id="Node000006" href="$classCommandSender.html" title=" " alt="" coords="159,167,293,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,206,229,240,223,240,223,206"/>
+<area shape="rect" id="Node000007" href="$classScoreHolder.html" title=" " alt="" coords="318,167,419,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="335,200,251,242,248,237,332,196"/>
+</map>

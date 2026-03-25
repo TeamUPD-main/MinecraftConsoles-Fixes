@@ -1,0 +1,5 @@
+<map id="Sentient::SenResourceInfo" name="Sentient::SenResourceInfo">
+<area shape="rect" id="Node000001" title="Generic resource information." alt="" coords="5,108,199,133"/>
+<area shape="rect" id="Node000002" href="$struct__SYSTEMTIME.html" title=" " alt="" coords="45,5,159,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,45,105,108,99,108,99,45"/>
+</map>

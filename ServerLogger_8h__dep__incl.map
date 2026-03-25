@@ -1,0 +1,17 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/ServerLogger.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/ServerLogger.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="541,5,813,60"/>
+<area shape="rect" id="Node000002" href="$ServerLogManager_8cpp.html" title=" " alt="" coords="5,108,328,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,65,300,111,299,105,531,60"/>
+<area shape="rect" id="Node000003" href="$ServerLogger_8cpp.html" title=" " alt="" coords="353,108,639,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="619,69,545,110,542,105,617,64"/>
+<area shape="rect" id="Node000004" href="$ServerProperties_8cpp.html" title=" " alt="" coords="458,211,769,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="675,74,666,118,653,164,631,211,626,209,648,162,661,116,669,73"/>
+<area shape="rect" id="Node000005" href="$ServerProperties_8h.html" title=" " alt="" coords="715,108,1010,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="739,64,815,105,813,110,736,69"/>
+<area shape="rect" id="Node000007" href="$WorldManager_8cpp.html" title=" " alt="" coords="874,313,1169,368"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="827,38,877,47,928,60,977,80,1023,106,1063,139,1089,175,1096,195,1098,217,1095,241,1088,266,1073,293,1054,315,1050,311,1069,290,1083,264,1090,240,1092,217,1090,196,1084,178,1059,143,1020,110,975,84,926,65,876,52,827,43"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="786,170,679,213,677,208,784,165"/>
+<area shape="rect" id="Node000006" href="$WorldManager_8h.html" title=" " alt="" coords="793,211,1073,265"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="891,173,917,209,913,212,887,176"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="967,274,1000,311,996,315,963,277"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MinecartRenderer" name="MinecartRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,79,272,104"/>
+<area shape="rect" id="Node000003" href="$classMinecartSpawnerRenderer.html" title=" " alt="" coords="5,152,200,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,114,121,154,117,150,174,110"/>
+<area shape="rect" id="Node000004" href="$classTntMinecartRenderer.html" title=" " alt="" coords="225,152,383,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,110,289,150,286,154,229,114"/>
+<area shape="rect" id="Node000002" href="$classEntityRenderer.html" title=" " alt="" coords="143,5,262,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,44,205,79,200,79,200,44"/>
+</map>

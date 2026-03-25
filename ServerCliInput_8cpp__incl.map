@@ -1,0 +1,35 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/Console/ServerCliInput.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Server/Console/ServerCliInput.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="443,5,685,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,130,100,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,60,285,86,113,125,103,128,102,123,111,120,283,81,442,54"/>
+<area shape="rect" id="Node000003" href="$ServerCliInput_8h.html" title=" " alt="" coords="125,130,251,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,76,245,129,243,124,442,71"/>
+<area shape="rect" id="Node000006" href="$ServerCliEngine_8h.html" title=" " alt="" coords="337,130,474,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="512,77,436,125,433,120,509,73"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="499,130,629,155"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="567,75,567,116,561,116,561,75"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="654,123,797,163"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="620,73,685,113,682,118,617,77"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="821,130,891,155"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="670,72,810,120,816,122,814,127,808,125,669,77"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="915,130,986,155"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="686,63,793,89,905,120,912,123,911,128,903,125,792,94,685,68"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,218,72,243"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,158,72,213,69,209,167,153"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="96,218,160,243"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="182,157,147,208,142,205,178,154"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="184,218,261,243"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="382,158,261,214,259,210,380,153"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="285,218,349,243"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="395,157,341,210,337,206,392,154"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="374,218,437,243"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="408,156,408,204,403,204,403,156"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="461,218,520,243"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="419,154,471,206,467,210,415,157"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="545,218,607,243"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="430,153,542,209,540,214,427,158"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="631,211,779,251"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="447,153,627,204,626,209,445,158"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="804,211,953,251"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="453,153,487,160,637,184,791,208,790,213,636,189,486,165,452,158"/>
+</map>

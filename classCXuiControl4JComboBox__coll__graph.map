@@ -1,0 +1,9 @@
+<map id="CXuiControl4JComboBox" name="CXuiControl4JComboBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,211,194,236"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,115,157,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,153,103,210,97,211,84,154"/>
+<area shape="rect" id="Node000003" href="$structCXuiControl4JComboBox_1_1__tagListData.html" title=" " alt="" coords="182,108,365,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,157,125,213,122,208,226,152"/>
+<area shape="rect" id="Node000004" href="$structCXuiControl4JComboBox_1_1__LIST__ITEM__INFO.html" title=" " alt="" coords="182,5,365,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,59,276,108,271,108,271,59"/>
+</map>

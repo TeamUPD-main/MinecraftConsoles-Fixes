@@ -1,0 +1,7 @@
+<map id="ma_notch2" name="ma_notch2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,269,137,295"/>
+<area shape="rect" id="Node000002" href="$structma__biquad.html" title=" " alt="" coords="43,181,137,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,221,93,269,87,269,87,221"/>
+<area shape="rect" id="Node000003" href="$unionma__biquad__coefficient.html" title=" " alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,44,93,181,87,181,87,44"/>
+</map>

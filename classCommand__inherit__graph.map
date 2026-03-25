@@ -1,0 +1,23 @@
+<map id="Command" name="Command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,95,228"/>
+<area shape="rect" id="Node000002" href="$classEffectCommand.html" title=" " alt="" coords="174,5,301,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,188,66,155,84,114,108,74,141,40,173,24,175,29,144,44,113,77,89,117,71,156,60,190"/>
+<area shape="rect" id="Node000003" href="$classEnchantItemCommand.html" title=" " alt="" coords="152,55,323,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="61,189,92,138,115,112,141,89,164,78,166,82,144,94,118,115,96,141,65,192"/>
+<area shape="rect" id="Node000004" href="$classExperienceCommand.html" title=" " alt="" coords="157,104,318,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="72,191,103,163,141,138,170,127,172,132,144,143,106,168,75,195"/>
+<area shape="rect" id="Node000005" href="$classGameModeCommand.html" title=" " alt="" coords="155,153,319,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="107,197,142,187,185,176,186,181,143,193,109,202"/>
+<area shape="rect" id="Node000007" href="$classGiveItemCommand.html" title=" " alt="" coords="163,203,312,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="109,213,163,213,163,218,109,218"/>
+<area shape="rect" id="Node000008" href="$classKillCommand.html" title=" " alt="" coords="182,252,293,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="109,228,189,249,187,254,107,233"/>
+<area shape="rect" id="Node000009" href="$classTeleportCommand.html" title=" " alt="" coords="167,301,308,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="75,235,106,262,144,286,176,299,174,304,141,291,103,266,72,240"/>
+<area shape="rect" id="Node000010" href="$classTimeCommand.html" title=" " alt="" coords="176,351,299,376"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="66,239,97,289,119,314,144,336,177,351,175,356,141,340,115,318,93,292,61,242"/>
+<area shape="rect" id="Node000011" href="$classToggleDownfallCommand.html" title=" " alt="" coords="143,400,332,425"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="61,241,72,274,89,313,113,352,144,385,166,398,163,402,141,389,109,356,84,316,67,276,56,243"/>
+<area shape="rect" id="Node000006" href="$classDefaultGameModeCommand.html" title=" " alt="" coords="380,153,592,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,163,380,163,380,169,333,169"/>
+</map>

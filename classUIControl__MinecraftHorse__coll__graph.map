@@ -1,0 +1,16 @@
+<map id="UIControl_MinecraftHorse" name="UIControl_MinecraftHorse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,344,195,369"/>
+<area shape="rect" id="Node000002" href="$classUIControl.html" title=" " alt="" coords="59,269,141,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,309,103,344,97,344,97,309"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="156,274,168,282,159,290,142,292,141,286,157,285,163,282,154,278"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="21,93,136,119"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="84,132,93,206,101,269,96,269,88,207,79,133"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="151,97,163,106,154,114,136,116,136,111,152,109,157,106,148,102"/>
+<area shape="rect" id="Node000004" href="$classUIScene.html" title=" " alt="" coords="184,181,259,207"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="108,124,157,155,201,179,198,184,155,160,105,129"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="195,217,118,271,115,267,192,213"/>
+<area shape="rect" id="Node000005" href="$classUILayer.html" title=" " alt="" coords="231,93,303,119"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="256,132,230,182,225,180,252,130"/>
+<area shape="rect" id="Node000006" href="$classUIGroup.html" title=" " alt="" coords="229,5,304,31"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="269,45,269,93,264,93,264,45"/>
+</map>

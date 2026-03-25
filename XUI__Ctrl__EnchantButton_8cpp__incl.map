@@ -1,0 +1,45 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Ctrl_EnchantButton.cpp" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_Ctrl_EnchantButton.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="525,5,768,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,80,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,54,321,80,206,100,93,125,83,128,81,123,91,120,205,95,321,74,525,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,123,333,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="526,72,313,122,312,117,525,67"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="357,123,517,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="578,77,490,119,488,114,575,73"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="542,130,629,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="628,77,602,119,597,117,624,74"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="653,130,763,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="670,74,696,117,691,119,665,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="787,130,994,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="729,72,851,122,849,127,727,77"/>
+<area shape="rect" id="Node000008" href="$XUI__Scene__Enchant_8h.html" title=" " alt="" coords="1019,130,1181,155"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="769,66,1036,124,1034,130,768,71"/>
+<area shape="rect" id="Node000021" href="$XUI__Ctrl__EnchantButton_8h.html" title=" " alt="" coords="1229,130,1419,155"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="769,55,1218,120,1248,125,1247,130,1217,125,768,60"/>
+<area shape="poly" id="edge19_Node000008_Node000008" title=" " alt="" coords="1133,127,1158,124,1182,125,1200,131,1208,143,1202,154,1188,160,1146,160,1146,155,1187,154,1199,150,1203,143,1197,135,1181,130,1159,129,1133,133"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="195,218,402,243"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1049,158,1006,165,840,184,710,191,581,198,415,213,377,219,377,213,414,208,580,192,710,186,840,178,1005,160,1048,153"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="427,218,557,243"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1047,158,1006,165,883,181,787,188,692,196,570,213,549,218,548,212,569,208,691,190,787,182,883,175,1005,160,1046,153"/>
+<area shape="rect" id="Node000011" href="$XUI__Ctrl__SlotList_8h.html" title=" " alt="" coords="582,218,725,243"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1043,158,1006,165,738,213,717,218,716,212,737,208,1005,160,1042,153"/>
+<area shape="rect" id="Node000012" href="$XUI__Ctrl__EnchantmentBook_8h.html" title=" " alt="" coords="749,218,963,243"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="1068,158,902,216,901,211,1066,153"/>
+<area shape="rect" id="Node000014" href="$XUI__Scene__AbstractContainer_8h.html" title=" " alt="" coords="987,218,1213,243"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="1103,156,1103,204,1097,204,1097,156"/>
+<area shape="rect" id="Node000016" href="$XUI__CustomMessages_8h.html" title=" " alt="" coords="1203,306,1381,331"/>
+<area shape="poly" id="edge18_Node000008_Node000016" title=" " alt="" coords="1133,153,1180,175,1227,209,1261,251,1284,292,1279,295,1257,254,1224,213,1177,180,1131,158"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1289,211,1477,251"/>
+<area shape="poly" id="edge17_Node000008_Node000018" title=" " alt="" coords="1139,153,1308,204,1307,209,1137,158"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1501,211,1691,251"/>
+<area shape="poly" id="edge20_Node000008_Node000019" title=" " alt="" coords="1167,153,1488,208,1487,213,1166,158"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1716,211,1876,251"/>
+<area shape="poly" id="edge21_Node000008_Node000020" title=" " alt="" coords="1167,153,1218,160,1352,174,1458,182,1565,191,1702,208,1702,213,1565,196,1458,188,1352,180,1217,165,1167,158"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="579,299,739,339"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="830,246,716,296,713,291,828,241"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="763,299,997,339"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1071,246,942,296,940,291,1069,241"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="1127,241,1254,298,1252,303,1125,246"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1021,299,1179,339"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="1103,244,1103,285,1097,285,1097,244"/>
+</map>

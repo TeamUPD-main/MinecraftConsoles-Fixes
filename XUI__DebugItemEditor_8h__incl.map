@@ -1,0 +1,16 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_DebugItemEditor.h" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/Common/XUI/XUI_DebugItemEditor.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,5,513,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,123,189,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,77,166,121,165,116,293,72"/>
+<area shape="rect" id="Node000003" href="$XUI__Ctrl__CraftIngredientSlot_8h.html" title=" " alt="" coords="213,123,392,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="364,77,331,114,327,110,360,73"/>
+<area shape="rect" id="Node000006" href="$XUI__Ctrl__4JEdit_8h.html" title=" " alt="" coords="416,130,547,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="424,73,464,117,460,121,420,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="571,123,731,163"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="479,72,591,115,589,120,478,77"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="273,211,332,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="305,163,305,197,300,197,300,163"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="399,211,479,236"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="337,160,408,201,405,206,334,165"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="477,157,454,200,449,197,473,154"/>
+</map>

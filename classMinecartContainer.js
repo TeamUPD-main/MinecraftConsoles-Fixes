@@ -1,0 +1,25 @@
+var classMinecartContainer =
+[
+    [ "MinecartContainer", "classMinecartContainer.html#a91891e57e947e0cb695df61882a1859d", null ],
+    [ "MinecartContainer", "classMinecartContainer.html#ae53e98ec68ac926a2513a3fdabe8a40a", null ],
+    [ "addAdditonalSaveData", "classMinecartContainer.html#a4183f02c380939aac500842c37c94567", null ],
+    [ "applyNaturalSlowdown", "classMinecartContainer.html#aeb44713edd2aadb6e045446a9dc376ae", null ],
+    [ "canPlaceItem", "classMinecartContainer.html#af4363001c455ed0b7114625a9e07e4ca", null ],
+    [ "changeDimension", "classMinecartContainer.html#a4f82fc53d2dcfdf8f9d3f015549f1e39", null ],
+    [ "destroy", "classMinecartContainer.html#a57045d8537bc3727f8789e5b5efb5201", null ],
+    [ "getCustomName", "classMinecartContainer.html#a6e8a79e731727e515dbb176e09e558c1", null ],
+    [ "getItem", "classMinecartContainer.html#ac17ad345dfe4e07c8ee76da2e75afca0", null ],
+    [ "getMaxStackSize", "classMinecartContainer.html#a6e23c9bf733f5cebdbca2a4bb380a688", null ],
+    [ "getName", "classMinecartContainer.html#a905d3c36fb0604eb7d6037e154a44355", null ],
+    [ "hasCustomName", "classMinecartContainer.html#ac8a30857e8c44ecee96b38925e891803", null ],
+    [ "interact", "classMinecartContainer.html#af071cd6536d5bfc4dbcf50eb93567842", null ],
+    [ "readAdditionalSaveData", "classMinecartContainer.html#a38f4131f2aa03560bc9cea4b5298637a", null ],
+    [ "remove", "classMinecartContainer.html#a58e18b1ae7544891be7bfc1ca5a199b5", null ],
+    [ "removeItem", "classMinecartContainer.html#a2c4b0a414297bad3690cf8f230c7088d", null ],
+    [ "removeItemNoUpdate", "classMinecartContainer.html#adfa2932e2c3396311a928b3590df0d4b", null ],
+    [ "setChanged", "classMinecartContainer.html#ae1205ff9201b4dfc5b95e35450d21a52", null ],
+    [ "setItem", "classMinecartContainer.html#a28f40a1792b9ed145e87803036994f7b", null ],
+    [ "startOpen", "classMinecartContainer.html#afdc90d096c8606a1d8dde2eeabe14b0a", null ],
+    [ "stillValid", "classMinecartContainer.html#afd491baef44fafda34d4207a48556243", null ],
+    [ "stopOpen", "classMinecartContainer.html#af888a0136b8f119239dcd19dff4895cf", null ]
+];

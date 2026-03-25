@@ -1,0 +1,9 @@
+<map id="ConsoleGenerateStructure" name="ConsoleGenerateStructure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,168,227,193"/>
+<area shape="rect" id="Node000002" href="$classGameRuleDefinition.html" title=" " alt="" coords="5,93,159,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,129,124,166,120,169,95,132"/>
+<area shape="rect" id="Node000003" href="$classStructurePiece.html" title=" " alt="" coords="183,93,299,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,129,149,170,146,166,210,124"/>
+<area shape="rect" id="Node000004" href="$classBoundingBox.html" title=" " alt="" coords="187,5,295,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,45,243,93,238,93,238,45"/>
+</map>

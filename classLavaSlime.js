@@ -1,0 +1,26 @@
+var classLavaSlime =
+[
+    [ "LavaSlime", "classLavaSlime.html#a19407479a533eb8f18d68b956e1fe993", null ],
+    [ "canSpawn", "classLavaSlime.html#a1ba5bee590ebedbfa0b6a6855fa368ef", null ],
+    [ "causeFallDamage", "classLavaSlime.html#ac8608ddf46354c5ad02a94d5fba65687", null ],
+    [ "createChild", "classLavaSlime.html#a35c4e7b1cd97a2ca9f315b5a5a4d55ef", null ],
+    [ "decreaseSquish", "classLavaSlime.html#af4e0d1db6193f68cef166e2f0cd3ccf3", null ],
+    [ "doPlayLandSound", "classLavaSlime.html#a78522f6420b4572ed1582a44fa895d10", null ],
+    [ "dropDeathLoot", "classLavaSlime.html#af374ba23f83a8325619e34419425c0f0", null ],
+    [ "getArmorValue", "classLavaSlime.html#a107f150d75d1fafb58e0d0618edcab99", null ],
+    [ "getAttackDamage", "classLavaSlime.html#a8df3f6a3d12f886890be65fac6a66b71", null ],
+    [ "getBrightness", "classLavaSlime.html#a1a2e9e015c9c3d50f9c5e6c311f0d65c", null ],
+    [ "getDeathLoot", "classLavaSlime.html#ae9ba7cb2f1a2118fb798606a51207d30", null ],
+    [ "getDeathSound", "classLavaSlime.html#a67cf39d826c93de81eab8cade9bdc196", null ],
+    [ "getHurtSound", "classLavaSlime.html#abc798b045d636a6d61509fb694f9838c", null ],
+    [ "getJumpDelay", "classLavaSlime.html#a3bbf58f9132f0e38b9192033323edbb4", null ],
+    [ "getLightColor", "classLavaSlime.html#a527f07dcf28d376f1d670938c6a91aee", null ],
+    [ "getParticleName", "classLavaSlime.html#a67623a5413798d90ac870d06dd150fe4", null ],
+    [ "getSquishSound", "classLavaSlime.html#a03b2984958b5bcba0696ab9f9ef6d5e5", null ],
+    [ "GetType", "classLavaSlime.html#ac223d95073816ba1b1fadd53c5286fef", null ],
+    [ "isDealsDamage", "classLavaSlime.html#acaf4c3bedff66da686180154b2e086fb", null ],
+    [ "isInLava", "classLavaSlime.html#aa463a707e4a58f89ca09fdb2dec9a14b", null ],
+    [ "isOnFire", "classLavaSlime.html#affe6e969ca30861e8a0cbe122829af7e", null ],
+    [ "jumpFromGround", "classLavaSlime.html#a06eee357f71762901e8bffe0cdcec631", null ],
+    [ "registerAttributes", "classLavaSlime.html#a4e32fbeda5a0e4f3250f10e0b67d5cc4", null ]
+];

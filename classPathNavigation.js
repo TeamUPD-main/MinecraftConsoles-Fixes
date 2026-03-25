@@ -1,0 +1,25 @@
+var classPathNavigation =
+[
+    [ "PathNavigation", "classPathNavigation.html#ad3deb54b86fcf804a7062790d3750c34", null ],
+    [ "~PathNavigation", "classPathNavigation.html#abc88a090530a4849a76c4214a761f381", null ],
+    [ "canOpenDoors", "classPathNavigation.html#ab69aabc6ebbcaa8b6e6e5246d9fd5cda", null ],
+    [ "canPassDoors", "classPathNavigation.html#a58c60b24f9beed3f4c96c02270183286", null ],
+    [ "createPath", "classPathNavigation.html#ab6c39422b2b8e700fd11a50fb0d6b26f", null ],
+    [ "createPath", "classPathNavigation.html#ac41cafa1098fb68120a6425a22739082", null ],
+    [ "getAvoidWater", "classPathNavigation.html#a8fda429e12eb2b42808138857352859a", null ],
+    [ "getMaxDist", "classPathNavigation.html#a2392bc8916dd5c82a8c5b4acab8e6ae9", null ],
+    [ "getPath", "classPathNavigation.html#abe2823e878ffc5f429f26dc20639d3f2", null ],
+    [ "isDone", "classPathNavigation.html#a33352c9c41defdfe6c958009e5afc9df", null ],
+    [ "moveTo", "classPathNavigation.html#a940715b8a5d1e81df95304a83af84260", null ],
+    [ "moveTo", "classPathNavigation.html#a0c7b5280a81840d34842d342629a25d2", null ],
+    [ "moveTo", "classPathNavigation.html#a218f6f4782732035a9874d0cd72c751b", null ],
+    [ "setAvoidSun", "classPathNavigation.html#a244df6f1883f0e57e8d1351caeeb5c6c", null ],
+    [ "setAvoidWater", "classPathNavigation.html#a7bac2f5f74000a16d7db28066b68203d", null ],
+    [ "setCanFloat", "classPathNavigation.html#ae67621f18e15b12db86ec808452b189c", null ],
+    [ "setCanOpenDoors", "classPathNavigation.html#aa4f965545ba222761c6aff209eeef3dc", null ],
+    [ "setCanPassDoors", "classPathNavigation.html#af17eb689ab4981c4fac6ec0fd05ca209", null ],
+    [ "setLevel", "classPathNavigation.html#ac2823fbb6a5e3b221cda2f2cf74cc1df", null ],
+    [ "setSpeedModifier", "classPathNavigation.html#a553fcc9e3a4dee70f9d69162371b3e26", null ],
+    [ "stop", "classPathNavigation.html#a16e3f02c1f3a4881be6f4e724496c2e1", null ],
+    [ "tick", "classPathNavigation.html#aa965a4517c5dbcf7b98bc1f1a26b1d16", null ]
+];
