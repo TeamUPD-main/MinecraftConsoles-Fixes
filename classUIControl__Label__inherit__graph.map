@@ -1,0 +1,11 @@
+<map id="UIControl_Label" name="UIControl_Label">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,152,258,177"/>
+<area shape="rect" id="Node000004" href="$classUIControl__DynamicLabel.html" title=" " alt="" coords="5,225,188,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,187,114,227,111,223,167,183"/>
+<area shape="rect" id="Node000005" href="$classUIControl__HTMLLabel.html" title=" " alt="" coords="213,225,375,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,183,279,223,276,227,220,187"/>
+<area shape="rect" id="Node000002" href="$classUIControl__Base.html" title=" " alt="" coords="134,79,257,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,118,198,152,193,152,193,118"/>
+<area shape="rect" id="Node000003" href="$classUIControl.html" title=" " alt="" coords="154,5,237,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,44,198,79,193,79,193,44"/>
+</map>

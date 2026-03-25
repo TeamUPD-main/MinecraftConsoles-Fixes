@@ -1,0 +1,16 @@
+<map id="UIControl_BeaconEffectButton" name="UIControl_BeaconEffectButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,344,224,369"/>
+<area shape="rect" id="Node000002" href="$classUIControl.html" title=" " alt="" coords="73,269,156,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,309,117,344,112,344,112,309"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="171,274,183,282,174,290,156,292,156,286,172,285,177,282,168,278"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="36,93,151,119"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="99,132,108,206,116,269,111,269,103,207,94,133"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="166,97,177,106,169,114,151,116,150,111,167,109,172,106,163,102"/>
+<area shape="rect" id="Node000004" href="$classUIScene.html" title=" " alt="" coords="199,181,273,207"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="123,124,172,155,215,179,213,184,169,160,120,129"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="210,217,133,271,130,267,207,213"/>
+<area shape="rect" id="Node000005" href="$classUILayer.html" title=" " alt="" coords="245,93,317,119"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="271,132,245,182,240,180,266,130"/>
+<area shape="rect" id="Node000006" href="$classUIGroup.html" title=" " alt="" coords="244,5,319,31"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="284,45,284,93,279,93,279,45"/>
+</map>

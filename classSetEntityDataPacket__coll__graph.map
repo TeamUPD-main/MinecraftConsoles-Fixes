@@ -1,0 +1,11 @@
+<map id="SetEntityDataPacket" name="SetEntityDataPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,227,391,252"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="145,145,209,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,174,295,224,293,229,207,179"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,165,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,56,142,112,168,143,164,146,138,115,101,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,13,352,38"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="269,52,260,84,243,115,225,133,204,147,201,142,221,129,239,112,255,82,264,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,137,487,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="344,191,322,228,318,225,340,188"/>
+</map>

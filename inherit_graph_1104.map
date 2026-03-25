@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,92,168,117"/>
+<area shape="rect" id="Node000001" href="$structdetail_1_1has__key__compare.html" title=" " alt="" coords="216,5,439,31"/>
+<area shape="poly" id="edge1426_Node000000_Node000001" title=" " alt="" coords="122,83,166,61,215,41,259,28,260,33,217,46,168,66,124,88"/>
+<area shape="rect" id="Node000002" href="$structdetail_1_1is__basic__json__context.html" title=" " alt="" coords="217,55,438,95"/>
+<area shape="poly" id="edge1427_Node000000_Node000002" title=" " alt="" coords="182,90,216,86,217,91,182,96"/>
+<area shape="rect" id="Node000003" href="$structdetail_1_1negation.html" title=" " alt="" coords="246,120,409,145"/>
+<area shape="poly" id="edge1428_Node000000_Node000003" title=" " alt="" coords="183,113,246,121,246,126,182,118"/>
+<area shape="rect" id="Node000004" href="$classstd_1_1tuple__size_3_1_1nlohmann_1_1detail_1_1iteration__proxy__value_3_01IteratorType_01_4_01_4.html" title=" " alt="" coords="227,169,427,224"/>
+<area shape="poly" id="edge1429_Node000000_Node000004" title=" " alt="" coords="132,120,217,154,250,167,249,172,215,159,130,125"/>
+</map>

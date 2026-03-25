@@ -1,0 +1,9 @@
+<map id="CScene_MultiGameInfo" name="CScene_MultiGameInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,180,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,93,131,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,131,92,180,87,181,75,133"/>
+<area shape="rect" id="Node000003" href="$classFriendSessionInfo.html" title=" " alt="" coords="156,93,293,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,128,112,183,109,179,194,124"/>
+<area shape="rect" id="Node000004" href="$struct__GameSessionData.html" title=" " alt="" coords="150,5,299,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,45,227,93,222,93,222,45"/>
+</map>

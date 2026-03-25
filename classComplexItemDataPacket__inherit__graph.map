@@ -1,0 +1,7 @@
+<map id="ComplexItemDataPacket" name="ComplexItemDataPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,108,213,133"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,20,69,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,53,112,106,108,109,56,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,318,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,72,135,110,131,106,168,68"/>
+</map>

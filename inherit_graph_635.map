@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classLeaderboardManager.html" title=" " alt="" coords="5,129,165,155"/>
+<area shape="rect" id="Node000001" href="$classDurangoLeaderboardManager.html" title=" " alt="" coords="215,5,430,31"/>
+<area shape="poly" id="edge1227_Node000000_Node000001" title=" " alt="" coords="107,117,153,77,182,57,212,40,243,28,245,33,214,44,184,61,156,81,110,121"/>
+<area shape="rect" id="Node000002" href="$classOrbisLeaderboardManager.html" title=" " alt="" coords="225,55,420,80"/>
+<area shape="poly" id="edge1228_Node000000_Node000002" title=" " alt="" coords="126,121,213,89,255,78,256,83,214,94,128,126"/>
+<area shape="rect" id="Node000003" href="$classPS3LeaderboardManager.html" title=" " alt="" coords="231,104,415,129"/>
+<area shape="poly" id="edge1229_Node000000_Node000003" title=" " alt="" coords="179,129,230,124,231,129,179,135"/>
+<area shape="rect" id="Node000004" href="$classSonyLeaderboardManager.html" title=" " alt="" coords="227,153,419,179"/>
+<area shape="poly" id="edge1230_Node000000_Node000004" title=" " alt="" coords="179,149,227,154,226,159,179,154"/>
+<area shape="rect" id="Node000006" href="$classWindowsLeaderboardManager.html" title=" " alt="" coords="213,203,432,228"/>
+<area shape="poly" id="edge1232_Node000000_Node000006" title=" " alt="" coords="130,157,214,187,262,200,260,205,213,193,128,162"/>
+<area shape="rect" id="Node000007" href="$classXboxLeaderboardManager.html" title=" " alt="" coords="226,252,419,277"/>
+<area shape="poly" id="edge1233_Node000000_Node000007" title=" " alt="" coords="111,162,157,201,215,237,249,249,247,254,212,242,154,205,108,166"/>
+<area shape="rect" id="Node000005" href="$classPSVitaLeaderboardManager.html" title=" " alt="" coords="480,153,683,179"/>
+<area shape="poly" id="edge1231_Node000004_Node000005" title=" " alt="" coords="433,163,480,163,480,169,433,169"/>
+</map>

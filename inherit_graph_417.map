@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classDLCFile.html" title=" " alt="" coords="11,179,81,204"/>
+<area shape="rect" id="Node000001" href="$classDLCAudioFile.html" title=" " alt="" coords="155,5,263,31"/>
+<area shape="poly" id="edge806_Node000000_Node000001" title=" " alt="" coords="53,164,82,102,105,69,133,40,154,28,156,32,136,44,109,72,87,105,58,167"/>
+<area shape="rect" id="Node000002" href="$classDLCCapeFile.html" title=" " alt="" coords="157,55,261,80"/>
+<area shape="poly" id="edge807_Node000000_Node000002" title=" " alt="" coords="61,166,91,127,133,89,156,78,158,82,136,94,95,130,65,169"/>
+<area shape="rect" id="Node000003" href="$classDLCColourTableFile.html" title=" " alt="" coords="136,104,283,129"/>
+<area shape="poly" id="edge808_Node000000_Node000003" title=" " alt="" coords="77,169,134,138,163,127,165,132,136,143,79,174"/>
+<area shape="rect" id="Node000004" href="$classDLCGameRules.html" title=" " alt="" coords="148,153,271,179"/>
+<area shape="poly" id="edge809_Node000000_Node000004" title=" " alt="" coords="94,181,147,173,148,178,95,187"/>
+<area shape="rect" id="Node000009" href="$classDLCLocalisationFile.html" title=" " alt="" coords="135,203,284,228"/>
+<area shape="poly" id="edge812_Node000000_Node000009" title=" " alt="" coords="95,196,135,202,134,207,94,201"/>
+<area shape="rect" id="Node000010" href="$classDLCSkinFile.html" title=" " alt="" coords="160,252,259,277"/>
+<area shape="poly" id="edge813_Node000000_Node000010" title=" " alt="" coords="81,208,136,237,168,249,166,254,134,242,78,213"/>
+<area shape="rect" id="Node000011" href="$classDLCTextureFile.html" title=" " alt="" coords="150,301,269,327"/>
+<area shape="poly" id="edge814_Node000000_Node000011" title=" " alt="" coords="66,214,96,251,136,286,161,299,159,304,133,291,92,255,62,217"/>
+<area shape="rect" id="Node000012" href="$classDLCUIDataFile.html" title=" " alt="" coords="151,351,267,376"/>
+<area shape="poly" id="edge815_Node000000_Node000012" title=" " alt="" coords="59,216,88,276,109,308,136,336,158,348,155,353,133,340,105,312,83,279,54,218"/>
+<area shape="rect" id="Node000005" href="$classDLCGameRulesFile.html" title=" " alt="" coords="344,153,491,179"/>
+<area shape="poly" id="edge810_Node000004_Node000005" title=" " alt="" coords="285,163,344,163,344,169,285,169"/>
+<area shape="rect" id="Node000006" href="$classDLCGameRulesHeader.html" title=" " alt="" coords="332,301,503,327"/>
+<area shape="poly" id="edge811_Node000004_Node000006" title=" " alt="" coords="273,181,285,188,324,215,359,246,408,299,404,303,355,250,321,219,283,192,271,186"/>
+<area shape="rect" id="Node000008" href="$classGrSource.html" title=" " alt="" coords="5,400,87,425"/>
+<area shape="rect" id="Node000007" href="$classJustGrSource.html" title=" " alt="" coords="157,400,262,425"/>
+<area shape="poly" id="edge816_Node000008_Node000007" title=" " alt="" coords="100,410,157,410,157,415,100,415"/>
+<area shape="poly" id="edge817_Node000007_Node000006" title=" " alt="" coords="263,393,283,385,344,354,394,325,397,329,347,358,285,390,265,398"/>
+</map>

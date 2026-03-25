@@ -1,0 +1,7 @@
+<map id="KeepAlivePacket" name="KeepAlivePacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,93,187,119"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,13,69,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,45,112,91,108,95,58,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,322,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,57,137,95,134,91,176,53"/>
+</map>

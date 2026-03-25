@@ -1,0 +1,16 @@
+<map id="UIControl_BitmapIcon" name="UIControl_BitmapIcon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,344,169,369"/>
+<area shape="rect" id="Node000002" href="$classUIControl.html" title=" " alt="" coords="46,269,129,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,309,90,344,85,344,85,309"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="144,274,155,282,147,290,129,292,129,286,145,285,150,282,141,278"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="9,93,123,119"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="72,132,81,206,89,269,83,269,75,207,66,133"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="138,97,150,106,142,114,124,116,123,111,139,109,145,106,136,102"/>
+<area shape="rect" id="Node000004" href="$classUIScene.html" title=" " alt="" coords="171,181,246,207"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="96,124,145,155,188,179,185,184,142,160,93,129"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="182,217,105,271,102,267,179,213"/>
+<area shape="rect" id="Node000005" href="$classUILayer.html" title=" " alt="" coords="218,93,290,119"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="244,132,217,182,213,180,239,130"/>
+<area shape="rect" id="Node000006" href="$classUIGroup.html" title=" " alt="" coords="217,5,291,31"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="257,45,257,93,251,93,251,45"/>
+</map>

@@ -1,0 +1,61 @@
+<map id="_MILESEVENTSOUNDINFO" name="_MILESEVENTSOUNDINFO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1265,138,1456,163"/>
+<area shape="rect" id="Node000002" href="$struct__SAMPLE.html" title=" " alt="" coords="701,289,783,314"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="762,277,796,247,837,222,892,201,948,184,1064,162,1172,150,1265,146,1265,152,1173,155,1064,167,950,189,894,206,840,226,799,251,766,281"/>
+<area shape="poly" id="edge22_Node000002_Node000002" title=" " alt="" coords="712,274,721,266,742,262,759,264,770,271,773,280,767,290,763,287,767,280,766,274,757,269,742,267,724,270,716,278"/>
+<area shape="rect" id="Node000003" href="$struct__DIG__DRIVER.html" title=" " alt="" coords="997,741,1107,766"/>
+<area shape="poly" id="edge7_Node000003_Node000002" title=" " alt="" coords="747,327,754,378,769,443,781,476,797,509,816,539,840,565,854,574,866,578,892,578,919,578,934,582,950,590,987,626,1016,668,1037,709,1049,739,1044,741,1032,711,1011,671,983,629,946,594,932,586,919,583,892,584,865,583,851,578,837,569,812,542,792,511,776,478,764,444,749,379,742,328"/>
+<area shape="rect" id="Node000009" href="$struct__FLTPROVIDER.html" title=" " alt="" coords="1301,365,1420,390"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="795,283,831,276,871,274,911,278,949,292,959,302,963,314,966,324,974,333,1013,353,1056,369,1100,379,1145,385,1230,388,1301,383,1301,389,1230,394,1144,391,1099,384,1054,374,1011,358,970,337,961,326,958,315,955,305,947,297,910,283,871,279,832,281,796,288"/>
+<area shape="rect" id="Node000020" href="$struct__S3DSTATE.html" title=" " alt="" coords="1005,515,1099,541"/>
+<area shape="poly" id="edge30_Node000020_Node000002" title=" " alt="" coords="797,312,893,335,950,352,968,377,996,423,1046,514,1041,516,991,426,964,380,946,357,891,341,796,317"/>
+<area shape="rect" id="Node000022" href="$struct__STREAM.html" title=" " alt="" coords="1011,103,1093,129"/>
+<area shape="poly" id="edge34_Node000022_Node000002" title=" " alt="" coords="753,275,787,223,810,196,837,172,869,158,914,144,1010,121,1011,126,916,149,871,163,840,177,814,199,791,226,758,278"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="983,751,946,744,907,732,869,713,836,687,818,631,790,519,744,315,749,313,795,518,823,630,841,684,872,709,909,727,947,739,984,746"/>
+<area shape="poly" id="edge9_Node000003_Node000003" title=" " alt="" coords="1023,726,1032,718,1052,714,1069,716,1079,723,1082,732,1077,742,1072,739,1077,732,1075,726,1067,721,1052,719,1034,722,1027,730"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="1061,726,1110,603,1136,543,1154,509,1196,468,1243,434,1290,407,1328,388,1331,392,1292,411,1246,438,1199,472,1158,512,1141,545,1115,605,1066,728"/>
+<area shape="rect" id="Node000004" href="$struct__D3DSTATE.html" title=" " alt="" coords="694,763,790,789"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="804,776,873,776,948,772,999,763,1000,769,948,777,873,782,804,781"/>
+<area shape="rect" id="Node000005" href="$struct__MSSVECTOR3D.html" title=" " alt="" coords="37,734,165,759"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="128,766,204,823,253,851,306,872,366,883,427,883,487,874,546,859,600,841,648,821,718,786,720,791,650,826,602,846,547,865,488,879,427,888,365,888,305,877,251,856,201,828,125,771"/>
+<area shape="rect" id="Node000006" href="$struct__MSS__RECEIVER__LIST.html" title=" " alt="" coords="305,734,468,759"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="178,744,305,744,305,749,178,749"/>
+<area shape="poly" id="edge29_Node000020_Node000005" title=" " alt="" coords="178,730,220,724,292,719,382,718,591,718,698,715,797,708,882,692,917,682,947,668,982,640,1010,604,1031,568,1043,540,1048,542,1036,570,1015,607,986,644,949,673,919,687,883,698,798,713,698,721,591,724,382,723,292,725,220,729,179,735"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="482,752,694,769,694,775,481,757"/>
+<area shape="rect" id="Node000007" href="$struct__MSS__BB.html" title=" " alt="" coords="345,941,428,966"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="440,936,645,877,1010,764,1012,769,646,883,442,941"/>
+<area shape="rect" id="Node000008" href="$structDPINFO.html" title=" " alt="" coords="706,950,778,975"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="442,952,706,959,706,964,441,957"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="792,965,828,965,869,961,909,951,947,932,968,915,986,894,1015,846,1035,800,1045,765,1050,767,1040,802,1020,849,991,897,972,919,949,937,911,956,870,966,828,970,792,970"/>
+<area shape="poly" id="edge12_Node000003_Node000009" title=" " alt="" coords="1342,402,1066,742,1062,739,1338,399"/>
+<area shape="poly" id="edge15_Node000009_Node000009" title=" " alt="" coords="1332,350,1340,342,1361,338,1378,340,1388,347,1391,356,1386,366,1381,363,1385,356,1384,350,1376,345,1361,343,1343,346,1335,354"/>
+<area shape="rect" id="Node000019" href="$structFLTSTAGE.html" title=" " alt="" coords="1563,302,1649,327"/>
+<area shape="poly" id="edge27_Node000019_Node000009" title=" " alt="" coords="1423,359,1562,323,1563,328,1425,364"/>
+<area shape="rect" id="Node000010" href="$structREVERB__SETTINGS.html" title=" " alt="" coords="669,999,815,1025"/>
+<area shape="poly" id="edge16_Node000003_Node000010" title=" " alt="" coords="828,1017,890,1010,920,1000,946,985,972,961,993,933,1010,902,1023,869,1039,809,1047,766,1052,767,1045,810,1028,871,1014,904,997,936,976,964,950,989,922,1005,891,1015,829,1022"/>
+<area shape="rect" id="Node000011" href="$structREVERB__INFO.html" title=" " alt="" coords="330,999,443,1025"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="457,1009,669,1009,669,1015,457,1015"/>
+<area shape="rect" id="Node000012" href="$structREVERB__UPDATED__INFO.html" title=" " alt="" coords="9,1023,192,1049"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="205,1033,281,1028,330,1021,330,1026,282,1033,206,1038"/>
+<area shape="rect" id="Node000013" href="$structREVERB__CONSTANT__INFO.html" title=" " alt="" coords="5,974,196,999"/>
+<area shape="poly" id="edge19_Node000011_Node000013" title=" " alt="" coords="210,994,330,1004,330,1010,210,999"/>
+<area shape="rect" id="Node000014" href="$struct__SMPBUF.html" title=" " alt="" coords="345,239,429,265"/>
+<area shape="poly" id="edge20_Node000002_Node000014" title=" " alt="" coords="443,254,538,264,646,279,701,289,700,295,645,284,537,269,442,259"/>
+<area shape="rect" id="Node000015" href="$structLOWPASS__INFO.html" title=" " alt="" coords="325,289,448,314"/>
+<area shape="poly" id="edge21_Node000002_Node000015" title=" " alt="" coords="462,299,700,299,700,304,462,304"/>
+<area shape="rect" id="Node000016" href="$struct__ADPCMDATATAG.html" title=" " alt="" coords="319,338,455,363"/>
+<area shape="poly" id="edge23_Node000002_Node000016" title=" " alt="" coords="468,341,645,319,700,308,701,313,646,324,469,346"/>
+<area shape="rect" id="Node000017" href="$structSPINFO.html" title=" " alt="" coords="1724,230,1795,255"/>
+<area shape="poly" id="edge24_Node000002_Node000017" title=" " alt="" coords="1711,245,1607,245,1051,245,944,250,839,271,775,291,773,286,838,265,943,245,1051,240,1607,240,1711,240"/>
+<area shape="rect" id="Node000018" href="$structASISTAGE.html" title=" " alt="" coords="699,23,785,49"/>
+<area shape="poly" id="edge25_Node000017_Node000018" title=" " alt="" coords="798,29,915,21,1051,17,1608,17,1644,25,1674,44,1699,72,1719,106,1746,176,1758,229,1753,230,1741,177,1714,108,1694,75,1670,48,1642,30,1607,23,1051,23,915,27,799,34"/>
+<area shape="poly" id="edge33_Node000022_Node000018" title=" " alt="" coords="799,46,949,83,1011,101,1010,106,947,88,798,51"/>
+<area shape="poly" id="edge26_Node000017_Node000019" title=" " alt="" coords="1652,294,1699,274,1736,253,1739,258,1701,278,1655,299"/>
+<area shape="poly" id="edge28_Node000002_Node000020" title=" " alt="" coords="1035,505,999,452,975,425,947,402,919,389,894,385,868,382,838,372,792,344,756,316,759,312,795,340,840,367,870,377,895,380,920,384,949,398,978,421,1004,449,1040,502"/>
+<area shape="rect" id="Node000021" href="$struct__MSSGRAPHPOINT.html" title=" " alt="" coords="671,633,813,658"/>
+<area shape="poly" id="edge31_Node000020_Node000021" title=" " alt="" coords="804,658,838,663,875,664,912,660,947,648,980,625,1008,595,1029,565,1042,540,1047,542,1033,567,1012,599,984,629,949,653,913,665,875,669,838,668,803,663"/>
+<area shape="poly" id="edge32_Node000001_Node000022" title=" " alt="" coords="1107,119,1266,137,1265,143,1107,125"/>
+<area shape="poly" id="edge36_Node000022_Node000022" title=" " alt="" coords="1023,89,1032,80,1052,77,1069,79,1079,85,1082,95,1077,105,1072,102,1077,94,1075,89,1067,84,1052,82,1034,85,1027,92"/>
+<area shape="rect" id="Node000023" href="$structMilesAsyncRead.html" title=" " alt="" coords="677,87,807,113"/>
+<area shape="poly" id="edge35_Node000022_Node000023" title=" " alt="" coords="820,101,1011,111,1010,117,820,107"/>
+</map>

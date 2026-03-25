@@ -1,0 +1,7 @@
+<map id="GenericStats" name="GenericStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="78,5,183,31"/>
+<area shape="rect" id="Node000002" href="$classCommonStats.html" title=" " alt="" coords="5,79,120,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,42,76,80,72,77,108,39"/>
+<area shape="rect" id="Node000003" href="$classDurangoStats.html" title=" " alt="" coords="145,79,255,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,39,191,77,187,80,150,43"/>
+</map>

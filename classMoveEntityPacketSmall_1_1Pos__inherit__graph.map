@@ -1,0 +1,9 @@
+<map id="MoveEntityPacketSmall::Pos" name="MoveEntityPacketSmall::Pos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,181,223,207"/>
+<area shape="rect" id="Node000002" href="$classMoveEntityPacketSmall.html" title=" " alt="" coords="33,108,207,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,147,123,181,117,181,117,147"/>
+<area shape="rect" id="Node000003" href="$classPacket.html" title=" " alt="" coords="5,20,69,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="60,54,110,106,107,109,56,57"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,5,315,60"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,72,133,110,130,106,167,68"/>
+</map>

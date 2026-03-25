@@ -1,0 +1,9 @@
+<map id="StrongholdPieces::PortalRoom" name="StrongholdPieces::PortalRoom">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,257,224,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,168,221,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,222,117,257,112,257,112,222"/>
+<area shape="rect" id="Node000003" href="$classStructurePiece.html" title=" " alt="" coords="57,93,173,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,132,117,168,112,168,112,132"/>
+<area shape="rect" id="Node000004" href="$classBoundingBox.html" title=" " alt="" coords="61,5,169,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,45,117,93,112,93,112,45"/>
+</map>

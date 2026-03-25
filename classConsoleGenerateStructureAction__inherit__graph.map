@@ -1,0 +1,13 @@
+<map id="ConsoleGenerateStructureAction" name="ConsoleGenerateStructureAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,79,342,119"/>
+<area shape="rect" id="Node000003" href="$classXboxStructureActionGenerateBox.html" title=" " alt="" coords="5,174,245,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,129,143,176,140,172,206,125"/>
+<area shape="rect" id="Node000004" href="$classXboxStructureActionPlaceBlock.html" title=" " alt="" coords="270,167,461,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,125,340,164,337,169,282,129"/>
+<area shape="rect" id="Node000002" href="$classGameRuleDefinition.html" title=" " alt="" coords="169,5,322,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,44,248,79,243,79,243,44"/>
+<area shape="rect" id="Node000005" href="$classXboxStructureActionPlaceContainer.html" title=" " alt="" coords="163,255,354,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,217,284,257,281,252,329,213"/>
+<area shape="rect" id="Node000006" href="$classXboxStructureActionPlaceSpawner.html" title=" " alt="" coords="378,255,569,295"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="402,213,451,252,448,257,398,217"/>
+</map>

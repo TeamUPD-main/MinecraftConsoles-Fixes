@@ -1,0 +1,15 @@
+<map id="GameRenderer" name="GameRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="383,211,503,236"/>
+<area shape="rect" id="Node000002" href="$classItemInHandRenderer.html" title=" " alt="" coords="194,123,351,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,161,285,174,293,185,313,199,336,208,384,219,383,224,334,213,311,203,290,189,280,176,274,163"/>
+<area shape="rect" id="Node000003" href="$classResourceLocation.html" title=" " alt="" coords="5,5,143,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,44,68,72,71,85,77,97,95,108,123,117,194,127,193,133,122,122,92,113,73,100,66,87,63,73,64,44"/>
+<area shape="rect" id="Node000004" href="$classMinimap.html" title=" " alt="" coords="271,5,349,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="305,44,279,123,274,122,300,43"/>
+<area shape="rect" id="Node000005" href="$classFloatBuffer.html" title=" " alt="" coords="385,123,480,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="438,162,444,210,439,210,433,162"/>
+<area shape="rect" id="Node000006" href="$classBuffer.html" title=" " alt="" coords="402,5,463,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="435,44,435,123,430,123,430,44"/>
+<area shape="rect" id="Node000007" href="$classOrbisCriticalSection.html" title=" " alt="" coords="504,123,655,148"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="551,158,463,213,460,208,548,153"/>
+</map>

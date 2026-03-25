@@ -1,0 +1,9 @@
+<map id="HalfSlabTile" name="HalfSlabTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,79,178,104"/>
+<area shape="rect" id="Node000003" href="$classStoneSlabTile.html" title=" " alt="" coords="5,152,116,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,116,73,154,70,150,105,113"/>
+<area shape="rect" id="Node000004" href="$classWoodSlabTile.html" title=" " alt="" coords="140,152,251,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,112,186,150,182,154,146,116"/>
+<area shape="rect" id="Node000002" href="$classTile.html" title=" " alt="" coords="104,5,151,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,44,130,79,125,79,125,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="IUIScene_EnchantingMenu" name="IUIScene_EnchantingMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,79,269,104"/>
+<area shape="rect" id="Node000003" href="$classCXuiSceneEnchant.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,114,94,154,91,150,144,110"/>
+<area shape="rect" id="Node000004" href="$classUIScene__EnchantingMenu.html" title=" " alt="" coords="172,152,363,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,110,253,150,250,154,196,114"/>
+<area shape="rect" id="Node000002" href="$classIUIScene__AbstractContainerMenu.html" title=" " alt="" coords="52,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,44,174,79,169,79,169,44"/>
+</map>

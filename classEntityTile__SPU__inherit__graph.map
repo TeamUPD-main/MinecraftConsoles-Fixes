@@ -1,0 +1,29 @@
+<map id="EntityTile_SPU" name="EntityTile_SPU">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,277,249,303"/>
+<area shape="rect" id="Node000003" href="$classBrewingStandTile__SPU.html" title=" " alt="" coords="312,5,481,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,262,203,214,221,154,251,93,272,64,296,40,314,28,317,33,299,44,276,68,256,95,226,156,208,216,198,264"/>
+<area shape="rect" id="Node000004" href="$classChestTile__SPU.html" title=" " alt="" coords="339,55,455,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,263,208,224,229,177,257,129,296,89,316,78,337,70,339,75,318,82,299,93,262,133,233,179,213,226,201,264"/>
+<area shape="rect" id="Node000005" href="$classDispenserTile__SPU.html" title=" " alt="" coords="325,104,469,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,264,236,201,263,167,296,138,323,125,325,130,299,143,267,171,241,204,205,266"/>
+<area shape="rect" id="Node000006" href="$classEnchantmentTableTile__SPU.html" title=" " alt="" coords="297,153,496,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,264,246,225,270,205,296,188,323,176,325,181,299,192,273,209,250,229,213,268"/>
+<area shape="rect" id="Node000007" href="$classEnderChestTile__SPU.html" title=" " alt="" coords="320,203,473,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="226,268,296,237,334,226,335,231,298,242,228,273"/>
+<area shape="rect" id="Node000008" href="$classFurnaceTile__SPU.html" title=" " alt="" coords="331,252,462,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="263,278,331,270,331,275,263,284"/>
+<area shape="rect" id="Node000009" href="$classMobSpawnerTile__SPU.html" title=" " alt="" coords="315,301,478,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="264,296,315,302,315,307,263,301"/>
+<area shape="rect" id="Node000010" href="$classPistonMovingPiece__SPU.html" title=" " alt="" coords="307,351,486,376"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="229,307,298,337,336,348,334,353,296,342,227,311"/>
+<area shape="rect" id="Node000011" href="$classRecordPlayerTile__SPU.html" title=" " alt="" coords="314,400,479,425"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="213,312,250,350,273,370,299,386,325,397,323,402,296,391,270,374,246,354,209,315"/>
+<area shape="rect" id="Node000012" href="$classSignTile__SPU.html" title=" " alt="" coords="343,449,450,475"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="205,314,241,376,267,409,299,436,320,447,344,454,342,459,318,452,296,440,264,412,237,379,201,317"/>
+<area shape="rect" id="Node000013" href="$classSkullTile__SPU.html" title=" " alt="" coords="341,499,452,524"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="201,315,213,354,233,400,262,446,299,485,319,497,342,504,340,509,317,502,296,489,257,450,229,402,208,356,196,317"/>
+<area shape="rect" id="Node000014" href="$classTheEndPortal__SPU.html" title=" " alt="" coords="326,548,467,573"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="198,316,208,364,226,423,256,484,276,511,299,535,327,550,324,554,296,539,272,514,251,486,221,425,203,365,193,317"/>
+<area shape="rect" id="Node000002" href="$classTile__SPU.html" title=" " alt="" coords="5,277,84,303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,287,132,287,132,293,98,293"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DaylightDetectorTile" name="DaylightDetectorTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,163,177"/>
+<area shape="rect" id="Node000002" href="$classBaseEntityTile.html" title=" " alt="" coords="26,79,142,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,118,87,152,81,152,81,118"/>
+<area shape="rect" id="Node000003" href="$classTile.html" title=" " alt="" coords="17,5,63,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="57,41,79,77,75,80,52,44"/>
+<area shape="rect" id="Node000004" href="$classEntityTile.html" title=" " alt="" coords="87,5,171,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="117,44,94,80,89,77,112,41"/>
+</map>

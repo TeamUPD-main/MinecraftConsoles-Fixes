@@ -1,0 +1,21 @@
+<map id="Recipes" name="Recipes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="432,186,505,211"/>
+<area shape="rect" id="Node000002" href="$classToolRecipies.html" title=" " alt="" coords="138,13,241,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,16,292,16,333,21,373,33,410,54,437,85,454,122,464,158,469,185,464,186,459,159,449,124,432,88,406,58,371,38,332,27,292,22,254,21"/>
+<area shape="rect" id="Node000003" href="$classWeaponRecipies.html" title=" " alt="" coords="125,62,254,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,71,339,82,376,94,409,111,429,128,445,148,465,185,460,187,440,151,425,131,407,116,374,99,338,87,267,77"/>
+<area shape="rect" id="Node000004" href="$classStructureRecipies.html" title=" " alt="" coords="121,111,257,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,128,339,140,409,160,451,183,449,188,407,165,338,145,270,134"/>
+<area shape="rect" id="Node000005" href="$classOreRecipies.html" title=" " alt="" coords="139,161,239,186"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="253,176,432,193,431,198,253,182"/>
+<area shape="rect" id="Node000006" href="$classFoodRecipies.html" title=" " alt="" coords="135,210,243,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,223,330,222,408,215,432,209,433,214,408,220,330,228,257,228"/>
+<area shape="rect" id="Node000007" href="$classClothDyeRecipes.html" title=" " alt="" coords="123,259,256,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="269,271,338,264,373,256,407,244,433,228,454,210,457,214,436,233,409,249,375,261,339,269,270,276"/>
+<area shape="rect" id="Node000008" href="$classArmorRecipes.html" title=" " alt="" coords="133,309,246,334"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="260,324,296,323,334,318,372,308,407,291,426,274,442,252,461,211,466,213,447,254,430,277,409,296,374,313,335,323,296,329,260,330"/>
+<area shape="rect" id="Node000009" href="$classFireworksRecipe.html" title=" " alt="" coords="125,358,254,383"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="268,378,303,378,339,373,375,362,406,345,421,331,433,314,450,277,460,240,464,211,469,212,465,241,455,278,438,317,425,334,410,349,377,367,341,378,303,383,268,383"/>
+<area shape="rect" id="Node000010" href="$classRecipy.html" title=" " alt="" coords="5,358,72,383"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="86,368,124,368,124,373,86,373"/>
+</map>

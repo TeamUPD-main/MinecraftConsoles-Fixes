@@ -1,0 +1,17 @@
+<map id="Ghast" name="Ghast">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,387,165,412"/>
+<area shape="rect" id="Node000002" href="$classFlyingMob.html" title=" " alt="" coords="39,313,130,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,349,129,385,125,388,99,352"/>
+<area shape="rect" id="Node000003" href="$classMob.html" title=" " alt="" coords="59,240,110,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,279,87,313,82,313,82,279"/>
+<area shape="rect" id="Node000004" href="$classLivingEntity.html" title=" " alt="" coords="35,167,134,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,206,87,240,82,240,82,206"/>
+<area shape="rect" id="Node000005" href="$classEntity.html" title=" " alt="" coords="55,93,115,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,132,87,167,82,167,82,132"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+<area shape="rect" id="Node000007" href="$classEnemy.html" title=" " alt="" coords="154,313,221,339"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="173,351,146,388,142,385,169,348"/>
+<area shape="rect" id="Node000008" href="$classCreature.html" title=" " alt="" coords="148,240,227,265"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="190,279,190,313,185,313,185,279"/>
+</map>

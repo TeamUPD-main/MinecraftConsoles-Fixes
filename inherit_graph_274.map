@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="34,277,162,303"/>
+<area shape="rect" id="Node000001" href="$classCXuiCtrl4JEdit.html" title=" " alt="" coords="298,5,410,31"/>
+<area shape="poly" id="edge760_Node000000_Node000001" title=" " alt="" coords="104,263,120,215,147,154,185,92,209,64,237,40,266,25,297,18,298,23,268,30,240,44,213,68,189,95,151,156,125,217,109,265"/>
+<area shape="rect" id="Node000002" href="$classCXuiCtrl4JIcon.html" title=" " alt="" coords="297,55,411,80"/>
+<area shape="poly" id="edge761_Node000000_Node000002" title=" " alt="" coords="107,263,126,224,154,177,191,129,237,89,266,76,296,68,297,73,268,81,240,94,195,133,159,180,131,227,112,266"/>
+<area shape="rect" id="Node000003" href="$classCXuiCtrlCraftIngredientSlot.html" title=" " alt="" coords="255,104,453,129"/>
+<area shape="poly" id="edge762_Node000000_Node000003" title=" " alt="" coords="113,264,163,200,198,167,237,138,264,127,266,132,240,143,201,171,167,204,117,267"/>
+<area shape="rect" id="Node000004" href="$classCXuiCtrlEnchantmentBook.html" title=" " alt="" coords="257,153,451,179"/>
+<area shape="poly" id="edge763_Node000000_Node000004" title=" " alt="" coords="122,266,173,226,204,205,238,188,271,176,272,181,240,192,207,210,176,230,125,270"/>
+<area shape="rect" id="Node000005" href="$classCXuiCtrlEnchantmentButton.html" title=" " alt="" coords="252,203,456,228"/>
+<area shape="poly" id="edge764_Node000000_Node000005" title=" " alt="" coords="142,270,238,237,284,226,285,231,239,242,144,275"/>
+<area shape="rect" id="Node000006" href="$classCXuiCtrlEnchantmentButtonText.html" title=" " alt="" coords="239,252,469,277"/>
+<area shape="poly" id="edge765_Node000000_Node000006" title=" " alt="" coords="176,280,238,273,239,279,176,285"/>
+<area shape="rect" id="Node000007" href="$classCXuiCtrlMinecraftPlayer.html" title=" " alt="" coords="265,301,443,327"/>
+<area shape="poly" id="edge766_Node000000_Node000007" title=" " alt="" coords="176,295,265,303,265,308,176,300"/>
+<area shape="rect" id="Node000008" href="$classCXuiCtrlMinecraftSkinPreview.html" title=" " alt="" coords="246,351,462,376"/>
+<area shape="poly" id="edge767_Node000000_Node000008" title=" " alt="" coords="146,305,239,335,290,348,289,353,238,341,145,310"/>
+<area shape="rect" id="Node000009" href="$classCXuiCtrlMinecraftSlot.html" title=" " alt="" coords="273,400,435,425"/>
+<area shape="poly" id="edge768_Node000000_Node000009" title=" " alt="" coords="125,310,176,348,240,385,277,397,275,402,238,390,173,353,122,314"/>
+<area shape="rect" id="Node000010" href="$classCXuiCtrlMobEffect.html" title=" " alt="" coords="284,449,424,475"/>
+<area shape="poly" id="edge769_Node000000_Node000010" title=" " alt="" coords="117,313,167,375,201,407,240,434,285,451,283,456,237,439,198,411,163,378,113,316"/>
+<area shape="rect" id="Node000011" href="$classCXuiCtrlSlotItem.html" title=" " alt="" coords="289,548,419,573"/>
+<area shape="poly" id="edge770_Node000000_Node000011" title=" " alt="" coords="109,316,125,363,152,423,190,483,214,510,240,533,263,546,289,553,288,559,261,551,237,538,210,514,186,486,147,425,120,365,104,317"/>
+<area shape="rect" id="Node000015" href="$classCXuiCtrlSplashPulser.html" title=" " alt="" coords="275,499,433,524"/>
+<area shape="poly" id="edge771_Node000000_Node000015" title=" " alt="" coords="112,315,131,353,159,399,196,445,240,484,275,499,273,504,237,488,192,449,155,402,127,355,108,317"/>
+<area shape="rect" id="Node000012" href="$classCXuiCtrlSlotItemCtrlBase.html" title=" " alt="" coords="5,548,191,573"/>
+<area shape="poly" id="edge772_Node000012_Node000011" title=" " alt="" coords="204,558,288,558,288,563,204,563"/>
+<area shape="rect" id="Node000013" href="$classCXuiCtrlSlotItemListItem.html" title=" " alt="" coords="263,597,445,623"/>
+<area shape="poly" id="edge773_Node000012_Node000013" title=" " alt="" coords="178,573,288,595,287,600,177,579"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="31,597,165,623"/>
+<area shape="poly" id="edge774_Node000014_Node000013" title=" " alt="" coords="179,607,262,607,262,613,179,613"/>
+</map>

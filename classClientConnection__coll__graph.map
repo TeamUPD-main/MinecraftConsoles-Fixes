@@ -1,0 +1,9 @@
+<map id="ClientConnection" name="ClientConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="150,93,283,119"/>
+<area shape="rect" id="Node000002" href="$classPacketListener.html" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,35,197,91,195,95,95,40"/>
+<area shape="rect" id="Node000003" href="$classSavedDataStorage.html" title=" " alt="" coords="145,5,288,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,45,219,93,214,93,214,45"/>
+<area shape="rect" id="Node000004" href="$classRandom.html" title=" " alt="" coords="335,5,411,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,45,357,59,345,71,316,88,284,99,283,93,314,83,342,67,353,56,361,42"/>
+</map>

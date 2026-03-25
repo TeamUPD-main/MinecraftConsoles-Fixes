@@ -1,0 +1,13 @@
+<map id="MoveEntityPacket" name="MoveEntityPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,93,363,119"/>
+<area shape="rect" id="Node000004" href="$classMoveEntityPacket_1_1Pos.html" title=" " alt="" coords="5,167,175,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,126,124,169,122,164,248,121"/>
+<area shape="rect" id="Node000005" href="$classMoveEntityPacket_1_1PosRot.html" title=" " alt="" coords="199,167,389,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="297,132,297,167,291,167,291,132"/>
+<area shape="rect" id="Node000006" href="$classMoveEntityPacket_1_1Rot.html" title=" " alt="" coords="414,167,582,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="340,121,466,164,464,169,339,126"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="175,13,239,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,45,283,91,279,95,229,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="263,5,501,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,57,309,95,305,91,349,53"/>
+</map>

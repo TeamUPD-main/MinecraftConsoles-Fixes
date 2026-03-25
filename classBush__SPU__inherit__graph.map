@@ -1,0 +1,23 @@
+<map id="Bush_SPU" name="Bush_SPU">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,177,219,203"/>
+<area shape="rect" id="Node000003" href="$classCropTile__SPU.html" title=" " alt="" coords="290,29,399,55"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,164,218,114,240,88,265,65,289,52,291,57,268,70,243,91,222,117,191,167"/>
+<area shape="rect" id="Node000006" href="$classMushroom__SPU.html" title=" " alt="" coords="283,79,407,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,166,228,139,265,114,295,102,297,107,268,119,232,143,201,170"/>
+<area shape="rect" id="Node000007" href="$classNetherStalkTile__SPU.html" title=" " alt="" coords="267,128,423,153"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="231,171,299,151,301,156,233,176"/>
+<area shape="rect" id="Node000008" href="$classSapling__SPU.html" title=" " alt="" coords="293,177,396,203"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="232,187,293,187,293,193,232,193"/>
+<area shape="rect" id="Node000009" href="$classStemTile__SPU.html" title=" " alt="" coords="288,227,401,252"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="233,204,301,224,299,229,231,209"/>
+<area shape="rect" id="Node000010" href="$classTallGrass__SPU.html" title=" " alt="" coords="287,276,402,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="200,210,231,237,268,262,294,273,292,278,265,267,228,242,197,214"/>
+<area shape="rect" id="Node000011" href="$classWaterlilyTile__SPU.html" title=" " alt="" coords="276,325,413,351"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="191,214,222,264,243,290,268,312,289,323,286,328,265,316,239,293,218,267,186,217"/>
+<area shape="rect" id="Node000002" href="$classTile__SPU.html" title=" " alt="" coords="5,177,84,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,187,132,187,132,193,98,193"/>
+<area shape="rect" id="Node000004" href="$classCarrotTile__SPU.html" title=" " alt="" coords="472,5,591,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,31,471,23,472,28,414,36"/>
+<area shape="rect" id="Node000005" href="$classPotatoTile__SPU.html" title=" " alt="" coords="471,55,592,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="413,49,470,56,470,62,413,54"/>
+</map>

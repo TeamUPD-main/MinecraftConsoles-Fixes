@@ -1,0 +1,17 @@
+<map id="RespawnPacket" name="RespawnPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="339,273,461,299"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="145,161,209,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,194,221,208,296,245,364,271,362,276,294,250,219,213,198,198"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,165,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,56,172,160,168,163,102,59"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,13,352,38"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,52,259,83,244,115,222,138,193,163,189,159,218,134,239,112,254,81,263,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,154,455,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="362,205,397,272,392,274,358,208"/>
+<area shape="rect" id="Node000006" href="$classGameType.html" title=" " alt="" coords="480,161,571,187"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="503,198,415,275,412,271,500,194"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="585,161,594,166,597,174,589,185,571,189,570,184,586,181,592,174,590,169,583,166"/>
+<area shape="rect" id="Node000007" href="$classLevelType.html" title=" " alt="" coords="705,161,791,187"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="722,197,693,213,634,237,572,256,462,279,461,274,571,250,632,232,691,208,719,192"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="806,161,814,166,818,174,810,185,792,189,791,184,807,181,813,174,811,169,804,166"/>
+</map>

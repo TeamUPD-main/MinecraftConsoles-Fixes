@@ -1,0 +1,19 @@
+<map id="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks" name="/home/runner/work/MinecraftConsoles&#45;Fixes/MinecraftConsoles&#45;Fixes/Minecraft.Client/PS3/SPU_Tasks">
+<area shape="rect" id="node2" href="dir_b090a99d120993db20ebd95718059f95.html" title="ChunkUpdate" alt="" coords="2453,70,2563,95"/>
+<area shape="rect" id="node3" href="dir_edeb1745fa5f82db7c1ea1badf32134f.html" title="Common" alt="" coords="2347,70,2429,95"/>
+<area shape="rect" id="node4" href="dir_7df0200bc18f8b994d758c5d47de775a.html" title="CompressedTile" alt="" coords="2197,70,2323,95"/>
+<area shape="rect" id="node5" href="dir_556fbfae54ce4deb60181e557fee2c0d.html" title="CompressedTileStorage\l_compress" alt="" coords="1995,63,2173,103"/>
+<area shape="rect" id="node6" href="dir_7fe6a5b4ff916be0a31192915890e3c0.html" title="CompressedTileStorage\l_getData" alt="" coords="1794,63,1971,103"/>
+<area shape="rect" id="node7" href="dir_172fc9e4e28530ada11b96e35190121a.html" title="GameRenderer_updateLight\lTexture" alt="" coords="1566,63,1770,103"/>
+<area shape="rect" id="node8" href="dir_937b447406a6d2ecdc744107c763ac7d.html" title="LevelRenderChunks" alt="" coords="1391,70,1542,95"/>
+<area shape="rect" id="node9" href="dir_ddd3bb7b04f05a7bb854f10026a1c0a3.html" title="LevelRenderer_cull" alt="" coords="1220,70,1367,95"/>
+<area shape="rect" id="node10" href="dir_8527f13818128e6eb20218e5a935f566.html" title="LevelRenderer_FindNearest\lChunk" alt="" coords="994,63,1195,103"/>
+<area shape="rect" id="node11" href="dir_ec2d64be27c3ae09eac4098596064eaa.html" title="LevelRenderer_zSort" alt="" coords="814,70,970,95"/>
+<area shape="rect" id="node12" href="dir_1cd828a6de683bf2733e1f52005b1cae.html" title="PerlinNoise" alt="" coords="693,70,789,95"/>
+<area shape="rect" id="node13" href="dir_f45364a9ae779588e0d6dd675da10c9d.html" title="RecalcHeightmapOnly" alt="" coords="502,70,669,95"/>
+<area shape="rect" id="node14" href="dir_7fa167eb050d95d82d27bbce81247223.html" title="Renderer_TextureUpdate" alt="" coords="295,70,478,95"/>
+<area shape="rect" id="node15" href="dir_976c06af77b763f1c58b61a03aa66beb.html" title="RLECompress" alt="" coords="161,70,271,95"/>
+<area shape="rect" id="node16" href="dir_0daa32d58eb1f2dd3f45db8c20191ce6.html" title="Texture_blit" alt="" coords="37,70,136,95"/>
+<area shape="rect" id="clust2" href="dir_7d66416d9da56532a5afa0c9b2569343.html" alt="" coords="27,52,2689,113"/>
+<area shape="rect" id="clust1" href="dir_acecb855e3369962a6b76cbe7bfb2ddd.html" title="PS3" alt="" coords="16,16,2700,124"/>
+</map>

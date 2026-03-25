@@ -1,0 +1,7 @@
+<map id="SetHealthPacket" name="SetHealthPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,93,185,119"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,13,69,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,46,111,91,107,95,58,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,320,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,57,136,95,132,91,174,53"/>
+</map>

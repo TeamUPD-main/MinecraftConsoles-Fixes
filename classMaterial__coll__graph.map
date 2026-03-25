@@ -1,0 +1,7 @@
+<map id="Material" name="Material">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,297,99,323"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="86,289,100,286,113,289,122,297,125,310,120,325,107,333,90,333,73,325,75,320,91,327,106,328,116,322,120,310,117,300,110,294,100,292,87,294"/>
+<area shape="rect" id="Node000002" href="$classMaterialColor.html" title=" " alt="" coords="5,73,116,99"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="63,113,63,297,58,297,58,113"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="90,65,108,62,125,64,138,72,143,86,136,101,120,109,99,109,77,101,79,96,99,103,119,104,132,98,137,86,134,76,123,70,108,68,91,71"/>
+</map>

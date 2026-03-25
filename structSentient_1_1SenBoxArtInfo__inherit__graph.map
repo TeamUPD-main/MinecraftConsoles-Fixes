@@ -1,0 +1,5 @@
+<map id="Sentient::SenBoxArtInfo" name="Sentient::SenBoxArtInfo">
+<area shape="rect" id="Node000001" title="Basic box art information." alt="" coords="13,79,191,104"/>
+<area shape="rect" id="Node000002" href="$structSentient_1_1SenResourceInfo.html" title="Generic resource information." alt="" coords="5,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,44,105,79,99,79,99,44"/>
+</map>

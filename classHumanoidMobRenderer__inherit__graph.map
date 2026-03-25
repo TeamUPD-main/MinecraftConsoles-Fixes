@@ -1,0 +1,13 @@
+<map id="HumanoidMobRenderer" name="HumanoidMobRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,225,241,251"/>
+<area shape="rect" id="Node000005" href="$classSkeletonRenderer.html" title=" " alt="" coords="5,299,143,324"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,262,89,300,85,296,128,258"/>
+<area shape="rect" id="Node000006" href="$classZombieRenderer.html" title=" " alt="" coords="167,299,298,324"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,258,221,296,218,300,174,262"/>
+<area shape="rect" id="Node000002" href="$classMobRenderer.html" title=" " alt="" coords="98,152,207,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,191,155,225,150,225,150,191"/>
+<area shape="rect" id="Node000003" href="$classLivingEntityRenderer.html" title=" " alt="" coords="73,79,232,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,118,155,152,150,152,150,118"/>
+<area shape="rect" id="Node000004" href="$classEntityRenderer.html" title=" " alt="" coords="93,5,212,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,44,155,79,150,79,150,44"/>
+</map>

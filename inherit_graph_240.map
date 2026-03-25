@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classConsoleInputSource.html" title=" " alt="" coords="5,31,156,56"/>
+<area shape="rect" id="Node000001" href="$classMinecraftServer.html" title=" " alt="" coords="215,5,340,31"/>
+<area shape="poly" id="edge737_Node000000_Node000001" title=" " alt="" coords="169,29,214,23,215,29,170,35"/>
+<area shape="rect" id="Node000002" href="$classPlayerConnection.html" title=" " alt="" coords="209,55,345,80"/>
+<area shape="poly" id="edge738_Node000000_Node000002" title=" " alt="" coords="170,52,209,56,209,62,170,57"/>
+<area shape="rect" id="Node000003" href="$classPacketListener.html" title=" " alt="" coords="23,104,139,129"/>
+<area shape="poly" id="edge741_Node000003_Node000002" title=" " alt="" coords="144,98,225,77,227,83,146,103"/>
+<area shape="rect" id="Node000004" href="$classClientConnection.html" title=" " alt="" coords="211,104,344,129"/>
+<area shape="poly" id="edge739_Node000003_Node000004" title=" " alt="" coords="153,114,210,114,210,119,153,119"/>
+<area shape="rect" id="Node000005" href="$classPendingConnection.html" title=" " alt="" coords="204,153,351,179"/>
+<area shape="poly" id="edge740_Node000003_Node000005" title=" " alt="" coords="146,130,227,151,225,156,144,135"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CXuiSceneInventoryCreative" name="CXuiSceneInventoryCreative">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,152,321,177"/>
+<area shape="rect" id="Node000002" href="$classCXuiSceneAbstractContainer.html" title=" " alt="" coords="5,79,213,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,109,201,150,198,154,137,114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,169,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,44,112,79,107,79,107,44"/>
+<area shape="rect" id="Node000004" href="$classIUIScene__AbstractContainerMenu.html" title=" " alt="" coords="201,5,439,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="274,37,144,81,143,76,273,32"/>
+<area shape="rect" id="Node000005" href="$classIUIScene__CreativeMenu.html" title=" " alt="" coords="238,79,415,104"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="325,44,328,78,323,79,320,45"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="299,114,237,154,234,150,296,109"/>
+</map>

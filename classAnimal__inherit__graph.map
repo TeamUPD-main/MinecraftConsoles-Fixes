@@ -1,0 +1,37 @@
+<map id="Animal" name="Animal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,460,308,485"/>
+<area shape="rect" id="Node000009" href="$classChicken.html" title=" " alt="" coords="5,533,79,559"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="228,491,79,536,78,531,226,486"/>
+<area shape="rect" id="Node000010" href="$classCow.html" title=" " alt="" coords="103,533,154,559"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="240,494,154,536,151,531,237,489"/>
+<area shape="rect" id="Node000012" href="$classEntityHorse.html" title=" " alt="" coords="178,533,277,559"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="261,498,237,535,233,532,257,495"/>
+<area shape="rect" id="Node000013" href="$classPig.html" title=" " alt="" coords="301,533,343,559"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="292,495,316,532,312,535,287,498"/>
+<area shape="rect" id="Node000014" href="$classSheep.html" title=" " alt="" coords="368,533,431,559"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="307,490,380,531,378,535,305,494"/>
+<area shape="rect" id="Node000015" href="$classTamableAnimal.html" title=" " alt="" coords="455,533,578,559"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="322,485,478,531,477,536,321,490"/>
+<area shape="rect" id="Node000002" href="$classAgableMob.html" title=" " alt="" coords="172,387,267,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,421,267,458,263,462,235,425"/>
+<area shape="rect" id="Node000003" href="$classPathfinderMob.html" title=" " alt="" coords="162,313,277,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,352,222,387,217,387,217,352"/>
+<area shape="rect" id="Node000004" href="$classMob.html" title=" " alt="" coords="194,240,245,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,279,222,313,217,313,217,279"/>
+<area shape="rect" id="Node000005" href="$classLivingEntity.html" title=" " alt="" coords="170,167,269,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,206,222,240,217,240,217,206"/>
+<area shape="rect" id="Node000006" href="$classEntity.html" title=" " alt="" coords="189,93,249,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,132,222,167,217,167,217,132"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="140,5,299,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="222,59,222,93,217,93,217,59"/>
+<area shape="rect" id="Node000008" href="$classCreature.html" title=" " alt="" coords="291,387,369,412"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="314,425,285,462,281,458,310,421"/>
+<area shape="rect" id="Node000011" href="$classMushroomCow.html" title=" " alt="" coords="69,607,188,632"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="131,572,131,607,126,607,126,572"/>
+<area shape="rect" id="Node000016" href="$classOcelot.html" title=" " alt="" coords="397,607,461,632"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="494,569,445,609,441,604,490,565"/>
+<area shape="rect" id="Node000017" href="$classOzelot.html" title=" " alt="" coords="485,607,549,632"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="519,572,519,607,514,607,514,572"/>
+<area shape="rect" id="Node000018" href="$classWolf.html" title=" " alt="" coords="573,607,623,632"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="542,566,586,604,583,608,538,570"/>
+</map>

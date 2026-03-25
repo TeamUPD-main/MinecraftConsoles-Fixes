@@ -1,0 +1,16 @@
+<map id="WoodSlabTile_SPU" name="WoodSlabTile_SPU">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,477,344,503"/>
+<area shape="rect" id="Node000002" href="$classHalfSlabTile__SPU.html" title=" " alt="" coords="205,403,340,428"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,442,275,477,270,477,270,442"/>
+<area shape="rect" id="Node000003" href="$classTile__SPU.html" title=" " alt="" coords="233,328,312,353"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,368,275,402,270,402,270,368"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="327,332,339,340,330,348,313,350,312,345,328,343,333,341,324,337"/>
+<area shape="rect" id="Node000004" href="$classTileData__SPU.html" title=" " alt="" coords="217,240,328,265"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="275,279,275,327,270,327,270,279"/>
+<area shape="rect" id="Node000005" href="$classTileData__SPU_1_1Bitfield256.html" title=" " alt="" coords="5,5,193,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="104,44,110,82,121,127,141,174,171,214,192,230,218,240,216,245,190,234,167,218,136,176,116,129,104,83,99,45"/>
+<area shape="rect" id="Node000006" href="$classMaterial__SPU.html" title=" " alt="" coords="218,5,327,31"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="275,45,275,240,270,240,270,45"/>
+<area shape="rect" id="Node000007" href="$classIcon__SPU.html" title=" " alt="" coords="351,5,434,31"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="396,45,394,81,386,127,372,175,347,218,331,232,312,242,310,238,328,228,343,214,367,172,381,126,388,81,390,44"/>
+</map>

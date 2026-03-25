@@ -1,0 +1,9 @@
+<map id="StrongholdPieces::ChestCorridor" name="StrongholdPieces::ChestCorridor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,257,236,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,168,227,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,222,123,257,118,257,118,222"/>
+<area shape="rect" id="Node000003" href="$classStructurePiece.html" title=" " alt="" coords="63,93,179,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,132,123,168,118,168,118,132"/>
+<area shape="rect" id="Node000004" href="$classBoundingBox.html" title=" " alt="" coords="67,5,175,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,45,123,93,118,93,118,45"/>
+</map>

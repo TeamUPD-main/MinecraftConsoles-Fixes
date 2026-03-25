@@ -1,0 +1,21 @@
+<map id="Player" name="Player">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,240,257,265"/>
+<area shape="rect" id="Node000007" href="$classLocalPlayer.html" title=" " alt="" coords="47,313,144,339"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="194,274,118,315,115,311,191,270"/>
+<area shape="rect" id="Node000009" href="$classRemotePlayer.html" title=" " alt="" coords="169,313,283,339"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="229,279,229,313,223,313,223,279"/>
+<area shape="rect" id="Node000010" href="$classServerPlayer.html" title=" " alt="" coords="308,313,413,339"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="261,269,340,311,337,315,258,274"/>
+<area shape="rect" id="Node000002" href="$classLivingEntity.html" title=" " alt="" coords="35,167,134,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,196,204,237,202,242,118,200"/>
+<area shape="rect" id="Node000003" href="$classEntity.html" title=" " alt="" coords="55,93,115,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,132,87,167,82,167,82,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+<area shape="rect" id="Node000005" href="$classCommandSender.html" title=" " alt="" coords="159,167,293,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="229,206,229,240,223,240,223,206"/>
+<area shape="rect" id="Node000006" href="$classScoreHolder.html" title=" " alt="" coords="318,167,419,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="335,200,251,242,248,237,332,196"/>
+<area shape="rect" id="Node000008" href="$classMultiplayerLocalPlayer.html" title=" " alt="" coords="10,387,181,412"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="98,352,98,387,93,387,93,352"/>
+</map>

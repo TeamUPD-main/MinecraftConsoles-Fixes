@@ -1,0 +1,9 @@
+<map id="GameMode" name="GameMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,179,31"/>
+<area shape="rect" id="Node000002" href="$classCreativeMode.html" title=" " alt="" coords="5,79,119,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,42,75,80,71,77,108,39"/>
+<area shape="rect" id="Node000003" href="$classSurvivalMode.html" title=" " alt="" coords="143,79,253,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,39,189,77,185,80,149,42"/>
+<area shape="rect" id="Node000004" href="$classDemoMode.html" title=" " alt="" coords="149,152,247,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,118,201,152,195,152,195,118"/>
+</map>

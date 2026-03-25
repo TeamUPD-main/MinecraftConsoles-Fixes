@@ -1,0 +1,12 @@
+<map id="ma_paged_audio_buffer" name="ma_paged_audio_buffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,181,315,207"/>
+<area shape="rect" id="Node000002" href="$structma__data__source__base.html" title=" " alt="" coords="11,93,177,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,124,210,179,207,183,122,128"/>
+<area shape="rect" id="Node000003" href="$structma__data__source__vtable.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,45,97,93,91,93,91,45"/>
+<area shape="rect" id="Node000004" href="$structma__paged__audio__buffer__data.html" title=" " alt="" coords="312,93,527,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,127,253,184,251,179,380,122"/>
+<area shape="rect" id="Node000005" href="$structma__paged__audio__buffer__page.html" title=" " alt="" coords="259,5,476,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="318,38,276,61,257,76,242,95,232,117,227,140,227,181,222,181,222,140,227,115,237,92,253,73,273,57,316,34"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="384,41,414,91,410,94,379,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ChatScreen" name="ChatScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,152,120,177"/>
+<area shape="rect" id="Node000004" href="$classInBedChatScreen.html" title=" " alt="" coords="5,225,139,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="75,191,75,225,69,225,69,191"/>
+<area shape="rect" id="Node000002" href="$classScreen.html" title=" " alt="" coords="39,79,105,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,118,75,152,69,152,69,118"/>
+<area shape="rect" id="Node000003" href="$classGuiComponent.html" title=" " alt="" coords="13,5,131,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,44,75,79,69,79,69,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PendingConnection" name="PendingConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,93,201,119"/>
+<area shape="rect" id="Node000002" href="$classPacketListener.html" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,40,121,91,116,94,78,43"/>
+<area shape="rect" id="Node000003" href="$classConnection.html" title=" " alt="" coords="145,5,240,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,43,139,94,134,91,173,40"/>
+</map>

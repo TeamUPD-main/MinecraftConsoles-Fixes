@@ -1,0 +1,7 @@
+<map id="SetEntityMotionPacket" name="SetEntityMotionPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,108,201,133"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,20,69,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,54,108,106,104,109,55,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,304,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,72,130,109,127,106,162,68"/>
+</map>

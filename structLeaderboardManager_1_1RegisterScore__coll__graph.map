@@ -1,0 +1,13 @@
+<map id="LeaderboardManager::RegisterScore" name="LeaderboardManager::RegisterScore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="625,101,785,141"/>
+<area shape="rect" id="Node000002" href="$structLeaderboardManager_1_1StatsData.html" title=" " alt="" coords="300,101,460,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,119,625,119,625,124,474,124"/>
+<area shape="rect" id="Node000003" href="$structLeaderboardManager_1_1KillsRecord.html" title=" " alt="" coords="5,5,165,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,47,277,79,330,99,328,104,275,84,172,52"/>
+<area shape="rect" id="Node000004" href="$structLeaderboardManager_1_1MiningRecord.html" title=" " alt="" coords="5,69,165,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="179,97,300,110,299,115,179,102"/>
+<area shape="rect" id="Node000005" href="$structLeaderboardManager_1_1FarmingRecord.html" title=" " alt="" coords="5,133,165,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="179,141,299,127,300,133,179,146"/>
+<area shape="rect" id="Node000006" href="$structLeaderboardManager_1_1TravellingRecord.html" title=" " alt="" coords="5,197,165,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="175,191,275,160,331,139,332,144,277,165,176,196"/>
+</map>

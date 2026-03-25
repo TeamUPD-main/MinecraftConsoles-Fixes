@@ -1,0 +1,9 @@
+<map id="_NetworkGameInitData" name="_NetworkGameInitData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,168,245,193"/>
+<area shape="rect" id="Node000002" href="$struct__LoadSaveDataThreadParam.html" title=" " alt="" coords="5,80,215,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,116,154,166,149,169,121,119"/>
+<area shape="rect" id="Node000003" href="$classLevelGenerationOptions.html" title=" " alt="" coords="239,80,418,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,114,182,170,180,165,292,109"/>
+<area shape="rect" id="Node000004" href="$classGameRuleDefinition.html" title=" " alt="" coords="252,5,405,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="331,45,331,80,326,80,326,45"/>
+</map>

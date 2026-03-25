@@ -1,0 +1,15 @@
+<map id="DLCGameRulesHeader" name="DLCGameRulesHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,168,291,193"/>
+<area shape="rect" id="Node000002" href="$classDLCGameRules.html" title=" " alt="" coords="5,80,128,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,110,188,165,185,170,96,115"/>
+<area shape="rect" id="Node000003" href="$classDLCFile.html" title=" " alt="" coords="31,5,102,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,45,69,80,64,80,64,45"/>
+<area shape="rect" id="Node000004" href="$classJustGrSource.html" title=" " alt="" coords="153,80,258,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,119,208,167,203,167,203,119"/>
+<area shape="rect" id="Node000005" href="$classGrSource.html" title=" " alt="" coords="165,5,246,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="208,45,208,80,203,80,203,45"/>
+<area shape="rect" id="Node000006" href="$classLevelGenerationOptions.html" title=" " alt="" coords="283,80,461,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="339,114,229,170,227,165,336,109"/>
+<area shape="rect" id="Node000007" href="$classGameRuleDefinition.html" title=" " alt="" coords="295,5,449,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="375,45,375,80,369,80,369,45"/>
+</map>

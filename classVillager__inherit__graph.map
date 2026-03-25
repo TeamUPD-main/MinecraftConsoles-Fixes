@@ -1,0 +1,21 @@
+<map id="Villager" name="Villager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,460,235,485"/>
+<area shape="rect" id="Node000002" href="$classAgableMob.html" title=" " alt="" coords="51,387,145,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,418,184,458,181,462,124,422"/>
+<area shape="rect" id="Node000003" href="$classPathfinderMob.html" title=" " alt="" coords="27,313,142,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,352,98,386,93,387,87,353"/>
+<area shape="rect" id="Node000004" href="$classMob.html" title=" " alt="" coords="59,240,110,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,279,87,313,82,313,82,279"/>
+<area shape="rect" id="Node000005" href="$classLivingEntity.html" title=" " alt="" coords="35,167,134,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,206,87,240,82,240,82,206"/>
+<area shape="rect" id="Node000006" href="$classEntity.html" title=" " alt="" coords="55,93,115,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,132,87,167,82,167,82,132"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+<area shape="rect" id="Node000008" href="$classNpc.html" title=" " alt="" coords="176,387,223,412"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="202,426,202,460,197,460,197,426"/>
+<area shape="rect" id="Node000009" href="$classCreature.html" title=" " alt="" coords="167,313,245,339"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="206,353,203,387,198,386,201,352"/>
+<area shape="rect" id="Node000010" href="$classMerchant.html" title=" " alt="" coords="247,387,330,412"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="265,423,216,462,212,458,262,418"/>
+</map>

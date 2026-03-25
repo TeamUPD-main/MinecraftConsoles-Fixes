@@ -1,0 +1,17 @@
+<map id="AbstractContainerScreen" name="AbstractContainerScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,152,451,177"/>
+<area shape="rect" id="Node000004" href="$classContainerScreen.html" title=" " alt="" coords="5,225,135,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,183,117,228,116,223,299,178"/>
+<area shape="rect" id="Node000005" href="$classCraftingScreen.html" title=" " alt="" coords="159,225,277,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="326,186,242,227,240,223,323,181"/>
+<area shape="rect" id="Node000006" href="$classFurnaceScreen.html" title=" " alt="" coords="301,225,418,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="362,191,362,225,357,225,357,191"/>
+<area shape="rect" id="Node000007" href="$classInventoryScreen.html" title=" " alt="" coords="442,225,570,251"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="396,181,483,223,481,228,394,186"/>
+<area shape="rect" id="Node000008" href="$classTrapScreen.html" title=" " alt="" coords="594,225,687,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="418,178,596,223,594,228,417,183"/>
+<area shape="rect" id="Node000002" href="$classScreen.html" title=" " alt="" coords="326,79,393,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,118,362,152,357,152,357,118"/>
+<area shape="rect" id="Node000003" href="$classGuiComponent.html" title=" " alt="" coords="300,5,419,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,44,362,79,357,79,357,44"/>
+</map>

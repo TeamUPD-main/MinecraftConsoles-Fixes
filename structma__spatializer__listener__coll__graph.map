@@ -1,0 +1,10 @@
+<map id="ma_spatializer_listener" name="ma_spatializer_listener">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,225,271,251"/>
+<area shape="rect" id="Node000002" href="$structma__spatializer__listener__config.html" title=" " alt="" coords="5,93,180,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,143,177,223,173,227,113,146"/>
+<area shape="rect" id="Node000003" href="$structma__vec3f.html" title=" " alt="" coords="139,5,225,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,42,113,95,109,91,160,39"/>
+<area shape="rect" id="Node000004" href="$structma__atomic__vec3f.html" title=" " alt="" coords="205,101,343,126"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="205,39,265,99,261,102,201,43"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,139,194,227,190,224,255,135"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classLevelStorage.html" title=" " alt="" coords="5,92,112,117"/>
+<area shape="rect" id="Node000001" href="$classDirectoryLevelStorage.html" title=" " alt="" coords="185,5,352,31"/>
+<area shape="poly" id="edge1245_Node000000_Node000001" title=" " alt="" coords="89,82,159,41,198,28,200,33,161,46,92,87"/>
+<area shape="rect" id="Node000005" href="$classLevelStorageProfilerDecorator.html" title=" " alt="" coords="160,104,377,129"/>
+<area shape="poly" id="edge1247_Node000000_Node000005" title=" " alt="" coords="126,106,160,108,159,113,126,111"/>
+<area shape="rect" id="Node000004" href="$classMemoryLevelStorage.html" title=" " alt="" coords="188,55,349,80"/>
+<area shape="poly" id="edge1248_Node000000_Node000004" title=" " alt="" coords="125,90,196,77,197,83,126,95"/>
+<area shape="rect" id="Node000006" href="$classMockedLevelStorage.html" title=" " alt="" coords="190,153,347,179"/>
+<area shape="poly" id="edge1249_Node000000_Node000006" title=" " alt="" coords="104,120,161,139,204,151,203,156,159,145,103,125"/>
+<area shape="rect" id="Node000002" href="$classMcRegionLevelStorage.html" title=" " alt="" coords="425,5,596,31"/>
+<area shape="poly" id="edge1246_Node000001_Node000002" title=" " alt="" coords="365,15,425,15,425,21,365,21"/>
+<area shape="rect" id="Node000003" href="$classPlayerIO.html" title=" " alt="" coords="20,31,97,56"/>
+<area shape="poly" id="edge1250_Node000003_Node000001" title=" " alt="" coords="110,34,185,25,185,31,111,40"/>
+<area shape="poly" id="edge1251_Node000003_Node000004" title=" " alt="" coords="112,47,188,55,188,61,111,52"/>
+</map>

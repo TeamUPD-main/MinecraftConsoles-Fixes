@@ -1,0 +1,17 @@
+<map id="TargetGoal" name="TargetGoal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,104,197,129"/>
+<area shape="rect" id="Node000003" href="$classDefendVillageTargetGoal.html" title=" " alt="" coords="259,5,443,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,92,205,65,244,41,278,28,280,33,247,46,208,70,177,96"/>
+<area shape="rect" id="Node000004" href="$classHurtByTargetGoal.html" title=" " alt="" coords="283,55,420,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,99,245,90,296,77,297,83,246,95,211,104"/>
+<area shape="rect" id="Node000005" href="$classNearestAttackableTargetGoal.html" title=" " alt="" coords="245,104,457,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,114,245,114,245,119,211,119"/>
+<area shape="rect" id="Node000007" href="$classOwnerHurtByTargetGoal.html" title=" " alt="" coords="262,153,441,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="211,130,246,139,293,151,292,156,245,145,210,135"/>
+<area shape="rect" id="Node000008" href="$classOwnerHurtTargetGoal.html" title=" " alt="" coords="270,203,433,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="177,138,208,165,247,189,276,200,274,205,244,194,205,169,173,142"/>
+<area shape="rect" id="Node000002" href="$classGoal.html" title=" " alt="" coords="5,104,57,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,114,105,114,105,119,71,119"/>
+<area shape="rect" id="Node000006" href="$classNonTameRandomTargetGoal.html" title=" " alt="" coords="505,104,712,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="471,114,505,114,505,119,471,119"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ma_resource_manager_data_source_config" name="ma_resource_manager_data_source_config">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,401,193,441"/>
+<area shape="rect" id="Node000002" href="$structma__resource__manager__pipeline__notifications.html" title=" " alt="" coords="22,299,193,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,353,110,401,105,401,105,353"/>
+<area shape="rect" id="Node000003" href="$structma__resource__manager__pipeline__stage__notification.html" title=" " alt="" coords="5,181,209,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,235,110,298,105,298,105,235"/>
+<area shape="rect" id="Node000004" href="$structma__fence.html" title=" " alt="" coords="64,93,151,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,132,110,181,105,181,105,132"/>
+<area shape="rect" id="Node000005" href="$structma__event.html" title=" " alt="" coords="64,5,151,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,45,110,93,105,93,105,45"/>
+</map>

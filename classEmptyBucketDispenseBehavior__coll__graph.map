@@ -1,0 +1,10 @@
+<map id="EmptyBucketDispenseBehavior" name="EmptyBucketDispenseBehavior">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,232,255"/>
+<area shape="rect" id="Node000002" href="$classDefaultDispenseItemBehavior.html" title=" " alt="" coords="9,155,228,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,194,121,229,116,229,116,194"/>
+<area shape="rect" id="Node000003" href="$classDispenseItemBehavior.html" title=" " alt="" coords="33,80,204,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,120,121,154,116,154,116,120"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="219,85,231,93,222,99,205,102,204,97,221,94,225,93,217,90"/>
+<area shape="rect" id="Node000004" href="$classBehavior.html" title=" " alt="" coords="79,5,159,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,45,121,80,116,80,116,45"/>
+</map>

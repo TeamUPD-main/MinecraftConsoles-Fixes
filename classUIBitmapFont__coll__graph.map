@@ -1,0 +1,14 @@
+<map id="UIBitmapFont" name="UIBitmapFont">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,196,241,221"/>
+<area shape="rect" id="Node000002" href="$classUIAbstractBitmapFont.html" title=" " alt="" coords="28,108,193,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,142,177,194,173,197,128,146"/>
+<area shape="rect" id="Node000003" href="$structIggyBitmapFontProvider.html" title=" " alt="" coords="5,13,184,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,51,111,107,106,108,96,52"/>
+<area shape="rect" id="Node000004" href="$classCFontData.html" title=" " alt="" coords="233,108,324,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,145,200,197,197,193,254,141"/>
+<area shape="rect" id="Node000005" href="$structSFontData.html" title=" " alt="" coords="221,13,310,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,51,280,107,274,108,266,52"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="325,15,333,19,337,26,328,35,311,37,310,32,326,30,331,25,329,23,323,20"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="453,5,651,45"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="485,52,313,110,312,105,483,47"/>
+</map>

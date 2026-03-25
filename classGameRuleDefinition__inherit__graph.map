@@ -1,0 +1,41 @@
+<map id="GameRuleDefinition" name="GameRuleDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,301,159,327"/>
+<area shape="rect" id="Node000002" href="$classAddEnchantmentRuleDefinition.html" title=" " alt="" coords="207,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,287,96,235,118,168,134,132,154,98,177,67,205,40,224,29,226,33,208,44,181,71,158,101,139,135,123,169,101,236,90,288"/>
+<area shape="rect" id="Node000003" href="$classAddItemRuleDefinition.html" title=" " alt="" coords="235,55,404,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,287,102,243,126,189,160,135,181,110,205,89,233,75,236,79,208,94,185,114,164,138,131,192,107,245,93,288"/>
+<area shape="rect" id="Node000004" href="$classApplySchematicRuleDefinition.html" title=" " alt="" coords="210,104,429,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,287,109,253,134,213,166,172,205,138,228,127,230,132,208,143,170,176,138,216,113,256,96,290"/>
+<area shape="rect" id="Node000005" href="$classBiomeOverride.html" title=" " alt="" coords="259,153,379,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="98,288,142,237,172,210,205,188,231,177,258,170,260,175,233,182,208,192,175,214,146,241,102,292"/>
+<area shape="rect" id="Node000006" href="$classCollectItemRuleDefinition.html" title=" " alt="" coords="225,203,414,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="110,291,154,263,206,237,241,226,243,231,208,242,157,267,113,295"/>
+<area shape="rect" id="Node000007" href="$classCompoundGameRuleDefinition.html" title=" " alt="" coords="208,252,431,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="157,296,257,275,258,280,158,301"/>
+<area shape="rect" id="Node000010" href="$classConsoleGenerateStructure.html" title=" " alt="" coords="223,301,416,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="172,311,222,311,222,317,172,317"/>
+<area shape="rect" id="Node000011" href="$classConsoleGenerateStructureAction.html" title=" " alt="" coords="223,351,416,391"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="149,327,237,349,235,354,148,333"/>
+<area shape="rect" id="Node000016" href="$classLevelGenerationOptions.html" title=" " alt="" coords="230,416,409,441"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="109,334,153,369,208,401,244,413,242,418,206,406,150,373,106,338"/>
+<area shape="rect" id="Node000017" href="$classNamedAreaRuleDefinition.html" title=" " alt="" coords="224,465,415,491"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="100,337,144,396,174,426,208,452,233,463,230,468,205,456,170,430,140,399,96,340"/>
+<area shape="rect" id="Node000018" href="$classStartFeature.html" title=" " alt="" coords="268,515,371,540"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="95,339,111,376,136,420,168,464,208,501,237,515,268,522,267,527,235,520,205,506,164,468,131,423,107,378,90,341"/>
+<area shape="rect" id="Node000019" href="$classUpdatePlayerRuleDefinition.html" title=" " alt="" coords="218,564,421,589"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="92,340,105,386,128,443,162,502,184,528,208,551,227,561,224,566,205,555,180,532,158,505,123,446,100,388,87,341"/>
+<area shape="rect" id="Node000020" href="$classUseTileRuleDefinition.html" title=" " alt="" coords="238,613,401,639"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="89,340,100,395,121,466,137,503,156,539,180,572,208,600,239,616,236,621,205,604,176,575,152,541,132,505,116,467,94,396,84,341"/>
+<area shape="rect" id="Node000008" href="$classCompleteAllRuleDefinition.html" title=" " alt="" coords="503,228,697,253"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="444,251,502,246,503,252,445,257"/>
+<area shape="rect" id="Node000009" href="$classLevelRuleset.html" title=" " alt="" coords="547,277,653,303"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="445,273,547,283,546,288,444,279"/>
+<area shape="rect" id="Node000012" href="$classXboxStructureActionGenerateBox.html" title=" " alt="" coords="480,355,720,380"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="430,367,480,366,480,372,430,372"/>
+<area shape="rect" id="Node000013" href="$classXboxStructureActionPlaceBlock.html" title=" " alt="" coords="505,405,695,445"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="430,390,505,404,504,409,429,395"/>
+<area shape="rect" id="Node000014" href="$classXboxStructureActionPlaceContainer.html" title=" " alt="" coords="768,373,959,413"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="708,409,767,402,768,407,709,414"/>
+<area shape="rect" id="Node000015" href="$classXboxStructureActionPlaceSpawner.html" title=" " alt="" coords="768,437,959,477"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="709,435,768,442,767,448,708,441"/>
+</map>

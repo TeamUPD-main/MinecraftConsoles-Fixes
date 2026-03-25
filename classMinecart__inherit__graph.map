@@ -1,0 +1,21 @@
+<map id="Minecart" name="Minecart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,167,493,192"/>
+<area shape="rect" id="Node000004" href="$classMinecartContainer.html" title=" " alt="" coords="64,240,207,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="402,195,187,243,186,237,400,190"/>
+<area shape="rect" id="Node000007" href="$classMinecartFurnace.html" title=" " alt="" coords="231,240,362,265"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="417,200,323,242,321,237,415,195"/>
+<area shape="rect" id="Node000008" href="$classMinecartRideable.html" title=" " alt="" coords="386,240,522,265"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="457,206,457,240,451,240,451,206"/>
+<area shape="rect" id="Node000009" href="$classMinecartSpawner.html" title=" " alt="" coords="547,240,681,265"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="493,195,589,237,587,242,491,200"/>
+<area shape="rect" id="Node000010" href="$classMinecartTNT.html" title=" " alt="" coords="705,240,811,265"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="507,190,710,237,709,243,506,196"/>
+<area shape="rect" id="Node000002" href="$classEntity.html" title=" " alt="" coords="424,93,484,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,132,457,167,451,167,451,132"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="375,5,533,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,59,457,93,451,93,451,59"/>
+<area shape="rect" id="Node000005" href="$classMinecartChest.html" title=" " alt="" coords="5,313,121,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="115,277,77,315,73,311,112,273"/>
+<area shape="rect" id="Node000006" href="$classMinecartHopper.html" title=" " alt="" coords="145,313,272,339"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="159,273,199,311,195,315,155,277"/>
+</map>

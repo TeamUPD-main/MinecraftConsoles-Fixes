@@ -1,0 +1,6 @@
+var structSentient_1_1SenAvatarExtraInfo =
+[
+    [ "description", "structSentient_1_1SenAvatarExtraInfo.html#ae123c580f7d28ef032facb5d7844fa85", null ],
+    [ "name", "structSentient_1_1SenAvatarExtraInfo.html#afe3e3b6dcce30e79e971b29b219582a1", null ],
+    [ "title", "structSentient_1_1SenAvatarExtraInfo.html#a36efeb98b9df8148af39a5c1c9b50714", null ]
+];

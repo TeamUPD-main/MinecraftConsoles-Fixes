@@ -1,0 +1,8 @@
+<map id="Enemy" name="Enemy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,97,118,123"/>
+<area shape="rect" id="Node000002" href="$classCreature.html" title=" " alt="" coords="5,7,84,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,44,82,96,77,98,53,46"/>
+<area shape="rect" id="Node000003" href="$classEntitySelector.html" title=" " alt="" coords="108,7,221,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,45,97,99,93,95,143,41"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="237,11,248,20,240,28,222,31,221,26,237,23,243,20,234,16"/>
+</map>

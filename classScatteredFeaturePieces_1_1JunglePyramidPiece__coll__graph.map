@@ -1,0 +1,9 @@
+<map id="ScatteredFeaturePieces::JunglePyramidPiece" name="ScatteredFeaturePieces::JunglePyramidPiece">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,257,181,297"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,168,181,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,222,96,257,91,257,91,222"/>
+<area shape="rect" id="Node000003" href="$classStructurePiece.html" title=" " alt="" coords="35,93,151,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,132,96,168,91,168,91,132"/>
+<area shape="rect" id="Node000004" href="$classBoundingBox.html" title=" " alt="" coords="39,5,147,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,45,96,93,91,93,91,45"/>
+</map>

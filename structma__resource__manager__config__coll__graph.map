@@ -1,0 +1,16 @@
+<map id="ma_resource_manager_config" name="ma_resource_manager_config">
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,211,434,251"/>
+<area shape="rect" id="Node000002" href="$structma__allocation__callbacks.html" title=" " alt="" coords="5,13,188,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,51,84,99,87,124,98,147,113,164,131,179,173,202,219,216,264,224,263,229,217,221,171,207,128,184,109,168,93,149,82,125,79,99,86,51"/>
+<area shape="rect" id="Node000003" href="$structma__log.html" title=" " alt="" coords="240,115,311,141"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="113,48,128,66,146,82,165,92,182,97,221,105,243,113,242,118,220,111,180,102,163,97,143,86,124,70,109,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,150,337,209,333,212,290,153"/>
+<area shape="rect" id="Node000004" href="$structma__log__callback.html" title=" " alt="" coords="225,13,355,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,52,280,116,274,115,284,51"/>
+<area shape="rect" id="Node000005" href="$structma__decoding__backend__vtable.html" title=" " alt="" coords="335,108,506,148"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="396,160,386,174,361,212,357,209,381,170,392,157"/>
+<area shape="rect" id="Node000006" href="$structma__resampler__config.html" title=" " alt="" coords="569,115,731,141"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="646,155,637,173,622,189,590,203,543,214,435,227,434,222,542,209,588,198,619,185,632,170,641,153"/>
+<area shape="rect" id="Node000007" href="$structma__resampling__backend__vtable.html" title=" " alt="" coords="558,5,742,45"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="653,59,653,115,647,115,647,59"/>
+</map>

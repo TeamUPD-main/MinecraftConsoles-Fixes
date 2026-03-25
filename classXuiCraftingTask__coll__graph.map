@@ -1,0 +1,12 @@
+<map id="XuiCraftingTask" name="XuiCraftingTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,128,133"/>
+<area shape="rect" id="Node000002" href="$classTutorialTask.html" title=" " alt="" coords="61,13,160,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,51,88,70,73,109,68,107,83,68,93,49"/>
+<area shape="rect" id="Node000003" href="$classTutorial.html" title=" " alt="" coords="227,108,298,133"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="105,51,103,68,109,82,127,94,157,103,227,114,227,119,156,108,125,99,105,86,98,69,99,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,102,191,72,133,40,136,36,193,67,238,97"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="224,5,384,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="293,59,270,109,265,107,288,57"/>
+<area shape="rect" id="Node000005" href="$classTutorialConstraint.html" title=" " alt="" coords="409,13,546,38"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="445,47,361,86,298,110,296,105,359,82,443,42"/>
+</map>

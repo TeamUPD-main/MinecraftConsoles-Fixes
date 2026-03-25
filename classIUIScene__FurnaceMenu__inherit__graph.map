@@ -1,0 +1,9 @@
+<map id="IUIScene_FurnaceMenu" name="IUIScene_FurnaceMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,79,253,104"/>
+<area shape="rect" id="Node000003" href="$classCXuiSceneFurnace.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,115,93,154,90,150,139,110"/>
+<area shape="rect" id="Node000004" href="$classUIScene__FurnaceMenu.html" title=" " alt="" coords="172,152,341,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,110,243,150,240,154,190,115"/>
+<area shape="rect" id="Node000002" href="$classIUIScene__AbstractContainerMenu.html" title=" " alt="" coords="47,5,285,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,44,169,79,163,79,163,44"/>
+</map>

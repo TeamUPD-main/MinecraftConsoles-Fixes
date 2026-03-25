@@ -1,0 +1,18 @@
+<map id="CScene_LoadGameSettings" name="CScene_LoadGameSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,211,324,236"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,125,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,44,49,80,49,99,54,118,78,151,111,176,147,195,181,208,179,213,144,200,108,181,74,154,50,120,44,100,44,80,52,43"/>
+<area shape="rect" id="Node000005" href="$classCXuiCtrlSliderWrapper.html" title=" " alt="" coords="65,93,231,119"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="88,39,138,91,135,95,84,43"/>
+<area shape="rect" id="Node000003" href="$classCXuiCtrl4JIcon.html" title=" " alt="" coords="256,93,371,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,133,292,161,273,188,245,213,241,208,269,185,287,158,301,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="249,5,377,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,45,316,93,311,93,311,45"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="145,132,143,159,152,185,164,199,181,208,178,213,161,203,147,188,138,160,139,132"/>
+<area shape="rect" id="Node000006" href="$classCXuiCtrl4JList.html" title=" " alt="" coords="451,93,562,119"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="507,133,498,162,490,177,479,189,453,201,415,211,325,221,324,216,414,205,451,196,476,185,486,174,493,160,502,132"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="428,5,532,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="490,43,506,92,500,94,485,44"/>
+<area shape="rect" id="Node000008" href="$classOrbisCriticalSection.html" title=" " alt="" coords="557,5,707,31"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="605,41,525,95,522,91,602,36"/>
+</map>

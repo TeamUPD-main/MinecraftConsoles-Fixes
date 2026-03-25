@@ -1,0 +1,16 @@
+<map id="UIControl_PlayerSkinPreview" name="UIControl_PlayerSkinPreview">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,344,216,369"/>
+<area shape="rect" id="Node000002" href="$classUIControl.html" title=" " alt="" coords="69,269,152,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,309,113,344,108,344,108,309"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="167,274,179,282,170,290,152,292,152,286,168,285,173,282,164,278"/>
+<area shape="rect" id="Node000003" href="$structIggyValuePath.html" title=" " alt="" coords="32,93,147,119"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="95,132,104,206,112,269,107,269,99,207,90,133"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="162,97,173,106,165,114,147,116,146,111,163,109,168,106,159,102"/>
+<area shape="rect" id="Node000004" href="$classUIScene.html" title=" " alt="" coords="195,181,269,207"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="119,124,168,155,211,179,209,184,165,160,116,129"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="206,217,129,271,126,267,203,213"/>
+<area shape="rect" id="Node000005" href="$classUILayer.html" title=" " alt="" coords="241,93,313,119"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="267,132,241,182,236,180,262,130"/>
+<area shape="rect" id="Node000006" href="$classUIGroup.html" title=" " alt="" coords="240,5,315,31"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="280,45,280,93,275,93,275,45"/>
+</map>

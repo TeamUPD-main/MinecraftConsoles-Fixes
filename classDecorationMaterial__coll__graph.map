@@ -1,0 +1,9 @@
+<map id="DecorationMaterial" name="DecorationMaterial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,440,152,465"/>
+<area shape="rect" id="Node000002" href="$classMaterial.html" title=" " alt="" coords="41,297,117,323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,336,81,440,76,440,76,336"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="106,289,119,288,131,291,140,298,143,310,138,324,126,331,110,331,93,325,95,320,111,326,124,326,134,321,138,310,136,301,129,295,119,293,107,295"/>
+<area shape="rect" id="Node000003" href="$classMaterialColor.html" title=" " alt="" coords="23,73,134,99"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="81,113,81,297,76,297,76,113"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="108,65,126,62,143,64,156,72,161,86,154,101,138,109,117,109,95,101,97,96,117,103,137,104,150,98,155,86,152,76,141,70,126,68,109,71"/>
+</map>

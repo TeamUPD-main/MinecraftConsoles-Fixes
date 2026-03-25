@@ -1,0 +1,7 @@
+<map id="ChatPacket" name="ChatPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,93,161,119"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="5,13,69,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,46,104,91,100,95,56,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,287,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,57,127,95,123,91,161,53"/>
+</map>

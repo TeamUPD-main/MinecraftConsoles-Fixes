@@ -1,0 +1,27 @@
+<map id="Bush" name="Bush">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,227,155,252"/>
+<area shape="rect" id="Node000003" href="$classCropTile.html" title=" " alt="" coords="226,29,302,55"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,212,140,179,153,140,173,101,201,65,224,50,227,55,204,69,178,104,158,143,145,181,136,213"/>
+<area shape="rect" id="Node000006" href="$classDeadBushTile.html" title=" " alt="" coords="208,79,320,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="136,213,161,164,179,138,201,115,221,102,224,106,204,119,183,141,166,166,141,215"/>
+<area shape="rect" id="Node000007" href="$classMushroom.html" title=" " alt="" coords="219,128,309,153"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="146,214,171,188,201,164,225,151,227,156,204,168,175,192,150,218"/>
+<area shape="rect" id="Node000008" href="$classNetherStalkTile.html" title=" " alt="" coords="203,177,325,203"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="167,222,227,200,229,205,169,227"/>
+<area shape="rect" id="Node000009" href="$classNetherWartTile.html" title=" " alt="" coords="204,227,324,252"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="169,237,204,237,204,242,169,242"/>
+<area shape="rect" id="Node000010" href="$classSapling.html" title=" " alt="" coords="229,276,299,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="169,251,230,274,228,279,167,256"/>
+<area shape="rect" id="Node000011" href="$classStemTile.html" title=" " alt="" coords="224,325,304,351"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="149,261,174,287,204,312,225,323,223,328,201,316,170,291,145,265"/>
+<area shape="rect" id="Node000012" href="$classTallGrass.html" title=" " alt="" coords="223,375,305,400"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="140,263,165,313,183,339,204,361,225,374,222,378,201,365,179,342,160,316,136,266"/>
+<area shape="rect" id="Node000013" href="$classWaterlilyTile.html" title=" " alt="" coords="212,424,316,449"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="136,265,144,298,158,337,177,376,204,411,220,422,217,426,201,415,173,379,153,339,139,299,131,266"/>
+<area shape="rect" id="Node000002" href="$classTile.html" title=" " alt="" coords="5,227,52,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,237,100,237,100,242,66,242"/>
+<area shape="rect" id="Node000004" href="$classCarrotTile.html" title=" " alt="" coords="374,5,461,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="315,31,373,22,374,27,316,37"/>
+<area shape="rect" id="Node000005" href="$classPotatoTile.html" title=" " alt="" coords="373,55,461,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="316,48,374,57,373,63,315,53"/>
+</map>

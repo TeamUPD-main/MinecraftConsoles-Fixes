@@ -1,0 +1,6 @@
+<map id="AbsoptionMobEffect" name="AbsoptionMobEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,216,157,241"/>
+<area shape="rect" id="Node000002" href="$classMobEffect.html" title=" " alt="" coords="38,73,125,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,112,84,216,79,216,79,112"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="110,66,125,64,138,66,148,74,151,86,146,100,132,107,115,107,97,101,98,96,116,102,131,102,142,97,146,86,143,77,136,71,124,69,111,71"/>
+</map>

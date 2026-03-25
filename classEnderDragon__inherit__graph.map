@@ -1,0 +1,19 @@
+<map id="EnderDragon" name="EnderDragon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,313,291,339"/>
+<area shape="rect" id="Node000002" href="$classMob.html" title=" " alt="" coords="59,240,110,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,269,214,311,212,316,120,273"/>
+<area shape="rect" id="Node000003" href="$classLivingEntity.html" title=" " alt="" coords="35,167,134,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,206,87,240,82,240,82,206"/>
+<area shape="rect" id="Node000004" href="$classEntity.html" title=" " alt="" coords="55,93,115,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,132,87,167,82,167,82,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+<area shape="rect" id="Node000006" href="$classBossMob.html" title=" " alt="" coords="135,240,216,265"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,274,230,311,226,315,193,277"/>
+<area shape="rect" id="Node000007" href="$classMultiEntityMob.html" title=" " alt="" coords="240,240,361,265"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="283,277,250,315,246,311,279,274"/>
+<area shape="rect" id="Node000008" href="$classEnemy.html" title=" " alt="" coords="386,240,453,265"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="379,273,269,316,267,311,377,268"/>
+<area shape="rect" id="Node000009" href="$classCreature.html" title=" " alt="" coords="380,167,459,192"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="422,206,422,240,417,240,417,206"/>
+</map>

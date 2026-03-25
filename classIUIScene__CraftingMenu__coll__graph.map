@@ -1,0 +1,7 @@
+<map id="IUIScene_CraftingMenu" name="IUIScene_CraftingMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,108,283,133"/>
+<area shape="rect" id="Node000002" href="$structIUIScene__CraftingMenu_1_1CANBEMADE.html" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,53,185,106,181,110,122,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="203,13,399,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,51,252,86,218,110,215,106,249,82,282,47"/>
+</map>

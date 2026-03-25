@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classWeighedRandomItem.html" title=" " alt="" coords="5,80,168,105"/>
+<area shape="rect" id="Node000001" href="$classBaseMobSpawner_1_1SpawnData.html" title=" " alt="" coords="216,5,436,31"/>
+<area shape="poly" id="edge1637_Node000000_Node000001" title=" " alt="" coords="128,72,215,39,258,28,259,33,217,45,130,77"/>
+<area shape="rect" id="Node000002" href="$classBiome_1_1MobSpawnerData.html" title=" " alt="" coords="233,55,419,80"/>
+<area shape="poly" id="edge1638_Node000000_Node000002" title=" " alt="" coords="181,80,232,75,233,80,182,85"/>
+<area shape="rect" id="Node000003" href="$classEnchantmentInstance.html" title=" " alt="" coords="245,104,407,129"/>
+<area shape="poly" id="edge1639_Node000000_Node000003" title=" " alt="" coords="182,100,245,106,244,111,181,105"/>
+<area shape="rect" id="Node000004" href="$classWeighedTreasure.html" title=" " alt="" coords="259,153,393,179"/>
+<area shape="poly" id="edge1640_Node000000_Node000004" title=" " alt="" coords="132,108,217,138,265,151,263,156,215,143,130,113"/>
+</map>

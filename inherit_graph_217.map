@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classChunkStorage.html" title=" " alt="" coords="5,104,119,129"/>
+<area shape="rect" id="Node000001" href="$classChunkStorageProfilerDecorator.html" title=" " alt="" coords="167,5,389,31"/>
+<area shape="poly" id="edge721_Node000000_Node000001" title=" " alt="" coords="86,92,122,65,166,40,198,28,200,33,168,44,125,69,90,96"/>
+<area shape="rect" id="Node000002" href="$classMcRegionChunkStorage.html" title=" " alt="" coords="189,55,367,80"/>
+<area shape="poly" id="edge722_Node000000_Node000002" title=" " alt="" coords="127,98,166,89,217,77,218,83,167,94,128,103"/>
+<area shape="rect" id="Node000003" href="$classMemoryChunkStorage.html" title=" " alt="" coords="195,104,361,129"/>
+<area shape="poly" id="edge723_Node000000_Node000003" title=" " alt="" coords="132,114,195,114,195,119,132,119"/>
+<area shape="rect" id="Node000004" href="$classOldChunkStorage.html" title=" " alt="" coords="211,153,345,179"/>
+<area shape="poly" id="edge724_Node000000_Node000004" title=" " alt="" coords="132,130,167,138,222,151,221,156,166,143,131,135"/>
+<area shape="rect" id="Node000005" href="$classZonedChunkStorage.html" title=" " alt="" coords="201,203,355,228"/>
+<area shape="poly" id="edge725_Node000000_Node000005" title=" " alt="" coords="90,136,125,163,168,188,204,200,202,205,166,192,122,168,87,141"/>
+</map>

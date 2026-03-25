@@ -1,0 +1,14 @@
+<map id="MultiPlayerGameMode" name="MultiPlayerGameMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,5,407,31"/>
+<area shape="rect" id="Node000002" href="$classTutorialMode.html" title=" " alt="" coords="268,79,375,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,44,324,79,319,79,319,44"/>
+<area shape="rect" id="Node000003" href="$classConsoleGameMode.html" title=" " alt="" coords="5,152,155,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,110,120,154,118,149,268,105"/>
+<area shape="rect" id="Node000004" href="$classFullTutorialMode.html" title=" " alt="" coords="179,152,309,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="301,115,258,154,255,150,297,111"/>
+<area shape="rect" id="Node000006" href="$classXboxGameMode.html" title=" " alt="" coords="333,152,464,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="338,112,381,150,378,154,335,116"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="353,111,395,150,391,154,349,114"/>
+<area shape="rect" id="Node000005" href="$classTrialMode.html" title=" " alt="" coords="201,225,287,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,191,247,225,241,225,241,191"/>
+</map>

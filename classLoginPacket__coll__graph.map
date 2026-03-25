@@ -1,0 +1,14 @@
+<map id="LoginPacket" name="LoginPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,273,381,299"/>
+<area shape="rect" id="Node000002" href="$classPacket.html" title=" " alt="" coords="145,161,209,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,193,223,209,315,271,312,275,220,213,200,198"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,165,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,56,172,160,168,163,102,59"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,13,352,38"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,52,259,83,244,115,222,138,193,163,189,159,218,134,239,112,254,81,263,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,154,431,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,208,335,273,329,273,329,208"/>
+<area shape="rect" id="Node000006" href="$classLevelType.html" title=" " alt="" coords="455,161,542,187"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="471,197,351,275,348,271,468,192"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="557,161,565,166,569,174,560,185,543,189,542,184,558,181,563,174,561,169,554,166"/>
+</map>
