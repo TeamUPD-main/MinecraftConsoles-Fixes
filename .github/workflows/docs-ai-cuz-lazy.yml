@@ -34,7 +34,7 @@ jobs:
       - name: Install Python packages
         run: |
           python3 -m pip install --upgrade pip
-          pip3 install google-generativeai lxml
+          pip3 install google-genai lxml
 
       - name: Update doxygen-awesome
         run: git submodule update --init --recursive
