@@ -1,0 +1,108 @@
+name: Publish Documentation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            doxygen \
+            graphviz \
+            build-essential \
+            libsdl2-dev \
+            libgl-dev \
+            libglu1-mesa-dev \
+            libpthread-stubs0-dev \
+            python3 \
+            python3-pip \
+            zip
+
+      - name: Install Python packages
+        run: |
+          python3 -m pip install --upgrade pip
+          pip3 install google-generativeai lxml
+
+      - name: Update doxygen-awesome
+        run: git submodule update --init --recursive
+
+      - name: Ensure Doxygen XML output is enabled
+        run: |
+          cd docs
+          if grep -q '^GENERATE_XML' Doxyfile; then
+            sed -i 's/^GENERATE_XML.*/GENERATE_XML = YES/' Doxyfile
+          else
+            echo 'GENERATE_XML = YES' >> Doxyfile
+          fi
+
+      - name: Generate Doxygen docs
+        run: cd docs && doxygen
+
+      - name: Generate AI docs with Google AI Studio
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: python3 scripts/generate_ai_docs_gemini.py
+
+      - name: Merge AI docs into site
+        run: |
+          mkdir -p docs/html/ai
+          if [ -d docs/ai ]; then
+            cp -r docs/ai/* docs/html/ai/
+          fi
+
+      - name: Add AI docs link to Doxygen homepage
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          index = Path("docs/html/index.html")
+          if index.exists():
+              html = index.read_text(encoding="utf-8", errors="ignore")
+              if "Open AI-generated docs" not in html:
+                  snippet = """
+                  <div style="margin:20px;padding:16px;border:1px solid #444;border-radius:10px;">
+                    <h2>AI Documentation</h2>
+                    <p>Extra docs generated from Doxygen XML with Google AI Studio.</p>
+                    <p><a href="ai/index.html">Open AI-generated docs</a></p>
+                  </div>
+                  """
+                  html = html.replace("</body>", snippet + "\n</body>")
+                  index.write_text(html, encoding="utf-8")
+          PY
+
+      - name: Zip Doxygen XML
+        run: |
+          cd docs
+          rm -f doxygen-xml.zip
+          zip -r doxygen-xml.zip xml
+
+      - name: Upload XML zip to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: doc-xml
+          name: doc xml
+          files: docs/doxygen-xml.zip
+          target_commitish: ${{ github.sha }}
+          generate_release_notes: false
+          make_latest: false
+
+      - name: Deploy docs to gh-pages-ai branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages-ai
+          publish_dir: ./docs/html
+          force_orphan: true
