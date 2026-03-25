@@ -42,3 +42,6 @@ VERBATIM_HEADERS       = YES
 # Disable LaTEX output since we literally dont care
 GENERATE_LATEX         = FALSE
 GENERATE_TREEVIEW = YES
+GENERATE_HTML = YES
+GENERATE_XML  = YES
+EXTRACT_ALL   = YES
